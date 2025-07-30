@@ -1,6 +1,6 @@
 import tiktoken
 
-story = "texts/original/pg1257_The_three_musketeers.txt"  # Replace with your .txt file path
+story = "texts/original/pg2759_The Man_in_the_Iron_Mask.txt"  # Replace with your .txt file path
 
 def count_words_and_tokens(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
