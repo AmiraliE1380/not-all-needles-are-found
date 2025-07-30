@@ -17,7 +17,7 @@ def count_words_and_tokens(file_path):
 
 def count_words_and_tokens_for_list(file_paths):
     word_count_sum, token_count_sum = 0, 0
-    
+
     for file_path in file_paths:
         word_count, token_count = count_words_and_tokens(file_path)
         word_count_sum += word_count
@@ -41,8 +41,33 @@ stories = [
     "pg1714_Another_Study_of_Woman",
     "pg1710_La_Grand_Breteche",
     "pg1898_Albert_Savarus",
-    "pg1941_Letters_of_Two_Brides"
+    "pg1941_Letters_of_Two_Brides",
+    "pg1481_A_Daughter_of_Eve",
+    "pg1950_A_Woman_of_Thirty",
+    "pg1729_The_Deserted_Woman",
+    "pg1428_La_Grenadiere",
+    "pg1189_The_Message",
+    "pg1389_Gobseck",
+    "pg1556_A_Marriage_Contract",
+    "pg1403_A_Start_in_Life",
+    "pg1482_Modeste_Mignon",
+    "pg1957_Beatrix",
+    "pg1683_Honorine",
+    "pg1954_Colonel_Chabert",
+    "pg1220_The_Atheist's_Mass",
+    "pg1410_The_Commission_in_Lunacy",
+    "pg1230_Pierre_Grassou",
+    "pg1715_Eugenie_Grandet",
+    "pg7927_The_Celibates",
+    "pg1345_The_Vicar_of_Tours",
+    "pg1380_The_Two_Brothers",
+    "pg1474_The_Illustrious_Gaudissart",
+    "pg1912_The_Muse_of_the_Department",
+    "pg1352_An_Old_Maid",
+    "pg1405_The_Collection_of_Antiquities",
+    "pg1569_The_Lily_of_the_Valley"
 ]
+
 
 
 count_words_and_tokens_for_list([f"texts/la_comédie_humaine_(balzac)/original/{story}.txt"
