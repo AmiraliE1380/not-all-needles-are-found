@@ -9,13 +9,20 @@ from openai import OpenAI
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# Example request
-response = client.chat.completions.create(model="gpt-4o",
-messages=[{"role": "user",
-           "content": "Hello! How long can the context of famous LLMs like latest versions of OpenAI models, or Gemini's latest model be? Tell me how many tokens? Please search if you don't have the information."
-           }])
+# Example request with specified hyperparameters
+response = client.chat.completions.create(
+    model="gpt-4o-mini",
+    messages=[{
+        "role": "user",
+        "content": "Hello! How long can the context of famous LLMs like latest versions of OpenAI models, or Gemini's latest model be? Tell me how many tokens? Please search if you don't have the information."
+    }],
+    temperature=0,           # Zero temperature for deterministic output
+    top_p=1,                 # Ensures no sampling from token distribution
+    frequency_penalty=0,     # No penalty for repeated phrases
+    presence_penalty=0.3     # Slight penalty to encourage topic diversity
+)
 
-print(response.choices[0].message.content)
+print(f'AI response:\n{response.choices[0].message.content}')
 
 
 openai_models = [
