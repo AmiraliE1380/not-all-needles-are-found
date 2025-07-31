@@ -70,7 +70,7 @@ stories = [
     "pg1410_The_Commission_in_Lunacy",
     "pg1230_Pierre_Grassou",
     "pg1715_Eugenie_Grandet",
-    "pg7927_The_Celibates",
+    "pg1704_Pierrette",
     "pg1345_The_Vicar_of_Tours",
     "pg1380_The_Two_Brothers",
     "pg1474_The_Illustrious_Gaudissart",
