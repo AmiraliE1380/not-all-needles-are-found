@@ -9,7 +9,8 @@ def build_prompt(input_text: str, original_word_count: int, shrink_percent: int)
 
     with open("prompts/shortening.txt", "r", encoding="utf-8") as f:
         template = f.read()
-    print(f"prompt template:\n{template}")
+
+    # print(f"prompt template:\n{template}")
     return template.format(
         shrink_percent=shrink_percent,
         original_word_count=original_word_count,
@@ -22,6 +23,7 @@ def summarize_text(input_text: str, shrink_percent: int) -> str:
     original_word_count = count_words(input_text)
     print(f"Original text length: {original_word_count} words")
     prompt = build_prompt(input_text, original_word_count, shrink_percent)
+    # print(f"prompt prefix:\n{prompt[:1000]}...")  # Print first 1000 chars for brevity
 
     from call_api import chat_with_model
     response = chat_with_model(prompt, model="gpt-4o-mini")
