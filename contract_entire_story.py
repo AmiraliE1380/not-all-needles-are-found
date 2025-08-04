@@ -15,7 +15,7 @@ input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/la_comédie_hu
 init_length_tokens = 2000000  # Target length for the final story
 final_length_tokens = 128000  # Target length for the final story
 # shrinking_percent = shrink_percentage(init_length_tokens, final_length_tokens)  # Target length for the final story
-shrinking_percent = 10
+shrinking_percent = 75
 
 
 def contract_story(story: str, shrink_percent: int) -> str:
@@ -59,7 +59,7 @@ for i, story in enumerate(input_stories):
 
 
 actual_output_length = count_words(output_story)
-print(f"Total output length: {actual_output_length} tokens")
+print(f"Total output length: {actual_output_length} words")
 
 # save final output story
 output_story_addr = f"texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_expected_{final_length_tokens}_actual_{actual_output_length}.txt"

@@ -32,3 +32,8 @@ from story_list import stories
 
 count_words_and_tokens_for_list([f"texts/la_comédie_humaine_(balzac)/preprocessed/{story}_cleaned.txt"
                                  for story in stories])
+
+# count_words_and_tokens("texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_expected_128000_actual_116530.txt")
+# # file: texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_expected_128000_actual_116530.txt
+# # Word count: 116530
+# # Token count: 154955
