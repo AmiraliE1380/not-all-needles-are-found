@@ -28,20 +28,30 @@ def summarize_text(input_text: str, shrink_percent: int) -> str:
     return response.strip()
 
 
-#  Example usage of biuld_prompt
-text = open("texts/samples/shortening_test.txt", "r", encoding="utf-8").read()
-shrink_percent = 90  # Example shrink percentage
-response = summarize_text(text, shrink_percent)
+def shrink_percentage(original_word_count: int, response_word_count: int) -> float:
+    return round((1 - response_word_count / original_word_count) * 100)
 
-# Save the prompt to a new file
-prompt_address = "texts/samples/shortening_test_prompt.txt"
-with open(prompt_address, "w", encoding="utf-8") as f:
-    f.write(response)
 
-actual_shrink_percent = round((1 - count_words(response) / count_words(text)) * 100)
-print(f"Actual shrink percentage: {actual_shrink_percent}%")
-output_address = f"texts/samples/shortening_test_shrinked_{shrink_percent}_actual_{actual_shrink_percent}.txt"
-with open(output_address, "w", encoding="utf-8") as f:
-    f.write(response)
+if __name__ == "__main__":
+    import time
+
+    #  Example usage of biuld_prompt
+    text = open("texts/samples/shortening_test3.txt", "r", encoding="utf-8").read()
+    shrink_percent = 93  # Example shrink percentage
+
+    init_time = time.time()
+    response = summarize_text(text, shrink_percent)
+    print(f"Response time: {time.time() - init_time:.2f} seconds")
+
+    # Save the prompt to a new file
+    prompt_address = "texts/samples/shortening_test_prompt.txt"
+    with open(prompt_address, "w", encoding="utf-8") as f:
+        f.write(response)
+
+    actual_shrink_percent = shrink_percentage(count_words(text), count_words(response))
+    print(f"Actual shrink percentage: {actual_shrink_percent}%")
+    output_address = f"texts/samples/shortening_test3_shrinked_{shrink_percent}_actual_{actual_shrink_percent}.txt"
+    with open(output_address, "w", encoding="utf-8") as f:
+        f.write(response)
 
 
