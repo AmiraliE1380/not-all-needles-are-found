@@ -1,0 +1,10 @@
+Task: Please summarize the following text by reducing its length by approximately {shrink_percent}%, while preserving the main ideas, tone, and key details. The original is {original_word_count} words, so aim for a summary of about {target_word_count} words. Do not omit important facts or arguments, but make the writing more concise and focused.
+
+Instructions:
+
+- Preserve the original meaning and structure as much as possible.
+- Avoid redundant phrases and overly descriptive passages.
+- Maintain a coherent and readable flow.
+
+Text to shorten:
+{input_text}

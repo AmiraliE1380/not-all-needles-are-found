@@ -164,3 +164,9 @@ Total Token count: 2041516
 file: texts/la_comédie_humaine_(balzac)/all_combined/la_comédie_humaine_all.txt
 Word count: 1469427
 Token count: 2042091
+
+
+
+## Contex Windows
+
+Chat GPT 4o and 4o-mini both have context windows of 128,000 tokens, with a max output size of 16,384 tokens.
