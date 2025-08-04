@@ -37,3 +37,6 @@ count_words_and_tokens_for_list([f"texts/la_comédie_humaine_(balzac)/preprocess
 # # file: texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_expected_128000_actual_116530.txt
 # # Word count: 116530
 # # Token count: 154955
+
+
+# count_words_and_tokens("texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_expected_128000_actual_154955.txt")

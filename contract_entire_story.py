@@ -10,12 +10,16 @@ MIDDLE_OF_STORY = (
 )
 
 
+# contracting original story to a target length
+# input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_2000000.txt"
 
-input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_2000000.txt"
-init_length_tokens = 2000000  # Target length for the final story
+input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_expected_128000_actual_139175.txt"
+
+
+init_length_tokens = 139175  # Target length for the final story
 final_length_tokens = 128000  # Target length for the final story
 # shrinking_percent = shrink_percentage(init_length_tokens, final_length_tokens)  # Target length for the final story
-shrinking_percent = 75
+shrinking_percent = 25  # if reduced by 10%, i.e. make the new file 90% of the original length
 
 
 def contract_story(story: str, shrink_percent: int) -> str:
@@ -27,7 +31,8 @@ def contract_story(story: str, shrink_percent: int) -> str:
         story_pieces = story.split(MIDDLE_OF_STORY)
         full_contracted_story = ""
         for piece in story_pieces:
-            full_contracted_story += summarize_text(piece, shrink_percent) + MIDDLE_OF_STORY
+            if piece.strip():
+                full_contracted_story += summarize_text(piece, shrink_percent) + MIDDLE_OF_STORY
         return full_contracted_story.strip()
     
     return summarize_text(story, shrink_percent)
@@ -58,11 +63,24 @@ for i, story in enumerate(input_stories):
     output_story += contracted_story + STORY_SEPERATOR
 
 
-actual_output_length = count_words(output_story)
-print(f"Total output length: {actual_output_length} words")
+# # read each contracted story from the temporary files in case of api issues and final file saving problems
+# if output_story == "":
+#     for i in range(len(input_stories)):
+
+#         # Save each contracted story to a temporary file to avoid api issues
+#         temp_output_address = f"texts/la_comédie_humaine_(balzac)/contracted/temp/shrinked_{shrinking_percent}_story_{i + 1}.txt"
+#         with open(temp_output_address, "r", encoding="utf-8") as f:
+#             output_story += f.read() + STORY_SEPERATOR
+
+
+# Use tiktoken for token counting (OpenAI tokenizer, e.g. for GPT-3.5/4)
+import tiktoken
+enc = tiktoken.encoding_for_model("gpt-3.5-turbo")
+actual_output_tokens = len(enc.encode(output_story))
+print(f"Total output length: {actual_output_tokens} tokens")
 
 # save final output story
-output_story_addr = f"texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_expected_{final_length_tokens}_actual_{actual_output_length}.txt"
+output_story_addr = f"texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_expected_{final_length_tokens}_actual_{actual_output_tokens}.txt"
 
 with open(output_story_addr, "w", encoding="utf-8") as f:
     f.write(output_story)   
