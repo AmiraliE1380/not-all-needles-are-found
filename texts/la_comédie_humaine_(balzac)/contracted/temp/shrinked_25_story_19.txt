@@ -1,27 +1,12 @@
-**GOBSECK**  
-*By Honoré De Balzac*  
-*Translated By Ellen Marriage*  
-
-**DEDICATION**  
-To M. le Baron Barchou de Penhoen.  
-
 In the winter of 1829-30, the Vicomtesse de Grandlieu's salon was nearly empty at one o'clock in the morning. After a young man left, the Vicomtesse approached her daughter, Camille, who was distracted by outside noises. Concerned about Camille's feelings for the Comte de Restaud, she warned her about his mother, Mlle. Goriot, whose questionable past could jeopardize Camille's future. Despite Restaud's admirable qualities, his family background raised concerns.
 
 Derville, a family friend and attorney, overheard their conversation and decided to intervene. He had previously helped the Vicomtesse regain lost properties, improving her financial situation. Though respected in high society, he remained humble and declined further career advancement.
 
 As Derville shared a story that might change Camille's view of Restaud, he noted her growing affection for him. At a recent ball, Camille expressed confidence in Restaud's potential wealth and status. Derville suggested that if Restaud were already wealthy, many girls would pursue him, hinting at Camille's feelings and suggesting a budding connection between her and Derville.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
-Derville reflects on a significant romantic event involving Gobseck, a sallow, impassive usurer living in a damp, convent-like house. Rarely interacting with others, he becomes Derville's confidant over four years. Born Jean-Esther Van Gobseck, he is wealthy yet emotionally detached.
 
-In a conversation, Gobseck emphasizes gold as the ultimate power, dismissing societal norms and asserting that self-interest is the only constant in human nature. His cynical view suggests that true happiness lies in wealth and manipulation.
+Derville reflects on Gobseck, a sallow usurer living in a damp, convent-like house. Rarely interacting with others, he becomes Derville's confidant over four years. Gobseck, wealthy yet emotionally detached, emphasizes gold as the ultimate power, dismissing societal norms and asserting that self-interest is the only constant in human nature.
 
-Gobseck recounts his experiences collecting debts, revealing two bills: one from a beautiful Countess burdened by her extravagant lifestyle, who ultimately offers him a diamond instead of payment, and another from a struggling linen-draper named Fanny Malvaut. Derville is captivated by the Countess's beauty and the contrast between her life and Fanny's modest existence.
-
-Visiting Fanny, who embodies innocence and sincerity, Derville feels a stark contrast to the Countess's world of luxury and moral decay. He ponders their differing lives, feeling pity for both women. Gobseck's insights into human nature and societal power dynamics leave Derville disturbed about wealth and desire.
-
-As Derville grapples with his feelings for the Countess and admiration for Fanny, he contemplates the true cost of wealth and the fleeting nature of beauty and happiness.
+Gobseck recounts experiences collecting debts, revealing two bills: one from a beautiful Countess burdened by her extravagant lifestyle, who offers him a diamond instead of payment, and another from a struggling linen-draper named Fanny Malvaut. Derville is captivated by the Countess's beauty and feels pity for both women, grappling with his feelings for the Countess and admiration for Fanny.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
@@ -48,10 +33,8 @@ Gobseck refused to lend money to de Trailles, citing his debts and lack of secur
 When de Trailles returned with a woman, Derville recognized her as the Countess, one of Goriot’s daughters. The Countess, visibly distressed, sought to pawn her diamonds for cash, hoping to retain the right to repurchase them. Derville explained the transaction terms, which relieved her but darkened de Trailles’ mood.
 
 Gobseck examined the diamonds with unsettling eagerness, revealing his obsession with wealth. His reaction was childlike, contrasting sharply with his usual stoicism. The scene underscored the complex interplay of desire, power, and desperation among the characters as they navigated the treacherous waters of social and financial relationships in Paris.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
-The dialogue begins with a discussion about a set of diamonds, once valuable before the Revolution but now diminished in worth due to market saturation. Gobseck, a moneylender, inspects the diamonds, noting their flaws. The Count seeks a loan of one hundred thousand francs for three years, and Gobseck agrees but insists on weighing the diamonds first. The Countess appears distressed, hinting at her moral struggle.
+
+The dialogue begins with a discussion about a set of diamonds, once valuable before the Revolution but now diminished in worth due to market saturation. Gobseck, a moneylender, inspects the diamonds, noting their flaws. The Countess seeks a loan of one hundred thousand francs for three years, and Gobseck agrees but insists on weighing the diamonds first. The Countess appears distressed, hinting at her moral struggle.
 
 As Gobseck weighs the diamonds, the narrator observes the Countess's turmoil. When asked about ownership, she confirms the diamonds are hers, but Gobseck refuses to draft the loan agreement due to legal issues from her marriage. He offers a deal: eighty thousand francs down, with the diamonds as collateral. The Countess hesitates, while Maxime, a young man present, expresses despair, suggesting he may end his troubles soon.
 
@@ -59,7 +42,7 @@ Ultimately, the Countess accepts Gobseck's offer, and he provides her with a che
 
 Days later, the Count visits the narrator, expressing confidence in him and discussing Gobseck's character. He reveals his intention to transfer property to Gobseck, fearing for his health. The narrator warns the Count about disinheriting his other children, leading the Count to agree to include them in the counter-deed.
 
-The narrative shifts to the Countess, who is determined to secure her children's future despite her past. As her husband’s health declines, the Count, bedridden and resentful, forbids her from entering his room, prompting her to spy on him, believing he is hiding money and documents.
+The narrative shifts to the Countess, who is determined to secure her children's future despite her past. As her husband’s health declines, the bedridden Count forbids her from entering his room, prompting her to spy on him, believing he is hiding money and documents.
 
 As the Count nears death, he confides in his son Ernest, entrusting him with a secret letter for the narrator. The Countess, sensing her husband's intentions, tries to manipulate Ernest into revealing the secret. The Count confronts her, leading to a dramatic scene where he accuses her of treachery.
 

@@ -12,7 +12,7 @@ De Balzac
 
 **CHAPTER I. THAT WHICH WAS LACKING TO PIERROTIN’S HAPPINESS**  
 
-Railroads are set to render certain transportation industries around Paris obsolete. The Touchards, a father-son duo, monopolized travel within a 45-mile radius but faced stiff competition from local services, especially the coucous, which thrived on shorter routes. Despite their efforts, the Touchards struggled against smaller competitors who enjoyed local goodwill.
+Railroads threaten to make certain transportation industries around Paris obsolete. The Touchards, a father-son duo, monopolized travel within a 45-mile radius but faced stiff competition from local services, particularly the coucous, which thrived on shorter routes. Despite their efforts, the Touchards struggled against smaller competitors who enjoyed local goodwill.
 
 One of the most contested routes was from Paris to Beaumont-sur-Oise, where the Touchards faced three rivals in 1822. The competition was fierce due to the line's profitability, serving several towns and villages. Although the Touchards extended their route to Chambly, competition remained strong.
 
@@ -45,9 +45,7 @@ As the count prepared for his trip, Moreau conspired with Leger to inflate the f
 Though initially skeptical, the count began to doubt Moreau's integrity after reading a letter from the steward that contradicted his assurances. He decided to investigate further, instructing his notary to accompany Madame de Reybert back to Presles and to delay sending his clerk as previously planned.
 
 Thus, the count's incognito journey and the warning from Madame de Reybert set the stage for a confrontation that could jeopardize Moreau's position and the count's interests.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
+
 As Pierrotin left the Café de l’Echiquier, he spotted Madame Clapart and her son Oscar at the Lion d’Argent. The mother, in a worn black gown, anxiously searched for him, reflecting her devotion to Oscar, who was traveling alone for the first time. Oscar, dressed in a short olive-green coat and patched trousers, mirrored their modest means.
 
 “Is this the conductor? Ah! Pierrotin, is it you?” she exclaimed, leaving her son to speak with him privately. She asked Pierrotin to take good care of Oscar, who was heading to Monsieur Moreau’s place. Pierrotin hesitated to voice his concerns about the challenges Oscar would face.
@@ -68,11 +66,11 @@ As the journey began, Georges expressed impatience with Pierrotin’s pace, whil
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-In public transport, passengers often begin in silence, observing one another until conversation starts, typically initiated by the most talkative. This is particularly true in French stage-coaches, known for their lively banter. Georges, a clever young man, quickly assessed his fellow travelers, feeling superior and planning to amuse himself at their expense.
+In public transport, passengers often start in silence, observing each other until conversation begins, usually sparked by the most talkative. This is especially true in French stage-coaches, known for their lively exchanges. Georges, a clever young man, quickly assessed his fellow travelers, feeling superior and planning to amuse himself at their expense.
 
-As the coach descended from La Chapelle, Georges contemplated various identities to entertain himself, ultimately deciding to pose as a disguised Russian prince. He engaged in playful banter with Mistigris, who was traveling with a count, spinning tales of his supposed adventures in the East, including serving under Ali, pacha of Janina.
+As the coach descended from La Chapelle, Georges contemplated various identities for entertainment, ultimately deciding to pose as a disguised Russian prince. He engaged in playful banter with Mistigris, who was traveling with a count, spinning tales of his supposed adventures in the East, including serving under Ali, pacha of Janina.
 
-Georges claimed to have been a soldier, embellishing his past with stories of battles and decorations that intrigued the other passengers. He recounted experiences in Egypt and Greece, painting a picture of excitement. He mentioned being the grandson of Czerni-Georges, a historical figure who fought against the Ottoman Empire, and described his return to Greece, where he was welcomed by Ali Tebelen.
+Georges claimed to have been a soldier, embellishing his past with stories of battles and decorations that intrigued the other passengers. He recounted experiences in Egypt and Greece, painting an exciting picture. He mentioned being the grandson of Czerni-Georges, a historical figure who fought against the Ottoman Empire, and described his return to Greece, where he was welcomed by Ali Tebelen.
 
 As the conversation flowed, Georges boasted about his time in a harem, downplaying its significance while expressing a preference for French women. Upon arriving in Saint-Denis, they stopped at a tavern known for its cheese-cakes. Enjoying the attention of his fellow travelers, Georges paid for their treats and continued weaving his elaborate tales.
 
@@ -116,7 +114,7 @@ Oscar insisted he was friends with the Comte de Serizy's son, surprising Pere Le
 
 The conversation turned to the countess, and the count interrupted, defending her honor. He then revealed his connections and left the coach at an inn, leaving the young men confused over their earlier bravado.
 
-As they approached the chateau de Presles, Pierrotin revealed he would drop off the young men at the estate. Oscar, eager to assert his status, rushed ahead, unaware of the path he took. Pere Leger pointed him in the right direction, while Georges slipped away, realizing the farmer's connection to Les Moulineaux.
+As they approached the chateau de Presles, Pierrotin revealed he would drop off the young men at the estate. Oscar rushed ahead, unaware of the path he took. Pere Leger pointed him in the right direction, while Georges slipped away, realizing the farmer's connection to Les Moulineaux.
 
 Pierrotin delivered the packages to the concierge, leaving the young men to contemplate their earlier claims and the reality of their situation. As Pierrotin drove away, he felt satisfied, knowing he would soon receive his payment and a new coach.
 ################################################
@@ -124,7 +122,7 @@ Pierrotin delivered the packages to the concierge, leaving the young men to cont
 ################################################
 Oscar, feeling shy, hid behind trees in the courtyard as Monsieur Moreau appeared on the portico, dressed in a blue overcoat and carrying a riding whip. He greeted Oscar warmly and introduced himself to Mistigris and his master, the painters sent by architect Monsieur Grindot. Moreau instructed the concierge to show them to their rooms and invited them to dinner at five, mentioning hunting opportunities on the estate.
 
-As they walked through the park, Moreau sent his son Jacques to inform Madame Moreau of Oscar's arrival. Moreau, a stern-looking yet kind man, encouraged Oscar to learn horseback riding and hunting, despite Oscar's reluctance. He noted that Oscar's stay was limited to two weeks due to Madame Moreau's presence.
+As they walked through the park, Moreau sent his son Jacques to inform Madame Moreau of Oscar's arrival. Moreau, a stern yet kind man, encouraged Oscar to learn horseback riding and hunting, despite Oscar's reluctance. He noted that Oscar's stay was limited to two weeks due to Madame Moreau's presence.
 
 The steward's house, built before the Revolution, was connected to the chateau and featured a salon, dining room, and a lavish boudoir for Madame Moreau. The Moreaus lived comfortably, relying on the estate's resources while maintaining an appearance of independence. Madame Moreau, a former maid, enjoyed her status and often dressed elegantly, seeking to be seen as a lady of the chateau rather than a steward's wife.
 
@@ -134,7 +132,7 @@ Madame Moreau eagerly awaited the painters, hoping to impress them and elevate h
 
 When the artists finally arrived, Madame Moreau welcomed them and expressed her love for art, attempting to impress them with her knowledge. However, her past as a maid occasionally slipped through her facade. The artists, recognizing her pretensions, engaged her in conversation about art and flattery.
 
-Just as the atmosphere relaxed, a maid interrupted, announcing the count's unexpected arrival. This news shocked Madame Moreau, who worried about the implications of the count's visit. The count, having overheard Oscar's comments during the journey, was furious and confronted Moreau about the gossip, revealing his hurt feelings.
+Just as the atmosphere relaxed, a maid interrupted, announcing the count's unexpected arrival. This news shocked Madame Moreau, who worried about the implications of the count's visit. The count, having overheard Oscar's comments during the journey, confronted Moreau about the gossip, revealing his hurt feelings.
 
 Moreau, distressed, tried to explain that he had spoken of the count with affection, but the damage was done. The count decided to dismiss Moreau from his position, allowing him to keep his earnings but severing their relationship. He instructed Moreau to ensure a smooth transition to the new steward, Monsieur de Reybert.
 
@@ -146,7 +144,7 @@ The count, unimpressed by Oscar's behavior, dismissed him, leaving Moreau to gra
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-While preparing for a journey, Moreau wrote to Madame Clapart, expressing distress over Oscar's recent actions. During a trip, Oscar had carelessly disclosed sensitive information about Madame de Serizy to a high-ranking official, leading to Moreau's dismissal as steward of Presles. Moreau decided to send Oscar home immediately, feeling the weight of his family's future and his own ambitions. He lamented Oscar's behavior and questioned his intelligence, wishing he had received better guidance.
+While preparing for a journey, Moreau wrote to Madame Clapart, expressing distress over Oscar's recent actions. During a trip, Oscar had carelessly disclosed sensitive information about Madame de Serizy to a high-ranking official, resulting in Moreau's dismissal as steward of Presles. Moreau decided to send Oscar home immediately, feeling the weight of his family's future and his own ambitions. He lamented Oscar's behavior and questioned his intelligence, wishing he had received better guidance.
 
 That evening, Madame Clapart was knitting when her husband, Clapart, voiced concern that their friend Poiret might have visited while they were out. Clapart criticized Oscar, believing he would cause trouble at Presles. Madame Clapart defended her son, highlighting his good nature and potential, but Clapart dismissed her optimism, insisting Oscar was lazy and incapable.
 
@@ -161,9 +159,7 @@ Uncle Cardot, a wealthy widower, lived modestly and had provided well for his ch
 Madame Clapart revealed their financial struggles, explaining her sacrifices for Oscar's education. Moved by her plight, Cardot offered to help Oscar pursue a legal career, promising to cover his educational costs if he showed promise. He advised Oscar to work hard and maintain integrity, emphasizing the importance of discretion in a big city like Paris.
 
 After their visit, Madame Clapart felt hopeful for Oscar's future. Moreau later visited, having started a new venture in land speculation. He reassured her that Oscar could still have a successful career if he remained disciplined. Moreau proposed that Oscar work under a young lawyer named Desroches, who would provide the structure and guidance he needed. Madame Clapart was grateful for Moreau's continued support and urged Oscar to express his thanks. Moreau emphasized that the best way for Oscar to redeem himself was through hard work and proper conduct moving forward.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
+
 Ten days later, Oscar was introduced by Monsieur Moreau to Maitre Desroches, a young solicitor with a modest office on rue de Bethisy. Desroches, who had risen from poverty, took a keen interest in Oscar, recognizing his own past struggles, though his stern demeanor intimidated him.
 
 Desroches informed his head clerk, Monsieur Godeschal, that Oscar would be living in the attic next to Godeschal’s room and would need strict supervision to excel in law school and learn the Code thoroughly. Godeschal, also from humble beginnings, was tasked with guiding Oscar, emphasizing hard work and integrity.
@@ -207,16 +203,14 @@ Afterward, they headed to Florentine's salon, greeted by a dazzling array of wom
 Overwhelmed by his losses, Oscar contemplated despair but was reassured by Florentine, who offered him a thousand francs to recover. He accepted, hoping to regain his standing. However, as the night progressed, he lost even more, succumbing to the thrill of gambling and drink.
 
 By morning, Oscar was exhausted and fell asleep on a sofa, oblivious to the ongoing festivities. Florentine and her friends discussed the events, unaware of the trouble Oscar faced due to his reckless gambling. The night ended with Oscar still asleep, caught in the consequences of his choices.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
-The next morning, Oscar Husson was awakened by his uncle Cardot, who scolded him for his late-night revelry and the state of the apartment, expressing disappointment that Oscar hadn’t informed him about the gathering. Florentine, a dancer, defended herself, claiming she had invited guests to please Cardot.
+
+The next morning, Oscar Husson was awakened by his uncle Cardot, who scolded him for his late-night revelry and the state of the apartment, expressing disappointment that Oscar hadn’t informed him about the gathering. Florentine defended herself, claiming she had invited guests to please Cardot.
 
 As tensions escalated, Florentine revealed that Oscar had lost money gambling, prompting Cardot to chastise him for his recklessness. Distraught, Oscar begged Cardot for help in explaining the situation to his employer, Monsieur Desroches, fearing job loss. Florentine urged Cardot to assist Oscar, reminding him of their family ties.
 
 Reluctantly, Cardot gave Oscar five hundred francs, warning it would be the last time he would help him. Oscar left, uncertain of his next steps as he faced the consequences of his actions. Meanwhile, Mariette, concerned for Oscar, sent him a note and money to help recover his losses.
 
-Desroches, upon receiving the note, was furious with Oscar for his irresponsibility. Godeschal, Oscar's friend, defended him, suggesting that Oscar's vanity was leading him astray. Ultimately, Desroches decided to dismiss Oscar, believing he did not deserve further assistance.
+Desroches, upon receiving the note, was furious with Oscar for his irresponsibility. Godeschal defended him, suggesting that Oscar's vanity was leading him astray. Ultimately, Desroches decided to dismiss Oscar, believing he did not deserve further assistance.
 
 At home, Oscar's mother, Madame Clapart, learned of her son's troubles and was devastated. Clapart, her husband, mocked her distress, but she remained hopeful for Oscar's future. When Oscar returned home, he confronted Clapart, asserting his independence and rejecting his father's authority. Clapart's harsh words deepened Madame Clapart's sorrow.
 

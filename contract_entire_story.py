@@ -13,13 +13,13 @@ MIDDLE_OF_STORY = (
 # contracting original story to a target length
 # input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_2000000.txt"
 
-input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_expected_128000_actual_131644.txt"
+input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_70%_actual_86845.txt"
 
 
 init_length_tokens = 131644  # Target length for the final story
 final_length_tokens = 128000  # Target length for the final story
 # shrinking_percent = shrink_percentage(init_length_tokens, final_length_tokens)  # Target length for the final story
-shrinking_percent = 20  # if reduced by 10%, i.e. make the new file 90% of the original length
+shrinking_percent = 60  # if reduced by 10%, i.e. make the new file 90% of the original length
 
 
 def contract_story(story: str, shrink_percent: int) -> str:
@@ -80,7 +80,7 @@ actual_output_tokens = len(enc.encode(output_story))
 print(f"Total output length: {actual_output_tokens} tokens")
 
 # save final output story
-output_story_addr = f"texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_expected_{final_length_tokens}_actual_{actual_output_tokens}.txt"
+output_story_addr = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_{final_length_tokens}_actual_{actual_output_tokens}.txt"
 
 with open(output_story_addr, "w", encoding="utf-8") as f:
     f.write(output_story)   

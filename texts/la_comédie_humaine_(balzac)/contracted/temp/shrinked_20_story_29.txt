@@ -34,7 +34,7 @@ In this world of ambition, avarice, and social maneuvering, the fate of Eugenie 
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Monsieur Grandet's house is a cold, silent tufa stone structure resembling a jail, with a weathered archway and crumbling bas-relief. The entrance features a solid oak door with a rusty grating, leading to a dark vault and a damp garden enclosed by thick walls. The main room serves multiple purposes—antechamber, salon, office, and dining room—where local townsfolk conduct business with Grandet. Adorned with gray wooden panels, an old brass clock, and faded tapestries, the hall reflects the family's modest lifestyle.
+Monsieur Grandet's house is a cold, tufa stone structure resembling a jail, with a weathered archway and crumbling bas-relief. The entrance features a solid oak door with a rusty grating, leading to a dark vault and a damp garden enclosed by thick walls. The main room serves multiple purposes—antechamber, salon, office, and dining room—where local townsfolk conduct business with Grandet. Adorned with gray wooden panels, an old brass clock, and faded tapestries, the hall reflects the family's modest lifestyle.
 
 Madame Grandet and their daughter, Eugenie, live under strict conditions, with Grandet tightly controlling their resources. They manage household tasks diligently, often working late into the night. Their servant, La Grande Nanon, has worked for thirty-five years, earning a meager wage but saving enough for her future. Despite her rough appearance, she is devoted to Grandet, who treats her with disdain yet grudging affection.
 
@@ -55,14 +55,12 @@ Meanwhile, Madame des Grassins attempted to charm Charles, hinting at social gat
 As the evening progressed, Grandet received a letter revealing a family tragedy: his brother was bankrupt and dying, leaving Charles in a precarious situation. The letter implored Grandet to care for Charles, emphasizing urgency. Grandet's reaction was mixed, concealing his thoughts while contemplating the implications of his brother's demise.
 
 After the guests departed, Grandet's demeanor shifted, revealing a man grappling with familial duty and financial responsibility. Charles's arrival disrupts the provincial status quo, igniting curiosity and ambition among the local elite while unveiling the burdens of family legacy and expectations of wealth.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
+
 Monsieur Grandet, a miser, instructs his nephew Charles on household routines upon his arrival, emphasizing the family's hard work and lack of wealth despite rumors of riches. Charles feels out of place in his uncle's shabby home and is warned about the ferocious dog, questioning why his father sent him there.
 
-As Charles settles in, he reflects on his visit's purpose. Meanwhile, Eugenie, Grandet's daughter, becomes aware of her feelings for Charles while preparing for the day. She admires her appearance but doubts her beauty, feeling unworthy of him.
+As Charles settles in, he reflects on his visit's purpose. Meanwhile, Eugenie becomes aware of her feelings for Charles while preparing for the day. She admires her appearance but doubts her beauty, feeling unworthy of him.
 
-Eugenie's morning is consumed with thoughts of Charles, and she asks Nanon, the servant, to prepare a special breakfast to impress him. Grandet, however, is stingy and engages in a comical argument with Nanon over provisions. Despite his frugality, he reluctantly allows Nanon to make a galette for the young ones.
+Eugenie's morning is consumed with thoughts of Charles, and she asks Nanon to prepare a special breakfast to impress him. Grandet, however, is stingy and engages in a comical argument with Nanon over provisions. Despite his frugality, he reluctantly allows Nanon to make a galette for the young ones.
 
 Later, Grandet takes Eugenie for a walk, where they meet Cruchot, the notary. Their conversation reveals Grandet's disdain for the idea of marrying Eugenie to Charles, stating he would rather throw her into the Loire than allow such a union. This devastates Eugenie, who has begun to develop feelings for Charles.
 
@@ -161,10 +159,8 @@ The confrontation reached a boiling point, with Grandet cursing Eugenie and accu
 As the evening wore on, Grandet dined alone for the first time in years, while Nanon, the servant, tried to comfort Eugenie. The tension in the household was palpable, with Madame Grandet's health deteriorating under the strain of the conflict. The arrival of guests for New Year’s festivities only highlighted the absence of the women, raising suspicions about the family's troubles.
 
 In the quiet of the night, Nanon brought Eugenie a special treat, a hare pâté, determined that she would not suffer on dry bread alone. This small act of kindness amidst the turmoil provided a glimmer of hope for Eugenie, who felt the weight of her choices and the love she held for Charles. The family dynamics, marked by love, fear, and the struggle for power, set the stage for a tragic unfolding of events in their lives.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
-For months, the old wine-grower, Grandet, visited his wife’s room without mentioning their daughter, Eugenie, who was kept under harsh conditions. As Madame Grandet's health declined, townspeople speculated about the family's situation, eventually learning that Eugenie was being fed only bread and water by her father's orders. Despite the town's condemnation, Eugenie remained unaware of the gossip, focused on her love for Charles and her ailing mother.
+
+For months, Grandet visited his wife’s room without mentioning Eugenie, who was kept under harsh conditions. As Madame Grandet's health declined, townspeople speculated about the family's situation, eventually learning that Eugenie was being fed only bread and water by her father's orders. Despite the town's condemnation, Eugenie remained unaware of the gossip, focused on her love for Charles and her ailing mother.
 
 As her death approached, Madame Grandet urged reconciliation between father and daughter, but Grandet remained indifferent. She confided in the Cruchots about Eugenie's treatment, prompting them to consider legal action against Grandet. However, Eugenie insisted on loyalty to her father, asking them to remain silent to protect family honor.
 
@@ -188,11 +184,11 @@ As time passed, the Cruchots and other suitors surrounded Eugenie, eager to win 
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-While events unfolded in Saumur, Charles Grandet was amassing wealth in the Indies. His initial success of six thousand dollars revealed the profitability of the slave trade. He ventured to Africa, purchasing enslaved individuals and engaging in exploitative practices, including usury and smuggling. Initially inspired by his cousin Eugenie, he became hardened and lost sight of right and wrong, ultimately severing ties with his family.
+While events unfolded in Saumur, Charles Grandet was accumulating wealth in the Indies. His initial success of six thousand dollars highlighted the profitability of the slave trade. He traveled to Africa, purchasing enslaved individuals and engaging in exploitative practices like usury and smuggling. Initially inspired by his cousin Eugenie, he became hardened, losing sight of morality and ultimately severing ties with his family.
 
-In the Indies, he adopted the alias "Shepherd" to protect his identity while pursuing wealth through unscrupulous means. By 1827, he returned to Bordeaux aboard the "Marie Caroline," bringing gold-dust worth nearly two million francs. On the ship, he met Monsieur d’Aubrion, whose financial struggles stemmed from marrying into a fashionable family. The d’Aubrions were desperate for a wealthy son-in-law, and Madame d’Aubrion saw potential in Charles.
+In the Indies, he adopted the alias "Shepherd" to conceal his identity while pursuing wealth through unscrupulous means. By 1827, he returned to Bordeaux aboard the "Marie Caroline," bringing gold-dust worth nearly two million francs. On the ship, he met Monsieur d’Aubrion, whose financial struggles stemmed from marrying into a fashionable family. The d’Aubrions were desperate for a wealthy son-in-law, and Madame d’Aubrion saw potential in Charles.
 
-Upon arriving in Paris, Charles became close to the d’Aubrion family, who sought to marry him to their unattractive daughter. Madame d’Aubrion promised to help him gain a noble title and a lucrative court position, exciting Charles and overshadowing thoughts of Eugenie.
+Upon arriving in Paris, Charles grew close to the d’Aubrion family, who sought to marry him to their unattractive daughter. Madame d’Aubrion promised to help him gain a noble title and a lucrative court position, exciting Charles and overshadowing thoughts of Eugenie.
 
 Meanwhile, Eugenie remained in Saumur, reflecting on her past with Charles. One day, she received a letter from him, which she hesitated to open. The letter revealed that Charles had moved on from their youthful love, expressing that he was free and engaged to Mademoiselle d’Aubrion, prioritizing ambition over their childhood promises. Devastated, Eugenie grappled with feelings of loss, recalling her mother’s prophetic words about suffering and resigning herself to a life of quiet anguish.
 
