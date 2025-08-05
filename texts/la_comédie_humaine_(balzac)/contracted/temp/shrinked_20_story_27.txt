@@ -1,13 +1,4 @@
-**The Commission in Lunacy**  
-*By Honoré De Balzac*  
-*Translated by Clara Bell*  
-
-**Dedication**  
-Dedicated to Monsieur le Contre-Amiral Bazoche, Governor of the Isle of Bourbon, by the grateful writer.  
-
----
-
-In 1828, around one o’clock in the morning, Dr. Horace Bianchon and Baron de Rastignac left a house on Rue du Faubourg Saint-Honoré and decided to walk to the boulevard, as neither had a carriage. Their conversation turned to the Marquise d’Espard, whom Rastignac admired. Bianchon cautioned him against pursuing her, likening her to a “one-eyed horse” and suggesting she was not as youthful as Rastignac believed.
+In 1828, Dr. Horace Bianchon and Baron de Rastignac left a house on Rue du Faubourg Saint-Honoré and decided to walk to the boulevard, as neither had a carriage. Their conversation turned to the Marquise d’Espard, whom Rastignac admired. Bianchon cautioned him against pursuing her, likening her to a “one-eyed horse” and suggesting she was not as youthful as Rastignac believed.
 
 Rastignac argued that the Marquise’s social status and wealth made her an attractive prospect, especially since he was struggling financially after marrying off his sisters. Bianchon, a physician, expressed disdain for fashionable women, asserting they often lacked genuine character and were driven by selfishness. He warned Rastignac that the Marquise might be in debt despite her charm.
 
@@ -15,71 +6,65 @@ Bianchon recounted his experiences with high society, describing its superficial
 
 Despite Bianchon’s warnings, Rastignac remained enamored with the idea of marrying the Marquise, valuing her social connections over the virtues of a more devoted partner. Bianchon reluctantly agreed to help Rastignac by introducing him to his uncle, Judge Jean-Jules Popinot, known for his strict adherence to the law.
 
-The next morning, Bianchon set out to visit Popinot, who lived in a dilapidated area of Paris. The judge was characterized by his unkempt appearance and lack of ambition, having been overlooked for promotions despite his legal acumen. His life was marked by a commitment to justice, often at the expense of his own comfort and reputation.
+The next morning, Bianchon visited Popinot, who lived in a dilapidated area of Paris. The judge was characterized by his unkempt appearance and lack of ambition, having been overlooked for promotions despite his legal acumen. His life was marked by a commitment to justice, often at the expense of his own comfort and reputation.
 
 Popinot was a diligent and compassionate judge, respected for his knowledge of criminal law but remained a supernumerary judge due to his modest nature and lack of political maneuvering. His life exemplified the struggles of a good man in a flawed system, where ambition often overshadowed merit.
 
 As Bianchon approached Popinot’s residence, he reflected on the challenges of persuading the judge to assist Rastignac. Despite the difficulties, he was determined to fulfill his friend’s request, aware of the complexities involved in navigating high society and the legal system.
 
-In summary, the narrative explores themes of ambition, social status, and the moral dilemmas faced by individuals in pursuit of success. Bianchon’s skepticism about the Marquise serves as a counterpoint to Rastignac’s aspirations, highlighting the tension between genuine character and societal expectations. The story critiques the superficiality of fashionable society while portraying the struggles of a principled man within the judicial system.
+The narrative explores themes of ambition, social status, and the moral dilemmas faced by individuals in pursuit of success. Bianchon’s skepticism about the Marquise serves as a counterpoint to Rastignac’s aspirations, highlighting the tension between genuine character and societal expectations while critiquing the superficiality of fashionable society.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Twelve years prior to this story, in 1816, Popinot was appointed President of the Commission Extraordinary to distribute food during a severe scarcity. Initially hesitant to remain in the Rue du Fouarre, he became dedicated to alleviating local suffering. Over five years, he transformed from a judge focused on legal outcomes to a compassionate figure, akin to Saint Vincent de Paul, devoted to helping the poor. His charitable work drained his resources, yet he found fulfillment as a protector and benefactor.
+Twelve years prior, in 1816, Popinot was appointed President of the Commission Extraordinary to distribute food during a severe scarcity. Initially hesitant to remain in the Rue du Fouarre, he became dedicated to alleviating local suffering. Over five years, he transformed from a judge focused on legal outcomes to a compassionate figure, akin to Saint Vincent de Paul, devoted to helping the poor. His charitable work drained his resources, yet he found fulfillment as a protector and benefactor.
 
 By the end of his second year, Popinot had converted his storeroom into a parlor for the needy, meticulously recording donations and requests for assistance. His aide, Lavienne, helped manage the influx of desperate individuals seeking aid, filling the room from dawn until late morning. Despite the stifling atmosphere, the poor revered Popinot, who tirelessly provided food, shelter, and employment.
 
-Living frugally on a modest inherited fortune and his late wife's wealth, Popinot was known for his absent-mindedness regarding personal appearance, often linked to intellectual pursuits. He remained unrecognized by his peers, having not received the Legion of Honor.
+Living frugally on a modest inherited fortune and his late wife's wealth, Popinot was known for his absent-mindedness regarding personal appearance, often linked to his intellectual pursuits. He remained unrecognized by his peers, having not received the Legion of Honor.
 
-The narrative shifts to a case involving the Marquis d’Espard, whose wife sought a Commission in Lunacy for him. Bianchon, a doctor and Popinot's nephew, visits the Rue du Fouarre, where he finds his uncle amidst a crowd of impoverished individuals, each representing their own struggles.
+The narrative shifts to a case involving the Marquis d’Espard, whose wife sought a Commission in Lunacy for him. Bianchon, a doctor and Popinot's nephew, visits the Rue du Fouarre, where he finds his uncle amidst a crowd of impoverished individuals.
 
-Popinot's disheveled attire reflects his preoccupation with charity as he engages with petitioners, providing assistance while Lavienne manages the flow of people. Bianchon expresses concern about the Marquis d’Espard, and Popinot reads the petition detailing the Marquis's alleged mental decline and the influence of a woman named Jeanrenaud.
+Popinot's disheveled attire reflects his preoccupation with charity as he engages with petitioners. Bianchon expresses concern about the Marquis d’Espard, and Popinot reads the petition detailing the Marquis's alleged mental decline and the influence of a woman named Jeanrenaud.
 
-The petition outlines the Marquis's erratic behavior and obsession with China, suggesting he may be under undue influence. Popinot and Bianchon discuss the implications, with Bianchon suggesting the influence could resemble possession. While skeptical, Popinot acknowledges the need for further investigation.
+The petition outlines the Marquis's erratic behavior and obsession with China, suggesting undue influence. Popinot and Bianchon discuss the implications, with Bianchon suggesting it could resemble possession. While skeptical, Popinot acknowledges the need for further investigation. He reflects on the Marquise's potential ulterior motives in seeking the Commission in Lunacy for her husband and agrees to visit Madame d’Espard to gather more information.
 
-As they converse, Popinot reflects on the motivations behind the allegations, considering that the Marquise may have ulterior motives in seeking the Commission in Lunacy for her husband. Ultimately, Bianchon persuades Popinot to visit Madame d’Espard to hear her side, emphasizing the importance of understanding both perspectives. Popinot agrees, recognizing the necessity of gathering all relevant information before making a judgment, concluding the chapter with anticipation for the upcoming meeting.
+The following evening, Bianchon climbed his uncle Popinot's staircase to find him absorbed in a complex judgment. Popinot, in an old, stained coat due to a tailor's delay, appeared disheveled, but Bianchon tidied him up before they entered the Marquise’s room.
+
+Madame d’Espard had been a notable figure in Paris since her separation from her husband in 1815. At thirty-three, she maintained a youthful appearance through strict beauty regimens, drawing comparisons to Diane de Poitiers. Despite being a mother of two, her social connections and lack of visible aging kept her fashionable.
+
+After a quiet period, Madame d’Espard re-entered society in 1820, hosting gatherings and establishing herself among the elite. She formed ties with influential figures, enhancing her political influence. Her drawing-room became a hub for ambitious men, and she skillfully navigated Parisian social life, maintaining a façade of innocence while wielding considerable power.
+
+Popinot and Bianchon arrived at the Marquise’s boudoir, where she sat elegantly, flanked by Rastignac and the silent Chevalier d’Espard. The Marquise’s striking appearance matched her carefully curated environment. However, Popinot focused on the case involving her estranged husband, M. d’Espard, whom she claimed was mentally unstable.
+
+As the conversation unfolded, Madame d’Espard recounted her version of events leading to their separation, portraying herself as a victim. Popinot probed deeper, questioning her motives and the financial implications of her situation. He noted her luxurious lifestyle, which seemed at odds with her claims of financial distress. The Marquise attempted to deflect his inquiries, but Popinot remained steadfast, suggesting her lavish spending could indicate ulterior motives in her petition for her husband’s incapacity.
+
+Tension escalated as Popinot pressed for clarity on her financial situation, hinting that her request might be driven by self-interest rather than genuine concern for her children. The Marquise defended her actions as necessary for securing her children’s future, but Popinot’s scrutiny revealed cracks in her narrative.
+
+After their meeting, Popinot resolved to investigate further, planning to summon Madame Jeanrenaud, linked to M. d’Espard, to uncover more about the situation. The next day, Madame Jeanrenaud arrived, presenting herself as a comically unassuming figure, far from the seductive temptress implied by the Marquise. She expressed concern for M. d’Espard, indicating a willingness to cooperate, intriguing Popinot about the true dynamics at play.
+
+As the story unfolded, it became clear that the Marquise’s polished exterior masked a complex web of ambition and manipulation, while Popinot’s role as a judge required him to navigate these treacherous waters with caution. The case promised to reveal not only the truth about M. d’Espard’s mental state but also the lengths individuals would go to protect their interests in Parisian society.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-The following evening, Bianchon climbed his uncle Popinot's staircase to find him engrossed in a complex judgment. Popinot, dressed in an old, stained coat due to a delay from the tailor, appeared disheveled, but Bianchon managed to tidy him up before they entered the Marquise’s room.
+The text examines the life of M. le Marquis d’Espard, a nobleman living in a dilapidated Paris mansion, illustrating how minor events can lead to significant consequences. A minor illness delayed an important meeting with a judge, echoing historical instances where small incidents had major repercussions.
 
-Madame d’Espard had been a prominent figure in Paris since her separation from her husband in 1815. At thirty-three, she maintained a youthful appearance through strict beauty regimens, drawing comparisons to historical figures like Diane de Poitiers. Despite being a mother of two, her social connections and lack of visible aging kept her fashionable.
+D’Espard's once-grand home, now in disrepair, symbolizes the decline of French nobility. Chosen for its garden to benefit his children's health, the mansion, despite its condition, exuded a peaceful atmosphere with modest decor that conveyed order.
 
-After living quietly for several years, Madame d’Espard re-entered society in 1820, hosting gatherings and establishing herself among the elite. She formed close ties with influential figures, including a duchess and a countess, which enhanced her political influence. Her drawing-room became a hub for ambitious men, and she skillfully navigated Parisian social life, maintaining a façade of innocence while wielding considerable power.
+His private family life was supported by a few loyal servants. D’Espard’s choice to isolate his children led to misunderstandings with neighbors, who viewed him as eccentric. Gossip portrayed him as a madman, fueled by his frugal lifestyle and perceived financial ruin, exacerbated by tenants’ jealousy of his noble status, deemed undeserved without wealth.
 
-Popinot and Bianchon arrived at the Marquise’s boudoir, where she sat elegantly, flanked by Rastignac and the silent Chevalier d’Espard. The Marquise’s striking appearance was matched by her carefully curated environment. However, Popinot focused on the case involving her estranged husband, M. d’Espard, whom she claimed was mentally unstable.
+D’Espard and his wife embodied true aristocratic values, instilling dignity and pride in their children, who reflected their noble heritage. At around fifty, the Marquis appeared refined but was seen as cold due to his mannerisms. His children, Comte Clement and Vicomte Camille, were handsome, with Clement nearing sixteen and Camille still in education.
 
-As the conversation unfolded, Madame d’Espard recounted her version of events leading to their separation, portraying herself as a victim of her husband’s whims. Popinot probed deeper, questioning her motives and the financial implications of her situation. He noted her luxurious lifestyle, which seemed at odds with her claims of financial distress. The Marquise attempted to deflect his inquiries, but Popinot remained steadfast, suggesting that her lavish spending could indicate ulterior motives in her petition for her husband’s incapacity.
+Overall, the narrative highlights the complexities of social status, isolation, and societal perceptions of declining nobility in a changing France.
 
-Tension escalated as Popinot pressed for clarity on her financial situation, hinting that her request might be driven by self-interest rather than genuine concern for her children. The Marquise, feeling cornered, defended her actions as necessary for securing her children’s future, but Popinot’s scrutiny revealed cracks in her narrative.
+On a Thursday holiday, Popinot planned to question M. d’Espard. Early that morning, his sons, Clement and Camille, played in the garden, waking their father, the Marquis, who enjoyed watching them. However, upon Popinot's arrival, the portress informed him of the Marquis' supposed madness, claiming he encouraged his children to fight.
 
-After their meeting, Popinot resolved to investigate further, planning to summon Madame Jeanrenaud, linked to M. d’Espard, to uncover more about the situation. The next day, Madame Jeanrenaud arrived, presenting herself as a comically unassuming figure, far from the seductive temptress implied by the Marquise. She expressed concern for M. d’Espard, indicating a willingness to cooperate, which intrigued Popinot about the true dynamics at play.
-
-As the story unfolded, it became clear that the Marquise’s polished exterior masked a complex web of ambition and manipulation, while Popinot’s role as a judge required him to navigate these treacherous waters with caution. The case promised to reveal not only the truth about M. d’Espard’s mental state but also the lengths individuals would go to protect their interests in the cutthroat world of Parisian society.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
-The text explores the life of M. le Marquis d’Espard, a nobleman living in a dilapidated Paris mansion, illustrating how minor events can lead to significant consequences. A minor illness delayed an important meeting with a judge, reminiscent of historical instances where small incidents had major repercussions.
-
-D’Espard's once-grand home, now in disrepair, symbolizes the decline of French nobility. Chosen for its garden, which benefited his children's health, the mansion, despite its condition, exuded a peaceful and dignified atmosphere with modest decor that conveyed order.
-
-His family life was private, supported by a few loyal servants. D’Espard’s decision to isolate his children led to misunderstandings with neighbors, who viewed him as eccentric. Gossip painted him as a madman, fueled by his frugal lifestyle and perceived financial ruin, exacerbated by tenants’ jealousy of his noble status, which they deemed undeserved without wealth.
-
-D’Espard and his wife embodied true aristocratic values, instilling dignity and pride in their children, who reflected their noble heritage. At around fifty, the Marquis appeared refined but was seen as cold and eccentric due to his mannerisms. His children, Comte Clement and Vicomte Camille, were handsome and graceful, with Clement nearing sixteen and transitioning into young adulthood, while Camille remained in a youthful educational phase.
-
-Overall, the narrative highlights the complexities of social status, the effects of isolation, and societal perceptions regarding the declining nobility in a changing France.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
-On a Thursday holiday, Popinot planned to question M. d’Espard. Early that morning, his sons, Clement and Camille, played in the garden, waking their father, the Marquis, who enjoyed watching their antics. However, upon Popinot's arrival, the portress informed him of the Marquis' supposed madness, claiming he encouraged his children to fight.
-
-Popinot was led to a shabby office on the third floor, where he met the Marquis, who was reading by the fire. The judge explained he was there to investigate a petition for a Commission in Lunacy filed by the Marquise d’Espard. The Marquis, initially surprised, asked why he had not been notified of the petition. Popinot clarified that such notifications were unnecessary for those deemed insane.
+Popinot was led to a shabby office on the third floor, where he met the Marquis, who was reading by the fire. The judge explained he was there to investigate a petition for a Commission in Lunacy filed by the Marquise d’Espard. The Marquis, surprised, asked why he had not been notified of the petition. Popinot clarified that such notifications were unnecessary for those deemed insane.
 
 The Marquis expressed concern about how the inquiry might affect his wife. Popinot assured him of confidentiality and inquired about allegations of financial impropriety involving Madame Jeanrenaud. The distressed Marquis revealed a family secret: the Jeanrenaud fortune had been wrongfully acquired during the Revocation of the Edict of Nantes, benefiting his ancestors from the execution of a Protestant merchant. He felt compelled to repay the Jeanrenauds, whom he had located in France.
 
 Despite his wife's lack of understanding, the Marquis committed to repaying the Jeanrenauds, straining his finances. He chose to educate his sons himself, sacrificing social standing to ensure they grew up with integrity. The judge listened intently, moved by the Marquis' noble intentions and the burden of his family's past.
 
-As their conversation continued, the Marquis invited Popinot to his home, revealing he had rented the office for a financially successful publishing venture on China. He expressed a desire to provide for his children while maintaining their honor. Just then, his sons returned from riding, full of energy and affection for their father, illustrating their strong bond.
+As their conversation continued, the Marquis invited Popinot to his home, revealing he had rented the office for a financially successful publishing venture on China. Just then, his sons returned from riding, full of energy and affection for their father, illustrating their strong bond.
 
 Madame Jeanrenaud soon entered, wanting to return the money given to the Marquis, fearing for their honor. Popinot intervened, explaining that the payments were legally justified and rooted in honorable motives. He reassured the Marquis that his actions would not be misinterpreted and praised him for his integrity.
 

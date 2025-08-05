@@ -5,6 +5,7 @@ Instructions:
 - Preserve the original meaning and structure as much as possible.
 - Avoid redundant phrases and overly descriptive passages.
 - Maintain a coherent and readable flow.
+- Only output the summarize text, do not generate a title at the beginning of your output.
 
 Text to shorten:
 {input_text}
