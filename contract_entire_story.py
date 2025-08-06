@@ -13,7 +13,7 @@ MIDDLE_OF_STORY = (
 # contracting original story to a target length
 # input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_2000000.txt"
 
-input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_128000_actual_48445.txt"
+input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_40%_actual_48445.txt"
 
 
 init_length_tokens = 131644  # Target length for the final story
