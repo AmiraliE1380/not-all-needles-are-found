@@ -1,0 +1,16 @@
+The following text is a shortened version of a series of 38 stories. Each story is separated by this delimiter:
+
+################################################
+######### THIS IS THE END OF A STORY. #########
+################################################
+
+Please summarize the entire series in approximately 600 words.
+Your summary should:
+
+Briefly mention each story’s main event or central subject.
+
+Maintain the chronological or logical order of the stories, if evident.
+
+Focus on clarity and coverage rather than style or embellishment.
+
+{text}

@@ -1,5 +1,6 @@
 from shortening import *
 from combiner import STORY_SEPERATOR
+from counter import count_tokens
 
 GPT_4O_MINI_CONTEXT_LENGTH = 128000  # Maximum context length for GPT-4o-mini in tokens
 GPT_4O_MINI_CONTEXT_LENGTH_WORDS = 80000  # Conservative max context length for GPT-4o-mini in words
@@ -74,9 +75,7 @@ for i, story in enumerate(input_stories):
 
 
 # Use tiktoken for token counting (OpenAI tokenizer, e.g. for GPT-3.5/4)
-import tiktoken
-enc = tiktoken.encoding_for_model("gpt-3.5-turbo")
-actual_output_tokens = len(enc.encode(output_story))
+actual_output_tokens = count_tokens(output_story)
 print(f"Total output length: {actual_output_tokens} tokens")
 
 # save final output story
