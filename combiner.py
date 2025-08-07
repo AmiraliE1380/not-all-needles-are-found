@@ -1,10 +1,5 @@
 import os
-
-
-STORY_SEPERATOR = ("\n\n################################################\n"
-                        "######### THIS IS THE END OF A STORY. #########\n"
-                        "################################################\n\n")
-
+from constant_vals import STORY_SEPERATOR
 
 def combine_files(file_names, input_dir, output_file, output_dir):
     """
@@ -32,7 +27,7 @@ def combine_files(file_names, input_dir, output_file, output_dir):
 
 
 if __name__ == "__main__":
-    from story_list import stories
+    from constant_vals import stories
 
     input_directory = "texts/la_comédie_humaine_(balzac)/preprocessed"
     output_directory = "texts/la_comédie_humaine_(balzac)/all_combined"

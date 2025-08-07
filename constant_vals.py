@@ -39,4 +39,12 @@ stories = [
     "pg1443_The_Two_Poets"
 ]
 
-print("Story list loaded with", len(stories), "stories.")
+# print("Story list loaded with", len(stories), "stories.")
+
+
+
+STORY_SEPERATOR = ("\n\n################################################\n"
+                        "######### THIS IS THE END OF A STORY. #########\n"
+                        "################################################\n\n")
+
+

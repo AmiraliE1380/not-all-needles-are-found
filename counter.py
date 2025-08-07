@@ -34,7 +34,7 @@ def count_words_and_tokens_for_list(file_paths):
 
 if __name__ == "__main__":
     # Example usage:
-    from story_list import stories
+    from constant_vals import stories
 
     count_words_and_tokens_for_list([f"texts/la_comédie_humaine_(balzac)/preprocessed/{story}_cleaned.txt"
                                     for story in stories])

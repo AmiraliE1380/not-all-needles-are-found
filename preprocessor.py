@@ -1,5 +1,5 @@
-from story_list import stories
-import os
+from constant_vals import *
+
 
 def extract_gutenberg_text(file_path):
     start_pattern = "*** START OF THE PROJECT GUTENBERG EBOOK"
