@@ -13,45 +13,49 @@ def grade_quiz(model_responce, ground_truth):
     Returns:
         int: The grade (number of correct answers).
     """
-    def _exatract_answer(line):
+    def _extract_answer(line):
         # Extract the answer from a line like "Question 1: A"
         return line.split(':')[-1].strip()
 
-    model_answers = [line.strip() for line in model_responce.split('\n') if line.strip()]
-    correct_answers = [line.strip() for line in ground_truth.split('\n') if line.strip()]
+    model_answers = [_extract_answer(line) for line in model_responce.split('\n') if line.strip()]
+    correct_answers = [_extract_answer(line) for line in ground_truth.split('\n') if line.strip()]
     
     grade = sum(1 for ma, ca in zip(model_answers, correct_answers) if ma == ca)
     
     return grade / len(correct_answers) * 100  
 
-# test grade_quiz function
-print(grade_quiz(model_responce="Question 1: A\nQuestion 2: C\nQuestion 3: C\nQuestion 4: D", 
-                 ground_truth="Question 1: A\nQuestion 2:  C  \nQuestion 3: C\nQuestion 4: D"))  # Expected output: 4
-exit()
+# # test grade_quiz function
+# print(grade_quiz(model_responce="Question 1: A\nQuestion 2: C\nQuestion 3: C\nQuestion 4: D", 
+#                  ground_truth="Question 1: A\nQuestion 2:  D  \nQuestion 3: C\nQuestion 4: D"))  # Expected output: 4
+# exit()
+
 
 # load questions
-with open('prompts/questions1.txt', 'r') as file:
-    questions = file.readlines()
+with open('prompts/questions/questions1.txt', 'r') as file:
+    questions = file.read()
 
 # load prompt
 with open('prompts/quiz.txt', 'r') as file:
     prompt = file.read()
 
-with open('prompts/facts1.txt', 'r') as file:
-    facts = file.readlines()
+with open('prompts/facts/facts1.txt', 'r') as file:
+    facts = file.read()
 
 # load story
 story_address = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_1000_actual_1244.txt"
 with open(story_address, 'r', encoding='utf-8') as file:
     story = file.read()
 
+
 story = inject_fact(facts, story, 0.5) 
-quiz = prompt.format(story=story, questions=''.join(questions))
+quiz = prompt.format(STORY=story, QUESTIONS=questions)
+
+print(f"quiz = \n{quiz}\n")
 
 model_responce = chat_with_model(prompt=quiz)
 print(f"model_responce = \n{model_responce}\n")
 
-with open('prompts/ground_truth1.txt', 'w') as file:
+with open('prompts/GTs/ground_truth1.txt', 'r') as file:
     ground_truth = file.read()
 print(f"ground_truth = \n{ground_truth}\n")
 

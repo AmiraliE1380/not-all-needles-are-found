@@ -1,13 +1,13 @@
 ou are a person who has read the following story carefully with all details to be able to answer multiple-choice questions about it:
 
 <story>
-{{STORY}}
+{STORY}
 </story>
 
 Now, you will answer the following multiple-choice questions based on the story you just read:
 
 <questions>
-{{QUESTIONS}}
+{QUESTIONS}
 </questions>
 
 Instructions for answering:

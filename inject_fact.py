@@ -15,7 +15,7 @@ def inject_fact(fact, story, location):
         str: The modified story with the fact injected.
     """
     
-    pass
+    return story + '\n\n' + fact
 
 def preprocess_story(story):
     """
