@@ -1,0 +1,27 @@
+ou are a person who has read the following story carefully with all details to be able to answer multiple-choice questions about it:
+
+<story>
+{{STORY}}
+</story>
+
+Now, you will answer the following multiple-choice questions based on the story you just read:
+
+<questions>
+{{QUESTIONS}}
+</questions>
+
+Instructions for answering:
+1. Read each question carefully.
+2. Review the story to find the relevant information.
+3. Choose the most accurate answer from the options provided.
+4. If the information is not explicitly stated in the story, choose the most logical answer based on the given information or one that can be inferred upon.
+
+Provide your answers in the following format:
+Question 1: [Letter]
+Question 2: [Letter]
+...
+Question 8: [Letter]
+
+Each answer must be on a separate line.
+
+Your final output should consist of only the answers in the specified format, without any additional explanation or commentary.
