@@ -1,4 +1,7 @@
 from constant_vals import *
+from counter import count_tokens
+
+import re
 
 
 def inject_fact(fact, story, location):
@@ -14,19 +17,24 @@ def inject_fact(fact, story, location):
     Returns:
         str: The modified story with the fact injected.
     """
-    
-    return story + '\n\n' + fact
 
-def preprocess_story(story):
-    """
-    Preprocess the story to ensure it is ready for fact injection.
+    # Split on either MIDDLE_OF_STORY or STORY_SEPERATOR
+    # story = story.replace(STORY_SEPERATOR, '\n' + MIDDLE_OF_STORY + '\n')
+    # split_parts = story.split(MIDDLE_OF_STORY)
     
-    Args:
-        story (str): The original story.
-    
-    Returns:
-        str: The preprocessed story.
-    """
-    
-    # Placeholder for preprocessing logic
-    return story.strip()
+    split_parts = story.split('\n')
+    full_story = ''.join(split_parts)
+    entire_story_token_count = count_tokens(full_story)
+
+    story_with_fact = ""
+    story_injected = False
+    for part in split_parts:
+        story_with_fact += part
+        if not story_injected and count_tokens(story_with_fact) >= entire_story_token_count * location:
+            # Inject the fact at this point
+            story_with_fact += '\n\n' + fact + '\n\n'
+            story_injected = True
+
+
+    # print(f'story_with_fact = \n{story_with_fact}\n\n')
+    return story_with_fact

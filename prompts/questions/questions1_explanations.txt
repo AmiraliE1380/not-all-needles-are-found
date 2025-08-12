@@ -1,0 +1,5 @@
+First 10 questions are answered in the paragraph.
+
+Second 10 questions are inferable from the paragraph.
+
+The last 10 questions are not answered in the paragraph and answering them indicates hallucinations.

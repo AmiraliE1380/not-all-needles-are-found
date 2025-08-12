@@ -13,10 +13,11 @@ Usage
 from __future__ import annotations
 
 import os
-from typing import List, Optional
+from typing import Optional
 
 from dotenv import load_dotenv
 from openai import OpenAI
+from constant_vals import OPENAI_MODELS
 
 # --------------------------------------------------------------------------- #
 #  Environment & client setup
@@ -25,31 +26,12 @@ load_dotenv()  # Loads OPENAI_API_KEY (and anything else) from .env
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Accepted model names (extend or trim as you like)
-OPENAI_MODELS: List[str] = [
-    "gpt-4o",
-    "gpt-4o-mini",
-    "gpt-4-turbo-2024-04-09",
-    "gpt-4.1",
-    "gpt-4.1-mini",
-    "gpt-4.1-nano",
-    "gpt-4-0613",
-    "gpt-4-32k-0613",
-    "gpt-3.5-turbo",
-    "gpt-3.5-turbo-0125",
-    "gpt-3.5-turbo-0613",
-    "gpt-3.5-turbo-16k",
-    "gpt-3.5-turbo-instruct",
-    "o1",
-    "o1-mini",
-    "o1-pro",
-    "o3-mini",
-    "o3",
-    "o3-pro",
-]
+
 
 def chat_with_model(
     prompt: str,
     model: str = "gpt-4o-mini",
+    # model: str = "gpt-4",
     *,
     system_prompt: Optional[str] = None,
 ) -> str:
@@ -77,11 +59,7 @@ def chat_with_model(
     OpenAIError
         Any error bubbled up from the OpenAI client (network, quota, etc.).
     """
-    if model not in OPENAI_MODELS:
-        raise ValueError(
-            f"Model '{model}' is not in the approved list.\n"
-            f"Allowed values: {', '.join(OPENAI_MODELS)}"
-        )
+    
 
     messages = []
     if system_prompt:
@@ -91,10 +69,10 @@ def chat_with_model(
     response = client.chat.completions.create(
         model=model,
         messages=messages,
-        temperature=0.0,
+        temperature=1 if model in ["gpt-5-mini", "gpt-5"] else 0.0,
         top_p=1.0,
         frequency_penalty=0.0,
-        presence_penalty=0.3,
+        # presence_penalty=0.3,
     )
     return response.choices[0].message.content.strip()
 

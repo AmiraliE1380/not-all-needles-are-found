@@ -1,15 +1,9 @@
 from shortening import *
-from combiner import STORY_SEPERATOR
+from constant_vals import MIDDLE_OF_STORY, STORY_SEPERATOR
 from counter import count_tokens
 
 GPT_4O_MINI_CONTEXT_LENGTH = 128000  # Maximum context length for GPT-4o-mini in tokens
 GPT_4O_MINI_CONTEXT_LENGTH_WORDS = 80000  # Conservative max context length for GPT-4o-mini in words
-MIDDLE_OF_STORY = (
-"\n################################################"
-"\n############# MIDDLE OF THE STORY. #############"
-"\n################################################\n"
-)
-
 
 # contracting original story to a target length
 # input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_2000000.txt"

@@ -48,3 +48,35 @@ STORY_SEPERATOR = ("\n\n################################################\n"
                         "################################################\n\n")
 
 
+MIDDLE_OF_STORY = (
+"\n################################################"
+"\n############# MIDDLE OF THE STORY. #############"
+"\n################################################\n"
+)
+
+from typing import List
+
+OPENAI_MODELS: List[str] = [
+    "gpt-5",
+    "gpt-5-mini",
+    "gpt-4o",
+    "gpt-4o-mini",
+    "gpt-4-turbo-2024-04-09",
+    "gpt-4.1",
+    "gpt-4.1-mini",
+    "gpt-4.1-nano",
+    "gpt-4-0613",
+    "gpt-4-32k-0613",
+    "gpt-4",
+    "gpt-3.5-turbo",
+    "gpt-3.5-turbo-0125",
+    "gpt-3.5-turbo-0613",
+    "gpt-3.5-turbo-16k",
+    "gpt-3.5-turbo-instruct",
+    "o1",
+    "o1-mini",
+    "o1-pro",
+    "o3-mini",
+    "o3",
+    "o3-pro",
+]

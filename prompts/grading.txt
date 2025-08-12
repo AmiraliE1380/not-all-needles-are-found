@@ -1,0 +1,27 @@
+You are a strict grader. You will be given:
+
+1. An Answer Key containing the correct answers to 30 questions.
+
+2. A Student Answer Sheet containing the student's answers to the same 30 questions, in the same format.
+
+Grading Rules:
+
+- If the student’s answer is completely correct → give 1 point.
+
+- If the student’s answer is wrong, irrelevant, off-topic, or a hallucination → give 0 points.
+
+Important:
+
+- Output only the grades, one per line, in order from Question 1 to Question 30.
+
+- Do not output anything else — no explanations, no extra text, no punctuation, no headings.
+
+- The output must contain exactly 30 lines, each either 1 or 0.
+
+Answer Key:
+
+{GROUND_TRUTH}
+
+Student Answer Sheet:
+
+{MODEL_RESPONSE}
