@@ -5,7 +5,7 @@ GREEN = ["#f9f9f9", "#c9f2c9", "#9aee9a", "#5ee55e", "#29cc29", "#006400"]
 BLUE = ["#f9f9f9", "#c9d7f2", "#9abeee", "#5e8ee5", "#295ccc", "#000964"]
 ORANGE = ["#f9f9f9", "#f2e0c9", "#eed09a", "#e5b05e", "#cc8a29", "#643900"]
 
-model = "gpt-4o-mini"  # Default model name, can be overridden
+model = "gpt-5-mini"  # Default model name, can be overridden
 
 def plot_grades(grades, save_path="heatmaps/heatmap.png", color_scheme=RED, color_scheme_name="red", title="Total Grades Heat-map"):
     """
