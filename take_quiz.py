@@ -1,9 +1,10 @@
 from inject_fact import inject_fact
 from call_api import chat_with_model
+import os
 
 import time
 
-
+model = "gpt-4o-mini"  # default model to use for chat_with_model
 
 def grade_quiz(model_response, ground_truth):
     """
@@ -73,7 +74,7 @@ def take_single_quiz(story_address, fact_location : float):
 
     # print(f"quiz = \n{quiz}\n")
 
-    model_responce = chat_with_model(prompt=quiz)
+    model_responce = chat_with_model(prompt=quiz, model=model)
     # print(f"model_responce = \n{model_responce}\n")
 
     with open('prompts/answer_keys/answer_key1.txt', 'r') as file:
@@ -84,49 +85,6 @@ def take_single_quiz(story_address, fact_location : float):
     print(f"Grade = {grade}\n")
 
     return grade
-
-
-def plot_grades(grades, save_path="heatmaps/heatmap.png"):
-    """
-    Render a numeric matrix (0–100) as a heat-map and save it to *save_path*.
-    Each cell shows the value as a percentage with one decimal (e.g. 91.0%).
-    """
-    import os
-    import numpy as np
-    import matplotlib.pyplot as plt
-    import seaborn as sns
-    from matplotlib.colors import LinearSegmentedColormap
-
-    os.makedirs(os.path.dirname(save_path), exist_ok=True)
-
-    # --- colour map: white → deep red -----------------------------------------
-    cmap = LinearSegmentedColormap.from_list(
-        "white_to_red",
-        ["#f9f9f9", "#f2c9c9", "#ee9a9a", "#e55e5e", "#cc2929", "#640000"],
-        N=256,
-    )
-
-    # --- build string matrix like "91.0%" -------------------------------------
-    annot_strings = np.vectorize(lambda x: f"{x:.1f}%")(grades)
-
-    # --- draw -----------------------------------------------------------------
-    plt.figure(figsize=(len(grades), len(grades[0])), dpi=100)
-    sns.heatmap(
-        grades,
-        vmin=0,
-        vmax=100,
-        cmap=cmap,
-        square=True,
-        linewidths=0.5,
-        cbar_kws={"label": "Grade"},
-        annot=annot_strings,   # use the strings with "%"
-        fmt=""                 # disable seaborn's automatic formatting
-    )
-    plt.title("Grades Heat-map")
-
-    plt.savefig(save_path, bbox_inches="tight")
-    plt.close()
-    print(f"Heat-map written to: {save_path}")
 
 
 
@@ -140,20 +98,26 @@ def take_quizes_diff_lengths():
     """
     grades = []
     
-    # for i in range(1, 11):
-    for i in [10]:
-        story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_{i*10}%.txt"
+    # for i in range(10):
+    for i in range(9):
+        story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_{(i+1)*10}%.txt"
         grades.append([])
         # for j in range(10):
         for j in range(10):
             fact_location = j * 0.1 + 0.05
             print(f"Taking quiz for story length {i*10}% and fact location {fact_location}...")
             # grades[i - 1].append(take_single_quiz(story_address, fact_location))
-            grades[0].append(take_single_quiz(story_address, fact_location))
+            grades[i].append(take_single_quiz(story_address, fact_location))
             print("\n" + "="*50 + "\n")
 
             time.sleep(1)  # to avoid rate limit errors
     
+    print(grades)
+    save_grades_path = f"logs/grades_{model}.txt"
+    os.makedirs(os.path.dirname(save_grades_path), exist_ok=True)
+    with open(save_grades_path, 'w') as file:
+        file.write(str(grades))
+    print(f"Grades saved to {save_grades_path}")
     # print("Grades matrix:")
     # print(grades)
     # plot_grades(grades)
