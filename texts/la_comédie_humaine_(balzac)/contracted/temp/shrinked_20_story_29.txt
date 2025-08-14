@@ -1,212 +1,603 @@
-**EUGENIE GRANDET**  
-By Honore De Balzac  
-Translated by Katharine Prescott Wormeley  
+Produced by John Bickers, and Dagny
 
-**DEDICATION**  
-To Maria. May your name, that of one whose portrait is the noblest ornament of this work, lie on its opening pages like a branch of sacred box, taken from an unknown tree, but sanctified by religion, and kept ever fresh and green by pious hands to bless the house.  
-—De Balzac.
+EUGENIE GRANDET
 
----
+By Honore De Balzac
 
-**EUGENIE GRANDET**
+Translated by Katharine Prescott Wormeley
 
-**I**
+DEDICATION
 
-In certain provincial towns, some houses evoke profound melancholy, reminiscent of cloisters or ruins. One such house in Saumur, at the end of a steep street leading to the chateau, embodies this sadness. The narrow, seldom-traveled street is lined with ancient homes over three centuries old, their carved oaken beams and worn window-sills narrating the history of France.
+To Maria.
 
-Next to a dilapidated artisan's home stands the mansion of Monsieur Grandet, a country gentleman whose door bears remnants of armorial bearings. The ground-floors of merchants here are dark, deep rooms without glass, where goods are displayed simply. The inhabitants of Saumur, deeply connected to the land, are acutely aware of the weather's impact on their livelihoods, with conversations revolving around harvests and market conditions.
+May your name, that of one whose portrait is the noblest ornament of this work, lie on its opening pages like a branch of sacred box, taken from an unknown tree, but sanctified by religion, and kept ever fresh and green by pious hands to bless the house.
 
-On Saturdays, merchants leave for their vineyards, leaving the streets empty. Life unfolds outdoors, with neighbors observing each other closely. The old town of Saumur, once home to local nobility, houses the Grandet family, whose story is central to this narrative.
+De Balzac.
 
-Monsieur Grandet, known as le Pere Grandet, was a master cooper who became wealthy during the Revolution by purchasing church properties. With his wife’s dowry, he acquired prime vineyards and farms, becoming a respected figure in Saumur. His wealth grew through shrewd investments and a keen understanding of the wine trade, making him a significant player in the local economy.
+EUGENIE GRANDET
 
-By 1816, Grandet's estate was estimated at nearly four million francs, with many believing he had hidden treasures. His reputation was built on financial acumen and market manipulation, earning him both admiration and fear. He lived frugally, relying on his land for sustenance and employing only a few trusted individuals.
+I
 
-Grandet's demeanor was simple and unassuming, yet he commanded respect. He rarely spoke, preferring short, decisive phrases. His stutter, often mistaken for a lack of education, was a calculated facade. He was a man of routine, dressed consistently in practical clothing, and his life revolved around his daughter, Eugenie, whom he intended to marry off advantageously.
+In certain provincial towns, some houses evoke a melancholy reminiscent of cloisters, moorlands, or ruins. Within these homes, silence prevails, and life seems stagnant, interrupted only by the cold gaze of a solitary figure peering from a window.
 
-The social dynamics of Saumur were influenced by the competition for Eugenie's hand in marriage. Two families, the Cruchots and the des Grassins, vied for her favor, each believing they could secure a more advantageous match. The Cruchots, led by the ambitious C. de Bonfons, sought to align with the Grandets through marriage, while the des Grassins, represented by the charming Adolphe, aimed to win Eugenie’s heart.
+Such a somber atmosphere characterized a house in Saumur, located at the end of a steep street leading to the chateau. This street, now seldom traveled, is notable for its clean, dry pebbly pavement and the peaceful stillness of its ancient houses, which date back three centuries. The houses, built of wood, display unique architectural features that attract artists and antiquarians.
 
-As the story unfolds, the tension between these families escalates, with stakes raised by the potential inheritance of Eugenie’s fortune. The arrival of the estate of Froidfond for sale creates further intrigue, as both factions see it as a means to elevate their status and secure Eugenie’s future.
+As one walks past these homes, the enormous oaken beams, intricately carved, catch the eye. Some houses are adorned with slate, while others have worn window-sills barely able to support the pots of flowers. Doors are studded with large nails, bearing the marks of history, from Protestant symbols to the insignia of long-forgotten bourgeois families. The entire history of France is encapsulated in these structures.
 
-Monsieur Grandet, seizing the opportunity, purchases the estate, further solidifying his wealth and influence. This acquisition sends ripples through Saumur, as townspeople speculate on the implications for the Grandet family and the ongoing competition for Eugenie’s hand.
+Next to a dilapidated house, a country gentleman's mansion stands, its stone archway still showing traces of armorial bearings, worn by the revolutions since 1789. The ground floors of merchants' homes are not shops but simple, dark rooms with no glass fronts, where goods are displayed in a straightforward manner. A young girl, knitting, calls for her parents to assist customers, who are served with varying degrees of politeness.
 
-In this world of ambition, avarice, and social maneuvering, the fate of Eugenie Grandet hangs in the balance, reflecting the complexities of love, wealth, and familial duty in a changing society.
+In this region, the weather significantly impacts commerce. Merchants, wine-growers, and coopers closely monitor the skies, fearing frost or rain that could ruin their fortunes. On Saturdays, merchants leave for their vineyards, leaving the streets quiet, where life unfolds openly, with neighbors observing each other's activities.
+
+The old town of Saumur, where the story unfolds, is home to a particularly melancholic mansion belonging to Monsieur Grandet. To understand the significance of this house, one must first know the man himself.
+
+Monsieur Grandet was a master cooper in 1789, married to the daughter of a wealthy wood merchant. With his own savings and his wife's dowry, he purchased prime vineyard land during the sale of church properties. His reputation grew as he became a protector of the local nobility and a supplier to the Republican armies, gaining wealth and influence.
+
+By 1806, Grandet had become mayor and continued to amass wealth through wise investments in vineyards and properties. He inherited three fortunes that year, further solidifying his status as a prominent figure in Saumur. His estate included vast vineyards, farms, and an abbey, making him one of the wealthiest men in the region.
+
+Grandet's wealth was a source of pride for the townspeople, who speculated about the extent of his riches. He was known for his shrewdness in business, always knowing when to sell his wine for maximum profit. His financial acumen made him a figure of both admiration and fear.
+
+In 1816, estimates of Grandet's wealth reached nearly four million francs, with many believing he had an equal amount in cash. His reputation overshadowed any past ridicule, as his actions were now seen as law in the community. His frugality extended to his personal life; he rarely spent money on anything beyond necessities.
+
+Grandet's demeanor was simple and unassuming. He spoke little, often stuttering when required to engage in lengthy conversations. His apparent lack of eloquence was a calculated facade, allowing him to maintain control in business dealings. He never committed to anything without consulting his wife, whom he kept in a state of subservience.
+
+Physically, Grandet was a stout man, with a round face and a cunning expression. His attire was consistent and practical, reflecting his frugal nature. Only a few individuals had access to his home, including a young magistrate, C. de Bonfons, who was keen to marry Grandet's daughter, Eugenie.
+
+The social dynamics in Saumur revolved around the competition for Eugenie's hand in marriage, primarily between the Cruchots and the des Grassins. The Cruchots, a powerful family, sought to marry Eugenie to their nephew, while the des Grassins aimed to secure a match for their son, Adolphe. This rivalry created a buzz in the community, with speculation about Grandet's true intentions for his daughter.
+
+In early 1811, the Cruchots gained an advantage when the estate of Froidfond was put up for sale. They successfully negotiated the purchase of the estate for Grandet, who paid in gold, further enhancing his wealth and influence. This acquisition was a significant event, echoing throughout the region and solidifying Grandet's status as a formidable figure in Saumur.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Monsieur Grandet's house is a cold, tufa stone structure resembling a jail, with a weathered archway and crumbling bas-relief. The entrance features a solid oak door with a rusty grating, leading to a dark vault and a damp garden enclosed by thick walls. The main room serves multiple purposes—antechamber, salon, office, and dining room—where local townsfolk conduct business with Grandet. Adorned with gray wooden panels, an old brass clock, and faded tapestries, the hall reflects the family's modest lifestyle.
+It is now clear what is meant by “the house of Monsieur Grandet,” a cold, silent dwelling perched above the town, sheltered by the ruins of the ramparts. The entrance features two pillars and an arch made of tufa, a soft white stone that lasts only about two centuries. Numerous irregular holes, weathered by time, give the arch and walls a jail-like appearance. Above the arch is a crumbling bas-relief depicting the four seasons, topped by a plinth where various plants, including a small cherry tree, have taken root.
 
-Madame Grandet and their daughter, Eugenie, live under strict conditions, with Grandet tightly controlling their resources. They manage household tasks diligently, often working late into the night. Their servant, La Grande Nanon, has worked for thirty-five years, earning a meager wage but saving enough for her future. Despite her rough appearance, she is devoted to Grandet, who treats her with disdain yet grudging affection.
+The door is made of solid oak, brown and split, yet secured by iron bolts. A small, rusted grating in the middle panel allows inquisitive visitors to glimpse a dark, slimy vault leading to a garden enclosed by thick, damp walls, remnants of the ramparts that also border neighboring gardens.
 
-In November 1819, the family prepares to celebrate Eugenie's birthday. Grandet gifts her a gold coin, while Madame Grandet presents a new dress. Their dinner is interrupted by local notables, including the Cruchots and the des Grassins, who bring gifts for Eugenie. The des Grassins' son, Adolphe, delights her with a workbox, while Grandet remains focused on wealth and marriage prospects for Eugenie.
+The most significant room on the ground floor is a large hall, serving multiple purposes: antechamber, salon, office, boudoir, and dining room. It is where the barber comes to cut Monsieur Grandet’s hair and where local farmers and officials conduct business. The hall, with two street-facing windows, is entirely wooden, featuring gray panels and a ceiling of exposed beams. An old brass clock and a greenish mirror adorn the mantel above a white stone chimney. The room is decorated with antique chairs covered in faded tapestry, and at each corner are closets or buffets with dirty shelves.
 
-As the evening progresses with card games, tensions among the guests emerge, all vying for Grandet's favor. The atmosphere blends familial warmth with cold calculations of social status and financial gain. The night takes a turn when a loud knock at the door interrupts the festivities, signaling an unexpected visitor and heightening the tension.
+In the hall, an old card table stands between the windows, topped with a barometer and two pastel portraits of Madame Grandet’s ancestors. The windows are draped with red gros de Tours curtains, a luxury that contrasts with Monsieur Grandet’s frugality. A straw chair by the window allows Madame Grandet to observe passersby, while a work table and Eugenie’s armchair occupy the space. For fifteen years, the lives of Madame and Mademoiselle Grandet have revolved around constant work, with fires only lit on specific dates, relying on a foot-warmer for warmth during chilly months.
 
-Nanon lit a candle and opened the door for her master, Monsieur Grandet, who was called by his alarmed wife while the players exchanged worried glances. Sensing something ominous, Monsieur des Grassins suggested they leave. When a young man arrived with trunks, Grandet brusquely told his wife to return to the game, leaving the players uneasy.
+La Grande Nanon, the family servant, has been with Monsieur Grandet for thirty-five years, earning only sixty francs a year but managing to save enough to invest in an annuity. Despite her unattractive appearance, she was welcomed into the Grandet household, where she worked tirelessly, cooking, washing, and managing the household with unwavering loyalty. Grandet’s rare acts of kindness, such as giving her an old watch, were seen as monumental gestures.
 
-The newcomer, Charles Grandet from Paris, was handsome and stylish, contrasting sharply with the provincial attire of the others. He greeted the company gracefully, but Grandet's stern demeanor overshadowed the welcome. Madame Grandet offered hospitality, but Grandet insisted he needed no refreshment.
+In 1811, during a difficult grape harvest, Grandet’s treatment of Nanon was marked by a mix of affection and control, as he relied on her for labor while she remained devoted to him. Nanon’s gratitude for her employment and the meager kindnesses she received from Grandet formed a bond that was both simple and complex, reflecting the dynamics of power and dependency in their relationship.
 
-Visiting Saumur for the first time, Charles aimed to impress with his Parisian sophistication, bringing an extravagant collection of clothing and accessories, unaware of the modest lifestyle that awaited him. The provincial guests, including the Cruchots and des Grassins, were taken aback by his elegance, feeling both admiration and disdain. Eugenie Grandet, Charles's cousin, was particularly captivated, longing for the refinement he represented, contrasting sharply with her mundane life.
+The household was marked by a stark contrast between the treatment of Nanon and the expectations of other servants in Saumur. Nanon’s kitchen was a model of cleanliness and efficiency, and she often worked late into the night, sleeping in a small closet-like space. The upper floors of the house, in contrast to the hall’s modest luxury, were bare and unadorned.
 
-As the game of loto concluded, Nanon announced preparations for Charles's room. Eager to impress, Eugenie rushed to help, suggesting improvements for his comfort, even proposing to buy a wax candle, a luxury her father would typically deny.
+On a November evening in 1819, Nanon lit the fire for the first time that season, coinciding with Eugenie’s birthday. The family prepared for a gathering, with local notables arriving to pay their respects. Grandet presented Eugenie with a gold coin, a tradition he had maintained for years, while Madame Grandet gifted her a new dress. The family’s financial practices were steeped in tradition, with Grandet encouraging Eugenie to save for her future marriage.
 
-Meanwhile, Madame des Grassins attempted to charm Charles, hinting at social gatherings to alleviate his boredom in Saumur. She subtly criticized Grandet's miserly nature, positioning herself as a potential matchmaker.
+As the evening progressed, the arrival of guests, including the des Grassins family, introduced a competitive atmosphere. Madame des Grassins, a lively woman, and her son Adolphe presented gifts to Eugenie, which sparked jealousy among the other guests. The interactions were laced with underlying tensions, as Grandet observed the dynamics with a mix of pride and possessiveness over his daughter.
 
-As the evening progressed, Grandet received a letter revealing a family tragedy: his brother was bankrupt and dying, leaving Charles in a precarious situation. The letter implored Grandet to care for Charles, emphasizing urgency. Grandet's reaction was mixed, concealing his thoughts while contemplating the implications of his brother's demise.
+The gathering, filled with laughter and light-hearted games, masked the deeper motivations of the attendees, all of whom were vying for a share of Grandet’s wealth. The scene was a blend of familial warmth and the cold calculations of social status, with Grandet at the center, manipulating the relationships for his benefit. The simplicity of Eugenie and her mother’s lives contrasted sharply with the materialistic pursuits of their guests, highlighting the complexities of human relationships and the often hidden motivations behind them.
 
-After the guests departed, Grandet's demeanor shifted, revealing a man grappling with familial duty and financial responsibility. Charles's arrival disrupts the provincial status quo, igniting curiosity and ambition among the local elite while unveiling the burdens of family legacy and expectations of wealth.
-
-Monsieur Grandet, a miser, instructs his nephew Charles on household routines upon his arrival, emphasizing the family's hard work and lack of wealth despite rumors of riches. Charles feels out of place in his uncle's shabby home and is warned about the ferocious dog, questioning why his father sent him there.
-
-As Charles settles in, he reflects on his visit's purpose. Meanwhile, Eugenie becomes aware of her feelings for Charles while preparing for the day. She admires her appearance but doubts her beauty, feeling unworthy of him.
-
-Eugenie's morning is consumed with thoughts of Charles, and she asks Nanon to prepare a special breakfast to impress him. Grandet, however, is stingy and engages in a comical argument with Nanon over provisions. Despite his frugality, he reluctantly allows Nanon to make a galette for the young ones.
-
-Later, Grandet takes Eugenie for a walk, where they meet Cruchot, the notary. Their conversation reveals Grandet's disdain for the idea of marrying Eugenie to Charles, stating he would rather throw her into the Loire than allow such a union. This devastates Eugenie, who has begun to develop feelings for Charles.
-
-Grandet soon receives news of his brother's suicide, shocking the family. Eugenie is deeply affected, feeling compassion for Charles, who remains unaware of his father's fate. Grandet insists Eugenie should not inform Charles until he returns, revealing his cold-heartedness.
-
-Overwhelmed, Eugenie confides in her mother, who understands but urges her to respect her father's wishes. Despite the tension, Eugenie expresses her affection for Charles and desires to prepare a special breakfast for him, highlighting her growing attachment amid financial hardship and emotional turmoil.
-
-After two hours of anxious preparation, Eugenie creates an unusual breakfast for Charles, deviating from their typical meal of bread, fruit, and wine. She sets the table carefully, worried about her father's reaction if he returned to find such a spread. Madame Grandet reassures her, promising to take the blame if necessary. When Charles arrives, flamboyantly dressed, he greets them cheerfully despite the recent destruction of his family estate.
-
-As they eat, Charles expresses a desire for more extravagant food, making Eugenie wish she could provide him with a partridge. Their conversation highlights the contrast between Charles's Parisian lifestyle and Eugenie's simple country life. Charles compliments Eugenie, causing her to blush, and they share a moment of connection. However, the mood shifts when Nanon brings in coffee, prompting Charles to comment on their outdated brewing method.
-
-The atmosphere darkens with the familiar knock of Monsieur Grandet. The women panic, quickly hiding evidence of the breakfast. Grandet enters, scrutinizing the scene and chastising them for the lavish meal, unaware of its significance to Charles. As he prepares his own meager breakfast, he notices the sugar and questions its source, leading to a tense silence.
-
-Charles, oblivious to the tension, inquires about his father's health, only to learn of his father's suicide. The revelation shatters him, prompting sympathy from Eugenie and her mother, while Grandet remains detached, focusing on financial implications. Moved by Charles's grief, Eugenie feels a growing affection for him, encouraging him to think of his honor as they sew in silence, contemplating wearing mourning for her uncle, indicating her deepening connection to Charles and their shared grief.
+As the evening unfolded, the atmosphere shifted with the arrival of a loud knock at the door, signaling an unexpected interruption that would change the course of the night.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-At around four o'clock, a sharp knock startled Madame Grandet. She felt relieved when her husband, Grandet, entered joyfully, announcing he had sold his wine to a Belgian for a good profit. However, when Eugenie suggested helping her grieving cousin Charles, Grandet's mood soured. He scolded her for even considering spending money on him, threatening to send her away if she mentioned it again.
+Nanon took a candle and opened the door, followed by her master, Monsieur Grandet. His wife, alarmed, called out to him, and the players exchanged worried glances. Monsieur des Grassins suggested they all go, sensing something ominous. When a young man appeared with a porter carrying trunks, Grandet brusquely told his wife to return to the game, leaving him to speak with the newcomer.
 
-Consumed by thoughts of investments, Grandet retreated to his secret den to calculate his wealth. Meanwhile, Charles mourned in his room, refusing to eat. Grandet dismissed the idea of mourning attire, insisting true mourning was internal. The family dinner was tense, with Madame Grandet suggesting they wear mourning, but Grandet scoffed at the expense.
+The players resumed their seats but did not continue the game. Madame des Grassins inquired if the traveler was from Saumur, to which her husband replied he was a traveler from Paris. The notary noted the time, confirming the diligence was on schedule. The Abbe Cruchot asked if the gentleman was young, and des Grassins confirmed he was, with heavy luggage.
 
-Feeling compassion for Charles, Eugenie secretly visited him, offering comfort. She admired his handsome face, now marked by grief, awakening a desire for love she had never known.
+Eugenie remarked on Nanon's absence, and the president suggested the newcomer might be a relative. Madame Grandet gently urged them to continue playing, sensing her husband’s annoyance. Adolphe, trying to be discreet, hinted that the young man might be a cousin, but his mother silenced him.
 
-The next morning, Grandet's demeanor shifted; he appeared more thoughtful and less harsh. He planned to manipulate the situation to his advantage, intending to help Charles while safeguarding his financial interests. He devised a scheme to impress the townspeople without spending his own money.
+Grandet returned without Nanon, and the young traveler, who had piqued everyone's curiosity, entered. He was greeted with polite bows from the men and a ceremonious curtsy from the women. Madame Grandet offered him warmth, but Grandet, absorbed in a letter, dismissed her concern. The stranger, Charles Grandet, thanked Eugenie for her hospitality but insisted he was not tired.
 
-Eugenie busied herself caring for Charles, bringing him breakfast and attending to his needs. Their bond deepened as they shared tender moments amidst their sorrows. Grateful for her kindness, Charles began to see Eugenie in a new light, appreciating her innocence and compassion.
+Madame des Grassins asked if he had come from the capital, and Charles, adjusting his eye-glass, examined the room and its occupants. He acknowledged the game of loto, which had captivated the players, while Eugenie observed him with a mix of admiration and curiosity. Charles, a handsome young man of twenty-two, was determined to impress his provincial relatives with his Parisian sophistication.
 
-As the day progressed, Grandet prepared to host a dinner for the Cruchots, signaling a rare moment of generosity. The household buzzed with activity, and Charles, though still grieving, joined them with quiet dignity. The atmosphere was charged with unspoken emotions, as Eugenie and Charles exchanged glances filled with understanding and hope.
+He had been sent by his father to stay with his uncle in Saumur, intending to showcase his fashionable attire and lifestyle. He brought an array of luxurious clothing and accessories, including a hunting costume, various waistcoats, and a gold toilet set. His father had instructed him to travel modestly, but Charles took a private coupe, relishing the opportunity to flaunt his wealth.
 
-At this moment, the town of Saumur was more focused on Grandet's dinner for the Cruchots than on the previous night's controversial wine sale. Grandet, a shrewd miser, disregarded public opinion, viewing himself as superior to the community he often deceived.
+As he entered the room, the contrast between his elegance and the provincial guests was stark. The Cruchots, with their shabby attire and unkempt appearance, were taken aback by his presence. Charles’s nonchalant demeanor and fashionable attire drew both admiration and disdain from the locals, who were unaccustomed to such refinement.
 
-The des Grassins family learned of Guillaume Grandet's death and decided to visit that evening to express condolences and understand his motives for inviting the Cruchots. The dinner atmosphere was somber, with Grandet grave, Charles silent, and Eugenie and Madame Grandet saying little. After dinner, Charles excused himself to write letters, allowing Grandet to speak privately with the Cruchots.
+Eugenie, captivated by her cousin's charm, felt a longing for the world he represented, contrasting sharply with her mundane life. She was enchanted by his appearance and the delicate items he carried, feeling a deep desire to connect with him.
 
-Grandet, known for his cunning, used his stutter and feigned deafness to manipulate the conversation, avoiding responsibility. He discussed bankruptcy with Monsieur C. de Bonfons, who tried to guide him through insolvency complexities. While pretending to be confused, Grandet assessed how to navigate his brother's financial troubles without damaging his own reputation.
+The game of loto ended abruptly when Nanon returned, asking for sheets for Charles’s bed. Madame Grandet followed her, and the players, sensing the evening's end, began to leave. Eugenie, driven by a newfound impulse, excused herself to assist her mother and Nanon in preparing Charles’s room, eager to make it comfortable and elegant.
 
-The Cruchots suggested that Grandet could liquidate his brother's affairs to preserve family honor. However, Grandet expressed reluctance to engage in matters outside his expertise, insisting he was merely a wine-grower focused on his vines. The conversation shifted to the possibility of buying his brother's debts at a reduced rate, which intrigued Grandet but seemed complicated.
+She suggested various improvements, including a warming pan for the bed and a wax candle instead of tallow, using her birthday as an excuse to persuade Nanon to comply. Meanwhile, Madame des Grassins engaged Charles in conversation, subtly vying for his attention and hinting at the social opportunities in Saumur.
 
-As the discussion progressed, the notary cautioned against compromising integrity. Just then, the des Grassins arrived, offering condolences for the Grandet family's misfortunes. The notary seized the moment to assert that Grandet intended to liquidate his brother's debts honorably, surprising the des Grassins, who had expected selfishness.
+Charles, feeling out of place, responded graciously to her advances, while the other guests speculated about his intentions and potential interest in Eugenie. The Abbe Cruchot, observing the dynamics, made sly comments that hinted at the underlying tensions and ambitions among the guests.
 
-Impressed by Grandet's supposed nobility, the des Grassins offered to help manage the financial situation, but Grandet preferred to work with them rather than the Cruchots. He confided in the banker about his interest in investing in government bonds, indicating a desire to profit while maintaining a façade of familial duty.
+As Grandet read a letter from his brother, revealing a dire financial situation and a plea for his son Charles to be cared for, he masked his emotions. The letter detailed the brother's impending bankruptcy and his hopes that Grandet would protect his son from the fallout. Grandet's demeanor shifted as he processed the implications of the letter, revealing a complex interplay of familial duty and personal greed.
 
-After the des Grassins left, Grandet instructed his servant Nanon to prepare for a secretive journey to sell his gold in Angers, taking advantage of rising prices due to military preparations. His meticulousness ensured that no one suspected his true intentions as he departed under the cover of night. Grandet's dinner highlighted his manipulation of those around him, reflecting a complex interplay of greed, deception, and the desire to uphold a facade of honor amidst personal gain.
+When the guests departed, Grandet's focus returned to his nephew, and he offered him a modest room, downplaying his wealth. The evening concluded with the guests speculating about the future, aware that Charles's presence could disrupt the delicate balance of relationships in Saumur. The Cruchots and des Grassins recognized the need to unite against a common rival, determined to prevent Eugenie from falling for her cousin and to manipulate the situation to their advantage.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Eugenie stood at the top of the stairs, reflecting on her father’s departure. The house was silent until she heard a cry from her cousin Charles's room. Concerned, she rushed upstairs to find him asleep in an armchair, exhausted from writing letters. She noticed addresses of various businesses, realizing he was preparing to leave France. Her heart sank upon spotting a letter addressed to "My dear Annette," igniting feelings of jealousy and despair.
+When the four relatives were left alone, Monsieur Grandet told his nephew, Charles, that it was too late to discuss the matters that had brought him there. They would have breakfast at eight, a light lunch at noon, and dinner at five. He mentioned that while people might think he was wealthy, he was actually quite poor and worked hard for his money. He instructed Nanon to bring candles for Charles, who assured his aunt that he needed nothing and bid them goodnight.
 
-Despite her resolve not to read it, curiosity overwhelmed her. The letter revealed Charles's tragic situation: his father had committed suicide, leaving him destitute. He expressed his determination to seek fortune in the Indies, lamenting that he could not return to Paris, where he would face scorn as the son of a bankrupt. Eugenie felt compassion for him and vowed to help.
+Charles took a candle from Nanon, which was so worn it resembled tallow. Grandet led him through the house, avoiding the cold air from the staircase. As they ascended, Charles's expectations began to diminish; the staircase felt shabby, and he wondered why his father had sent him to such a place. He noticed the doors on the landing, particularly one that was walled up, which led to Grandet's office, a place where he conducted his business in secrecy. Grandet was known for his meticulousness, and it was rumored that he hoarded his wealth there.
 
-Continuing to read, she discovered that Charles had no money for his journey or even a proper outfit. He contemplated sailing as a common sailor if necessary. The letter also revealed his deep love for Annette but his decision to part ways for her sake, believing it would be better for both. This filled Eugenie with joy, interpreting it as a sign of his love for her.
+Eugenie, Grandet's daughter, was in her room across from the office. After a brief goodnight, she and her mother retired to their chambers. Grandet showed Charles to his room in the attic, warning him to call Nanon if he needed anything, as the dog would be dangerous. Nanon appeared with a warming pan, which Grandet dismissed, grumbling as he left.
 
-Eugenie then found another letter addressed to Alphonse, where Charles detailed his financial ruin and requested assistance in settling his affairs. Moved by his situation, Eugenie decided to offer him her savings, nearly six thousand francs. She approached Charles, who was initially hesitant to accept her gift.
+Charles surveyed his room, noting its shabby decor and wondering about his father's intentions for sending him there. He felt out of place and questioned his purpose. Meanwhile, Eugenie, who was up early, began her morning routine, feeling a new sense of beauty and desire as she prepared for the day. She admired her reflection, feeling inadequate compared to her cousin, Charles.
 
-Eugenie insisted, kneeling before him and imploring him to take the money. Overcome with emotion, Charles eventually agreed, recognizing their deep bond. He then revealed a family heirloom, a dressing case containing portraits of his parents, asking her to keep it safe. Their exchange solidified their connection, transcending mere familial ties.
+As she dressed, she became aware of her surroundings, finding beauty in the garden and the courtyard, which had previously seemed dull. Her heart swelled with new emotions, and she felt a connection to nature that mirrored her budding feelings for Charles. She longed to impress him and felt a sense of urgency to make things better for him.
 
-As they shared this intimate moment, both felt a shift in their relationship. Charles began to see hope in their bond, while Eugenie vowed to support him. The next day, they spent time together, their mutual affection growing stronger amidst family struggles.
+Eugenie rushed to Nanon, asking her to prepare cream for Charles's breakfast. Nanon, however, reminded her that they needed to ask Grandet for provisions. As Grandet entered, he and Nanon engaged in a rare quarrel over supplies, revealing his miserly nature. Eventually, he begrudgingly agreed to give Nanon some flour and butter for a galette.
 
-Eugenie's father, Grandet, returned home with news of his financial dealings, having profited from the sale of gold. His jovial demeanor contrasted sharply with Charles's somber reality, highlighting disparities in their lives. As the day unfolded, tension between the characters became palpable. Charles grappled with his newfound responsibilities, while Eugenie remained steadfast in her support. Their relationship blossomed against societal expectations, setting the stage for future challenges. Ultimately, both found solace in each other, their bond deepening as they navigated love, loss, and harsh realities.
+After breakfast, Grandet took Eugenie for a walk to the fields, where they encountered Cruchot, the notary. Grandet discussed his land and the recent sale of poplar trees, revealing his calculating nature. Cruchot mentioned the gossip about Charles being a potential suitor for Eugenie, to which Grandet reacted vehemently, stating he would rather throw his daughter into the Loire than marry her to her cousin.
 
-The next day, the Grandet family gathered for breakfast, creating a scene of domestic intimacy. Grief united Madame Grandet, Eugenie, and Charles, while the old man, focused on his avarice, remained indifferent. He busied himself with his land and vineyards, allowing the young couple to express their feelings under Madame Grandet's watchful eye.
+This declaration shocked Eugenie, who felt her hopes dashed. She returned home, troubled by her father's harshness and the implications for her feelings for Charles. Meanwhile, Grandet received news of his brother's suicide, which would have dire consequences for Charles. As the family sat down for breakfast, the atmosphere was heavy with unspoken grief and tension.
 
-Eugenie experienced the awakening of love, having shared a secret with Charles that deepened their bond. Their relationship blossomed amidst mourning, as they found joy in each other's company, exchanging tender glances and words. Charles, who had known only tumultuous love, now embraced a pure affection for Eugenie and even the old house, which he had once found ridiculous.
+Eugenie, feeling a deep sense of empathy for Charles, began to cry, realizing the weight of the situation. Grandet, however, remained indifferent, focusing on his own concerns. Eugenie and her mother shared a moment of understanding, and Eugenie expressed her feelings for Charles, wanting to do something special for him. She and Nanon conspired to prepare a nice breakfast for him, despite the risk of Grandet's wrath.
 
-After breakfast, while Grandet worked, Charles enjoyed the simple pleasure of being with Eugenie and her mother, appreciating their beauty. Eugenie became his ideal, reminiscent of Goethe's Margaret before her fall. Their innocent love was tinged with the awareness of impending separation.
-
-Three days after des Grassins' departure, Grandet took Charles to the Civil courts to renounce his rights to his father's estate, a painful act for Charles. He also arranged for a passport and sold his belongings, which pleased Grandet. Dressed in mourning clothes, Charles appeared more mature, and the family attended a Requiem for Guillaume Grandet.
-
-During breakfast, Charles received letters from Paris, prompting Eugenie to inquire about his affairs. Grandet, irritated by the question, insisted on privacy. Later, in the garden, Charles revealed that he was preparing to leave for the Indies and expressed concern for Eugenie's future, suggesting she might find happiness elsewhere.
-
-Eugenie declared her love for him, and they shared a passionate kiss, interrupted by Nanon. As Charles prepared to leave, Grandet showed unexpected generosity, taking an interest in his nephew's departure and arranging for his belongings to be sent to Nantes.
-
-On the day of Charles's departure, sadness filled the air. Nanon, usually cheerful, shed tears for him. The family escorted Charles to the diligence, where Grandet offered parting words of encouragement. As the coach departed, Eugenie wished for divine power to keep Charles close.
-
-Meanwhile, Grandet engaged in financial dealings in Paris, acquiring a significant fortune through investments. His cunning allowed him to manage his brother's debts while maintaining his reputation. Over time, creditors grew impatient, but Grandet skillfully delayed payments, leveraging their changing moods to his advantage.
-
-As months passed, many creditors forgot their claims, and Grandet continued to manipulate the situation, ultimately selling his investments for a substantial profit. Des Grassins, now living in Paris, faced personal troubles, while Grandet distanced himself from any obligation to him.
-
-In the aftermath of Charles's departure, Eugenie faced profound loneliness. She kept Charles's room as it was, hoping for his return. Her beauty transformed, reflecting the depth of her love. She followed his journey on a world map and mourned his absence while maintaining a facade of cheerfulness around others.
-
-Eugenie's love became a constant presence in her life, overshadowing her daily activities. Nanon, sympathetic to her plight, expressed frustrations about love, highlighting the sacrifices women make. Despite the pain, Eugenie's devotion to Charles remained unwavering as she navigated her emotions in a world that felt increasingly empty without him.
+As they worked together, Eugenie's affection for Charles grew, and she felt a sense of urgency to show him kindness and support in the face of their family's troubles.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Two months passed, and the once monotonous life of Eugenie and her mother, Madame Grandet, was now filled with anxiety over a shared secret involving Charles, Eugenie's cousin. Eugenie often gazed at her aunt's portrait, searching for traces of Charles in her features. One Sunday, her mother discovered Eugenie's secret exchange of gold for Charles's affection, leading to panic about how they would face Grandet on New Year’s Day when he would expect to see Eugenie's gold.
+After two hours of preparation, Eugenie managed to create a simple breakfast that deviated from the family's usual customs. The midday meal was typically taken standing, consisting of bread, fruit, and wine. As she set the table with an armchair for her cousin Charles, she felt anxious about her father's potential reaction. Madame Grandet reassured her, saying she would take responsibility if her husband returned.
 
-As the new year approached, dread consumed the women. Madame Grandet, feeling the weight of her husband's anger and their precarious situation, suggested they avoid confronting him directly. On January 1, 1820, the cold winter morning prompted Madame Grandet to request a fire in her room, hoping to delay their visit to Grandet. Surprisingly, he agreed, displaying an unusual good humor that bewildered both women.
+Charles, dressed with Parisian flair, joined them, cheerfully inquiring about their well-being. He mentioned he rarely ate before midday but was glad to have something after his difficult journey. He jokingly asked for a partridge, which Eugenie wished she could provide. As they sat down, Charles's charming demeanor captivated Eugenie, who admired his elegance and felt a flutter of affection.
 
-Grandet's joy stemmed from a successful financial speculation, having received a substantial sum from Monsieur des Grassins. He reveled in his newfound wealth, oblivious to the turmoil within his family. As he prepared for breakfast, he expressed a desire to see Eugenie's gold, heightening the tension. Eugenie, feeling the weight of her secret, suggested they eat first to postpone the inevitable confrontation.
+Their conversation revealed the stark contrast between their lives; Charles was accustomed to luxury, while Eugenie lived a modest existence. When Nanon brought in eggs, Charles expressed delight, momentarily forgetting his earlier request. As they enjoyed breakfast, Charles complimented Eugenie, making her blush. He dismissed the idea of ridicule, emphasizing his dislike for it.
 
-After breakfast, Grandet pressed Eugenie for her gold, insisting she return it. When she claimed she no longer had it, he erupted in anger, accusing her of deceit and theft. Desperate to protect her mother from Grandet's wrath, Eugenie fell at her mother's feet, pleading for mercy. Madame Grandet, weakened by the confrontation, was taken to bed, leaving Eugenie to face her father alone.
+Eugenie admired Charles's ring, and he showed it to her, their fingers briefly touching, igniting a spark of connection. However, the atmosphere shifted when Nanon brought in coffee, which Charles criticized for being outdated. The women exchanged worried glances, anticipating the arrival of Monsieur Grandet.
 
-Grandet's fury escalated as he demanded to know what Eugenie had done with her gold. She maintained her silence, asserting her independence. Grandet, unable to comprehend her defiance, threatened to confine her to her room until she submitted to his authority. Heartbroken, Eugenie retreated to her mother, who tried to comfort her despite her own suffering.
+When Grandet entered, he quickly assessed the situation, commenting on the breakfast with suspicion. He noticed the sugar and questioned its source, causing tension in the room. Charles, unaware of the underlying dynamics, asked for sugar for his coffee, but Grandet dismissed him, suggesting he add more milk instead. Eugenie bravely placed the sugar back on the table, defying her father's oppressive presence.
 
-The confrontation reached a boiling point, with Grandet cursing Eugenie and accusing her of giving her fortune to Charles. He refused to forgive her, insisting she confess where her gold had gone. Caught between her husband and daughter, Madame Grandet implored him to show compassion, but Grandet remained resolute in his anger.
+Grandet's demeanor shifted as he addressed Charles, hinting at bad news. The young man, still oblivious, inquired about his father's health. Grandet finally revealed the devastating truth: Charles's father had died by suicide, leaving him without any means. The news struck Charles hard, and he broke down in tears, overwhelmed by grief.
 
-As the evening wore on, Grandet dined alone for the first time in years, while Nanon, the servant, tried to comfort Eugenie. The tension in the household was palpable, with Madame Grandet's health deteriorating under the strain of the conflict. The arrival of guests for New Year’s festivities only highlighted the absence of the women, raising suspicions about the family's troubles.
+Eugenie and her mother, witnessing his sorrow, felt a deep sense of compassion. Grandet, however, remained detached, focusing on the financial implications of the tragedy. He explained the concept of bankruptcy to Eugenie, emphasizing the dishonor it brought. She struggled to comprehend the harsh realities of the world, feeling sympathy for her cousin's plight.
 
-In the quiet of the night, Nanon brought Eugenie a special treat, a hare pâté, determined that she would not suffer on dry bread alone. This small act of kindness amidst the turmoil provided a glimmer of hope for Eugenie, who felt the weight of her choices and the love she held for Charles. The family dynamics, marked by love, fear, and the struggle for power, set the stage for a tragic unfolding of events in their lives.
+Grandet mentioned that Charles would be sent to the West Indies to seek fortune, and Eugenie expressed her desire to help him. Grandet reluctantly agreed to fund Charles's journey, which brought a moment of warmth between him and Eugenie. However, the atmosphere remained heavy with grief, and Charles's cries echoed through the house.
 
-For months, Grandet visited his wife’s room without mentioning Eugenie, who was kept under harsh conditions. As Madame Grandet's health declined, townspeople speculated about the family's situation, eventually learning that Eugenie was being fed only bread and water by her father's orders. Despite the town's condemnation, Eugenie remained unaware of the gossip, focused on her love for Charles and her ailing mother.
+Eugenie and her mother decided to comfort Charles, who was still consumed by sorrow. They found him in his room, mourning his father. Eugenie, moved by his pain, offered words of encouragement, urging him to focus on his honor. Charles, however, was lost in his grief, unable to think of anything but his father's suffering.
 
-As her death approached, Madame Grandet urged reconciliation between father and daughter, but Grandet remained indifferent. She confided in the Cruchots about Eugenie's treatment, prompting them to consider legal action against Grandet. However, Eugenie insisted on loyalty to her father, asking them to remain silent to protect family honor.
-
-With spring nearing, Madame Grandet's condition worsened, and she sought help from the notary, Cruchot, who warned Grandet that if his wife died, Eugenie would inherit her mother’s estate, potentially forcing him to sell his property. This revelation shocked Grandet, who had never considered the legal implications of his daughter's inheritance. Cruchot advised him to treat Eugenie kindly to avoid conflict over the estate.
-
-Realizing the gravity of the situation, Grandet decided to reconcile with Eugenie. However, upon entering their home, he found Eugenie and her mother admiring a dressing-case filled with gold given to Eugenie by Charles. Driven by greed, Grandet attempted to seize the gold, leading to a confrontation where Eugenie threatened self-harm if he did not relent. 
-
-In a moment of hesitation, Grandet backed down, allowing Eugenie to keep the dressing-case. He then attempted to show affection towards both his wife and daughter, scattering coins on the bed and promising to care for them. Despite his efforts, Madame Grandet passed away peacefully, leaving Eugenie to navigate a world filled with selfishness and sorrow. In her final moments, Madame Grandet imparted a poignant message about happiness, emphasizing that it lies in heaven.
-
-The day after her mother’s death, Eugenie felt a renewed attachment to her childhood home, despite its painful memories. Her father, M. Grandet, showed unexpected tenderness, which soon revealed itself as a façade for his self-serving agenda.
-
-During a family dinner with notary Maitre Cruchot, M. Grandet informed Eugenie that she was now her mother’s heiress. He pressured her to renounce her rights to the estate, claiming it would spare him taxes and the burden of an inventory. Confused, Eugenie agreed, believing it would ease her father’s worries. M. Grandet promised her a monthly allowance of a hundred francs, which he never fulfilled, instead giving her a few jewels.
-
-In the following years, M. Grandet trained Eugenie in managing the household and his finances, instilling his miserly habits in her. Their lives became monotonous, marked by daily routines devoid of joy. Eugenie’s only social interactions were with the Cruchot family and their friends, who played whist with her father. As M. Grandet aged and became frail, Eugenie devoted herself to caring for him after he suffered a stroke.
-
-M. Grandet’s death was uneventful, overshadowed by his obsession with hidden wealth. In his final moments, he expressed concern for his treasures rather than for Eugenie. After his passing, she learned from Maitre Cruchot that she inherited a vast fortune, including three hundred thousand francs in income and millions in investments and gold. Yet, her thoughts were consumed by her missing cousin, Charles.
-
-Eugenie mourned her father and lost love in solitude, confiding only in her loyal servant, Nanon. Nanon’s marriage brought some joy, but Eugenie remained isolated in her grief. Despite her wealth, she felt no happiness, overshadowed by her mother’s suffering and her unfulfilled love for Charles.
-
-As time passed, the Cruchots and other suitors surrounded Eugenie, eager to win her favor and wealth. They flattered her, but she remained indifferent, still longing for Charles, who had not contacted her in seven years, deepening her emotional desolation despite her wealth.
+As they left him to grieve, Eugenie felt a stirring in her heart, recognizing the depth of her feelings for her cousin. The day had transformed her perspective, and she resolved to share in his mourning, marking a significant shift in her life. The quietude of their home was now filled with the weight of loss, and Eugenie found herself drawn to the complexities of love and sorrow intertwined.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-While events unfolded in Saumur, Charles Grandet was accumulating wealth in the Indies. His initial success of six thousand dollars highlighted the profitability of the slave trade. He traveled to Africa, purchasing enslaved individuals and engaging in exploitative practices like usury and smuggling. Initially inspired by his cousin Eugenie, he became hardened, losing sight of morality and ultimately severing ties with his family.
+About four o’clock, a sharp knock at the door startled Madame Grandet. 
 
-In the Indies, he adopted the alias "Shepherd" to conceal his identity while pursuing wealth through unscrupulous means. By 1827, he returned to Bordeaux aboard the "Marie Caroline," bringing gold-dust worth nearly two million francs. On the ship, he met Monsieur d’Aubrion, whose financial struggles stemmed from marrying into a fashionable family. The d’Aubrions were desperate for a wealthy son-in-law, and Madame d’Aubrion saw potential in Charles.
+“What can have happened to your father?” she asked her daughter. 
 
-Upon arriving in Paris, Charles grew close to the d’Aubrion family, who sought to marry him to their unattractive daughter. Madame d’Aubrion promised to help him gain a noble title and a lucrative court position, exciting Charles and overshadowing thoughts of Eugenie.
+Grandet entered joyfully, rubbing his hands together. 
 
-Meanwhile, Eugenie remained in Saumur, reflecting on her past with Charles. One day, she received a letter from him, which she hesitated to open. The letter revealed that Charles had moved on from their youthful love, expressing that he was free and engaged to Mademoiselle d’Aubrion, prioritizing ambition over their childhood promises. Devastated, Eugenie grappled with feelings of loss, recalling her mother’s prophetic words about suffering and resigning herself to a life of quiet anguish.
+“Wife,” he said, “I’ve trapped them all! Our wine is sold! The Dutch and the Belgians have gone. I pretended to do nothing in the market-place, and the Belgian came to me in despair. The owners of the good vineyards are holding back their vintages, but I didn’t stop them. I made a deal with him for my vintage at two hundred francs a puncheon, half down. He paid me in gold; here are six louis for you. In three months, wines will have fallen.”
 
-Eugenie returned from the garden, deliberately avoiding the corridor filled with memories of her cousin. The day was significant due to the parish priest's visit, who urged her to consider marriage as a means to fulfill her societal obligations, especially to the poor. Overwhelmed by her unhappiness, Eugenie expressed a desire to retreat from the world and devote herself to God.
+His words, though quiet, were laced with sarcasm that would have shocked the townspeople of Saumur, who were already panicking over the news of his sale. 
 
-Madame des Grassins interrupted with shocking news: Eugenie's cousin, Charles Grandet, had returned from the Indies and was engaged to Mademoiselle d’Aubrion. Despite her calm exterior, Eugenie felt turmoil inside. She read a letter from Madame des Grassins detailing Charles's financial troubles and the potential bankruptcy of his father, feeling betrayed as she returned the letter coldly.
+“Did you have a thousand puncheons this year, father?” Eugenie asked.
 
-Later, Eugenie asked the priest if it would be a sin to remain a virgin after marriage, revealing her conflicted feelings about the institution. After he left, she spent the day alone, preparing for the evening gathering at her home. The news of Charles's return had spread, and guests were curious about her reaction. Despite their scrutiny, Eugenie maintained her composure, hiding her pain behind a polite facade.
+“Yes, little one.”
 
-As the evening progressed, Eugenie made a surprising declaration to Monsieur de Bonfons, the president, asking him to stay. Guests interpreted this as a promise of marriage, solidifying her social position. Alone with the president, she stipulated that he must leave her free and not claim marital rights. In exchange for her hand, she asked him to pay off her uncle's creditors, offering a substantial sum for this.
+“Then that makes two hundred thousand pieces of twenty sous each?”
 
-The president agreed, recognizing the bitterness behind her request, and hurried to Paris to settle her debts. Upon his return, he presented Eugenie with the receipts, and she expressed gratitude, acknowledging the complexities of their relationship.
+“Yes, Mademoiselle Grandet.”
 
-Meanwhile, Charles learned of Eugenie's actions and received a letter from her severing ties due to his engagement. She wished him happiness but emphasized that their love could not thrive within societal conventions. The president, now aware of the dynamics at play, felt a mix of triumph and concern.
+“Then, father, you can easily help Charles.”
 
-Eugenie and the president's marriage was announced, and he quickly rose in social standing, becoming a judge and later a deputy. However, his ambitions were cut short when he died shortly after his election, leaving Eugenie a widow. Despite her wealth, she lived modestly, dedicating her life to charitable works and maintaining a simple lifestyle reminiscent of her past.
+Grandet’s cold rage was palpable; he had forgotten his nephew until now. 
 
-Eugenie's life became a testament to her resilience and compassion as she continued to support the less fortunate while grappling with emotional scars. Though pursued by suitors, including the Marquis de Froidfond, she remained steadfast in her independence, embodying a spirit that transcended societal expectations. Her story reflects the complexities of love, duty, and the pursuit of personal fulfillment amidst the constraints of her world.
+“What’s this? Ever since that dandy came into my house, everything goes wrong! You act as if you have the right to buy sugar-plums and throw feasts. I won’t have it! I know my duty! I won’t take lessons from you or anyone else. I’ll do what’s proper for my nephew, and you needn’t meddle. Don’t speak of this again, or I’ll send you to the Abbaye des Noyers with Nanon!”
+
+“Where is that fellow? Has he come down yet?” he asked.
+
+“No, my friend,” Madame Grandet replied.
+
+“What is he doing then?”
+
+“He is weeping for his father,” Eugenie said.
+
+Grandet, momentarily at a loss for words, paced the room before retreating to his secret den to contemplate an investment in public funds. His thinning forest land had yielded him six hundred thousand francs, and with the recent sale, he had amassed a total of nine hundred thousand francs. The prospect of earning twenty percent from the funds tempted him. 
+
+Nanon knocked to summon him to dinner. As he descended the stairs, he thought, “I’ll do it; I shall get eight percent interest. In two years, I’ll have fifteen hundred thousand francs, which I will draw out in gold.” 
+
+At dinner, he learned that his nephew refused to eat. 
+
+“So much saved,” he remarked. 
+
+“That’s so,” Nanon agreed. 
+
+“Bah! He won’t cry long. Hunger drives the wolves out of the woods.”
+
+Madame Grandet suggested they put on mourning. 
+
+“What will you invent next to spend money on? Mourning is in the heart, not in clothes,” he retorted. 
+
+“But mourning for a brother is necessary; the Church commands it,” she insisted.
+
+“Buy your mourning out of your six louis. A hat-band is enough for me.”
+
+Eugenie, feeling the weight of the evening, sewed in silence, while Grandet calculated his profits. The town buzzed with news of Grandet’s sale and his brother’s failure. 
+
+Nanon’s spinning was the only sound in the house. 
+
+“Nothing should be wasted,” Grandet said, lost in thoughts of future wealth. 
+
+“I will bid my nephew good-night and see if he will eat anything,” he declared. 
+
+Madame Grandet and Eugenie listened from the landing as Grandet entered Charles’s room. 
+
+“Well, nephew, you are in trouble. Yes, weep, that’s natural. A father is a father; but we must bear our troubles patiently. I am a good uncle to you. Come, take courage! Will you have a little glass of wine?” he offered, noticing the lack of light in the room. “What’s this? A wax candle! How did they filch a wax candle?”
+
+Hearing this, Madame Grandet and Eugenie retreated to their rooms, frightened. 
+
+“Madame Grandet, have you found a mine?” Grandet asked his wife.
+
+“My friend, wait; I am saying my prayers,” she replied, trembling.
+
+“The devil take your good God!” he growled. 
+
+Misers like Grandet focus solely on the present, disregarding any belief in a future life. This mindset reflects a broader societal trend where money influences laws, politics, and morals. 
+
+“Madame Grandet, have you done?” he asked again.
+
+“I am praying for you,” she said.
+
+“Very good! Good-night; tomorrow morning we will talk.”
+
+She went to bed, anxious about the conversation to come. Eugenie, worried for her cousin, ran to her mother’s side and kissed her brow. 
+
+“Oh! my good mother,” she said, “tomorrow I will tell him it was I.”
+
+“No; he would send you to Noyers. Leave me to manage it; he cannot eat me,” her mother replied.
+
+“Do you hear, mamma?” Eugenie pressed.
+
+“What?”
+
+“He is weeping still.”
+
+“Go to bed, my daughter; you will take cold.”
+
+Thus passed a day that would weigh heavily on Eugenie’s life. Her emotions, previously dormant, surged forth, influenced by the day’s events. 
+
+Restless, she woke at intervals, listening for her cousin, imagining him suffering. In the early morning light, she rushed to his room, finding him asleep in an armchair, exhausted from grief. She admired his handsome face, now marred by sorrow. 
+
+“Pardon me, my cousin,” he said, waking. 
+
+“There are hearts who hear you, cousin, and we thought you might need something. You should go to bed; you tire yourself by sitting thus,” she urged.
+
+“That is true,” he replied.
+
+“Well, then, adieu!” she said, retreating, feeling both ashamed and happy. 
+
+Eugenie’s innocent boldness marked a turning point in her life. She worried about what Charles would think of her visit, hoping he would believe she loved him. 
+
+The next morning, she and her mother waited anxiously for Grandet. When he arrived, he seemed absent-minded, kissing Eugenie and sitting down to breakfast without recalling his threats from the night before. 
+
+“What has become of my nephew? The lad gives no trouble,” he remarked.
+
+“Monsieur, he is asleep,” Nanon answered.
+
+“So much the better; he won’t want a wax candle,” Grandet said, mocking.
+
+This unexpected kindness surprised Madame Grandet. 
+
+Grandet, a poor sleeper, spent his nights calculating his plans, driven by a desire to win at the commercial game of life. He sought to impose upon others, viewing it as a sign of power. 
+
+That day, he devised a scheme to help Charles while maintaining his own financial interests. He aimed to save his brother’s honor without spending a penny, planning to manipulate the Parisians for his own amusement. 
+
+In Grandet’s absence, Eugenie found joy in caring for her cousin, preparing his breakfast with love. She listened for him, eager to know how he felt. 
+
+“Will you breakfast downstairs, or in your room?” she asked through the closed door.
+
+“Where you like,” he replied.
+
+“How do you feel?” she inquired.
+
+“Dear cousin, I am ashamed of being hungry,” he admitted.
+
+“Well, then, we will bring your breakfast to your room, so as not to annoy my father,” she decided, rushing to the kitchen. 
+
+Eugenie’s heart soared as she prepared for Charles’s arrival. After setting the table, she and her mother joined him, offering him comfort and care. 
+
+As they shared breakfast, Charles felt the warmth of their kindness, which contrasted sharply with the indifference he had known in Paris. 
+
+Eugenie’s innocence and genuine affection drew Charles closer to her, and they shared a silent understanding of their mutual feelings. 
+
+When Grandet returned, he found the women seated at their work, unaware of the emotional connection that had blossomed between his nephew and daughter. 
+
+After breakfast, Grandet invited the Cruchots for dinner, surprising everyone. 
+
+As the day unfolded, the atmosphere shifted, hinting at the complexities of love, family, and the burdens of wealth that would shape their lives.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+At this moment, the town of Saumur was more excited about the dinner Grandet hosted for the Cruchots than it had been the previous night during the sale of his vintage, which was considered a betrayal against the wine-growing community. Grandet, viewing himself as superior to the community he often deceived, paid little attention to their opinions.
+
+The des Grassins soon learned of Guillaume Grandet's failure and death, deciding to visit their client that evening to express sympathy and to understand his motives for inviting the Cruchots. At five o'clock, Monsieur C. de Bonfons and his uncle, the notary, arrived in their Sunday best. The dinner was somber, with Grandet grave, Charles silent, Eugenie mute, and Madame Grandet speaking little, making it a proper meal of condolence. After dinner, Charles asked to retire to write a letter.
+
+Once the women left, Grandet skillfully employed his shrewdness, which had earned him the nickname "the old dog." If the mayor of Saumur had aimed higher, he might have been a great asset to his country, but outside Saumur, he would have struggled. 
+
+“M-m-mon-sieur le p-p-president, you said t-t-that b-b-bankruptcy--” Grandet began, stuttering as he often did to manipulate conversations. The Cruchots, growing impatient, began to mimic his stutter. Grandet's speech impediment was a learned tactic, stemming from a past encounter with a cunning Jew that taught him how to frustrate his opponents. Now, he needed to avoid taking responsibility for his plans while controlling the dialogue.
+
+“M-m-monsieur de B-B-Bonfons,” he stuttered again, “you-ou said th-th-that b-b-bankruptcy c-c-could, in some c-c-cases, b-b-be p-p-prevented b-b-by--”
+
+“By the courts of commerce themselves. It is done constantly,” replied Monsieur C. de Bonfons, trying to assist him. 
+
+Grandet feigned humility, listening intently. The president explained how a respected man facing insolvency could have a receiver appointed by the court, distinguishing between liquidation and failure. Grandet, eager to understand, asked if liquidation could be managed without the courts. 
+
+“Yes, if the merchant does not file his schedule and no creditor appears, the family or heirs can liquidate the business,” the president explained. 
+
+“Ah! Grandet,” the notary interjected, “that would be the right thing to do. You will save your name.”
+
+Grandet acknowledged that his brother's name was indeed Grandet, and he considered the advantages of liquidation for his nephew. However, he expressed his ignorance of Parisian tricks, emphasizing his focus on his vineyards and business in Saumur.
+
+“B-b-because, don’t you see, Monsieur de B-Bonfons, a man must l-l-look b-b-before he l-leaps,” he said, wanting to ensure he understood the implications of the conversation.
+
+The president assured him that debts could be bought at a discount, and if handled correctly, Grandet could emerge unscathed. Grandet, still confused, asked for clarification on the process of negotiating debts.
+
+“Legally, if you acquire a title to all the debts, your brother or his heirs will owe nothing,” the president explained. 
+
+“Very g-good,” Grandet repeated, still processing the information. 
+
+The president offered to go to Paris to negotiate with creditors, suggesting that Grandet could provide some assets to facilitate the process. Grandet hesitated, wanting to think it over, and the notary urged him to clarify his intentions.
+
+Just then, the des Grassins arrived, interrupting the conversation. They expressed their condolences for the Grandet family's misfortunes, and the notary, eager to portray Grandet positively, claimed he intended to liquidate his brother's debts honorably. This surprised the des Grassins, who had expected Grandet to act selfishly.
+
+“Ah! I was sure of it,” exclaimed the banker, praising Grandet's honor. 
+
+Grandet, however, was cautious, stating he would not bind himself to anything he could not manage. Madame des Grassins suggested she could go to Paris, trying to undermine the president's authority. Grandet, preferring the banker, pulled him aside to discuss a separate investment opportunity in government bonds.
+
+“Say nothing to the Cruchots; that’ll annoy them,” Grandet instructed, indicating his desire to keep his plans discreet. 
+
+Des Grassins agreed to leave the next day, and they arranged to meet again for final instructions. After the des Grassins departed, Grandet expressed his need to deliberate on the matter.
+
+As news of Grandet's supposed generosity spread, the town began to admire him, forgiving his earlier actions against the wine community. The townspeople's enthusiasm for Grandet's honor was fleeting, reflecting a tendency to quickly forget past grievances.
+
+After closing the door, Grandet summoned Nanon, instructing her to keep quiet about his plans. He prepared for a secret journey, intending to sell gold in Angers while the market was favorable. He took precautions to avoid drawing attention, ensuring no one would suspect his departure or the true purpose of his trip. 
+
+In the early hours, as he and Nanon prepared to leave, Eugenie, worried about Charles, thought she heard a cry. She considered checking on him but was distracted by the sight of her father and Nanon carrying a heavy keg. Grandet, focused on his plans, instructed Nanon to tell his wife he had gone to the country and hurried off in the carriage, determined to reach Angers before morning.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+“My father has gone,” thought Eugenie, listening from the top of the stairs. Silence enveloped the house, and the distant rumble of the carriage faded away. Suddenly, she heard a cry from her cousin’s room, a sound that pierced through the walls. A thin line of light shone through the door, illuminating the old staircase.
+
+“He suffers!” she exclaimed, rushing up the stairs. A second moan brought her to the landing. The door was ajar, and she pushed it open. Charles was asleep, his head drooping over the armchair, pen fallen from his hand. His labored breathing alarmed Eugenie, prompting her to enter the room.
+
+“He must be very tired,” she thought, noticing the sealed letters on the table addressed to various tradesmen. “He’s settling his affairs to leave France at once.” Her gaze fell on two open letters, and the words “My dear Annette” struck her like a blow. Her heart raced, and she felt rooted to the spot.
+
+“His dear Annette! He loves! He is loved! No hope! What does he say to her?” Thoughts swirled in her mind. “Should I read it? No, I mustn’t.” Yet, curiosity overwhelmed her. She looked at Charles, gently adjusted his head, and kissed his hair. “Dear Annette!” a voice screamed in her mind.
+
+“I must read it,” she decided, turning away in shame. For the first time, she felt the struggle between good and evil within her. Passion and curiosity won out. As she read, her heart swelled, and the intensity of her emotions made the joys of first love even more precious.
+
+  My dear Annette,--Nothing could have separated us but the great misfortune that has now overwhelmed me. My father has killed himself; his fortune and mine are lost. I am orphaned at an age when I am still a child, yet I must rise as a man from this abyss. I have spent half the night facing my position. If I wish to leave France an honest man, I have not a hundred francs to try my fate in the Indies or America. I cannot remain in Paris, where the disdain shown to a ruined man would kill me. Your love cannot draw me back. Alas! I have no money to go to you for a last kiss to give me strength for my forlorn enterprise.
+
+“Poor Charles! I did well to read the letter. I have gold; I will give it to him,” thought Eugenie, wiping her eyes and continuing.
+
+  I have never thought of the miseries of poverty. I have not even a sou for an outfit. If I have nothing, I shall go to Nantes and ship as a common sailor, starting anew like others who have begun without a sou and returned wealthy. I have faced my future coolly. It seems more horrible for me than for others because I have been so petted by my parents and blessed by your love. Such happiness could not last. Nevertheless, I feel more courage than a careless young man is supposed to feel. Dear Anna, if to keep me in Paris you were to sacrifice your luxury, we would still not have enough for my extravagant living. I would never accept such sacrifices. We must part now and forever—
+
+“He gives her up! Blessed Virgin! What happiness!” Eugenie quivered with joy. Charles stirred, and a chill of terror ran through her, but he did not wake, and she resumed reading.
+
+  When shall I return? I do not know. The climate of the West Indies ages a European, especially one who works hard. In ten years, your daughter will be eighteen; she will be your companion, your spy. Society will be cruel, and your daughter perhaps more so. Keep in your soul the memory of our happiness, and be faithful, if you can, to the memory of your poor friend. I cannot exact such faithfulness, for I must conform to my new life; I must think of marriage, which becomes a necessity. I have found a cousin here in Saumur whose face, manners, and heart would please you—
+
+Eugenie noted the letter’s abrupt end. She defended him, thinking how an innocent girl might not perceive the coldness in his words. To young girls raised in purity, all is love when they enter the realm of passion. They see their lover through the lens of their own emotions. Eugenie’s heart echoed with the words, “My dear Annette, my loved one,” as if they were the sweetest language of love.
+
+Charles, though mourning his father, was more affected by the loss of his fortune than by genuine feelings. His parents had indulged him, preventing him from making the harsh calculations many sons face. The liberality of his father had instilled in him a real love, devoid of self-interest.
+
+Yet, Charles was a product of Paris, taught by society to calculate everything. He had been molded by the world where more crimes are committed in thought than punished. He had learned to admire nothing and to see self-interest as the driving force behind all actions. Annette had compelled him to think seriously about his future, teaching him lessons of worldly prudence.
+
+“You are very foolish, Charles,” she would say. “I shall have a great deal of trouble teaching you to understand the world. You behaved extremely ill to Monsieur des Lupeaulx. I know he is not honorable, but wait until he is out of power, then you may despise him.”
+
+Charles had not yet applied the maxims of Parisian morality; he still possessed the beauty of inexperience. However, he had been unknowingly inoculated with selfishness. The seeds of Parisian political economy lay dormant in his heart, waiting to emerge when he faced real life.
+
+Most young girls succumb to the tender promises such appearances offer. Eugenie, despite her innocence, was enchanted by Charles’s demeanor, unaware of the coldness in his heart. A chance encounter with his last heartfelt words stirred her emotions. She laid down the letter, filled with love, and watched her sleeping cousin, vowing to love him always. She then glanced at the other letter, seeking further proof of his noble qualities.
+
+  My dear Alphonse,--When you receive this letter, I shall be without friends. While I doubt the world’s friendship, I have never doubted yours. Please settle my affairs and get as much as you can from my possessions. I intend to go to the Indies. I have written to those I owe money, and you will find a list of their names. I do not wish to keep anything except perhaps a few baubles for my journey. I will send you a power of attorney for the sales. Keep Briton for yourself; I would rather give him to you than see him sold. Farry, Breilmann, & Co. built me a comfortable carriage, which they have not yet delivered; persuade them to keep it without payment. If they refuse, do what you can to avoid dishonor in my present circumstances. I owe the British Islander six louis, which I lost at cards; don’t fail to pay him—
+
+“Dear cousin!” whispered Eugenie, running back to her room with a candle. A thrill of pleasure coursed through her as she opened an old oak cabinet, revealing a red velvet purse with gold tassels, a relic from her grandmother. She weighed it in her hand and began counting her hidden treasures: twenty _portugaises_, five _genovines_, three gold _quadruples_, a hundred Dutch ducats, and a few rare rupees. She realized she possessed about five thousand eight hundred francs, which could be sold for nearly six thousand.
+
+Eugenie, filled with joy, thought only of her cousin and ran upstairs without hesitation. The secret misery of Charles made her forget propriety. Standing at the threshold, she held the candle and purse, and when Charles awoke, he was speechless with surprise. She placed the candle on the table and said, “My cousin, I must beg pardon for a wrong I have done you; but God will pardon me if you will help me to wipe it out.”
+
+“What is it?” he asked, rubbing his eyes.
+
+“I have read those letters.”
+
+Charles blushed. “How did it happen?” he asked.
+
+“I do not know. I am tempted not to regret reading them; they have shown me your heart, your soul, and your plans.”
+
+“My dear cousin—”
+
+“Hush! Not so loud; we must not wake others. Here,” she said, opening her purse, “are the savings of a poor girl who wants nothing. Charles, accept them! This morning I was ignorant of the value of money; you have taught me. It is just a means. A cousin is almost a brother; you can surely borrow from your sister.”
+
+Eugenie, confident in her offer, was taken aback by his silence. “Oh! you will not refuse?” she implored, kneeling down. “I will never rise until you have taken that gold! My cousin, I implore you, answer me! Let me know if you respect me, if you are generous—”
+
+As he heard her noble distress, tears fell from Charles onto her hands. Eugenie sprang to the purse and poured its contents onto the table. “Ah! yes, yes, you consent?” she cried, weeping with joy. “Fear nothing, my cousin; you will be rich. This gold will bring you happiness; someday you shall return it to me—are we not partners?”
+
+Charles finally expressed his feelings. “Yes, Eugenie; my soul would be small indeed if I did not accept. And yet—gift for gift, confidence for confidence.”
+
+“What do you mean?” she asked, frightened.
+
+“Listen, dear cousin; I have here—” He pointed to a square box covered in leather. “This is something as precious to me as life itself. My mother would sell the gold she lavished on this dressing-case, but I cannot. Eugenie, you shall be its guardian. Never did friend commit anything more sacred to another. Let me show it to you.”
+
+He opened the box, revealing a beautifully crafted dressing-case. “What you admire is nothing,” he said, revealing a hidden drawer. “Here is something worth the whole world.” He drew out two portraits, masterpieces of Madame Mirbel, set with pearls.
+
+“Oh, how beautiful! Is it the lady to whom you wrote that—”
+
+“No,” he replied, smiling. “This is my mother, and here is my father, your aunt and uncle. Eugenie, I beg you, keep my treasure safely. If I die and your fortune is lost, this gold and these pearls will repay you. You alone are worthy to keep them. But destroy them at last, so they may pass into no other hands.” Eugenie was silent. “Ah, yes, say yes! You consent?” he urged.
+
+Hearing the same words she had used to him, she looked at him with love, her first look of womanhood. He took her hand and kissed it. “Angel of purity! Between us, money is nothing. Feeling, sentiment, must be all henceforth.”
+
+“You are like your mother—was her voice as soft as yours?”
+
+“Oh! much softer—”
+
+“Yes, for you,” she said, lowering her eyelids. “Come, Charles, go to bed; I wish it; you must be tired. Good-night.” She gently disengaged her hand, and he followed her to her room, lighting the way. At the threshold, he said, “Ah! why am I ruined?”
+
+“What matter? My father is rich; I think so,” she replied.
+
+“Poor child!” said Charles, leaning against the wall. “If that were true, he would not have let my father die; he would not let you live this way.”
+
+“But he owns Froidfond.”
+
+“What is Froidfond worth?”
+
+“I don’t know; but he has Noyers.”
+
+“Nothing but a poor farm!”
+
+“He has vineyards and fields.”
+
+“Mere nothing,” Charles said disdainfully. “If your father had only twenty-four thousand francs a year, do you think you would live in this cold, barren room?” He glanced at the old cabinet. “Ah! there you will keep my treasures,” he said.
+
+“Go and sleep,” she urged, preventing him from entering her disordered room.
+
+Charles stepped back, and they exchanged good-nights with smiles. Both fell asleep in the same dream, and from that moment, Charles began to wear roses with his mourning.
+
+The next day, before breakfast, Madame Grandet found Eugenie in the garden with Charles. He was still sad, burdened by the weight of his misfortune. “My father will not be home until dinner,” Eugenie said, noticing her mother’s anxious look.
+
+The connection between Eugenie and Charles was evident in their shared thoughts and the sweetness of her voice. Charles spent the morning in the hall, his sadness respected by the three women, each occupied with their tasks. Grandet had neglected his affairs, and various tradesmen came to discuss business. Madame Grandet and Eugenie listened to the endless chatter of workmen and farmers, while Nanon prepared the produce they brought.
+
+Around five, Grandet returned from Angers, having made fourteen thousand francs from the exchange on his gold. He had left Cornoiller at Angers to look after the horses, which were nearly foundered.
+
+“I am hungry,” he said upon entering.
+
+Nanon called from the kitchen, “Haven’t you eaten since yesterday?”
+
+“Nothing,” he replied.
+
+Nanon brought in soup just as Des Grassins arrived to take Grandet’s orders. Grandet had not even noticed his nephew. “Go on eating, Grandet,” said the banker. “Do you know what gold is worth in Angers? They have come from Nantes after it? I shall send some of ours.”
+
+“Don’t send any,” Grandet replied. “They have enough. We are such old friends, I ought to save you from a loss of time.”
+
+“But gold is worth thirteen francs fifty centimes.”
+
+“Say _was_ worth—”
+
+“Where have they got any?”
+
+“I went to Angers last night,” Grandet said quietly.
+
+The banker was astonished, and a whispered conversation began between them, often glancing at Charles. Des Grassins looked surprised, likely learning of Grandet’s plans to invest a sum that would yield him a hundred thousand francs a year.
+
+“Monsieur Grandet,” Des Grassins said to Charles, “I am going to Paris; if you have any commissions—”
+
+“None, monsieur, I thank you,” Charles replied.
+
+“Thank him better than that, nephew. Monsieur is going to settle the affairs of the house of Guillaume Grandet.”
+
+“Is there any hope?” Charles asked eagerly.
+
+“What!” exclaimed his uncle with feigned pride. “Are you not my nephew? Your honor is ours. Is not your name Grandet?”
+
+Charles rose, kissed his uncle, turned pale, and left the room. Eugenie looked at her father with admiration.
+
+“Well, good-bye, Des Grassins; it is all in your hands. Decoy those people as best you can; lead them by the nose.”
+
+The two men shook hands, and Grandet returned to his armchair, asking Nanon for some black-currant ratafia. Too excited to sit still, he got up, looked at a portrait, and began to sing, doing what Nanon called his dancing steps.
+
+“Dans les gardes francaises
+J’avais un bon papa.”
+
+Nanon, Madame Grandet, and Eugenie exchanged silent glances. Grandet’s joviality frightened them when it reached its peak. The evening passed quickly, and Grandet chose to go to bed early, expecting everyone else to follow suit. As for Madame Grandet, she lived according to her husband’s will. During the two hours of digestion, Grandet, more jovial than ever, shared his peculiar sayings, one of which captured his mindset: “You have no sooner put your lips to a glass than it is empty! Such is life. You can’t have and hold. Gold won’t circulate and stay in your purse. If it were not for that, life would be too fine.” He was cheerful and generous, offering Nanon some ratafia, which she gladly accepted.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+The following day, the family gathered for breakfast, creating a scene of domestic intimacy. Grief had united Madame Grandet, Eugenie, and Charles, while even Nanon felt a sense of sympathy. The old man, preoccupied with his avarice and the prospect of sending Charles away without further expense, remained indifferent to the children’s interactions. He focused on his agricultural tasks, leaving the two young people free to express their feelings under Madame Grandet’s watchful eye.
+
+For Eugenie, love blossomed in the wake of their shared secret. Their relationship deepened, marked by tender glances and gentle words, reminiscent of childhood innocence. Eugenie found joy in comforting Charles, whose pain she sought to alleviate with the sweetness of new love. Their connection, forged in the somber atmosphere of mourning, felt pure and sacred. Charles, having experienced only the tumult of worldly love, now embraced this genuine affection, appreciating the simplicity of their lives together.
+
+After breakfast, while Grandet attended to his fields, Charles enjoyed the pleasure of being with Eugenie and her mother, finding beauty in their modest existence. He had previously thought such morals were only found in Germany, but now he saw them as real and enchanting. Eugenie became his ideal, and he cherished her innocence, while she surrendered to the current of their love, unaware of the impending separation that loomed over them.
+
+Three days after des Grassins’ departure, Grandet took Charles to the Civil courts to renounce his rights to his father’s estate. This act felt like a painful betrayal. Charles also arranged for powers of attorney and a passport, selling his belongings to prepare for his journey. Grandet was pleased with Charles’s new appearance in mourning clothes, seeing him as a man ready to embark on his fortune.
+
+Charles collected his valuables, intending to sell them, but Grandet offered to buy them instead, valuing them at nearly a thousand francs. Charles, grateful for his uncle’s generosity, accepted the arrangement. He also gifted his mother’s thimble to Madame Grandet, who was deeply touched. Grandet, in turn, insisted on paying for Charles’s passage to the Indies, further solidifying their bond.
+
+As Charles prepared to leave, Eugenie expressed her sadness, and he acknowledged the weight of his obligations. He had transformed from a boy into a man, and Eugenie admired his newfound strength. The family donned mourning attire for a Requiem Mass for Guillaume Grandet, and during breakfast, Charles received letters from Paris regarding his affairs, which he shared with Eugenie.
+
+In the garden, Charles revealed that his affairs were well-managed, and he had arranged for his belongings to be sent to Nantes. He expressed the reality of their impending separation, urging Eugenie not to tie her future to his uncertain fate. Despite this, their love remained strong, and they shared a passionate kiss, affirming their bond.
+
+As Charles announced his departure, Grandet showed unexpected interest, taking care to pack Charles’s belongings himself and ensuring they were sent to Nantes. The day of departure was filled with emotion, as the family escorted Charles to the diligence. Grandet offered words of encouragement, and Charles expressed gratitude for his uncle’s support.
+
+After Charles left, the house felt empty to Eugenie, who wished to keep his room as it was. She and Nanon conspired to maintain the status quo, hoping for his return. Eugenie’s beauty transformed as she embraced her love, becoming more radiant and dignified. She followed Charles’s journey on a map, longing for his well-being and reflecting on their shared moments.
+
+Eugenie’s love became a constant presence in her life, filling her thoughts and shaping her daily existence. While she maintained a facade of cheerfulness around her father, she confided in Nanon about her feelings for Charles. Nanon, despite her own unfulfilled desires, empathized with Eugenie’s plight, recognizing the depth of her mistress’s love and the pain of separation.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+Two months passed, and the once monotonous domestic life of Eugenie and her mother was now filled with the intense secret that connected them. Charles lived in their thoughts, and Eugenie often gazed at her aunt's portrait, searching for his features. One Sunday, her mother discovered the truth about the gold Eugenie had given Charles, leading to a moment of panic. 
+
+“What will you say to your father on New Year’s Day when he asks to see your gold?” Madame Grandet exclaimed, terrified. The two women spent a morning in dread, missing high Mass and fearing the impending drama that awaited them. 
+
+Madame Grandet lamented, “What will become of us?” Her anxiety had left her unprepared for the winter, and she felt a chill from her husband’s impending wrath. She suggested they could have consulted Monsieur des Grassins in Paris for help, but Eugenie insisted it was too late. 
+
+On January 1, 1820, the cold winter morning prompted Madame Grandet to request a fire in her room, hoping to avoid a confrontation with her husband. Grandet, in a surprisingly good mood, agreed, revealing he had received a large sum of money from his investments. 
+
+As he prepared for breakfast, he boasted about his financial success, oblivious to the tension in the room. The two women wished him a happy New Year, but their hearts sank as he continued to talk about money and investments. 
+
+After breakfast, Grandet demanded to see Eugenie’s gold, insisting she return it to him. Eugenie, feeling cornered, claimed she no longer had it. Grandet’s anger escalated as he accused her of deceit, demanding to know what she had done with the gold. 
+
+Eugenie defended her actions, asserting her independence as an adult. Grandet, furious, threatened to punish her by confining her to her room on bread and water until she submitted to him. Eugenie, heartbroken, fled to her mother, who was also suffering from the strain of the situation. 
+
+Grandet, still seething, accused Eugenie of giving her gold to Charles, whom he deemed unworthy. Madame Grandet pleaded for her husband to forgive their daughter, but Grandet remained obstinate, insisting on his authority. 
+
+Eugenie, feeling the weight of her father’s anger, resolved to stand firm in her love for Charles. Nanon, the servant, worried about Eugenie’s fate and vowed to support her. 
+
+That evening, Grandet dined alone for the first time in years, while the usual guests arrived, surprised by the absence of Madame Grandet and Eugenie. Grandet dismissed their concerns, but the tension in the household was palpable. 
+
+Later, Nanon secretly brought Eugenie a hare pâté, determined that she would not live on bread alone. Their bond deepened as they navigated the challenges posed by Grandet’s harshness and the looming threat of his wrath.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+For several months, the old wine-grower visited his wife’s room at all hours, never mentioning their daughter, Eugenie, who remained confined. Madame Grandet's health deteriorated, and Grandet became increasingly harsh and unyielding, even making mistakes in his business dealings. The townspeople speculated about the Grandet family, and it soon became known that Eugenie was being kept in her room on bread and water by her father's orders, with only Nanon providing her with secret meals. The community condemned Grandet, and when Eugenie attended Mass, her gentle demeanor drew curiosity and sympathy.
+
+Eugenie’s primary sorrow was her mother’s declining health. She often blamed herself for her mother’s suffering, and though Madame Grandet tried to comfort her, she longed for her daughter’s happiness. The mother expressed a desire for reconciliation between father and daughter, urging Grandet to bring Eugenie back into the family fold. However, Grandet remained indifferent, even as his wife’s condition worsened.
+
+As spring approached, Madame Grandet confided her worries to the Cruchots, who were appalled by Eugenie’s treatment. They discussed the legal implications of her confinement, but Eugenie, overhearing them, insisted on her obedience to her father and requested their silence on the matter. She believed that criticizing her father would tarnish their family honor.
+
+One day, Grandet, while walking in the garden, hesitated between his stubbornness and the desire to embrace his daughter. Meanwhile, the notary Cruchot visited Grandet, expressing concern for his wife’s health and the potential consequences of her death on Eugenie’s inheritance. Grandet, realizing the legal ramifications, became agitated and distressed at the thought of losing control over his wealth.
+
+Cruchot advised Grandet to treat Eugenie kindly, as her inheritance could force him to sell his property. Grandet, feeling cornered, began to reconsider his harsh treatment of Eugenie. He returned home, determined to reconcile with her, but upon entering, he found Eugenie and her mother admiring a dressing-case filled with gold that had been given to Eugenie by Charles. Grandet, seeing the gold, became possessive and aggressive, leading to a confrontation where Eugenie pleaded for the gold to be returned to its rightful owner.
+
+In a moment of desperation, Eugenie threatened to harm herself if her father did not relent. This shocked Grandet, who ultimately backed down, allowing Eugenie to keep the dressing-case. He then attempted to show affection towards both his wife and daughter, scattering coins on the bed and promising to be kinder.
+
+Despite his newfound tenderness, Madame Grandet’s health continued to decline. She grew weaker, and her death seemed imminent. In October 1822, she passed away peacefully, leaving behind a legacy of love and patience. Her last words to Eugenie emphasized the importance of seeking happiness in heaven, expressing her concern for her daughter’s future in a selfish world.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+On the day after her father's death, Eugenie felt a renewed attachment to her childhood home, where she had endured much suffering, including the loss of her mother. The sight of familiar objects brought her to tears, and she was surprised by her father's tender care, which seemed out of character for him. He took her to breakfast and watched her with an almost kind gaze, leading the household staff to believe he was losing his faculties due to old age. However, during the family’s mourning dinner, he revealed his true intentions.
+
+“Dear child,” he said after the meal, “you are now your mother’s heiress, and we have some matters to settle.” He insisted on discussing the inheritance that evening, despite Eugenie's reluctance. The notary, Maitre Cruchot, explained that Grandet did not want to divide the property or pay taxes on the money he might have. To avoid this, he needed Eugenie to renounce her rights to her mother’s estate, allowing him to retain control over their shared property.
+
+Eugenie, confused, asked for the deed to sign. Grandet, sweating with emotion, suggested that instead of signing, she could simply trust him and receive a monthly allowance of a hundred francs. She agreed, and he pressed her hand, declaring they were quits. The next morning, she signed the papers, effectively giving up her inheritance. However, a year later, Grandet had not given her the promised money. When she reminded him, he awkwardly offered her some jewels instead.
+
+Over the next two years, Grandet trained Eugenie in managing the household and finances, instilling his frugal habits in her. By the third year, she had become the mistress of the house, and their monotonous life continued for five years without interruption. Eugenie's sadness was well-known, but she never spoke of it, and her only company was the Cruchots and their friends, who played whist with her father.
+
+In 1827, Grandet, now eighty-two, suffered a stroke. As he deteriorated, Eugenie devoted herself to caring for him, feeling increasingly isolated. His death was unremarkable; he remained fixated on his hidden wealth until the end. When the priest came to administer last rites, Grandet's avarice was evident in his final words, urging Eugenie to take care of his riches.
+
+After his death, Eugenie was left alone with only Nanon, her loyal servant, who was her sole confidante. Maitre Cruchot informed her of her substantial inheritance, totaling seventeen million francs. Despite her wealth, her thoughts were consumed with finding her cousin Charles. In the empty house, she and Nanon lamented their isolation, while news of her fortune spread throughout the province.
+
+Eugenie’s first act was to secure an annuity for Nanon, who soon married Antoine Cornoiller, becoming housekeeper for Eugenie. Cornoiller managed the estate, and life continued without disruption for the farmers. At thirty, Eugenie had never experienced joy; her childhood was marked by her mother’s suffering and her own unfulfilled love for Charles, who had left her with only memories.
+
+Her mourning period delayed any thoughts of marriage, and the Cruchots surrounded her with attention, hoping to win her favor. They praised her beauty, and she grew accustomed to the flattery, which became a daily occurrence. Monsieur de Bonfons, a prominent figure in the circle, sought to ingratiate himself with her, and the Cruchots discussed their financial prospects, all while Eugenie remained the center of attention.
+
+As spring approached, Madame des Grassins attempted to stir interest in a potential match between Eugenie and the Marquis de Froidfond, emphasizing his noble lineage. However, Eugenie’s indifference to the idea was misinterpreted as interest, leading to speculation about her future. Despite the attention, she remained haunted by the absence of Charles, who had not contacted her in seven years.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+While events unfolded in Saumur, Charles was thriving in the Indies. His commercial ventures yielded six thousand dollars, and he quickly realized that buying and selling people was the most lucrative business. He traveled to Africa, purchasing enslaved individuals and combining this trade with other profitable goods. His relentless ambition was fueled by the desire to return to Paris with a significant fortune and reclaim a more prestigious position than before.
+
+Through his experiences, Charles's views shifted; he became skeptical and lost his moral compass, recognizing that what was deemed a crime in one culture could be celebrated in another. His heart hardened, and he became ruthless, engaging in various exploitative trades, including selling people and defrauding customs. He bought pirate-captured goods at low prices and sold them for profit. Initially, he carried the memory of Eugenie with him, but as he indulged in various escapades, he distanced himself from his past, viewing his family with disdain and regarding Eugenie merely as a creditor.
+
+This transformation explains Charles Grandet's silence. In the Indies and elsewhere, he adopted the alias "Shepherd" to protect his identity while pursuing wealth through unscrupulous means. His efforts paid off, and by 1827, he returned to Bordeaux aboard the "Marie Caroline," bringing with him gold-dust worth nearly two million francs, expecting to profit further at the Paris mint.
+
+On the ship, he encountered Monsieur d’Aubrion, a gentleman connected to the royal court, who was returning from the Indies with his family. The d’Aubrions, once a prominent family, were now struggling financially, and Madame d’Aubrion was eager to marry off her unattractive daughter to a wealthy suitor. She saw Charles as a potential son-in-law and promised to help him gain a noble title and a significant income by marrying her daughter. This union would elevate both families' status, allowing them to live comfortably in Paris.
+
+Charles, intoxicated by ambition, entertained the idea of marrying Mademoiselle d’Aubrion, seeing it as a path to social prominence. He visited Annette, who encouraged him to pursue the marriage, recognizing the potential benefits of securing a wealthy and influential husband for her friend. Charles, now more confident and assertive after his time in the Indies, felt ready to embrace this new life.
+
+Des Grassins, aware of Charles's return and impending marriage, approached him about settling his father's debts. Charles, now a man of means, dismissed Des Grassins's concerns, asserting that his father's financial troubles were no longer his responsibility. He was focused on his new identity as the Comte d’Aubrion, believing that wealth would shield him from his father's failures.
+
+In August, Eugenie sat on the bench where she and Charles had once pledged their love, reflecting on their past. She received a letter from him, which she struggled to open, filled with anticipation and dread. The letter revealed Charles's success and his new life, but it also conveyed a painful message: he was engaged to Mademoiselle d’Aubrion, a marriage of convenience that would secure his social ambitions. He expressed that love in marriage was a delusion and that he could not pursue their youthful dreams due to the differences in their lives.
+
+Eugenie was devastated by the letter, feeling abandoned and heartbroken. She realized that her love for Charles was profound and enduring, contrasting sharply with his pragmatic approach to marriage. As she processed the news, she recalled her mother's prophetic words about suffering and enduring pain. In her sorrow, she resolved to live a life of prayer and acceptance, recognizing that her dreams had been shattered.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+Eugenie returned slowly from the garden, avoiding the corridor where memories of her cousin lingered. This day was significant, marked by the visit of the parish priest, who was related to the Cruchots and aligned with Monsieur de Bonfons. The priest had been urged to discuss the importance of marriage with Eugenie, who was preoccupied with her own unhappiness. She expressed her desire to retreat from the world and live solely for God, but the priest cautioned her against such a drastic decision, emphasizing her responsibilities to society and the poor.
+
+Madame des Grassins arrived, driven by a mix of vengeance and despair. She revealed that Charles Grandet had returned from the Indies and was engaged to Mademoiselle d’Aubrion. Eugenie, taken aback, maintained her composure despite the emotional turmoil. Madame des Grassins presented a letter from her husband detailing Charles's situation, including his father's bankruptcy and the implications for his marriage prospects. Eugenie, feeling a mix of contempt and sorrow, returned the letter without finishing it.
+
+Eugenie then asked the priest if it would be a sin to remain a virgin after marriage, indicating her conflicted feelings. After the priest left, she isolated herself in her father's secret room, avoiding dinner and the company of guests. When she finally joined them, the atmosphere was charged with curiosity about her situation. As the evening progressed, Eugenie made a surprising declaration to Monsieur de Bonfons, asking him to stay, which was interpreted as a promise of marriage.
+
+In a private moment, Eugenie made it clear to the president that she could only offer him friendship and requested that he help her settle her uncle's debts in exchange for her hand. The president, eager to please, agreed to her terms. After he left, Eugenie broke down in tears, realizing the gravity of her situation.
+
+The president quickly traveled to Paris, where he met with the creditors and arranged for the payment of all debts, including interest. He then delivered a letter from Eugenie to Charles, explaining her decision and the conditions of their relationship. Charles, initially excited, was shocked to learn of Eugenie's wealth and the implications of her actions.
+
+Meanwhile, Madame d’Aubrion, unaware of the president's dealings, expressed her confidence in the marriage. The president returned to Saumur, announcing his marriage to Eugenie, who remained devoted to charitable works despite her wealth. After their marriage, he pursued a political career, but his ambitions were cut short when he died shortly after being elected as a deputy.
+
+Eugenie, now a widow, lived a life of piety and charity, dedicating her wealth to the community while maintaining a simple lifestyle. Despite her fortune, she remained detached from worldly desires, focusing on her spiritual life and the well-being of others. Rumors of a potential new marriage circulated, particularly regarding the Marquis de Froidfond, but Eugenie remained resolute in her independence, supported by her loyal servants, Nanon and Cornoiller.
+
+Eugenie's story reflects the tension between wealth and personal fulfillment, illustrating her struggle to navigate societal expectations while remaining true to her values. She became a figure of reverence in her community, embodying both the burdens and blessings of her inheritance.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################

@@ -1,128 +1,378 @@
-In October 1800, Bartolomeo di Piombo, a foreigner, stood outside the Tuileries Palace with his wife and young daughter, their sadness stemming from shared misery rather than love. Bartolomeo, an older man in tattered clothes, had a serious demeanor, while his distressed wife tried to calm their weary daughter, who still exhibited Italian grace.
+In October 1800, a foreigner named Bartolomeo di Piombo stood outside the Tuileries Palace with his wife and young daughter. The man, appearing over sixty with a serious demeanor, was deeply troubled, while his wife, despite her sadness, tried to maintain a calm facade for their daughter. The family’s despair drew the attention of passersby, but the stranger's fierce gaze quickly deterred any sympathy.
 
-As they lingered, Bartolomeo's intense gaze drew attention, but his fierce demeanor deterred sympathy. After a moment of contemplation, he made a desperate decision, handing a dagger to his wife and declaring his intention to confront the Bonapartes. He approached the palace but was stopped by a soldier, who refused him entry without an audience request, leading to a tense standoff.
+After a moment of contemplation, Bartolomeo made a desperate decision. He handed a dagger to his wife, declaring he would confront the Bonapartes. He approached the palace but was stopped by a soldier. Despite the soldier's refusal to let him in without a written request, Bartolomeo insisted, leading to a tense standoff. Fortunately, Lucien Bonaparte, the minister of the interior, arrived and recognized Bartolomeo, taking him inside to meet his brother, Napoleon Bonaparte.
 
-Fortunately, Lucien Bonaparte recognized Bartolomeo and took him to see Napoleon, who was meeting with Murat, Lannes, and Rapp. After dismissing the others, Napoleon asked Bartolomeo why he had come. Bartolomeo revealed that he had killed the Portas, a family responsible for his son’s death and the destruction of his home after they set fire to his vineyard.
+Inside, Napoleon dismissed his aides to speak privately with Bartolomeo. The Corsican sought asylum, revealing he had killed the Portas, a family that had wronged him by burning his vineyard and killing his son. He recounted how he had avenged his son’s death by killing all seven Portas, which shocked Napoleon. Bartolomeo expressed despair at the indifference of the Bonaparte brothers to his plight, reminding them of his past protection of their family.
 
-Surprised, Napoleon questioned Bartolomeo's motives. Bartolomeo expressed despair over the Bonaparte brothers' lack of support, feeling they had forgotten their Corsican roots. Napoleon explained he could not protect Bartolomeo but offered him a chance to live in Paris, away from vendetta culture.
+Napoleon, now a leader of a nation, felt bound by law and could not openly support Bartolomeo’s actions. However, he acknowledged the enduring tradition of vendetta in Corsica and offered Bartolomeo a chance to live in Paris, promising to help him financially. He warned Bartolomeo that the law would not tolerate personal justice in the city.
 
-Bartolomeo accepted, pledging loyalty to the Bonaparte family and expressing gratitude for their recognition of his plight. Napoleon promised financial assistance, emphasizing the importance of adhering to the law in Paris, where personal justice was not tolerated. Fifteen years later, Bartolomeo's life in Paris set the stage for future events intertwined with themes of vengeance and familial loyalty.
+Bartolomeo accepted Napoleon's offer, pledging loyalty to the Bonaparte brothers. He expressed gratitude for their recognition of his misfortune and seemed hopeful about his future in Paris. Napoleon, seeing Bartolomeo as a potential ally, hinted at needing trustworthy friends in the future.
 
-Servin, a distinguished artist, established a studio for young girls interested in painting. At around forty, he was dedicated to his art and married to a general's daughter. Initially, mothers brought their daughters to the studio, but soon they felt comfortable sending them alone, reassured by Servin's integrity and quality instruction.
+After their meeting, Lucien inquired about Bartolomeo’s financial situation, learning that he and his family had arrived in Paris with nothing. Lucien generously offered him money and promised to help secure their comfort. The value of Bartolomeo’s property in Corsica would not suffice to support his family in Paris.
 
-To maintain a harmonious class composition, Servin only accepted pupils from wealthy families, even refusing aspiring professional artists. His careful approach and the assurance that only well-bred girls attended his classes earned him a stellar reputation, making him synonymous with feminine art education.
-
-The studio was meticulously arranged, with a walled-off entrance leading to a spacious attic filled with light from large glass panes. The walls were adorned with caricatures and models, creating an atmosphere that blended artistic chaos with elegance. On a bright July day, the studio buzzed with activity as young girls painted, laughed, and formed distinct cliques based on social status.
-
-Among them was Ginevra Piombo, the most beautiful and modest girl, who sat apart from her peers. The aristocratic group, led by Amelie Thirion, often looked down on the wealthier but less refined girls from the banking sector. Tensions simmered as Amelie orchestrated a slight against Ginevra, moving her easel away from its usual spot, which sparked whispers of jealousy and rivalry.
-
-Ginevra, a devoted Bonapartist, faced ostracism from the royalist girls, influenced by the political climate following the Bourbons' return. Despite her beauty and talent, she became a target of jealousy, particularly from Amelie, who sought to undermine her.
-
-When Ginevra arrived, she was met with silence, a stark contrast to the usual camaraderie. Her presence commanded attention, yet she remained oblivious to the tension. As she settled into her work, she sensed a mysterious presence behind a partition—a man hidden away, breathing quietly. This revelation filled her with curiosity and concern for his safety.
-
-Ginevra's indifference to the slight against her only fueled her peers' animosity, perplexed by her calm demeanor. Meanwhile, Amelie and her group attempted to humiliate Ginevra further, but their efforts were thwarted by her apparent indifference.
-
-Madame Servin's arrival interrupted the brewing conflict, announcing that her husband could not attend that day. Ginevra and Madame Servin exchanged glances, both aware of the hidden man. As the session continued, Ginevra focused on sketching the officer's head, inspired by the urgency of the moment.
-
-Servin, noticing her talent, praised her work, drawing the attention of the other girls, especially Amelie, who was determined to uncover Ginevra's secret. The atmosphere shifted as Ginevra's skill became evident, and Servin's admiration heightened the tension.
-
-As the day progressed, Ginevra and Servin shared a private conversation about the hidden officer, revealing the political stakes involved. Ginevra offered her assistance, demonstrating her commitment to protecting the man and her loyalty to Servin.
-
-The dynamics in the studio shifted as the girls became increasingly aware of Ginevra's focus and the mystery surrounding her. Amelie, driven by jealousy, attempted to spy on Ginevra, but the latter remained resolute in her purpose, determined to keep the officer safe while navigating the complexities of her relationships with her peers.
+Fifteen years passed since Bartolomeo's arrival in Paris, leading to events that would unfold, requiring the context of his earlier struggles and decisions.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-In a dim garret, painter Servin and Ginevra were startled by a knock, revealing a tall young officer in an Imperial uniform, his arm in a sling and face pale from pain. He recoiled upon seeing Ginevra, but Servin introduced her as the daughter of a loyal friend of the Emperor, Baron di Piombo. The officer, visibly shaken, revealed he was wounded and horrified by Labedoyere's death sentence, collapsing onto a stool.
+CHAPTER II. THE STUDIO
 
-He expressed despair over his cowardice for hiding while Labedoyere faced execution. Ginevra urged him to consider his life and offered her savings, insisting it was merely money from the Emperor’s generosity. Her words inspired hope in the officer, named Luigi, who admired her beauty and kindness but remained troubled by Labedoyere’s fate.
+Servin, a distinguished artist, was the first to establish a studio for young girls interested in painting. At around forty years old, he was a man of high morals, devoted to his art, and married to the dowerless daughter of a general. Initially, mothers brought their daughters to the studio, but soon they felt comfortable sending them alone, reassured by Servin's principles and dedication.
 
-As they spoke, Ginevra felt a deep connection to Luigi. They shared a moment of silence, realizing their bond had grown quickly. Servin asked if Luigi could save Labedoyere, to which he replied he could only avenge him. Ginevra, moved by his passion, felt emotions she had never experienced before.
+Servin aimed to teach only young ladies from wealthy families to avoid complaints about class composition. He even declined to accept girls aspiring to be professional artists, as he would have to provide them with essential instructions. His careful approach and the quality of his teaching earned him a stellar reputation among the aristocracy. When a girl expressed interest in drawing, mothers would invariably recommend Servin.
 
-The next day, Ginevra returned to the studio, where Luigi recounted his harrowing experiences during the retreat from Moscow and the disaster at Waterloo. Ginevra listened intently, captivated by his stories. Their friendship blossomed, and they devised a secret communication system through Corsican songs.
+He became synonymous with feminine art, much like Herbault for bonnets or Leroy for gowns. A young woman who studied under him was seen as capable of critiquing museum paintings, creating striking portraits, or painting genre scenes. Despite his connections with Paris's elite, Servin maintained an independent and patriotic stance, characterized by a witty, half-ironic tone.
 
-However, rumors began to circulate among Ginevra’s classmates about her relationship with Luigi, leading to their gradual departure from the studio. Ginevra remained oblivious to the gossip, focused solely on her feelings for Luigi. Despite her encouragement for him to submit to royal authority for safety, he refused, remaining loyal to his beliefs.
+The studio was meticulously arranged for his pupils. The entrance to the attic above his apartment was sealed, requiring a small spiral staircase to access it. The studio itself was expansive, with abundant light from large glass panes covered by green linen shades. The walls, painted dark gray, were adorned with caricatures and models in plaster, creating a unique blend of artistic chaos and beauty.
 
-One evening, Ginevra learned from her friend Laure that the other girls had left due to rumors about her and Luigi. Laure’s mother insisted she stop attending the studio, believing Ginevra was involved in an inappropriate relationship. Shocked, Ginevra remained steadfast in her feelings.
+On a bright July day, the studio was alive with young girls at their easels, each displaying a range of expressions and styles. Among them was a modest, simply dressed girl, Ginevra Piombo, who sat apart from her peers, seemingly anxious. The group was divided into two cliques: one comprised daughters of wealthy merchants, while the other included aristocrats led by Amelie Thirion, who was vain and pretentious.
 
-Servin entered the studio, unaware of the turmoil. Ginevra confided in him about the rumors, and he dismissed them, valuing their bond over societal judgment. Luigi, overhearing their conversation, felt guilty for the trouble he had caused Servin.
+Despite their differences, the girls were engaged in their art, laughing and chatting, creating a lively atmosphere. Ginevra, the most talented and beautiful, was the target of jealousy from the aristocratic group. Amelie, seeking to ostracize Ginevra, moved her easel away from the others, igniting whispers among the girls about the insult.
 
-As the three shared a moment of camaraderie, Ginevra and Luigi’s love became evident, though unspoken. Servin playfully suggested they marry, and the couple exchanged silent affirmations of their feelings. Ginevra proposed to help Luigi secure a pardon, leveraging her father’s influence.
+The political climate of the time, following the second return of the Bourbons, heightened tensions among the girls. Ginevra, a devoted Bonapartist, faced disdain from her peers, who came from royalist families. Amelie’s actions were not only a personal affront but also a reflection of the political divisions of the era.
 
-Meanwhile, Ginevra’s parents grew anxious over her late return home. Bartolomeo di Piombo, her father, was a stern yet loving figure known for his integrity and loyalty to Napoleon. When Ginevra finally arrived, he carried her in his arms, showcasing their protective family dynamic.
+When Ginevra arrived, she was met with silence, a stark contrast to her usual warm reception. Her beauty and grace commanded respect, but her political beliefs made her a target. Despite the cold reception, she remained focused on her work, unaware of the tension surrounding her.
 
-This chapter explores themes of loyalty, love, and societal judgment through the relationships between Ginevra, Luigi, and their families, setting the stage for the unfolding drama surrounding their fates.
+As the day progressed, Ginevra's attention was drawn to a mysterious sound from behind a partition. She discovered that Servin was hiding a political fugitive, an officer of the Imperial Guard. This revelation filled her with both excitement and concern for the man's safety.
+
+Ginevra resolved to protect the fugitive, believing it was better for her to be near him than to risk his exposure. Her indifference to Amelie’s slight only fueled the jealousy of her peers, who were baffled by her calm demeanor.
+
+Madame Servin's arrival interrupted the brewing conflict. She announced that her husband could not attend that day, and her demeanor suggested she was aware of the hidden man. Ginevra, sensing the tension, began to hum a Corsican song to mask the sound of the fugitive's breathing.
+
+As the session continued, Ginevra remained focused on her work, sketching the officer's head with a fervor that surprised her. Servin praised her talent, and the other girls, including Amelie, were drawn to her work. Ginevra's determination to keep the fugitive's presence a secret became evident, and she skillfully deflected attention from her sketch.
+
+Amelie, suspicious of Ginevra, attempted to uncover the mystery but was thwarted by Ginevra's quick thinking. The rivalry between the two intensified, with Ginevra's talent and composure only heightening Amelie's jealousy.
+
+Servin, aware of the tension, engaged with each pupil, but his attention remained on Ginevra. Their shared understanding of the situation deepened their bond, and Ginevra felt empowered to assist Servin in protecting the fugitive.
+
+As the day ended, Ginevra's resolve to keep the secret grew stronger, and she remained determined to help the fugitive escape the dangers outside. The political turmoil of the time loomed over the studio, but within its walls, the girls navigated their rivalries and friendships, all while art remained their shared passion.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-**CHAPTER IV. LOVE**
+When the painter and Ginevra believed they were alone, Servin knocked on the door of the dark garret, revealing a tall young officer in an Imperial uniform, his arm in a sling and his face pale from pain. The officer recoiled upon seeing Ginevra, but Servin reassured him, introducing her as the daughter of a loyal friend of the Emperor, the Baron di Piombo. The soldier, recognizing her patriotism, was immediately at ease.
 
-“Here she is, my Ginevra!” Piombo exclaimed, embracing his daughter. Ginevra, startled, reassured her mother with a nod. The baroness's initial fright faded, and Piombo's joy was evident as he rubbed his hands, a habit from his court days. They seemed like a revived plant after a long drought.
+"You are wounded," Ginevra observed.
 
-“Now, to dinner!” Piombo called, referring to Ginevra as “Signora Piombellina.” As they sat down, he noted her long hours at the studio, suggesting painting had become more important than family. Ginevra, however, was preoccupied and eventually confessed, “I love a young man.”
+"It's nothing, mademoiselle," he replied, "the wound is healing."
 
-Her parents were taken aback. When asked about him, she revealed he was without fortune and a comrade of Labedoyere, who had been proscribed. Piombo reacted with disbelief, insisting that Ginevra should love no one but him. She countered, asserting that love was not a choice.
+Suddenly, cries from the street announced a death sentence: "Condemned to death!" The officer turned pale upon hearing the name "Labedoyere," collapsing onto a stool. In despair, he lamented that while Labedoyere faced death for their cause, he was hiding away.
 
-“I thought you would remain faithful to me,” Piombo lamented, but Ginevra reminded him of his own absences for political missions. “Life has necessities,” she defended her feelings.
+Ginevra blocked his path as he attempted to leave. "Can you restore the Emperor?" she asked. "Do you expect to raise that giant who could not maintain himself?"
 
-Piombo’s anger flared as he struggled with the idea of losing his daughter to another man. Ginevra pleaded for understanding, promising her love would not diminish her affection for him. “You will learn to know the man to whom you bequeath me,” she insisted.
+"What can I do?" he replied, feeling utterly alone after losing his protector. He expressed his willingness to die, believing that an honest man's life was worth more than that of two traitors. He contemplated how to sell his life to the executioner.
 
-Piombo could not accept this. “If he loved you as you deserve, he would kill me,” he declared, his rage palpable. Ginevra maintained that her love was pure and sincere.
+Alarmed by his despair, Ginevra offered her savings, explaining that her father was wealthy and would not blame her for helping a soldier. She urged him to wait until the storm passed, suggesting he could escape and serve elsewhere.
 
-The tension escalated, with Piombo declaring he would never allow the marriage. Ginevra stood firm, stating, “I am Ginevra Piombo, and I declare that within six months I shall be the wife of Luigi Porta.”
+Her words, filled with maternal grace and hope, touched the young man deeply. He admired her beauty and felt a rush of emotions. "You are an angel of goodness," he said, but his thoughts quickly returned to Labedoyere.
 
-Piombo’s fury intensified, warning her of the consequences of marrying a Porta, the family responsible for her brother’s death. Ginevra argued that Luigi was innocent, having been just a child during the vendetta.
+In silence, they shared a moment of understanding, their brief acquaintance deepening into a bond. Servin asked if he could save Labedoyere, to which the officer replied he could only avenge him. Ginevra felt a surge of emotion at the thought of vengeance, recognizing the officer's devotion to Napoleon.
 
-Despite her father’s threats, Ginevra remained resolute. “I will be his wife,” she asserted, leading to a confrontation where Piombo, in a fit of rage, nearly attacked her but ultimately hesitated.
+As the sun set, illuminating the officer's face, Ginevra felt a magical connection to him, recalling her childhood memories. She was captivated by his presence, and as she left, she smiled at him, igniting a spark of hope.
 
-The next day, Ginevra found herself barred from leaving the house. She communicated with Luigi through a chambermaid, and their love deepened despite the growing rift with her father.
+The next day, Ginevra returned to the studio, where the officer, now named Luigi, shared stories of his experiences during the retreat from Moscow and the disaster at Waterloo. Ginevra listened intently, her heart swelling with admiration. They communicated in Corsican, forging a deeper connection.
 
-On Ginevra’s birthday, her mother attempted to mediate, but the arrival of two notaries to discuss her marriage to Luigi escalated tensions. Piombo confronted the notaries, who were merely doing their duty.
+As days passed, Ginevra's classmates began to notice her absence from social gatherings, attributing it to her relationship with Luigi. Mademoiselle Thirion, concerned about the rumors, withdrew from the class, leading to a gradual decline in attendance. Ginevra remained oblivious to the gossip, lost in her thoughts of Luigi.
 
-In desperation, Ginevra knelt before her father, pleading for his consent. “Give me Luigi, or I die!” she cried, but Piombo, overwhelmed, rejected her. “You have no father,” he declared, casting her out.
+One day, Laure, a fellow student, confided in Ginevra that her mother insisted she leave the studio due to the rumors surrounding Ginevra and Luigi. Ginevra was shocked but reassured Laure that they would meet again. Laure expressed her sadness at leaving, and Ginevra felt a pang of loss.
 
-Ginevra entered Luigi’s modest lodging, declaring, “My father and my mother have cast me off.” Luigi promised to love her in place of her parents, and Ginevra, despite her sadness, resolved to find happiness with him. “Then let us be happy,” she said, her spirit unbroken.
+As Ginevra and Luigi's bond deepened, they shared unspoken feelings of love, each recognizing the other's worth. One evening, Luigi signaled to Ginevra, but upon seeing Laure, he retreated. Ginevra, unaware of the tension, engaged Laure in conversation, only to learn that her classmates had left due to the scandal.
 
-**CHAPTER V. MARRIAGE**
+Ginevra confronted Servin about the situation, revealing that the young ladies had spread falsehoods about her relationship with Luigi. Servin dismissed the rumors, focusing instead on his upcoming exhibition. Luigi entered, jokingly claiming responsibility for Servin's lost students, and the painter playfully suggested they marry.
 
-The day after Ginevra was expelled from her father’s house, she sought refuge with Madame Servin, who coldly refused to help, irritated by the trouble Ginevra's situation caused her husband. Hurt yet proud, Ginevra rented a room near Luigi, who devoted himself to her, painting a hopeful future that lifted her spirits despite her father's harshness.
+Their silence spoke volumes, marking the first acknowledgment of their love. Servin encouraged their union, emphasizing the joy of love. Ginevra proposed to help Luigi secure a pardon from the authorities, confident in her father's influence.
 
-One morning, Ginevra received trunks filled with essentials from her mother, who included a letter urging her to reconsider the marriage. The letter expressed her mother's love and concern, deeply moving Ginevra. Just as she felt compelled to return home, Luigi arrived, and her resolve to abandon him faded. She chose to support him instead, burying her own grief.
+Meanwhile, Ginevra's parents grew anxious about her late return home. Bartolomeo, her father, paced the room, concerned for his daughter. He and his wife, though accustomed to her late hours, felt a sense of unease. Bartolomeo, a man of integrity and strong character, had always prioritized his family's well-being over societal expectations.
 
-On their wedding day, Ginevra had no friends present. Luigi brought two witnesses: a cavalry sergeant and a master mason, both dressed simply, reflecting the somber nature of the occasion. Ginevra, though beautiful, wore modest attire, and the atmosphere was grave, lacking the usual joy of a wedding.
+As Ginevra's parents awaited her return, they reflected on their close-knit family dynamic, built on love and mutual respect. Ginevra's upbringing had instilled in her a strong sense of loyalty and passion, traits she shared with her father. Their bond was deepened by shared political beliefs and a commitment to the Emperor.
 
-As they walked to the mayor’s office, they encountered other wedding parties filled with happiness, contrasting sharply with their own situation. Ginevra felt a mix of emotions, especially when the mayor’s clerk noted her parents' absence, heightening her anxiety. The bureaucratic ceremony felt cold, overshadowing their love with familial disapproval.
+When Ginevra finally arrived home, her father rushed to embrace her, relieved to see her safe. The family shared a moment of warmth, their love evident in their interactions. Ginevra's heart swelled with affection for her parents, knowing they were her greatest supporters.
 
-After a brief ceremony, Ginevra and Luigi were married, but they left the mayor’s office feeling the weight of their families' absence. Outside, Luigi expressed gratitude, and Ginevra felt relief despite the challenges ahead. They hurried to their modest apartment, where Luigi embraced her, declaring their true wedding had begun.
-
-Inside their new home, Ginevra was delighted by the thoughtful arrangements Luigi had made, including a studio for her art. They explored their small but charming space, filled with love and hope for the future. Their initial days together were consumed by passion, often forgetting the outside world.
-
-However, reality soon set in, and they realized they needed to work to sustain themselves. Ginevra began copying paintings, quickly gaining clients, while Luigi struggled until he decided to use his excellent handwriting for copying services. His efforts paid off, and he eventually established a successful business, allowing them to support themselves comfortably.
-
-This period marked the happiest time in their lives, filled with love and shared labor. They enjoyed evenings together, filled with music and laughter, and neither expressed regret about their choices. Yet, Ginevra occasionally felt sorrow for her parents, imagining their loneliness over her absence.
-
-To commemorate their anniversary, Ginevra painted a portrait of herself for Luigi, capturing not just her likeness but the essence of their love. This masterpiece symbolized their happiness and commitment to one another. Another year passed, and their life together continued in blissful harmony, marked by their enduring love.
+In the studio, Ginevra and Luigi's relationship blossomed amidst the challenges they faced. Their love, forged in adversity, became a source of strength, uniting them against the world. As they navigated the complexities of their lives, they remained steadfast in their commitment to one another, embodying the resilience of their shared ideals.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-In early 1819, Ginevra's picture-dealers urged her to create original works amid rising competition. Recognizing her earlier neglect of genre painting, she attempted portraiture but faced fierce competition from struggling artists. Despite some savings, Ginevra and Luigi's future remained uncertain.
+CHAPTER IV. LOVE
 
-As winter progressed, Luigi worked tirelessly, grappling with declining writing fees that forced him to labor longer hours without help. Ginevra produced several commendable paintings, but the market was unkind, leaving her efforts largely unsold. Their financial situation worsened, yet they masked their anxieties with love, fearing poverty would strip away their happiness.
+“Here she is, my Ginevra, Ginevrettina, Ginevrola, mia Ginevra bella!” cried the old man.
 
-One night, Ginevra awoke to find Luigi missing. She discovered him working late and, feeling guilty for his sacrifices, resolved to help by coloring lithographs. They both pretended to sleep, only to rise again to work, driven by love and desperation.
+“Oh, father, you hurt me!” Ginevra exclaimed, but was quickly set down with respect. She assured her mother, who was startled, that it was merely a trick to escape.
 
-One evening, exhausted, Luigi opened his window and saw Ginevra’s lamp across the courtyard, realizing she too was working. When he confronted her, she insisted on sharing their burdens. They shared a tender moment, gazing at dawn, hopeful despite their hardships.
+The baroness regained her composure, and Piombo, rubbing his hands, showed his joy, a habit he had developed at court. The two old parents resembled a revived plant after a long drought.
 
-Their situation worsened when Ginevra gave birth to a son, Bartolomeo. Initially, the joy of parenthood masked their financial troubles, but soon they were forced to sell possessions and jewels. Poverty crept in, stripping them of comfort and pride, leading to a grim reality.
+“Now, to dinner!” Piombo called, offering his hand to Ginevra, who smiled in response.
 
-Months later, Ginevra, now frail and worn, struggled to care for her sickly child. Luigi, desperate for help, found himself alone in a city where he knew no one. He sold Ginevra’s remaining paintings and furniture for meager sums, but their situation continued to deteriorate. Ginevra displayed remarkable strength, caring for her son and maintaining their home despite her suffering.
+“Your mother mentioned you’ve been spending more time at the studio. It seems painting is more important to you than us,” Piombo remarked.
 
-One evening, Ginevra saved a piece of bread for Luigi, who was horrified to realize she was starving. In despair, he decided to sell himself as a military substitute to secure money for her. He approached an old officer, who provided him with an advance. Luigi rushed home, hopeful, but found Ginevra in despair, holding their lifeless child.
+“Oh, father!” Ginevra protested.
 
-In shock, Ginevra cried out for help, and Luigi, frantic, sought assistance from neighbors. As they gathered supplies, Ginevra, in her delirium, expressed her love for Luigi and her regret over their lost child. She acknowledged her suffering and the happiness they once shared, asking Luigi to remember her fondly.
+“Ginevra is preparing a surprise for us,” her mother suggested.
 
-Despite Luigi's pleas for her to hold on, Ginevra succumbed to exhaustion and died in his arms, leaving him devastated. Neighbors and a priest arrived, but the room was filled with unbearable silence.
+“A picture of your own! Will you show us?” Piombo asked eagerly.
 
-Meanwhile, Ginevra's parents, Bartolomeo and Elisa, sat in their home, haunted by memories of their daughter. Just as Bartolomeo expressed a desire to see her again, Luigi appeared at their door, broken and holding Ginevra’s hair, revealing the tragic fate of their families. The revelation shattered the old couple, who realized the depth of their loss and the consequences of their estrangement. Bartolomeo, once resolute, was left in despair, mourning the death of his daughter and the destruction of their family ties.
+“Yes, I am very busy at the studio,” Ginevra replied slowly.
+
+“Are you alright, Ginevra? You look pale!” her mother exclaimed.
+
+“No! It shall never be said that Ginevra Piombo acted a lie,” she declared.
+
+Her parents exchanged astonished glances. “I love a young man,” she confessed, lowering her eyelids to hide her emotions.
+
+“Is he a prince?” Piombo asked ironically, causing his wife to tremble.
+
+“No, father, he is a young man without fortune,” she replied gently.
+
+“Is he handsome?” he pressed.
+
+“He is very unfortunate,” she said.
+
+“What is he?” Piombo inquired.
+
+“Labedoyere’s comrade; he was proscribed and hidden by Servin,” she explained.
+
+“Servin is a good fellow,” Piombo acknowledged, “but you do wrong to love any man but your father.”
+
+“It does not depend on me to love or not love,” Ginevra replied softly.
+
+“I thought my Ginevra would remain faithful to me until I die,” Piombo lamented. “I did not expect our love to find a rival.”
+
+“Did I ever reproach you for your devotion to Napoleon?” Ginevra countered. “You left me for months on missions. I endured your absence. Life has necessities.”
+
+“Ginevra!” Piombo exclaimed.
+
+“You don’t love me for myself; your reproaches reveal your egotism,” she said.
+
+“Dare you blame your father’s love?” he shouted, his eyes flashing.
+
+“Father, I don’t blame you,” she replied gently. “You have grounds for your egotism, as I have for my love. I have never left your side for fifteen years, and it has been a pleasure to charm your life. Is it ingratitude to desire a husband who will protect me?”
+
+“What! You reckon benefits with your father?” Piombo asked dangerously.
+
+A dreadful silence followed. Bartolomeo finally cried out, “Oh! stay with us! I cannot bear to have you love another man. Ginevra, you will not have long to await your liberty.”
+
+“But, father, I need not leave you; we will both love you. You will come to know the man to whom you bequeath me,” she said.
+
+“Oh! Ginevra, why did you not marry when Napoleon offered?” Piombo lamented.
+
+“They loved me to order,” she replied. “I did not wish to leave you alone.”
+
+“You don’t wish to leave me alone, yet you marry! I know you, my daughter; you would cease to love us,” he said.
+
+Elisa, the baroness, remained motionless, as if stunned. “We have no longer a daughter; she wishes to marry,” Piombo declared.
+
+He sat down, raising his hands to heaven, bowed down by sorrow. Ginevra, touched by his restraint, expected a violent outburst but was met with gentleness.
+
+“Father,” she said tenderly, “you shall never be abandoned by your Ginevra. Love me for my own sake. If you knew how he loves me! He would never make me unhappy!”
+
+“Comparisons already!” Piombo shouted. “I cannot endure the thought of your marriage. If he loved you as you deserve, he would kill me; if he does not love you, I would kill him.”
+
+Ginevra alone could withstand his gaze, her own eyes aflame. “Oh! to love you! What man is worthy of such a life?” Piombo continued. “Who is worthy to be your husband?”
+
+“He,” Ginevra replied, “he of whom I am not worthy.”
+
+“He?” Piombo repeated. “Who is he?”
+
+“He whom I love,” she said.
+
+“How can he know you enough to love you?” he asked.
+
+“Father,” she said impatiently, “whether he loves me or not, if I love him—”
+
+“You love him?” Piombo interrupted.
+
+Ginevra nodded softly.
+
+“You love him more than you love us?” he pressed.
+
+“The two feelings cannot be compared,” she replied.
+
+“Is one stronger than the other?” he asked.
+
+“I think it is,” she admitted.
+
+“You shall not marry him,” Piombo declared, shaking the window panes with his voice.
+
+“I shall marry him,” Ginevra replied calmly.
+
+“Oh, God!” cried her mother. “How will this quarrel end? Santa Virgina! Place yourself between them!”
+
+Piombo, now seated, wore an icy sternness. He looked at Ginevra and said gently, “No! You will not marry him. Say nothing more tonight—let me think otherwise. Do you wish to see your father on his knees, his white hairs prostrate before you? I supplicate you—”
+
+“Ginevra Piombo does not break her word,” she replied. “I am your daughter.”
+
+“She is right,” the baroness said. “We are sent into the world to marry.”
+
+“Do you encourage her in disobedience?” Piombo asked, turning to his wife, who was now petrified.
+
+“Refusing to obey an unjust order is not disobedience,” Ginevra asserted.
+
+“No order can be unjust from your father’s lips,” Piombo replied. “Why do you judge my actions? My repugnance is counsel from on high, perhaps to protect you from great evil.”
+
+“The only evil would be if he did not love me.”
+
+“Always he!” Piombo exclaimed.
+
+“Yes, always,” she affirmed. “He is my life, my good, my thought. Even if I obeyed you, he would remain in my soul. To forbid me to marry him is to make me hate you.”
+
+“You love us not!” Piombo shouted.
+
+“Oh!” Ginevra shook her head.
+
+“Then forget him; be faithful to us. After we are gone—you understand?”
+
+“Father, do you wish me to long for your death?” she asked.
+
+“I shall outlive you. Children who do not honor their parents die early,” he warned.
+
+“All the more reason I should marry and be happy,” she replied.
+
+This coolness and argumentation troubled Piombo, causing blood to rush to his head. Ginevra shuddered and sprang onto his knee, embracing him. “Oh, yes, yes, let me die first! I could never survive you, my father!”
+
+“Oh! my Ginevra, my own Ginevra!” Piombo replied, his anger melting under her affection.
+
+“It was time you ceased,” the baroness said, trembling.
+
+“Poor mother!” Ginevra said.
+
+“Ah! Ginevretta! mia bella Ginevra!” Piombo exclaimed, playing with her as if she were a child. They shared moments of joy, but Ginevra’s attempts to introduce Luigi were met with playful refusals from her father.
+
+The next day, Ginevra was more affectionate toward her father, expressing gratitude as if to thank him for his apparent consent. That evening, she sang and played for him, exclaiming they needed a man’s voice for the nocturne.
+
+A week later, her mother signaled her to come closer. “I have persuaded your father to receive him,” Elisa whispered.
+
+“Oh! mother, how happy you have made me!” Ginevra replied.
+
+That day, Ginevra joyfully returned home on Luigi’s arm. The officer emerged from hiding for the second time. Ginevra’s appeals to the Duc de Feltre had succeeded; Luigi’s name was restored on the officer’s list. This was a significant step forward. Warned of her father’s potential disapproval, Luigi felt anxious about meeting him. Ginevra sensed his fear, which only deepened her love.
+
+“How pale you are!” she remarked as they reached her home.
+
+“Oh! Ginevra, if it concerned my life only—”
+
+Though Bartolomeo had been informed of the formal introduction, he remained seated, his stern expression intimidating.
+
+“Father,” Ginevra said, “I bring you someone you will be pleased to see—a soldier who fought beside the Emperor at Mont-Saint-Jean.”
+
+Piombo rose, casting a sidelong glance at Luigi. “Monsieur is not decorated,” he remarked sarcastically.
+
+“I no longer wear the Legion of Honor,” Luigi replied timidly.
+
+Ginevra, embarrassed by her father’s rudeness, pulled out a chair for Luigi. The officer’s response seemed to satisfy Piombo. Madame Piombo, noticing her husband’s demeanor softening, attempted to engage in conversation.
+
+“Monsieur’s resemblance to someone we knew in Corsica, Nina Porta, is surprising,” she noted.
+
+“Nothing could be more natural,” Luigi replied. “Nina was my sister.”
+
+“Are you Luigi Porta?” Piombo asked.
+
+“Yes,” Luigi confirmed.
+
+Bartolomeo staggered, needing support from his wife. The two old parents left the room in silence, abandoning their daughter in a state of horror.
+
+Luigi, bewildered, looked at Ginevra, who had turned pale, staring at the door through which her parents had exited. The solemnity of the moment filled her with fear. “What misery in a word!” she exclaimed.
+
+“In the name of our love, what have I said?” Luigi asked.
+
+“My father never spoke of our tragic history, and I was too young to know,” Ginevra explained.
+
+“Are we in vendetta?” Luigi asked, trembling.
+
+“Yes. My mother said the Portas killed my brother and burned our house. My father then massacred their family. How did you survive? You were tied to the bed before they set fire to the house.”
+
+“I do not know,” Luigi replied. “I was taken to Genoa at six and raised by an old man named Colonna. I was told I had enemies and advised to take Luigi as my surname to evade them.”
+
+“Go, go, Luigi!” Ginevra urged. “Stay here; you are safe in my father’s house, but once you leave, danger awaits! My father has two Corsicans in his service, and they will hunt you.”
+
+“Ginevra,” he said, “does this vendetta exist between us?”
+
+She smiled sadly and nodded. “Oh, Luigi, our love must be pure and sincere to give me strength for the path ahead. But it promises happiness for our lives, does it not?”
+
+Luigi smiled and squeezed her hand. Ginevra realized that true love transcends superficial expressions. Their destiny was sealed; she foresaw a difficult struggle but felt no inclination to abandon Luigi. With determination, she pulled him from her father’s house and ensured he reached his modest lodging.
+
+Upon returning home, Ginevra felt a calm resolve. She greeted her parents, who were preparing for dinner, with gentle eyes, noting her mother’s tear-stained face. They all rose from the table in silence, unable to speak.
+
+In the gloomy salon, Piombo attempted to speak but faltered, his strength failing him. He rang for a servant. “Pietro, light the fire; I am cold,” he ordered.
+
+Ginevra trembled, watching her father’s internal struggle. Both were suffering in silence, nursing their pride and anger. The love that once brought them joy now felt like a burden. Ginevra’s gaze at her father was filled with reproach, while Piombo’s eyes reflected a deep-seated pain.
+
+On Ginevra’s birthday, her mother, desperate to mend the rift, gathered them in Bartolomeo’s study. Ginevra sensed her mother’s intentions and smiled sadly.
+
+At that moment, two notaries arrived with witnesses. Bartolomeo eyed them warily, sensing a confrontation. The older notary introduced himself and began to discuss Ginevra’s marriage to Luigi Porta.
+
+“Monsieur le baron, we have come to fulfill the law regarding your daughter’s marriage,” he stated, but Piombo’s anger was palpable.
+
+“Are there laws in France that destroy paternal authority?” he demanded.
+
+“Monsieur—” the notary began.
+
+“Which tear a daughter from her father?” Piombo pressed.
+
+“Monsieur—”
+
+“Which deprive an old man of his last consolation?” he continued.
+
+“Monsieur, your daughter only belongs to you if—”
+
+“And kill him?” Piombo shouted.
+
+“Monsieur, permit me—”
+
+The notary’s calm demeanor only fueled Piombo’s rage. In a sudden movement, he grabbed a dagger from the wall and rushed toward Ginevra. Witnesses intervened, but Piombo pushed them aside, his fury evident.
+
+When Ginevra saw him approach, she knelt before him. “No, no! I cannot!” he cried, throwing the dagger away. “Have mercy! Give me Luigi! I ask for your consent upon my knees,” she pleaded, her voice trembling.
+
+Bartolomeo pushed her away. “Go. The wife of Luigi Porta cannot be a Piombo. I have no daughter. My Ginevra Piombo is buried here,” he said, pressing his heart. “Leave my house, unhappy girl,” he added, ushering her out.
+
+“Luigi!” Ginevra cried, entering her lover’s humble abode. “My Luigi, we have no fortune but our love.”
+
+“Then I am richer than kings!” he exclaimed.
+
+“My father and mother have cast me off,” she said sadly.
+
+“I will love you in their place,” he promised.
+
+“Then let us be happy—we WILL be happy!” she declared, her voice filled with a mix of joy and dread.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+The day after Ginevra was expelled from her father's house, she sought refuge with Madame Servin until her marriage to Luigi. However, Madame Servin received her coldly, upset by the trouble Ginevra's situation had caused her husband. Feeling proud yet shocked by this selfishness, Ginevra rented a room near Luigi, who devoted himself to her, painting a bright future that lifted her spirits despite her father's harshness.
+
+One morning, Ginevra received trunks filled with essentials for her new life, sent by her mother, who included a letter urging her to reconsider the marriage. The letter expressed her mother's love and sorrow, which deeply moved Ginevra. Just as she felt compelled to return home, Luigi arrived, and her resolve to abandon him faded. She chose to bury her own grief for the sake of their love.
+
+On the wedding day, Ginevra was alone, and Luigi brought witnesses to sign the marriage certificate. They were simple men, dressed ordinarily, which contrasted with the usual joy of a wedding. Ginevra's beauty silenced the witnesses, creating a somber atmosphere. As they walked to the mayor's office, they encountered other wedding parties filled with joy, highlighting the stark difference in their own situation.
+
+Inside, Ginevra and Luigi sat together, their love overshadowed by the festive atmosphere around them. The mayor's clerk noted the absence of Ginevra's parents, and when the mayor inquired about their protest, the clerk confirmed it. This bureaucratic formality felt oppressive, reminding Ginevra of her family's disapproval. The marriage ceremony was devoid of celebration, reduced to a mere legal formality.
+
+After signing the registers, Ginevra and Luigi left the office, feeling a mix of relief and sadness. Luigi expressed his gratitude, and Ginevra felt a sense of happiness despite the circumstances. They hurried to the church, where they were married by an old priest in a modest chapel, surrounded by the grandeur of other weddings. The priest's remarks about their parents' absence stung, but a blessing from a sergeant brought comfort to Ginevra.
+
+Once married, they moved into their modest apartment, where Luigi embraced Ginevra, declaring it their true wedding. They explored their new home, which was filled with artistic supplies for Ginevra. She was delighted by the thoughtful arrangements, and they reveled in their shared space, feeling like they had found paradise despite its limitations.
+
+In the early days of their marriage, they indulged in their love, often losing themselves in each other's presence. However, reality soon set in, and they realized the need to work. Ginevra began copying paintings, gaining clients, while Luigi struggled to find work until he decided to use his handwriting skills to offer copying services. His efforts paid off, and soon he had enough work to hire assistants, providing a stable income for them both.
+
+This period marked the happiest time of their lives, filled with love and labor. They enjoyed evenings together, with Ginevra always smiling and never complaining. Each worked for the other, finding joy in their shared efforts. Yet, Ginevra occasionally felt pangs of remorse for the happiness she had sacrificed by leaving her family, haunted by thoughts of her parents' sorrow.
+
+To commemorate their anniversary, Ginevra painted a portrait of herself for Luigi, capturing not just her likeness but the essence of their love. This masterpiece symbolized their wedded bliss, and another year passed in happiness, marked by the simplicity of their life together. No significant events disrupted their contentment; they were simply happy.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+At the beginning of 1819, the picture-dealers urged Ginevra to create original works instead of copies, as competition had intensified. Madame Porta realized her earlier mistake of not pursuing genre painting, which could have enhanced her reputation. She attempted portrait painting but faced stiff competition from artists in greater financial need. Despite Luigi and Ginevra's modest savings, they began to feel anxious about their future.
+
+As winter progressed, Luigi worked tirelessly, struggling against competition in writing, which had become less lucrative. He could no longer afford assistance and had to work longer hours for the same pay. Ginevra produced several commendable paintings, but dealers were reluctant to buy from lesser-known artists, leaving her with little success even when she offered her work at low prices.
+
+Their household situation grew dire, with love and happiness overshadowed by the specter of poverty. They concealed their worries from each other, with Ginevra showering Luigi with affection while he hid his fears. They clung to each other and the hope that their love would sustain them through their troubles.
+
+One night, Ginevra awoke to find Luigi missing. She discovered him working late into the night, a habit he had developed to avoid burdening her with his struggles. Overcome with emotion, she resolved to contribute by coloring lithographs, working late into the night while Luigi toiled in his garret. They both pretended to sleep, each trying to shield the other from their worries.
+
+One night, Luigi, exhausted and feverish, opened his window and saw Ginevra's lamp across the courtyard, realizing she was also working. When he confronted her, she insisted she could not be idle while he suffered. They shared a moment of tenderness, gazing at the dawn together, hopeful for the future.
+
+Their struggles intensified when Ginevra gave birth to a beautiful son, Bartolomeo. The joy of parenthood initially masked their financial burdens, but soon they were forced to sell their possessions and jewels. Poverty crept in, stripping them of comfort and pride, leading to a desperate situation.
+
+Months later, Ginevra, now frail and worn, struggled to care for her sickly child. Luigi, feeling helpless, searched for assistance but found none. He sold Ginevra's paintings and their remaining furniture for a meager sum, prolonging their suffering. Ginevra displayed remarkable strength, managing household duties and caring for her son, even as she starved herself to provide for Luigi.
+
+One evening, she offered Luigi her last piece of bread, urging him to eat. Realizing her sacrifice, he was consumed by despair and left to seek help. In a moment of desperation, he decided to sell himself as a military substitute, hoping the money would save Ginevra and their child.
+
+After securing an advance, he rushed home, only to find Ginevra asleep with their child. When he woke her, she smiled but then realized Bartolomeo was cold and lifeless. Luigi, horrified, sought help, but it was too late. Ginevra, in her delirium, expressed her love for Luigi and her regret over their lost child. She died in his arms, leaving him heartbroken.
+
+As Luigi mourned, Ginevra's parents sat in their home, reflecting on their daughter. They had not seen her in years, and memories flooded back as they noticed an empty chair that once belonged to her. Elisa Piombo, Ginevra's mother, spoke of her daughter, hoping to rekindle Bartolomeo's love for Ginevra. Just as Bartolomeo seemed to soften, a man entered, revealing the tragic fate of Ginevra and Luigi.
+
+The old couple was devastated, realizing their daughter was gone, and Bartolomeo's heart was shattered by the loss of his beloved child. The cycle of suffering and retribution had claimed another victim, leaving behind only memories and grief.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################

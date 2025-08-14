@@ -5,14 +5,14 @@ GREEN = ["#f9f9f9", "#c9f2c9", "#9aee9a", "#5ee55e", "#29cc29", "#006400"]
 BLUE = ["#f9f9f9", "#c9d7f2", "#9abeee", "#5e8ee5", "#295ccc", "#000964"]
 ORANGE = ["#f9f9f9", "#f2e0c9", "#eed09a", "#e5b05e", "#cc8a29", "#643900"]
 
-model = "gpt-5-mini"  # Default model name, can be overridden
-
+model = "gpt-4o-mini"  # Default model name, can be overridden
 def plot_grades(grades, save_path="heatmaps/heatmap.png", color_scheme=RED, color_scheme_name="red", title="Total Grades Heat-map"):
     """
     Render a numeric matrix (0–100) as a heat-map and save it to *save_path*.
     Each cell shows the value as a percentage with one decimal (e.g. 91.0%).
     The X axis is labeled "Context Length" and varies from 10% to 100%.
     The Y axis is labeled "Fact Depth" and varies from 10% to 100%.
+    The X axis is stretched to be twice the size of the Y axis.
     """
     import os
     import numpy as np
@@ -41,13 +41,14 @@ def plot_grades(grades, save_path="heatmaps/heatmap.png", color_scheme=RED, colo
     y_labels = [f"{int(10 + (i * 90 / (num_rows - 1)))}%" for i in range(num_rows)] if num_rows > 1 else ["100%"]
 
     # --- draw -----------------------------------------------------------------
-    plt.figure(figsize=(len(grades), len(grades[0])), dpi=100)
+    # Stretch x axis to be twice the size of y axis
+    plt.figure(figsize=(2 * num_cols, num_rows), dpi=100)
     ax = sns.heatmap(
         grades,
         vmin=0,
         vmax=100,
         cmap=cmap,
-        square=True,
+        square=False,  # allow non-square aspect ratio
         linewidths=0.5,
         cbar_kws={"label": "Grade"},
         annot=annot_strings,   # use the strings with "%"
@@ -107,8 +108,8 @@ if __name__ == "__main__":
     hallucination_grades = retrieve_grades(grades, 3)
     print(f"Hallucination grades: {hallucination_grades}")
 
-    plot_grades(total_grades, save_path=save_path_total, color_scheme=RED, color_scheme_name="red", title="Total Grades Heat-map")
-    plot_grades(direct_grades, save_path=save_path_direct, color_scheme=GREEN, color_scheme_name="green", title="Direct Facts Grades Heat-map")
+    plot_grades(total_grades, save_path=save_path_total, color_scheme=BLUE, color_scheme_name="blue", title="Total Grades Heat-map")
+    plot_grades(direct_grades, save_path=save_path_direct, color_scheme=BLUE, color_scheme_name="blue", title="Direct Facts Grades Heat-map")
     plot_grades(inferential_grades, save_path=save_path_inferential, color_scheme=BLUE, color_scheme_name="blue", title="Inferential Facts Grades Heat-map")
-    plot_grades(hallucination_grades, save_path=save_path_hallucination, color_scheme=ORANGE, color_scheme_name="orange", title="Hallucination Grades Heat-map")
+    plot_grades(hallucination_grades, save_path=save_path_hallucination, color_scheme=BLUE, color_scheme_name="blue", title="Hallucination Grades Heat-map")
     

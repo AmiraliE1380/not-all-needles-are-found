@@ -1,146 +1,912 @@
-**DEDICATION**  
-To Monsieur le Comte Ferdinand de Gramont, whose contributions to life and heraldry studies have enriched my work. I value our friendship.
+Produced by John Bickers and Dagny
 
-**THE MUSE OF THE DEPARTMENT**  
-Sancerre, a charming town in Le Berry along the Loire, is known for its fertile lands and wine production. Its strategic location near the river-port of Saint-Thibault enhances trade, particularly in wine, often compared to Burgundy's finest.
+THE MUSE OF THE DEPARTMENT
 
-However, Sancerre is in decline as trade shifts to the right bank of the Loire, with neighboring Cosne gaining prominence. With about 3,500 residents, Sancerre retains its quaint charm, featuring narrow, pebble-paved streets and remnants of its feudal past, including a citadel that survived a fierce siege during the religious wars.
+By Honore De Balzac
 
-The town is home to notable figures like medical pioneer Horace Bianchon and journalist Etienne Lousteau. Yet, Sancerre struggles under the influence of a few powerful landowners, leading to a failed attempt to escape their electoral control. This conspiracy, driven by personal ambitions, highlights the challenges of provincial politics, where true leadership is rare. The community's desire for change is evident in plans to support a local champion for the next election, inspired by a prominent woman in the borough.
+Translated by James Waring
 
-In the 1830s, Sancerre was notable for the Superior Woman, who gained local fame alongside Lousteau and Bianchon, recognized in Paris—one as a writer and the other as a physician.
+DEDICATION
 
-George Sand's influence led to the emergence of _Sandism_, a sentimentality that, despite criticism, acknowledged many overlooked superior women in France. The Superior Woman of Sancerre resided at La Baudraye, a historically significant property linked to the Milaud family, whose lineage included a sheriff converted from Calvinism during Louis XIV's reign.
+To Monsieur le Comte Ferdinand de Gramont.
 
-La Baudraye's history begins with Milaud, who received noble status and land from the King. His descendants faced persecution, and the family's fortunes fluctuated. By the early 19th century, Jean Athanase Polydore Milaud de la Baudraye, the last of his line, inherited a diminished estate and struggled with health issues due to his father's excesses.
+MY DEAR FERDINAND,--If these lines endure in the world of literature, they will be a small token of gratitude for your efforts. You, the Hozier, the Cherin, the King-at-Arms of these Studies of Life, have contributed to the noble lineage of the “Human Comedy” with your heraldic designs. Your work, a complete manual of French Heraldry, reflects profound knowledge of the feudal spirit and the elegance of learned symbolism, which has greatly influenced my own.
 
-In 1800, he returned to Sancerre to restore his family's legacy. His marriage to Dinah Piedefer, a beautiful and intelligent woman from a modest background, was driven by ambition. Raised in a Calvinist family, Dinah converted to Catholicism to enhance her prospects.
+Your old friend,  
+DE BALZAC.
 
-Monsieur de la Baudraye's marriage faced skepticism, as he was seen as marrying above his station. His financial dealings in Paris were challenging, leading him to negotiate with influential figures to recover debts. Ultimately, he secured a position as Collector of Taxes, which he later leveraged for financial gain.
+THE MUSE OF THE DEPARTMENT
 
-Dinah transformed La Baudraye into a stylish residence, enhancing its appeal and her social standing. Her efforts attracted attention but also envy from local women, who felt overshadowed by her intelligence. Despite her attempts to integrate into society, Dinah faced isolation, as her superiority alienated her from other women.
+On the skirts of Le Berry lies Sancerre, a town that captivates travelers with its scenic beauty. Perched atop a hill, it overlooks the fertile flats of the Loire, which occasionally floods, leaving behind rich alluvium, though some areas are forever ruined by sand. The town's distance from the river allows the nearby port of Saint-Thibault to thrive, facilitating the shipment of wine and other goods.
 
-In summary, the story of La Baudraye reflects themes of ambition, social dynamics, and gender relations in 19th-century France, illustrating the challenges faced by women aspiring to rise above societal expectations.
+By the time this story unfolds, the suspension bridges at Cosne and Saint-Thibault have been built, marking the end of the ferry era. This development signifies the progress made since the upheaval of 1830, as the House of Orleans has invested in substantial improvements.
+
+Sancerre's streets are steep and narrow, surrounded by the Great Ramparts, which serve as the town's main thoroughfares. The region's primary industry is wine production, yielding high-quality vintages that closely resemble those of Burgundy, making Sancerre a vital supplier to Parisian wine shops. Below the town, villages like Fontenoy and Saint-Satur resemble the picturesque vineyards of Neuchatel in Switzerland.
+
+Despite its ancient charm, Sancerre's military significance has waned, and its future appears bleak as trade shifts to the right bank of the Loire. The population of Sancerre, around 3,500, pales in comparison to Cosne's 6,000, indicating a reversal in their roles over the past fifty years. Nevertheless, Sancerre retains its historic allure, with breathtaking views, pure air, and a friendly, if somewhat watchful, community, predominantly Calvinist yet devoid of strict Puritanism.
+
+The town takes pride in its notable figures, including Horace Bianchon, a luminary in modern medicine, and Etienne Lousteau, a successful journalist. However, the municipality struggles under the influence of a few large landowners who manipulate elections, leading to a failed attempt by the local populace to break free from this electoral control. This conspiracy, driven by vanity, ultimately faltered due to jealousy among its members.
+
+The proposed remedy was to unite behind a champion for the next election, specifically one of the two prominent representatives of Sancerre in Paris. This idea was quite progressive for the provinces, especially since the number of parochial dignitaries has surged since 1830, making true statesmen increasingly rare in the lower chamber.
+
+This plan, though dubious, originated from the Superior Woman of the borough, motivated by personal interests. Understanding her past and future prospects is essential to grasping the full context of her ambitions.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-By the end of 1825, Dinah de la Baudraye faced accusations of favoring male visitors, leading to criticism and misrepresentation of her character. Despite her efforts to maintain a respectable image, she boldly declared to a false friend, “I would rather have my bowl empty than with anything in it!” This remark backfired, especially as she remained childless after five years of marriage, making her a target of ridicule.
+Sancerre, around 1836, was home to a notable figure known as the Superior Woman, who had long been overlooked but was now gaining local recognition. During this time, two Sancerrois in Paris were achieving significant success: Etienne Lousteau, a writer contributing to a popular review, and Bianchon, a prominent physician and professor.
 
-Monsieur de la Baudraye, her husband, was a frail man often mocked for his appearance. He wore false calves to disguise his thin legs and adopted a style to appear taller, yet he was gentle and rarely contradicted Dinah. In contrast, Dinah was celebrated for her beauty and intelligence, drawing admiration from men throughout the region. She engaged in conversations that showcased her extensive knowledge, often preparing her thoughts in advance, leading to comparisons with the renowned Madame de Staël.
+George Sand's influence led to the emergence of what could be termed _Sandism_, a sentimentality that, while charming, also had its drawbacks. This movement highlighted the existence of many superior women in France, who had previously allowed the Marechal de Saxe’s granddaughter to dominate the scene.
 
-Dinah's charm created an atmosphere that shielded her from criticism, allowing her to thrive as a "Superior Woman." She immersed herself in the arts, promoting the romantic school and collecting antiques displayed in their home, La Baudraye. Her collection fascinated visitors, who were captivated by her knowledge of art and history.
+The Superior Woman of Sancerre resided at La Baudraye, a combined town and country house near Saint-Satur. The current La Baudrayes were a far cry from the illustrious family that had participated in the Crusades.
 
-To cultivate a literary circle in Sancerre, Dinah partnered with local judge Monsieur Boirouge, who had ulterior motives for supporting her initiative. However, the group quickly devolved into social gatherings filled with games and drinks, disappointing Dinah’s aspirations for intellectual discourse. Despite her efforts, the members often strayed into frivolity, leaving her disheartened.
+The narrative begins with a sheriff named Milaud, a former Calvinist who converted during the Revocation of the Edict of Nantes. King Louis XIV rewarded him with a title and fiefdom, but his descendants faced tragic fates due to the new decrees against heretics. Under Louis XV, Milaud de la Baudraye rose in status, securing a military commission for his son, who died in battle, leaving behind a child. This child later received privileges from Louis XVI.
 
-Dinah's admirers, including three prominent men, vied for her attention while navigating complex relationships with her. They believed Dinah would eventually become more accessible, but she remained devoted to her ideals and upbringing. Monsieur de la Baudraye recognized his leverage as Dinah's husband and exploited her admirers for personal gain, securing favorable outcomes in legal matters. Meanwhile, local women speculated about the nature of Dinah's marriage, suspecting hidden secrets, while a slow, tragic domestic drama unfolded within La Baudraye, obscured by the era's demand for transparency in personal lives. Throughout her early married life, Dinah maintained her virtue amidst societal expectations and personal ambitions.
+In 1800, after years of exile, the ex-farmer-general returned to Sancerre, purchasing La Baudraye out of vanity. His only son, Jean Athanase Polydore Milaud de la Baudraye, was frail and sickly, a product of his father's excesses. His mother, a noblewoman, devoted herself to raising him until her death, which prompted his father’s return to France.
 
-Mademoiselle Dinah Piedefer, a young woman whose academic success was fueled by pride, married Monsieur de la Baudraye, a seemingly suitable match despite their age difference. Initially, he allowed her to improve their home and appeared generous, but soon revealed his miserly nature, restricting her personal expenses and household budget. Dinah's attempts to manipulate him through jealousy failed, as he remained indifferent to her emotional needs.
+Upon his father's death, young La Baudraye inherited a fief, some money, and a collection of autographs. He survived due to strict habits and the healthy air of Sancerre. From 1802 to 1815, he expanded his vineyards but hesitated to claim debts in Paris due to the Restoration's instability. After Napoleon's fall, he attempted to monetize his father's collection but returned to Sancerre without success.
 
-As time passed, Dinah grew increasingly frustrated with her provincial life in Sancerre, feeling trapped and yearning for the excitement of Paris. She had hoped her husband would rise socially, but he remained stagnant, leaving her humiliated and unfulfilled. Despite her ambitions, she found herself surrounded by mediocrity, dulling her intellect and spirit.
+In 1823, at 43, La Baudraye sought marriage to secure an heir. He chose Dinah Piedefer, a beautiful and intelligent young woman from a Calvinist family that had fallen into poverty. Dinah, raised in a prestigious school, aimed to elevate her status by converting to Catholicism, hoping to attract a suitable husband.
 
-Dinah's six years in Sancerre transformed her into a typical provincial woman, eroding her individuality. The lack of stimulating company stifled her creativity, and she became aware of her decline when comparing herself to her friend Anna, who thrived in Parisian society. This realization plunged her into despair, recognizing that while Anna lived fully, she merely endured.
+The Archbishop of Bourges, recognizing Dinah's potential, sought to marry her off, but families hesitated due to her beauty and intellect. When Polydore de la Baudraye learned of her situation, he rushed to Bourges, just as Dinah's mother was considering a match with a wealthy suitor. Polydore sought the Cardinal's support to recover his debts, but the Minister deemed his approach too aggressive.
 
-In her frustration, Dinah turned to poetry, producing "Paquita la Sevillane," which garnered attention but exposed her vulnerabilities. The poem reflected her inner turmoil and longing for a vibrant life, contrasting sharply with her dull existence. Despite its success, she feared backlash from her peers if her authorship were revealed, deepening her dissatisfaction and highlighting the stark divide between the vibrancy of Paris and the stagnation of provincial life.
+The news of Polydore's marriage to Dinah stirred excitement in Sancerre, with speculation about his motives. The local elite, including President Boirouge, noted that Polydore was motivated by jealousy of a rival, the handsome Milaud.
 
-After the Revolution of 1830, George Sand's fame inspired towns across France to celebrate female talents, leading to a surge in aspiring women writers. Among them was Dinah de la Baudraye, who, under the pseudonym Jan Diaz, gained attention for her poetry. Despite her initial obscurity, her works, including an elegy, garnered public sympathy after her untimely death.
+Polydore's financial dealings in Paris were fraught with challenges. He eventually traveled to Paris to negotiate with his debtors, including the Duc de Navarreins. A government agent proposed a deal: Polydore could receive a tax collector position in exchange for forgiving the Duc's debts. Tempted by the offer, he accepted and returned to Sancerre as a tax collector.
 
-Monsieur de Clagny published a collection of Jan Diaz's works, which received mixed reviews. As Dinah's reputation grew, she emerged as a rival to George Sand, with her poetry receiving newfound praise. The local community celebrated her as a "Superior Woman," a title that replaced her earlier nickname, "The Sappho of Saint-Satur."
+After a brief tenure, he returned to Paris, where he secured a series of lucrative appointments, ultimately becoming a Royal Commissioner. By 1827, he realized his dream of land ownership, purchasing the estate of Anzy, thus elevating his status in the region.
 
-Dinah's marriage to Monsieur de la Baudraye was strained, as her literary ambitions clashed with domestic life. Her spiritual advisor, Abbe Duret, warned her about her husband's character, but she struggled to accept his insights. Seeking solace in writing, Dinah's frustrations and her husband's indifference led her to contemplate infidelity.
+Dinah, now married, made significant improvements to La Baudraye, transforming it into a pleasant residence. She created gardens and enhanced the interior, all while keeping her husband’s financial dealings a secret, which added an air of mystery to his character.
 
-Despite her initial resolve to stop writing after a confrontation with her husband, Dinah felt increasingly isolated and discontented. The local society clamored for more of her poetry, unaware of her personal turmoil. Her husband's passive demeanor deepened her despair.
+As Dinah emerged socially, her beauty and intellect garnered attention, but also envy from local women. When she finally appeared publicly, her presence caused a stir, and her refined tastes set her apart. She maintained correspondence with a friend in Paris to stay updated on fashion and culture, further distancing herself from the local women.
 
-As Dinah navigated her complex emotions, she became enamored with Monsieur de Clagny, believing his support indicated love. This led to a political campaign to elect him as a deputy, but jealousy and rivalry undermined their efforts, resulting in disappointment.
+Dinah's ambition to engage in meaningful conversation alienated her from the local women, who found her superiority intimidating. The local men admired her, but the women resented her, leading to her isolation. Dinah's mother, Madame Piedefer, basked in her daughter's success, while Polydore reveled in having a Superior Woman as a wife.
 
-Yearning for freedom from her oppressive marriage, Dinah reflected on her unfulfilled dreams and societal constraints stifling her creativity. The arrival of Parisian literary figures, Lousteau and Bianchon, offered her a glimpse of a world beyond her provincial existence, revealing her sharp wit and desire for intellectual engagement. Ultimately, Dinah's journey illustrates the struggles of a woman caught between societal expectations and artistic ambitions in a patriarchal society.
+This dynamic illustrates how societal perceptions can shape reputations, as Dinah's superiority became both a source of admiration and resentment, ultimately isolating her in a community that could not accept her exceptionalism.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-At five in the morning, guests at the Chateau d’Anzy were awake, with La Baudraye eager to showcase his land reclamation project to the Parisians. He planned a day of sport to impress them with the twelve hundred acres he aimed to reclaim for profit.
+By the end of 1825, Dinah de la Baudraye faced accusations of only socializing with men, leading to criticism and misrepresentation of her actions. Despite her efforts to maintain a good reputation, she made a rash comment to a false friend about her isolation: “I would rather have my bowl empty than with anything in it!” This remark backfired, especially as she remained childless after five years of marriage, turning her into a subject of ridicule.
 
-Gatien Boirouge noted the absence of the Public Prosecutor, who was in court, raising speculation about Madame de la Baudraye's feelings for Monsieur de Clagny. Gatien worried she might be drawn to the Prosecutor's ambitions, but Lousteau suggested they focus on enjoying the day.
+Monsieur de la Baudraye, a frail man with thin legs and a delicate appearance, often wore false calves and was known for his peculiar fashion choices. He was gentle and rarely contradicted Dinah, allowing her to dominate conversations. Dinah, admired for her beauty and intelligence, engaged in discussions that captivated local gentlemen, who traveled from nearby towns to meet her. She enjoyed the attention and became adept at delivering well-prepared speeches, drawing from her extensive reading on various subjects.
 
-During the hunt, conversation shifted to love and fidelity. Lousteau proposed to provoke reactions from Madame de la Baudraye and de Clagny with scandalous stories. Bianchon defended Dinah’s innocence, while Gatien expressed concern about her being alone with Clagny. They agreed to maintain a diplomatic demeanor while observing the couple.
+Dinah's charm created a protective aura around her, shielding her from criticism. Monsieur de la Baudraye, however, often escaped her lengthy discussions, preferring to take walks or attend to business. As Dinah established herself as a prominent figure, she became involved in promoting the romantic arts, collecting antiques, and decorating their home with treasures from the Renaissance. Her husband, while supportive of her interests, was primarily focused on his land.
 
-Later, Lousteau recited a poem, which received mixed reactions. The evening included discussions on literature and morality, where Lousteau critiqued societal hypocrisy regarding love. They shared stories, including one about a young man imprisoned for political reasons who escaped, highlighting themes of betrayal and revenge.
+Over the years, Dinah filled their home with a vast collection of antiques, which impressed visitors and sparked her discussions on art and history. She attempted to create a literary circle in Sancerre, but it devolved into social gatherings with little focus on literature. This disappointed Dinah, who sought to elevate the cultural standards of her community.
 
-As the night progressed, tension grew between the Parisians and locals. Lousteau's sharp wit contrasted with the conservative views of others. The atmosphere shifted as they discussed love, with Lousteau arguing that true love often comes late in life, while Bianchon noted the complexities of relationships.
+Despite her efforts, the literary circle became a venue for games and casual conversation, much to her chagrin. Dinah's admirers, including local magistrates and a priest, often found themselves distracted from her intellectual pursuits, leading to a mix of admiration and frustration. One young man, who yawned during one of her lectures, fell from her favor, illustrating the high expectations she set for her companions.
 
-The next day, Madame de la Baudraye planned an outing to Cosne, intending to drop her mother off at La Baudraye before continuing with Lousteau and Bianchon. Dressed elegantly, she aimed to impress. Their journey was filled with light-hearted banter, as Lousteau engaged Dinah in discussions about love, suggesting societal expectations complicate genuine feelings. As they traveled, Dinah and Lousteau's dynamic deepened, allowing them to explore thoughts on love and relationships, while Gatien's presence reminded her of her marital obligations. The day unfolded with flirtation and philosophical musings, as Lousteau's charm began to win over Dinah, setting the stage for potential romantic developments.
+As Dinah turned twenty in 1826, her admirers continued to shower her with attention, hoping to win her affection. However, she remained devoted to her role as a wife, protected by her mother and the presence of her admirers, which kept slander at bay. The jealousy among her admirers became a source of amusement for onlookers, as it was clear that none would dare leave her alone.
 
-For three days, Dinah was captivated by the romantic ideas of her Parisian visitors. Lousteau noticed her growing interest and waited for the right moment to win her heart. She planned to show La Baudraye to her guests, which led to her being alone with Lousteau and Bianchon. During their travels, Bianchon humorously critiqued local figures while Lousteau sat close to Dinah, strengthening their bond.
-
-Bianchon recognized Dinah's attraction to Lousteau and encouraged her to pursue it, warning that her current life would lead to unhappiness. Although Dinah hesitated, fearing competition with Lousteau's past lovers, Bianchon insisted he needed genuine love, stirring her emotions.
-
-As they neared Cosne, Dinah's feelings conflicted. Lousteau boldly professed his love, but she resisted, worried about being just another fleeting romance. Their conversation was interrupted by Gatien, who had been following Dinah. Lousteau playfully disrupted her muslin dress, causing her embarrassment.
-
-After a brief exchange with Gatien, who remained unaware of the tension, Dinah and Lousteau returned to La Baudraye. Overwhelmed, Dinah retreated to her room in tears, prompting Lousteau to follow her, eager to understand her feelings. He suggested she change her dress to avoid Gatien's scrutiny, complicating matters further.
-
-Gatien confronted Lousteau about missing papers, feeling deceived. Lousteau dismissed his concerns, implying that Dinah had tricked him. Meanwhile, Dinah, now dressed in velvet, faced both men, trying to navigate the awkwardness. Lousteau continued to express his devotion, while Dinah remained evasive, torn between her feelings and societal obligations.
-
-As the evening progressed, Lousteau's charm began to win Dinah over, and she found herself laughing despite her earlier reservations. Their connection deepened, and Lousteau's playful banter eased the tension. However, gossip about Dinah's change of dress and her relationship with Lousteau quickly spread, leading to scandalous rumors.
-
-Despite the backlash, Dinah's feelings for Lousteau blossomed, transforming her understanding of love. Lousteau sought to leave a lasting impression before returning to Paris, culminating in a bittersweet farewell. Dinah reflected on her newfound identity and desires, realizing she had not been truly loved for herself until now, with only Monsieur de Clagny remaining steadfast.
-
-In Paris, Lousteau quickly lost the joy he had found at the Chateau d’Anzy, struggling to make a living as a writer. In a bourgeois-dominated era, writing felt like penal servitude. He contributed to a newspaper and several literary magazines but often produced hack work, lacking artistic integrity. Despite this, he enjoyed a relatively easy life filled with social engagements and the company of various women, including his lover, Madame Schontz.
-
-Lousteau's financial situation was precarious; he earned between seven and eight hundred francs a month, yet his extravagant lifestyle left him perpetually broke. His rent and expenses consumed most of his income, forcing him to live as he had upon arriving in Paris. He often lamented the toll of his bohemian existence, joking with friends about aging and marriage.
-
-His relationship with Madame Schontz was complex; she was possessive yet proud of having a writer as a lover. Meanwhile, Lousteau received letters from Dinah, a woman he had met in Sancerre, but he grew indifferent to her affections, burning her heartfelt letters unread.
-
-A turning point came when Madame Schontz mentioned a potential marriage opportunity. Felicie Cardot, a young woman in trouble, needed a husband, and her father, a notary, offered a substantial dowry. Initially dismissive, Lousteau began to see the advantages of such a union, especially given his financial struggles.
-
-After some consideration, Lousteau agreed to meet Felicie and her family. He played the role of a respectable suitor, impressing Madame Cardot with his charm. As he spent time with the Cardots, he found Felicie to be a sweet, shy girl who seemed genuinely grateful for his willingness to marry her.
-
-However, Madame Cardot was wary of Lousteau's past and questioned his character. Aware of the scrutiny, Lousteau downplayed his previous relationships, presenting himself as ready to settle down. As the wedding approached, he felt a mix of excitement and apprehension, envisioning a future filled with stability alongside Felicie.
-
-Madame Cardot wanted to inspect the illustrated volume of _Gil Blas_ to learn about Lousteau, whom her husband described as charming. Despite her sister-in-law's concerns about the marriage, she planned to visit his bachelor apartment with Felicie. On a January day in 1837, they arrived at Lousteau's residence, where the porter’s daughter handed them the key after Madame Cardot offered a gold coin.
-
-When Lousteau returned from breakfast, he was shocked to find Dinah waiting for him. She revealed she was a mother, startling him further. He quickly led her into his apartment, where Madame Cardot and Felicie were present. The encounter was awkward, but Dinah professed her love for Lousteau and her desire to live with him despite his financial struggles. Caught between his feelings for Dinah and the impending marriage to Felicie, Lousteau tried to manage the situation.
-
-Witnessing the scene, Madame Cardot declared that Felicie could never marry Lousteau, and she left with her upset daughter. Lousteau, however, felt confident that Dinah would sacrifice for his future and began to consider keeping both women in his life. He wrote to his friend Bixiou, asking for help in maintaining the illusion of his bachelorhood while managing Dinah's presence.
-
-As Dinah settled into Lousteau's apartment, she admired its elegance, unaware of the underlying poverty. Pamela, Lousteau's young maid, was eager to assist Dinah, who dreamed of transforming Lousteau's life. Meanwhile, Bixiou visited, expressing skepticism about Lousteau's decision to pursue a relationship with a provincial woman. He warned Lousteau that Dinah would likely become a burden and urged him to reconsider, emphasizing the importance of social standing and financial stability.
-
-Despite Bixiou's warnings, Lousteau remained infatuated with Dinah, dismissing the potential consequences of their relationship. He believed love and fatherhood were worth the risks, even if it meant sacrificing a promising marriage to Felicie. Bixiou continued to press Lousteau, arguing that Dinah's provincial background would lead to disappointment.
-
-Lousteau, however, was resolute in his feelings for Dinah, insisting he preferred her over financial security. Bixiou's attempts to dissuade him fell on deaf ears, and Lousteau was determined to embrace his new life with Dinah. As their relationship deepened, Dinah expressed her commitment to Lousteau, believing their love would endure.
-
-However, the reality of their situation began to weigh on Lousteau. He learned that Cardot had decided to marry Felicie to another man, leaving Lousteau feeling both relieved and regretful. Madame Schontz informed him of the developments, suggesting he had lost both a fortune and a potential wife.
-
-Despite the upheaval, Lousteau continued to indulge Dinah, creating a facade of happiness while grappling with the implications of their relationship. He recognized their love was built on a precarious foundation, yet he was unwilling to let go of their passion. As they navigated their new life together, both Lousteau and Dinah were caught in a cycle of romantic idealism and harsh reality, unaware of the challenges ahead. Their relationship mirrored the complexities of love and ambition in Parisian society, where passion often collided with practicality, leading to unforeseen consequences.
+Monsieur de la Baudraye recognized the leverage he had as Dinah's husband and used it to his advantage, securing favors and legal victories through his connections. Meanwhile, the local women speculated about the nature of Dinah's marriage, suspecting hidden complexities. In reality, a slow, monotonous domestic drama unfolded at La Baudraye, one that would have remained hidden if not for the era's demand for revealing the intricacies of human relationships. This domestic tension contributed to Dinah's seemingly virtuous demeanor during her early married life.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-This winter in Paris mirrored the previous October for Madame de la Baudraye, as her husband, Etienne Lousteau, introduced her to the city's vibrant life. Initially self-conscious about being recognized by acquaintances from Sancerre, Dinah transformed her provincial appearance under Lousteau's influence, immersing herself in the theater and social scene.
+A young woman, whose academic successes stemmed from her pride, was unlikely to halt her promising trajectory. Monsieur de la Baudraye, though seemingly frail, was an unexpected match for Mademoiselle Dinah Piedefer. However, the motivations behind his marriage to a seventeen-year-old and what Dinah stood to gain were subjects of her contemplation.
 
-As their relationship blossomed, Dinah and Etienne shared passionate moments, expressing their love with exaggerated declarations and contemplating letters to justify potential suicides in case of infidelity, though neither followed through. Lousteau viewed Dinah as a significant asset, while she maintained her dignity and ambition, earning his respect.
+Initially, Monsieur de la Baudraye surprised Dinah by allowing her to utilize five acres of land for pleasure and generously funded improvements to their home, enabling her to purchase furniture and redecorate in various styles. Dinah struggled to reconcile his reputed miserly nature with his apparent generosity, but this illusion faded after his second trip to Paris. Upon asking for supplies, she learned he strictly allocated her a monthly allowance and paid her mother a yearly sum, emphasizing the need for financial prudence given the unpredictable nature of their income as winegrowers.
 
-When Dinah became pregnant, she planned to withdraw from public life but was eager to attend the premiere of a play by Nathan. At the event, she faced an uncomfortable encounter with her former friend, Anna Grossetete, and felt the weight of public scrutiny. Lousteau's absence heightened her distress, leaving her feeling isolated.
+Dinah's attempts to provoke jealousy in her husband were met with indifference; he remained steadfast and unyielding. Her frustration grew as she felt trapped in La Baudraye and Sancerre, longing for a more ambitious life. She initially believed her husband had aspirations, especially after he purchased the estate of Anzy and applied for a patent of entail, leading her to hope for a brighter future. However, their brief reconciliation only highlighted the disparity in their characters—Dinah's potential stifled by provincial life, while Monsieur de la Baudraye, lacking ambition, maintained a rigid routine.
 
-During a conversation with Monsieur de Clagny, a lawyer and her former admirer, Dinah learned about her husband's legal status and the implications of her choices. Clagny warned her about the potential loss of respectability, but Dinah felt secure in her love for Lousteau, believing their bond could withstand societal judgment.
+Over six years, Dinah became increasingly provincial, losing her individuality and spirit. The stark contrast between Parisian and provincial women became evident; while Paris offered a variety of social classes and opportunities, the provinces confined women to a singular, often uninspiring identity. Despite her initial determination, Dinah succumbed to the mediocrity surrounding her, her aspirations dulled by the lack of stimulating company and the monotony of provincial life.
 
-Reality intruded when Dinah discovered their dire financial situation, with debts piling up. Guilt over encouraging Lousteau's extravagant lifestyle led her to seek ways to support them, including pawning her jewelry. Taking charge of their household, she was determined to manage their finances and provide for their growing family.
+Dinah's beauty and charm, once celebrated, began to fade as she conformed to the expectations of her environment. Her wardrobe shrank, and she resorted to making her own clothes, losing touch with the elegance she once maintained. The provincial atmosphere stifled her creativity and intellect, leading her to adopt the mannerisms and attitudes of those around her, further diminishing her distinctiveness.
 
-As Dinah settled into her role as a homemaker, she found fulfillment in nurturing both her child and Lousteau's career. She contributed to his writing, helping him produce successful works, yet remained unrecognized for her efforts. Despite her sacrifices, Lousteau's reliance on her began to strain their relationship.
+A pivotal moment occurred when Dinah met her former school friend, Anna, who had transformed into a sophisticated Parisian woman. The stark comparison left Dinah feeling inadequate and despondent, realizing that while Anna had learned to thrive, she had merely endured her circumstances. This encounter ignited a deep sense of despair within her.
 
-Dinah's dedication led her to negotiate with Lousteau for financial support, but she faced disappointment when he offered only a meager allowance. Meanwhile, Lousteau's behavior became increasingly erratic as he indulged in the pleasures of Parisian life, neglecting his responsibilities.
+In her anguish, Dinah turned to poetry, seeking solace in creative expression. Her work, "Paquita la Sevillane," gained attention in the provinces, showcasing her talent and allowing her to escape her dreary reality, albeit temporarily. However, the success brought its own anxieties, as she feared the potential backlash from her peers if her identity as the author were revealed.
 
-The arrival of a second child intensified Dinah's struggles, as Lousteau continued to accumulate debts. Despite her unwavering love, she sensed his growing detachment, leading to feelings of jealousy and insecurity. As tensions escalated, Dinah's jealousy prompted her to spy on Lousteau, forcing her to confront the reality of her sacrifices for love. Ultimately, Dinah's journey reflects the complexities of love, sacrifice, and the harsh realities of life in Paris, highlighting the struggle between personal happiness and societal expectations.
+Despite her literary endeavors, Dinah remained trapped in her provincial life, oscillating between aspirations of fame and the suffocating routine of her existence. Her attempts to break free through writing only deepened her resentment towards the limitations imposed by her surroundings, leaving her in a state of perpetual dissatisfaction.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+After the Revolution of 1830, George Sand's fame inspired many towns in France to celebrate their own female talents, leading to a surge of aspiring women writers. This newfound freedom allowed women to express ideas previously unacknowledged. Monsieur de Clagny capitalized on this trend by publishing a collection of works by Jan Diaz, a poet who had died young. The collection included various poems and an elegy, which resonated with the public, particularly in the regions where he had lived and died, largely unknown.
 
-Etienne Lousteau and Dinah de la Baudraye's relationship is characterized by love, ambition, and societal pressures. After a period of luxury, Dinah becomes emotionally entangled with Lousteau, feeling both empowered and powerless. Despite his claims of being overwhelmed by her affection, Lousteau's infidelity leads Dinah to a painful realization of her self-worth.
+Two hundred copies of this volume were printed, with a significant number sold across several departments. Despite the initial excitement, many copies sent to Paris were lost in editorial offices. Eventually, it was revealed that Jan Diaz was a pseudonym for a woman, leading to the rise of Madame de la Baudraye as a celebrated figure, seen as a rival to George Sand. The provincial public, often polarized in their opinions, praised her work, which would have otherwise been dismissed.
 
-Monsieur de Clagny, a lawyer and friend, warns Dinah about Lousteau's unfaithfulness, but she is already aware of his betrayal. Dinah's love for Lousteau becomes burdensome, prompting her to emulate historical figures like Madame de Pompadour to maintain their relationship. However, the emotional toll weighs heavily on her, leading her to contemplate her future and sacrifices.
+Madame de la Baudraye, feeling unrecognized after years of effort, sought fame as a substitute for her unfulfilled ambitions. The late Abbe Duret had warned her about her husband’s character, but she had difficulty accepting his insights. Dinah, as she was known, found her husband incapable of love, leading her to deny his capacity for hatred. The Abbe had cautioned her about the consequences of offending her husband, who would be more vengeful than forgiving.
 
-As Lousteau's self-serving nature becomes evident, Dinah realizes she has been supporting him at the cost of her happiness. Despite her struggles, she vows to nurture him while grappling with feelings of shame and regret. The dynamic shifts as Dinah begins to assert her independence, ultimately deciding to reclaim her life and identity.
+As Dinah's reputation grew, she felt increasingly trapped by her domestic life. The public's sympathy for her plight only deepened her despair. Her husband, though outwardly polite, harbored resentment, which Dinah eventually recognized. After a confrontation, she vowed to stop writing, leading to a period of desolation in Sancerre, where her absence from the literary scene was keenly felt.
 
-Monsieur de la Baudraye, Dinah's husband, is portrayed as a miser who exploits her fortune for his agricultural ambitions, manipulating finances to secure his status while neglecting Dinah's emotional needs. As he rises socially, Dinah feels increasingly sidelined, prompting her to seek a new path.
+Despite her newfound fame, Dinah faced jealousy and opposition from local rivals. She had hoped to support Monsieur de Clagny in his political ambitions, but his defeat in the elections left her disillusioned. The domestic troubles in her household masked a deeper dissatisfaction with her life, leading her to long for freedom from her marriage.
 
-In a pivotal moment, Dinah resolves to end her relationship with Lousteau, recognizing she deserves more than being a mere plaything. She prepares to embrace her new identity as a countess, distancing herself from her past. Their final confrontation is tense, as Lousteau attempts to rekindle their romance, but Dinah stands firm in her decision to move on.
+As she settled into the Chateau d’Anzy, Dinah contemplated her future and the possibility of meeting influential figures. She admired Lousteau, a journalist known for his charm with women, and sought to attract him to Sancerre. However, her attempts to engage with him and another prominent figure, Bianchon, initially went unreciprocated.
 
-Dinah's transformation into a countess brings her societal recognition and personal challenges. She strives to create a new life for herself and her children, seeking fulfillment in her role as a mother and a member of high society. Despite her efforts to establish a salon, she remains haunted by her past and the emotional scars left by Lousteau.
+When Lousteau and Bianchon finally arrived, they were unrecognized at first. Dinah, eager to impress, invited them to her chateau, where she played the gracious hostess. During their conversations, she expressed her frustrations with provincial life, highlighting the monotony and despair that characterized her existence. Her candid remarks about the limitations of rural life intrigued her guests, who recognized her intelligence and wit.
 
-Dinah's journey reflects the struggles of women in a patriarchal society, highlighting themes of love, sacrifice, and self-discovery. Ultimately, she emerges as a resilient figure, determined to carve out her own destiny while navigating complex relationships and societal expectations. The story concludes with Dinah returning to Sancerre, embracing family life and leaving behind her tumultuous romance.
+Dinah's reflections on the nature of provincial existence revealed her longing for something more than the mundane. She critiqued the societal constraints that stifled creativity and individuality, lamenting the centralization of culture in Paris. Her observations sparked a lively discussion about the differences between provincial and urban life, with Dinah asserting that the lack of diversity in experiences led to a stifling atmosphere for women.
+
+As the evening progressed, Dinah's charm and intellect captivated her guests, particularly Lousteau, who found her both intriguing and frustrating. Despite her efforts to maintain a facade of superiority, she revealed her vulnerabilities, which only deepened Lousteau's interest. The dynamic between them hinted at the potential for a deeper connection, as Dinah navigated her feelings of attraction and ambition.
+
+In a moment of levity, Dinah requested autographs from her guests, showcasing her desire for validation and connection to the literary world. Bianchon and Lousteau complied, each leaving their mark in her album, which symbolized her aspirations and the recognition she sought. This exchange underscored the complexities of her character, as she balanced her ambitions with the realities of her provincial life.
+
+Ultimately, Dinah's journey reflects the struggles of a woman caught between societal expectations and her desire for personal fulfillment. Her interactions with Lousteau and Bianchon serve as a catalyst for her self-discovery, as she grapples with her identity as a writer and a woman in a restrictive environment. The narrative captures the tension between ambition and domesticity, illustrating the challenges faced by women seeking to carve out their own paths in a world that often limits their possibilities.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+At five the next morning, the party at the Chateau d’Anzy was awake, with little La Baudraye organizing a day of sport for the Parisians, primarily to indulge his own vanity. He was eager to showcase the twelve hundred acres of waste land he planned to reclaim, an endeavor that could cost around a hundred thousand francs but potentially yield an annual profit of thirty to sixty thousand francs.
+
+“Why hasn’t the Public Prosecutor joined us?” Gatien Boirouge asked Monsieur Gravier.
+
+“He said he had to sit today; minor cases are before the Court,” Gravier replied.
+
+“Did you believe that?” Gatien exclaimed. “My father told me Monsieur Lebas wouldn’t join us early because Monsieur de Clagny asked him to sit in his place!”
+
+“Really?” Gravier said, visibly concerned. “And Monsieur de la Baudraye has gone to La Charite!”
+
+“Why do you meddle in such matters?” Bianchon asked Gatien.
+
+“Horace is right,” Lousteau added. “I can’t understand why you’re so concerned about each other; it’s a waste of time.”
+
+Bianchon glanced at Lousteau, indicating that the humor of newspaper satire was lost on them in Sancerre.
+
+As they reached a copse, Monsieur Gravier left the two prominent men and Gatien with a keeper to navigate a ravine.
+
+“We should wait for Monsieur Gravier,” Bianchon suggested upon reaching a clearing.
+
+“You may be a great physician,” Gatien replied, “but you don’t understand provincial life. By now, he’s probably at Anzy for breakfast.” He checked his watch. “He’ll be just in time.”
+
+“Where?” Bianchon asked.
+
+“At the chateau with Madame de la Baudraye and Monsieur de Clagny. I can’t rest easy knowing they’re alone together. There are two of them now; they’ll keep an eye on each other. Dinah will be well guarded.”
+
+“Ah, so Madame de la Baudraye hasn’t made up her mind yet?” Lousteau remarked.
+
+“Mother thinks so. But I fear Monsieur de Clagny has bewitched her. If he’s shown her he has a chance at the Keeper of the Seals, he may have hidden his flaws and presented himself as charming. If Dinah sees him as Attorney-General, she might see him as handsome. Eloquence has its privileges. Besides, Madame de la Baudraye is ambitious; she dreams of Paris.”
+
+“But what interest do you have in this?” Lousteau asked. “If she loves the Public Prosecutor—”
+
+“You in Paris meet different women every day,” Gatien replied. “In Sancerre, where there are hardly six women, and five of them pretend to be virtuous, a young man of twenty-two can surely guess at her secrets, especially when she treats him with some consideration.”
+
+“Consideration? Is that what you call it here?” Lousteau smiled.
+
+“I’d think Madame de la Baudraye has too much taste to bother with that ugly ape,” Bianchon said.
+
+“Horace,” Lousteau said, “let’s set a trap for the Public Prosecutor; we’ll do Gatien a favor and have a laugh. I don’t like Public Prosecutors.”
+
+“You have a keen intuition of destiny,” Bianchon replied. “But what can we do?”
+
+“After dinner, we’ll share stories of wives caught out by their husbands, killed or murdered under terrible circumstances. We’ll see how Madame de la Baudraye and de Clagny react.”
+
+“Not a bad idea!” Bianchon agreed. “One of them must surely give something away by their expression.”
+
+“I know a newspaper editor,” Lousteau continued, addressing Gatien, “who, to prevent a terrible fate, only accepts stories about lovers who are burned, hewn, or cut to pieces; wives boiled, fried, or baked. He takes them to his wife, hoping sheer fear will keep her faithful. ‘You see, my dear, what the smallest error can lead to!’ he says, summarizing Arnolfe’s address to Agnes.”
+
+“Madame de la Baudraye is innocent; this youth sees double,” Bianchon said. “Madame Piedefer is too pious to invite her daughter’s lover to the Chateau d’Anzy. Dinah would have to deceive her mother, her husband, her maid, and her mother’s maid; that’s too much to manage. I acquit her.”
+
+“Especially since her husband never ‘quits her,’” Gatien laughed at his own wit.
+
+“We can remember a few stories that will make Dinah quake,” Lousteau said. “Young man—and you too, Bianchon—let me ask you to maintain a stern demeanor; be thorough diplomats, act casually without exaggeration, and watch the faces of the two criminals without seeming to do so—out of the corner of your eye or in a mirror. This morning we’ll hunt the hare; this evening we’ll hunt the Public Prosecutor.”
+
+The evening began with a triumph for Lousteau, who returned the album to the lady with an elegy written in it:
+
+SPLEEN
+
+You ask for verse from me, the feeble prey  
+Of this self-seeking world, a waif and stray  
+With none to whom to cling;  
+From me—unhappy, purblind, hopeless devil!  
+Who e’en in what is good see only evil  
+In any earthly thing!
+
+This page, the pastime of a dame so fair,  
+May not reflect the shadow of my care,  
+For all things have their place.  
+Of love, to ladies bright, the poet sings,  
+Of joy, and balls, and dress, and dainty things—  
+Nay, or of God and Grace.
+
+It were a bitter jest to bid the pen  
+Of one so worn with life, so hating men,  
+Depict a scene of joy.  
+Would you exult in sight to one born blind,  
+Or—cruel! of a mother’s love remind  
+Some hapless orphan boy?
+
+When cold despair has gripped a heart still fond,  
+When there is no young heart that will respond  
+To it in love, the future is a lie.  
+If there is none to weep when he is sad,  
+And share his woe, a man were better dead!—  
+And so I soon must die.
+
+Give me your pity! often I blaspheme  
+The sacred name of God. Does it not seem  
+That I was born in vain?  
+Why should I bless him? Or why thank Him, since  
+He might have made me handsome, rich, a prince—  
+And I am poor and plain?
+
+ETIENNE LOUSTEAU. September 1836, Chateau d’Anzy.
+
+“And you wrote those verses since yesterday?” Clagny asked suspiciously.
+
+“Indeed, yes, as I was following the game; it’s all too evident! I would gladly have done something better for madame.”
+
+“The verses are exquisite!” Dinah exclaimed, casting her eyes heavenward.
+
+“They are, alas! the expression of a too genuine feeling,” Lousteau replied, feigning deep dejection.
+
+The reader will have guessed that the journalist had memorized these lines for at least ten years, having written them during the Restoration in disgust at his inability to succeed. Madame de la Baudraye gazed at him with the pity that the woes of genius inspire, while Monsieur de Clagny, catching her expression, turned in hatred against this sham _Jeune Malade_ (the name of an elegy by Millevoye). He sat down to play backgammon with the cure of Sancerre. The Presiding Judge’s son was obliging enough to place a lamp near the two players, illuminating Madame de la Baudraye, who took up her work, embroidering a wicker-plait paper basket. The three conspirators sat close by.
+
+“For whom are you decorating that pretty basket, madame?” Lousteau asked. “For some charity lottery, perhaps?”
+
+“No,” she replied, “I think there is too much display in charity done to the sound of a trumpet.”
+
+“You are very indiscreet,” Monsieur Gravier said.
+
+“Can there be any indiscretion,” Lousteau countered, “in inquiring who the happy mortal may be in whose room that basket is to stand?”
+
+“There is no happy mortal in the case,” Dinah said; “it is for Monsieur de la Baudraye.”
+
+The Public Prosecutor looked slyly at Madame de la Baudraye and her work, as if to say to himself, “I have lost my paper basket!”
+
+“Why, madame, may we not think him happy in having a lovely wife, happy in her decorating his paper baskets so charmingly? The colors are red and black, like Robin Goodfellow. If ever I marry, I only hope that twelve years after, my wife’s embroidered baskets may still be for me.”
+
+“And why should they not be for you?” she said, fixing her fine gray eyes, full of invitation, on Etienne’s face.
+
+“Parisians believe in nothing,” the lawyer bitterly replied. “The virtue of women is doubted above all things with terrible insolence. Yes, for some time past the books you have written, you Paris authors, your farces, your dramas, all your atrocious literature, turn on adultery—”
+
+“Come, come, Monsieur the Public Prosecutor,” Etienne retorted, laughing, “I left you to play your game in peace; I did not attack you, and here you are bringing an indictment against me. On my honor as a journalist, I have launched over a hundred articles against the writers you speak of; but I confess that in attacking them, it was to attempt something like criticism. Be just; if you condemn them, you must condemn Homer, whose _Iliad_ turns on Helen of Troy; you must condemn Milton’s _Paradise Lost_. Eve and her serpent seem to me a pretty little case of symbolical adultery; you must suppress the Psalms of David, inspired by the highly adulterous love affairs of that Louis XIV. of Judah; you must make a bonfire of _Mithridate, le Tartuffe, l’Ecole des Femmes, Phedre, Andromaque, le Mariage de Figaro_, Dante’s _Inferno_, Petrarch’s Sonnets, all the works of Jean-Jacques Rousseau, the romances of the Middle Ages, the History of France, and of Rome, etc., etc. Excepting Bossuet’s _Histoire des Variations_ and Pascal’s _Provinciales_, I do not think there are many books left to read if you insist on eliminating all those in which illicit love is mentioned.”
+
+“Much loss that would be!” said Monsieur de Clagny.
+
+Etienne, nettled by the superior air assumed by Monsieur de Clagny, wanted to infuriate him with one of those cold-drawn jests that consist of defending an opinion in which we have no belief, simply to provoke the wrath of a poor man who argues in good faith; a regular journalist’s pleasantry.
+
+“If we take up the political attitude into which you would force yourself,” he continued, ignoring the lawyer’s remark, “and assume the part of Public Prosecutor of all the ages—for every Government has its public ministry—well, the Catholic religion is infected at its fountain-head by a startling instance of illegal union. In the opinion of King Herod, and of Pilate as representing the Roman Empire, Joseph’s wife figured as an adulteress, since, by her avowal, Joseph was not the father of Jesus. The heathen judge could no more recognize the Immaculate Conception than you yourself would admit the possibility of such a miracle if a new religion should nowadays be preached based on a similar mystery. Do you suppose that a judge and jury in a police court would give credence to the operation of the Holy Ghost? And yet who can venture to assert that God will never again redeem mankind? Is it any better now than it was under Tiberius?”
+
+“Your argument is blasphemy,” said Monsieur de Clagny.
+
+“I grant it,” the journalist replied, “but not with malicious intent. You cannot suppress historical fact. In my opinion, Pilate, when he sentenced Jesus, and Anytus—who spoke for the aristocratic party at Athens—when he insisted on the death of Socrates, both represented established social interests which held themselves legitimate, invested with co-operative powers, and obliged to defend themselves. Pilate and Anytus in their time were not less logical than the public prosecutors who demanded the heads of the sergeants of La Rochelle; who, at this day, are guillotining the republicans who take up arms against the throne as established by the revolution of July, and the innovators who aim at upsetting society for their own advantage under pretense of organizing it on a better footing. In the eyes of the great families of Greece and Rome, Socrates and Jesus were criminals; to those ancient aristocracies, their opinions were akin to those of the Mountain; and if their followers had been victorious, they would have produced a little ‘ninety-three’ in the Roman Empire or in Attica.”
+
+“What are you trying to come to, monsieur?” the lawyer asked.
+
+“To adultery!—For thus, monsieur, a Buddhist as he smokes his pipe may very well assert that the Christian religion is founded in adultery; as we believe that Mahomet is an impostor; that his Koran is an epitome of the Old Testament and the Gospels; and that God never had the least intention of constituting that camel-driver His Prophet.”
+
+“If there were many men like you in France—and there are more than enough, unfortunately—all government would be impossible.”
+
+“And there would be no religion at all,” Madame Piedefer interjected, making strange faces throughout the discussion.
+
+“You are paining them very much,” Bianchon said to Lousteau in an undertone. “Do not talk of religion; you are saying things that are enough to upset them.”
+
+“If I were a writer or a romancer,” Monsieur Gravier said, “I should take the side of the luckless husbands. I, who have seen many things, and strange things too, know that among the ranks of deceived husbands there are some whose attitude is not devoid of energy, men who, at a crisis, can be very dramatic, to use one of your words, monsieur,” he said, addressing Etienne.
+
+“You are very right, my dear Monsieur Gravier,” Lousteau said. “I never thought that deceived husbands were ridiculous; on the contrary, I think highly of them—”
+
+“Do you not think a husband’s confidence a sublime thing?” Bianchon asked. “He believes in his wife, he does not suspect her, he trusts her implicitly. But if he is so weak as to trust her, you make game of him; if he is jealous and suspicious, you hate him; what, then, I ask you, is the happy medium for a man of spirit?”
+
+“If Monsieur de Clagny had not just expressed such vehement disapproval of the immorality of stories in which the matrimonial compact is violated, I could tell you of a husband’s revenge,” Lousteau said.
+
+Monsieur de Clagny threw the dice with a convulsive jerk and dared not look up at the journalist.
+
+“A story, from you!” cried Madame de la Baudraye. “I should hardly have dared to hope for such a treat—”
+
+“It is not my story, madame; I am not clever enough to invent such a tragedy. It was told to me—and how delightfully!—by one of our greatest writers, the finest literary musician of our day, Charles Nodier.”
+
+“Well, tell it,” Dinah said. “I never met Monsieur Nodier, so you have no comparison to fear.”
+
+“Not long after the 18th Brumaire,” Etienne began, “there was, as you know, a call to arms in Brittany and la Vendee. The First Consul, anxious before all things for peace in France, opened negotiations with the rebel chiefs and took energetic military measures; but, while combining his plans of campaign with the insinuating charm of Italian diplomacy, he also set the Machiavelian springs of the police in movement, Fouche then being at its head. None of these means were superfluous to stifle the fire of war then blazing in the West.
+
+“At this time, a young man of the Maille family was dispatched by the Chouans from Brittany to Saumur, to open communications between certain magnates of that town and its environs and the leaders of the Royalist party. The envoy was, in fact, arrested on the very day he landed—for he traveled by boat, disguised as a master mariner. However, as a man of practical intelligence, he had calculated all the risks of the undertaking; his passport and papers were all in order, and the men told off to take him were afraid of blundering.
+
+“The Chevalier de Beauvoir—I now remember his name—had studied his part well; he appealed to the family whose name he had borrowed, persisted in his false address, and stood his examination so boldly that he would have been set at large but for the blind belief that the spies had in their instructions, which were unfortunately only too minute. In this dilemma, the authorities were more ready to risk an arbitrary act than to let a man escape to whose capture the Minister attached great importance. In those days of liberty, the agents of the powers in authority cared little enough for what we now regard as _legal_. The Chevalier was therefore imprisoned provisionally, until the superior officials should come to some decision as to his identity. He had not long to wait for it; orders were given to guard the prisoner closely in spite of his denials.
+
+“The Chevalier de Beauvoir was next transferred, in obedience to further orders, to the Castle of l’Escarpe, a name which sufficiently indicates its situation. This fortress, perched on very high rocks, has precipices for its trenches; it is reached on all sides by steep and dangerous paths; and, like every ancient castle, its principal gate has a drawbridge over a wide moat. The commandant of this prison, delighted to have charge of a man of family whose manners were most agreeable, who expressed himself well, and seemed highly educated, received the Chevalier as a godsend; he offered him the freedom of the place on parole, that they might together better defy its dulness. The prisoner was more than content.
+
+“Beauvoir was a loyal gentleman, but, unfortunately, he was also a very handsome youth. He had attractive features, a dashing air, a pleasing address, and extraordinary strength. Well made, active, full of enterprise, and loving danger, he would have made an admirable leader of guerillas, and was the very man for the part. The commandant gave his prisoner the most comfortable room, entertained him at his table, and at first had nothing but praise for the Vendean. This officer was a Corsican and married; his wife was pretty and charming, and he thought her, perhaps, not to be trusted—at any rate, he was as jealous as a Corsican and a rather ill-looking soldier may be. The lady took a fancy to Beauvoir, and he found her very much to his taste; perhaps they loved! Love in a prison is quick work. Did they commit some imprudence? Was the sentiment they entertained something warmer than the superficial gallantry which is almost a duty of men towards women?
+
+“Beauvoir never fully explained this rather obscure episode of the story; it is at least certain that the commandant thought himself justified in treating his prisoner with excessive severity. Beauvoir was placed in the dungeon, fed on black bread and cold water, and fettered in accordance with the time-honored traditions of the treatment lavished on captives. His cell, under the fortress yard, was vaulted with hard stone, the walls were of desperate thickness; the tower overlooked the precipice.
+
+“When the luckless man had convinced himself of the impossibility of escape, he fell into those daydreams which are at once the comfort and the crowning despair of prisoners. He gave himself up to the trifles which in such cases seem so important; he counted the hours and the days; he studied the melancholy trade of being a prisoner; he became absorbed in himself, and learned the value of air and sunshine; then, at the end of a fortnight, he was attacked by that terrible malady, that fever for liberty, which drives prisoners to those heroic efforts of which the prodigious achievements seem to us impossible, though true, and which my friend the doctor” (and he turned to Bianchon) “would perhaps ascribe to some unknown forces too recondite for his physiological analysis to detect, some mysteries of the human will of which the obscurity baffles science.”
+
+Bianchon shook his head in negation.
+
+“Beauvoir was eating his heart out, for death alone could set him free. One morning the turnkey, whose duty it was to bring him his food, instead of leaving him when he had given him his meager pittance, stood with his arms folded, looking at him with strange meaning. Conversation between them was brief, and the warder never began it. The Chevalier was therefore greatly surprised when the man said to him: ‘Of course, monsieur, you know your own business when you insist on being always called Monsieur Lebrun, or citizen Lebrun. It is no concern of mine; ascertaining your name is no part of my duty. It is all the same to me whether you call yourself Peter or Paul. If every man minds his own business, the cows will not stray. At the same time, _I_ know,’ said he, with a wink, ‘that you are Monsieur Charles-Felix-Theodore, Chevalier de Beauvoir, and cousin to Madame la Duchesse de Maille.—Heh?’ he added after a short silence, during which he looked at his prisoner.
+
+“Beauvoir, seeing that he was safe under lock and key, did not imagine that his position could be any worse if his real name were known.
+
+“‘Well, and supposing I were the Chevalier de Beauvoir, what should I gain by that?’ said he.
+
+“‘Oh, there is everything to be gained by it,’ replied the jailer in an undertone. ‘I have been paid to help you to get away; but wait a minute! If I were suspected in the smallest degree, I should be shot out of hand. So I have said that I will do no more in the matter than will just earn the money.—Look here,’ said he, taking a small file out of his pocket, ‘this is your key; with this you can cut through one of your bars. By the Mass, but it will not be any easy job,’ he went on, glancing at the narrow loophole that let daylight into the dungeon.
+
+“It was in a splayed recess under the deep cornice that ran round the top of the tower, between the brackets that supported the embrasures.
+
+“‘Monsieur,’ said the man, ‘you must take care to saw through the iron low enough to get your body through.’
+
+“‘I will get through, never fear,’ said the prisoner.
+
+“‘But high enough to leave a stanchion to fasten a cord to,’ the warder went on.
+
+“‘And where is the cord?’ asked Beauvoir.
+
+“‘Here,’ said the man, throwing down a knotted rope. ‘It is made of raveled linen, that you may be supposed to have contrived it yourself, and it is long enough. When you have got to the bottom knot, let yourself drop gently, and the rest you must manage for yourself. You will probably find a carriage somewhere in the neighborhood, and friends looking out for you. But I know nothing about that.—I need not remind you that there is a man-at-arms to the right of the tower. You will take care, of course, to choose a dark night, and wait till the sentinel is asleep. You must take your chance of being shot; but—’
+
+“‘All right! All right! At least I shall not rot here,’ cried the young man.
+
+“‘Well, that may happen nevertheless,’ replied the jailer, with a stupid expression.
+
+“Beauvoir thought this was merely one of the aimless remarks that such folks indulge in. The hope of freedom filled him with such joy that he could not be troubled to consider the words of a man who was no more than a better sort of peasant. He set to work at once, and had filed the bars through in the course of the day. Fearing a visit from the Governor, he stopped up the breaches with bread crumb rubbed in rust to make it look like iron; he hid his rope, and waited for a favorable night with the intensity of anticipation, the deep anguish of soul that makes a prisoner’s life dramatic.
+
+“At last, one murky night, an autumn night, he finished cutting through the bars, tied the cord firmly to the stump, and perched himself on the sill outside, holding on by one hand to the piece of iron remaining. Then he waited for the darkest hour of the night, when the sentinels would probably be asleep; this would be not long before dawn. He knew the hours of their rounds, the length of each watch, every detail with which prisoners, almost involuntarily, become familiar. He waited till the moment when one of the men-at-arms had spent two-thirds of his watch and gone into his box for shelter from the fog. Then, feeling sure that the chances were at the best for his escape, he let himself down knot by knot, hanging between earth and sky, and clinging to his rope with the strength of a giant. All was well. At the last knot but one, just as he was about to let himself drop, a prudent impulse led him to feel for the ground with his feet, and he found no footing. The predicament was awkward for a man bathed in sweat, tired, and perplexed, and in a position where his life was at stake on even chances. He was about to risk it when a trivial incident stopped him; his hat fell off; happily, he listened for the noise it must make in striking the ground, and he heard not a sound.
+
+“The prisoner felt vaguely suspicious as to this state of affairs. He began to wonder whether the Commandant had not laid a trap for him—but if so, why? Torn by doubts, he almost resolved to postpone the attempt till another night. At any rate, he would wait for the first gleam of day, when it would still not be impossible to escape. His great strength enabled him to climb up again to his window; still, he was almost exhausted by the time he gained the sill, where he crouched on the lookout, exactly like a cat on the parapet of a gutter. Before long, by the pale light of dawn, he perceived as he waved the rope that there was a little interval of a hundred feet between the lowest knot and the pointed rocks below.
+
+“‘Thank you, my friend, the Governor!’ said he, with characteristic coolness. Then, after a brief meditation on this skillfully-planned revenge, he thought it wise to return to his cell.
+
+“He laid his outer clothes conspicuously on the bed, left the rope outside to make it seem that he had fallen, and hid himself behind the door to await the arrival of the treacherous turnkey, arming himself with one of the iron bars he had filed out. The jailer, who returned rather earlier than usual to secure the dead man’s leavings, opened the door, whistling as he came in; but when he was at arm’s length, Beauvoir hit him such a tremendous blow on the head that the wretch fell in a heap without a cry; the bar had cracked his skull.
+
+“The Chevalier hastily stripped him and put on his clothes, mimicked his walk, and, thanks to the early hour and the undoubting confidence of the warders of the great gate, he walked out and away.”
+
+It did not seem to strike either the lawyer or Madame de la Baudraye that there was in this narrative the least allusion that should apply to them. Those in the little plot looked inquiringly at each other, evidently surprised at the perfect coolness of the two supposed lovers.
+
+“Oh! I can tell you a better story than that,” said Bianchon.
+
+“Let us hear,” said the audience, at a sign from Lousteau, conveying that Bianchon had a reputation as a storyteller.
+
+Among the stock of narratives he had in store, for every clever man has a fund of anecdotes as Madame de la Baudraye had a collection of phrases, the doctor chose that which is known as _La Grande Breteche_, and is so famous indeed that it was put on the stage at the _Gymnase-Dramatique_ under the title of _Valentine_. So it is not necessary to repeat it here, though it was then new to the inhabitants of the Chateau d’Anzy. And it was told with the same finish of gesture and tone which had won such praise for Bianchon when at Mademoiselle des Touches’ supper-party he had told it for the first time. The final picture of the Spanish grandee, starved to death where he stood in the cupboard walled up by Madame de Merret’s husband, and that husband’s last word as he replied to his wife’s entreaty, “You swore on that crucifix that there was no one in that closet!” produced their full effect. There was a silent minute, highly flattering to Bianchon.
+
+“Do you know, gentlemen,” said Madame de la Baudraye, “love must be a mighty thing that it can tempt a woman to put herself in such a position?”
+
+“I, who have certainly seen some strange things in the course of my life,” said Gravier, “was cognizant in Spain of an adventure of the same kind.”
+
+“You come forward after two great performers,” said Madame de la Baudraye, with coquettish flattery, as she glanced at the two Parisians. “But never mind—proceed.”
+
+“Some little time after his entry into Madrid,” said the Receiver-General, “the Grand Duke of Berg invited the magnates of the capital to an entertainment given to the newly conquered city by the French army. In spite of the splendor of the affair, the Spaniards were not very cheerful; their ladies hardly danced at all, and most of the company sat down to cards. The gardens of the Duke’s palace were so brilliantly illuminated that the ladies could walk about in as perfect safety as in broad daylight. The fete was of imperial magnificence. Nothing was grudged to give the Spaniards a high idea of the Emperor, if they were to measure him by the standard of his officers.
+
+“In an arbor near the house, between one and two in the morning, a party of French officers were discussing the chances of war, and the not too hopeful outlook prognosticated by the conduct of the Spaniards present at that grand ball.
+
+“‘I can only tell you,’ said the surgeon-major of the company of which I was paymaster, ‘I applied formally to Prince Murat only yesterday to be recalled. Without being afraid exactly of leaving my bones in the Peninsula, I would rather dress the wounds made by our worthy neighbors the Germans. Their weapons do not run quite so deep into the body as these Castilian daggers. Besides, a certain dread of Spain is, with me, a sort of superstition. From my earliest youth, I have read Spanish books, and a heap of gloomy romances and tales of adventures in this country have given me a serious prejudice against its manners and customs.
+
+“‘Well, now, since my arrival in Madrid, I have already been, not indeed the hero, but the accomplice of a dangerous intrigue, as dark and mysterious as any romance by Lady (Mrs.) Radcliffe. I am apt to attend to my presentiments, and I am off tomorrow. Murat will not refuse me leave, for, thanks to our varied services, we always have influential friends.’
+
+“‘Since you mean to cut your stick, tell us what’s up,’ said an old Republican colonel, who cared not a rap for Imperial gentility and choice language.
+
+“The surgeon-major looked about him cautiously, as if to make sure who were his audience, and being satisfied that no Spaniard was within hearing, he said:
+
+“‘We are none but Frenchmen—then, with pleasure, Colonel Hulot. About six days since, I was quietly going home, at about eleven at night, after leaving General Montcornet, whose hotel is but a few yards from mine. We had come away together from the Quartermaster-General’s, where we had played rather high at _bouillotte_. Suddenly, at the corner of a narrow high-street, two strangers, or rather, two demons, rushed upon me and flung a large cloak round my head and arms. I yelled out, as you may suppose, like a dog that is thrashed, but the cloth smothered my voice, and I was lifted into a chaise with dexterous rapidity. When my two companions released me from the cloak, I heard these dreadful words spoken by a woman, in bad French:
+
+“‘If you cry out, or if you attempt to escape, if you make the very least suspicious demonstration, the gentleman opposite to you will stab you without hesitation. So you had better keep quiet.—Now, I will tell you why you have been carried off. If you will take the trouble to put your hand out in this direction, you will find your case of instruments lying between us; we sent a messenger for them to your rooms, in your name. You will need them. We are taking you to a house that you may save the honor of a lady who is about to give birth to a child that she wishes to place in this gentleman’s keeping without her husband’s knowledge. Though monsieur rarely leaves his wife, with whom he is still passionately in love, watching over her with all the vigilance of Spanish jealousy, she had succeeded in concealing her condition; he believes her to be ill. You must bring the child into the world. The dangers of this enterprise do not concern us: only, you must obey us, otherwise the lover, who is sitting opposite to you in this carriage, and who does not understand a word of French, will kill you on the least rash movement.’
+
+“‘And who are you?’ I asked, feeling for the speaker’s hand, for her arm was inside the sleeve of a soldier’s uniform.
+
+“‘I am my lady’s waiting-woman,’ said she, ‘and ready to reward you with my own person if you show yourself gallant and helpful in our necessities.’
+
+“‘Gladly,’ said I, seeing that I was inevitably started on a perilous adventure.
+
+“‘Under favor of the darkness, I felt whether the person and figure of the girl were in keeping with the idea I had formed of her from her tone of voice. The good soul had, no doubt, made up her mind from the first to accept all the chances of this strange act of kidnapping, for she kept silence very obligingly, and the coach had not been more than ten minutes on the way when she accepted and returned a very satisfactory kiss. The lover, who sat opposite to me, took no offense at an occasional quite involuntary kick; as he did not understand French, I conclude he paid no heed to them.
+
+“‘I can be your mistress on one condition only,’ said the woman, in reply to the nonsense I poured into her ear, carried away by the fervor of an improvised passion, to which everything was unpropitious.
+
+“‘And what is it?’
+
+“‘That you will never attempt to find out whose servant I am. If I am to go to you, it must be at night, and you must receive me in the dark.’
+
+“‘Very good,’ said I.
+
+“‘We had got as far as this, when the carriage drew up under a garden wall.
+
+“‘You must allow me to bandage your eyes,’ said the maid. ‘You can lean on my arm, and I will lead you.’
+
+“She tied a handkerchief over my eyes, fastening it in a tight knot at the back of my head. I heard the sound of a key being cautiously fitted to the lock of a little side door by the speechless lover who had sat opposite to me. In a moment the waiting-woman, whose shape was slender, and who walked with an elegant jauntiness—_meneho_, as they call it,” Monsieur Gravier explained in a superior tone, “a word which describes the swing which women contrive to give a certain part of their dress that shall be nameless.—‘The waiting-woman’—it is the surgeon-major who is speaking,” the narrator went on—“led me along the gravel walks of a large garden, till at a certain spot she stopped. From the louder sound of our footsteps, I concluded that we were close to the house. “Now silence!” said she in a whisper, “and mind what you are about. Do not overlook any of my signals; I cannot speak without terrible danger for both of us, and at this moment your life is of the first importance.” Then she added: “My mistress is in a room on the ground floor. To get into it we must pass through her husband’s room and close to his bed. Do not cough, walk softly, and follow me closely, so as not to knock against the furniture or tread anywhere but on the carpets I laid down.”
+
+“‘Here the lover gave an impatient growl, as a man annoyed by so much delay.
+
+“‘The woman said no more; I heard a door open, I felt the warm air of the house, and we stole in like thieves. Presently the girl’s light hand removed the bandage. I found myself in a lofty and spacious room, badly lighted by a smoky lamp. The window was open, but the jealous husband had fitted it with iron bars. I was in the bottom of a sack, as it were.
+
+“‘On the ground, a woman was lying on a mat; her head was covered with a muslin veil, but I could see her eyes through it full of tears and flashing with the brightness of stars; she held a handkerchief in her mouth, biting it so hard that her teeth were set in it: I never saw finer limbs, but her body was writhing with pain like a harp-string thrown on the fire. She might have been a criminal undergoing torture. But she did not utter a cry; there was not a sound, all three speechless and motionless. The husband snored with reassuring regularity. I wanted to study the waiting-woman’s face, but she had put on a mask, which she had removed, no doubt, during our drive, and I could see nothing but a pair of black eyes and a pleasingly rounded figure.
+
+“‘The lover threw some towels over his mistress’ legs and folded the muslin veil double over her face. As soon as I had examined the lady with care, I perceived from certain symptoms which I had noted once before on a very sad occasion in my life, that the infant was dead. I turned to the maid in order to tell her this. Instantly the suspicious stranger drew his dagger; but I had time to explain the matter to the woman, who explained in a word or two to him in a low voice. On hearing my opinion, a quick, slight shudder ran through him from head to foot like a lightning flash; I fancied I could see him turn pale under his black velvet mask.
+
+“‘The waiting-woman took advantage of a moment when he was bending in despair over the dying woman, who had turned blue, to point to some glasses of lemonade standing on a table, at the same time shaking her head negatively. I understood that I was not to drink anything in spite of the dreadful thirst that parched my throat. The lover was thirsty too; he took an empty glass, poured out some fresh lemonade, and drank it off.
+
+“‘At this moment the lady had a violent attack of pain, which showed me that now was the time to operate. I summoned all my courage, and in about an hour had succeeded in delivering her of the child, cutting it up to extract it. The Spaniard no longer thought of poisoning me, understanding that I had saved the mother’s life. Large tears fell on his cloak. The woman uttered no sound, but she trembled like a hunted animal, and was bathed in sweat.
+
+“‘At one horribly critical moment she pointed in the direction of her husband’s room; he had turned in his sleep, and she alone had heard the rustle of the sheets, the creaking of the bed or of the curtain. We all paused, and the lover and the waiting-woman, through the eyeholes of their masks, gave each other a look that said, “If he wakes, shall we kill him?”
+
+“‘At that instant I put out my hand to take the glass of lemonade the Spaniard had drunk of. He, thinking that I was about to take one of the full glasses, sprang forward like a cat, and laid his long dagger over the two poisoned goblets, leaving me his own, and signing to me to drink what was left. So much was conveyed by this quick action, and it was so full of good feeling, that I forgave him his atrocious schemes for killing me, and thus burying every trace of this event.
+
+“‘After two hours of care and alarms, the maid and I put her mistress to bed. The lover, forced into so perilous an adventure, had, to provide means in case of having to fly, a packet of diamonds stuck to paper; these he put into my pocket without my knowing it; and I may add parenthetically, that as I was ignorant of the Spaniard’s magnificent gift, my servant stole the jewels the day after and went off with a perfect fortune.
+
+“‘I whispered my instructions to the waiting-woman as to the further care of her patient, and wanted to be gone. The maid remained with her mistress, which was not very reassuring, but I was on my guard. The lover made a bundle of the dead infant and the blood-stained clothes, tying it up tightly, and hiding it under his cloak; he passed his hand over my eyes as if to bid me to see nothing, and signed to me to take hold of the skirt of his coat. He went first out of the room, and I followed, not without a parting glance at my lady of an hour. She, seeing the Spaniard had gone out, snatched off her mask and showed me an exquisite face.
+
+“‘When I found myself in the garden, in the open air, I confess that I breathed as if a heavy load had been lifted from my breast. I followed my guide at a respectful distance, watching his least movement with keen attention. Having reached the little door, he took my hand and pressed a seal to my lips, set in a ring which I had seen him wearing on a finger of his left hand, and I gave him to understand that this significant sign would be obeyed. In the street, two horses were waiting; we each mounted one. My Spaniard took my bridle, held his own between his teeth, for his right hand held the bloodstained bundle, and we went off at lightning speed.
+
+“‘I could not see the smallest object by which to retrace the road we came by. At dawn, I found myself close by my own door, and the Spaniard fled towards the Atocha gate.’
+
+“‘And you saw nothing which could lead you to suspect who the woman was whom you had attended?’ the Colonel asked of the surgeon.
+
+“‘One thing only,’ he replied. ‘When I turned the unknown lady over, I happened to remark a mole on her arm, about halfway down, as big as a lentil, and surrounded with brown hairs.’—At this instant, the rash speaker turned pale. All our eyes, that had been fixed on his, followed his glance, and we saw a Spaniard, whose glittering eyes shone through a clump of orange-trees. On finding himself the object of our attention, the man vanished with the swiftness of a sylph. A young captain rushed in pursuit.
+
+“‘By Heaven!’ cried the surgeon, ‘that basilisk stare has chilled me through, my friends. I can hear bells ringing in my ears! I may take leave of you; you will bury me here!’
+
+“‘What a fool you are!’ exclaimed Colonel Hulot. ‘Falcon is on the track of the Spaniard who was listening, and he will call him to account.’
+
+“‘Well,’ cried one and another, seeing the captain return quite out of breath.
+
+“‘The devil’s in it,’ said Falcon; ‘the man went through a wall, I believe! As I do not suppose that he is a wizard, I fancy he must belong to the house! He knows every corner and turning, and easily escaped.’
+
+“‘I am done for,’ said the surgeon, in a gloomy voice.
+
+“‘Come, come, keep calm, Bega,’ said I (his name was Bega), ‘we will sit on watch with you till you leave. We will not leave you this evening.’
+
+“In point of fact, three young officers who had been losing at play went home with the surgeon to his lodgings, and one of us offered to stay with him.
+
+“Within two days, Bega had obtained his recall to France; he made arrangements to travel with a lady to whom Murat had given a strong escort, and had just finished dinner with a party of friends when his servant came to say that a young lady wished to speak to him. The surgeon and the three officers went down suspecting mischief. The stranger could only say, ‘Be on your guard—’ when she dropped down dead. It was the waiting-woman, who, finding she had been poisoned, had hoped to arrive in time to warn her lover.
+
+“‘Devil take it!’ cried Captain Falcon, ‘that is what I call love! No woman on earth but a Spaniard can run about with a dose of poison in her inside!’
+
+“Bega remained strangely pensive. To drown the dark presentiments that haunted him, he sat down to table again, and with his companions drank immoderately. The whole party went early to bed, half drunk.
+
+“In the middle of the night, the hapless Bega was aroused by the sharp rattle of the curtain rings pulled violently along the rods. He sat up in bed, in the mechanical trepidation which we all feel on waking with such a start. He saw standing before him a Spaniard wrapped in a cloak, who fixed on him the same burning gaze that he had seen through the bushes.
+
+“Bega shouted out, ‘Help, help, come at once, friends!’ But the Spaniard answered his cry of distress with a bitter laugh.—‘Opium grows for all!’ said he.
+
+“Having thus pronounced sentence as it were, the stranger pointed to the three other men sleeping soundly, took from under his cloak the arm of a woman, freshly amputated, and held it out to Bega, pointing to a mole like that he had so rashly described. ‘Is it the same?’ he asked. By the light of the lantern the man had set on the bed, Bega recognized the arm, and his speechless amazement was answer enough.
+
+“Without waiting for further information, the lady’s husband stabbed him to the heart.”
+
+“You must tell that to the marines!” said Lousteau. “It needs their robust faith to swallow it! Can you tell me which told the tale, the dead man or the Spaniard?”
+
+“Monsieur,” replied the Receiver-General, “I nursed poor Bega, who died five days after in dreadful suffering.—That is not the end.
+
+“At the time of the expedition sent out to restore Ferdinand VII., I was appointed to a place in Spain; but, happily for me, I got no further than Tours when I was promised the post of Receiver here at Sancerre. On the eve of setting out, I was at a ball at Madame de Listomere’s, where we were to meet several Spaniards of high rank. On rising from the card-table, I saw a Spanish grandee, an _afrancesado_ in exile, who had been about a fortnight in Touraine. He had arrived very late at this ball—his first appearance in society—accompanied by his wife, whose right arm was perfectly motionless. Everybody made way in silence for this couple, whom we all watched with some excitement. Imagine a picture by Murillo come to life. Under black and hollow brows, the man’s eyes were like a fixed blaze; his face looked dried up, his bald skull was red, and his frame was a terror to behold, he was so emaciated. His wife—no, you cannot imagine her. Her figure had the supple swing for which the Spaniards created the word _meneho_; though pale, she was still beautiful; her complexion was dazzlingly fair—a rare thing in a Spaniard; and her gaze, full of the Spanish sun, fell on you like a stream of melted lead.
+
+“‘Madame,’ said I to her, towards the end of the evening, ‘what occurrence led to the loss of your arm?’
+
+“‘I lost it in the war of independence,’ said she.”
+
+“Spain is a strange country,” said Madame de la Baudraye. “It still shows traces of Arab manners.”
+
+“Oh!” said the journalist, laughing, “the mania for cutting off arms is an old one there. It turns up every now and then like some of our newspaper hoaxes, for the subject has given plots for plays on the Spanish stage as early as 1570—”
+
+“Then do you think me capable of inventing such a story?” said Monsieur Gravier, nettled by Lousteau’s impertinent tone.
+
+“Quite incapable of such a thing,” said the journalist with grave irony.
+
+“Pooh!” said Bianchon, “the inventions of romances and playwrights are quite as often transferred from their books and pieces into real life, as the events of real life are made use of on the stage or adapted to a tale. I have seen the comedy of _Tartufe_ played out—with the exception of the close; Orgon’s eyes could not be opened to the truth.”
+
+“And the tragi-comedy of _Adolphe_ by Benjamin Constant is constantly enacted,” cried Lousteau.
+
+“And do you suppose,” asked Madame de la Baudraye, “that such adventures as Monsieur Gravier has related could ever occur now, and in France?”
+
+“Dear me!” cried Clagny, “of the ten or twelve startling crimes that are annually committed in France, quite half are mixed up with circumstances at least as extraordinary as these, and often outdoing them in romantic details. Indeed, is not this proved by the reports in the _Gazette des Tribunaux_—the Police news—in my opinion, one of the worst abuses of the Press? This newspaper, which was started only in 1826 or ‘27, was not in existence when I began my professional career, and the facts of the crime I am about to speak of were not known beyond the limits of the department where it was committed.
+
+“In the quarter of Saint-Pierre-des-Corps at Tours, a woman whose husband had disappeared at the time when the army of the Loire was disbanded, and who had mourned him deeply, was conspicuous for her excess of devotion. When the mission priests went through all the provinces to restore the crosses that had been destroyed and to efface the traces of revolutionary impiety, this widow was one of their most zealous proselytes; she carried a cross and nailed to it a silver heart pierced by an arrow; and, for a long time after, she went every evening to pray at the foot of the cross which was erected behind the Cathedral apse.
+
+“At last, overwhelmed by remorse, she confessed to a horrible crime. She had killed her husband, as Fualdes was murdered, by bleeding him; she had salted the body and packed it in pieces into old casks, exactly as if it had been pork; and for a long time she had taken a piece every morning and thrown it into the Loire. Her confessor consulted his superiors and told her that it would be his duty to inform the public prosecutor. The woman awaited the action of the Law. The public prosecutor and the examining judge, on examining the cellar, found the husband’s head still in pickle in one of the casks.—‘Wretched woman,’ said the judge to the accused, ‘since you were so barbarous as to throw your husband’s body into the river, why did you not get rid of the head? Then there would have been no proof.’
+
+“‘I often tried, monsieur,’ said she, ‘but it was too heavy.’”
+
+“Well, and what became of the woman?” asked the two Parisians.
+
+“She was sentenced and executed at Tours,” replied the lawyer; “but her repentance and piety had attracted interest in spite of her monstrous crime.”
+
+“And do you suppose,” said Bianchon, “that we know all the tragedies that are played out behind the curtain of private life that the public never lifts?—It seems to me that human justice is ill adapted to judge of crimes as between husband and wife. It has every right to intervene as the police; but in equity it knows nothing of the heart of the matter.”
+
+“The victim has in many cases been for so long the tormentor,” said Madame de la Baudraye guilelessly, “that the crime would sometimes seem almost excusable if the accused could tell all.”
+
+This reply, led up to by Bianchon and by the story which Clagny had told, left the two Parisians excessively puzzled as to Dinah’s position.
+
+At bedtime, a council was held, one of those discussions that take place in the passages of old country houses where the bachelors linger, candle in hand, for mysterious conversations.
+
+Monsieur Gravier was now informed of the object in view during this entertaining evening which had brought Madame de la Baudraye’s innocence to light.
+
+“But, after all,” said Lousteau, “our hostess’ serenity may indicate deep depravity instead of the most child-like innocence. The Public Prosecutor looks to me quite capable of suggesting that little La Baudraye should be put in pickle—”
+
+“He is not to return till tomorrow; who knows what may happen in the course of the night?” said Gatien.
+
+“We will know!” cried Monsieur Gravier.
+
+In the life of a country house, a number of practical jokes are considered admissible, some of them odiously treacherous. Monsieur Gravier, who had seen so much of the world, proposed setting seals on the door of Madame de la Baudraye and of the Public Prosecutor. The ducks that denounced the poet Ibycus are as nothing in comparison with the single hair that these country spies fasten across the opening of a door by means of two little flattened pills of wax, fixed so high up, or so low down, that the trick is never suspected. If the gallant comes out of his own door and opens the other, the broken hair tells the tale.
+
+When everybody was supposed to be asleep, the doctor, the journalist, the receiver of taxes, and Gatien came barefoot, like robbers, and silently fastened up the two doors, agreeing to come again at five in the morning to examine the state of the fastenings. Imagine their astonishment and Gatien’s delight when all four, candle in hand, and with hardly any clothes on, came to look at the hairs, and found them in perfect preservation on both doors.
+
+“Is it the same wax?” asked Monsieur Gravier.
+
+“Are they the same hairs?” asked Lousteau.
+
+“Yes,” replied Gatien.
+
+“This quite alters the matter!” cried Lousteau. “You have been beating the bush for a will-o’-the-wisp.”
+
+Monsieur Gravier and Gatien exchanged questioning glances which were meant to convey, “Is there not something offensive to us in that speech? Ought we to laugh or to be angry?”
+
+“If Dinah is virtuous,” said the journalist in a whisper to Bianchon, “she is worth an effort on my part to pluck the fruit of her first love.”
+
+The idea of carrying by storm a fortress that had for nine years stood out against the besiegers of Sancerre smiled on Lousteau.
+
+With this notion in his head, he was the first to go down and into the garden, hoping to meet his hostess. And this chance fell out all the more easily because Madame de la Baudraye on her part wished to converse with her critic. Half such chances are planned.
+
+“You were out shooting yesterday, monsieur,” said Madame de la Baudraye. “This morning I am rather puzzled as to how to find you any new amusement; unless you would like to come to La Baudraye, where you may study more of our provincial life than you can see here, for you have made but one mouthful of my absurdities. However, the saying about the handsomest girl in the world is not less true of the poor provincial woman!”
+
+“That little simpleton Gatien has, I suppose, related to you a speech I made simply to make him confess that he adored you,” said Etienne. “Your silence, during dinner the day before yesterday and throughout the evening, was enough to betray one of those indiscretions which we never commit in Paris.—What can I say? I do not flatter myself that you will understand me. In fact, I laid a plot for the telling of all those stories yesterday solely to see whether I could rouse you and Monsieur de Clagny to a pang of remorse.—Oh! be quite easy; your innocence is fully proved.
+
+“If you had the slightest fancy for that estimable magistrate, you would have lost all your value in my eyes.—I love perfection.
+
+“You do not, you cannot love that cold, dried-up, taciturn little usurer on wine casks and land, who would leave any man in the lurch for twenty-five centimes on a renewal. Oh, I have fully recognized Monsieur de la Baudraye’s similarity to a Parisian bill-discounter; their nature is identical.—At eight-and-twenty, handsome, well conducted, and childless—I assure you, madame, I never saw the problem of virtue more admirably expressed.—The author of _Paquita la Sevillane_ must have dreamed many dreams!
+
+“I can speak of such things without the hypocritical gloss lent them by young men, for I am old before my time. I have no illusions left. Can a man have any illusions in the trade I follow?”
+
+By opening the game in this tone, Lousteau cut out all excursions in the _Pays de Tendre_, where genuine passion beats the bush so long; he went straight to the point and placed himself in a position to force the offer of what women often make a man pray for, for years; witness the hapless Public Prosecutor, to whom the greatest favor had consisted in clasping Dinah’s hand to his heart more tenderly than usual as they walked, happy man!
+
+And Madame de la Baudraye, to be true to her reputation as a Superior Woman, tried to console the Manfred of the Press by prophesying such a future of love as he had not had in his mind.
+
+“You have sought pleasure,” said she, “but you have never loved. Believe me, true love often comes late in life. Remember Monsieur de Gentz, who fell in love in his old age with Fanny Ellsler, and left the Revolution of July to take its course while he attended the dancer’s rehearsals.”
+
+“It seems to me unlikely,” replied Lousteau. “I can still believe in love, but I have ceased to believe in woman. There are in me, I suppose, certain defects which hinder me from being loved, for I have often been thrown over. Perhaps I have too strong a feeling for the ideal—like all men who have looked too closely into reality—”
+
+Madame de la Baudraye at last heard the mind of a man who, flung into the wittiest Parisian circles, represented to her its most daring axioms, its almost artless depravity, its advanced convictions; who, if he were not really superior, acted superiority extremely well. Etienne, performing before Dinah, had all the success of a first night. _Paquita_ of Sancerre scented the storms, the atmosphere of Paris. She spent one of the most delightful days of her life with Lousteau and Bianchon, who told her strange tales about the great men of the day, the anecdotes which will some day form the _Ana_ of our century; sayings and doings that were the common talk of Paris, but quite new to her.
+
+Of course, Lousteau spoke very ill of the great female celebrity of Le Berry, with the obvious intention of flattering Madame de la Baudraye and leading her into literary confidences, by suggesting that she could rival so great a writer. This praise intoxicated Madame de la Baudraye; and Monsieur de Clagny, Monsieur Gravier, and Gatien, all thought her warmer in her manner to Etienne than she had been on the previous day. Dinah’s three _attaches_ greatly regretted having all gone to Sancerre to blow the trumpet in honor of the evening at Anzy; nothing, to hear them, had ever been so brilliant. The Hours had fled on feet so light that none had marked their pace. The two Parisians they spoke of as perfect prodigies.
+
+These exaggerated reports loudly proclaimed on the Mall brought sixteen persons to Anzy that evening, some in family coaches, some in wagonettes, and a few bachelors on hired saddle horses. By about seven o’clock, this provincial company had made a more or less graceful entry into the huge Anzy drawing-room, which Dinah, warned of the invasion, had lighted up, giving it all the luster it was capable of by taking the holland covers off the handsome furniture, for she regarded this assembly as one of her great triumphs. Lousteau, Bianchon, and Dinah exchanged meaningful looks as they studied the attitudes and listened to the speeches of these visitors, attracted by curiosity.
+
+What invalided ribbons, what ancestral laces, what ancient flowers, more imaginative than imitative, were boldly displayed on some perennial caps! The Presidente Boirouge, Bianchon’s cousin, exchanged a few words with the doctor, from whom she extracted some “advice gratis” by expatiating on certain pains in the chest, which she declared were nervous, but which he ascribed to chronic indigestion.
+
+“Simply drink a cup of tea every day an hour after dinner, as the English do, and you will get over it, for what you suffer from is an English malady,” Bianchon replied very gravely.
+
+“He is certainly a great physician,” said the Presidente, coming back to Madame de Clagny, Madame Popinot-Chandier, and Madame Gorju, the Mayor’s wife.
+
+“They say,” replied Madame de Clagny behind her fan, “that Dinah sent for him, not so much with a view to the elections as to ascertain why she has no children.”
+
+In the first excitement of this success, Lousteau introduced the great doctor as the only possible candidate at the ensuing elections. But Bianchon, to the great satisfaction of the new Sous-prefet, remarked that it seemed to him almost impossible to give up science in favor of politics.
+
+“Only a physician without a practice,” said he, “could care to be returned as a deputy. Nominate statesmen, thinkers, men whose knowledge is universal, and who are capable of placing themselves on the high level which a legislator should occupy. That is what is lacking in our Chambers, and what our country needs.”
+
+Two or three young ladies, some of the younger men, and the elder women stared at Lousteau as if he were a mountebank.
+
+“Monsieur Gatien Boirouge declares that Monsieur Lousteau makes twenty thousand francs a year by his writings,” observed the Mayor’s wife to Madame de Clagny. “Can you believe it?”
+
+“Is it possible? Why, a Public Prosecutor gets but a thousand crowns!”
+
+“Monsieur Gatien,” said Madame Chandier, “get Monsieur Lousteau to talk a little louder. I have not heard him yet.”
+
+“What pretty boots he wears,” said Mademoiselle Chandier to her brother, “and how they shine!”
+
+“Yes—patent leather.”
+
+“Why haven’t you the same?”
+
+Lousteau began to feel that he was too much on show and saw in the manners of the good townsfolk indications of the desires that had brought them there.
+
+“What trick can I play them?” thought he.
+
+At this moment, the footman, so called—a farm-servant put into livery—brought in the letters and papers, and among them a packet of proof, which the journalist left for Bianchon; for Madame de la Baudraye, on seeing the parcel, of which the form and string were obviously from the printers, exclaimed:
+
+“What, does literature pursue you even here?”
+
+“Not literature,” replied he, “but a review in which I am now finishing a story to come out ten days hence. I have reached the stage of ‘_To be concluded in our next_,’ so I was obliged to give my address to the printer. Oh, we eat very hard-earned bread at the hands of these speculators in black and white! I will give you a description of these editors of magazines.”
+
+“When will the conversation begin?” Madame de Clagny asked of Dinah, as one might ask, “When do the fireworks go off?”
+
+“I fancied we should hear some amusing stories,” said Madame Popinot to her cousin, the Presidente Boirouge.
+
+At this moment, when the good folks of Sancerre were beginning to murmur like an impatient pit, Lousteau observed that Bianchon was lost in meditation inspired by the wrapper around the proofs.
+
+“What is it?” asked Etienne.
+
+“Why, here is the most fascinating romance possible on some spoiled proof used to wrap yours in. Here, read it. _Olympia, or Roman Revenge_.”
+
+“Let us see,” said Lousteau, taking the sheet the doctor held out to him, and he read aloud as follows:
+
+  240          OLYMPIA
+
+  cavern. Rinaldo, indignant at his
+  companions’ cowardice, for they had
+  no courage but in the open field, and
+  dared not venture into Rome, looked
+  at them with scorn.
+
+  “Then I go alone?” said he. He
+  seemed to reflect, and then he went
+  on: “You are poor wretches. I shall
+  proceed alone, and have the rich
+  booty to myself.—You hear me!
+  Farewell.”
+
+  “My Captain,” said Lamberti, “if
+  you should be captured without
+  having succeeded?”
+
+  “God protects me!” said Rinaldo,
+  pointing to the sky.
+
+  With these words he went out,
+  and on his way he met the steward
+
+“That is the end of the page,” said Lousteau, to whom everyone had listened devoutly.
+
+“He is reading his work to us,” said Gatien to Madame Popinot-Chandier’s son.
+
+“From the first word, ladies,” said the journalist, jumping at an opportunity of mystifying the natives, “it is evident that the brigands are in a cave. But how careless romancers of that date were as to details which are nowadays so closely, so elaborately studied under the name of ‘local color.’ If the robbers were in a cavern, instead of pointing to the sky he ought to have pointed to the vault above him.—In spite of this inaccuracy, Rinaldo strikes me as a man of spirit, and his appeal to God is quite Italian. There must have been a touch of local color in this romance. Why, what with brigands, and a cavern, and one Lamberti who could foresee future possibilities—there is a whole melodrama in that page. Add to these elements a little intrigue, a peasant maiden with her hair dressed high, short skirts, and a hundred or so of bad couplets.—Oh! the public will crowd to see it! And then Rinaldo—how well the name suits Lafont! By giving him black whiskers, tightly-fitting trousers, a cloak, a moustache, a pistol, and a peaked hat—if the manager of the Vaudeville Theatre were but bold enough to pay for a few newspaper articles, that would secure fifty performances, and six thousand francs for the author’s rights, if only I were to cry it up in my columns.
+
+“To proceed:—
+
+         OR ROMAN REVENGE    219
+
+  The Duchess of Bracciano found
+  her glove. Adolphe, who had brought
+  her back to the orange grove, might
+  certainly have supposed that there
+  was some purpose in her forgetful-
+  ness, for at this moment the arbor
+  was deserted. The sound of the fes-
+  tivities was audible in the distance.
+  The puppet show that had been
+  promised had attracted all the
+  guests to the ballroom. Never had
+  Olympia looked more beautiful.
+  Her lover’s eyes met hers with an
+  answering glow, and they under-
+  stood each other. There was a mo-
+  ment of silence, delicious to their
+  souls, and impossible to describe.
+  They sat down on the same bench
+  where they had sat in the presence
+  of the Cavaliere Paluzzi and the
+
+“Devil take it! Our Rinaldo has vanished!” cried Lousteau. “But a literary man once started by this page would make rapid progress in the comprehension of the plot. The Duchesse Olympia is a lady who could intentionally forget her gloves in a deserted arbor.”
+
+“Unless she may be classed between the oyster and head-clerk of an office, the two creatures nearest to marble in the zoological kingdom, it is impossible to discern in Olympia—” Bianchon began.
+
+“A woman of thirty,” Madame de la Baudraye hastily interposed, fearing some all too medical term.
+
+“Then Adolphe must be two-and-twenty,” the doctor went on, “for an Italian woman at thirty is equivalent to a Parisian of forty.”
+
+“From these two facts, the romance may easily be reconstructed,” said Lousteau. “And this Cavaliere Paluzzi—what a man!—The style is weak in these two passages; the author was perhaps a clerk in the Excise Office, and wrote the novel to pay his tailor!”
+
+“In his time,” said Bianchon, “the censor flourished; you must show as much indulgence to a man who underwent the ordeal by scissors in 1805 as to those who went to the scaffold in 1793.”
+
+“Do you understand in the least?” asked Madame Gorju timidly of Madame de Clagny.
+
+The Public Prosecutor’s wife, who, to use a phrase of Monsieur Gravier’s, might have put a Cossack to flight in 1814, straightened herself in her chair like a horseman in his stirrups, and made a face at her neighbor, conveying, “They are looking at us; we must smile as if we understood.”
+
+“Charming!” said the Mayoress to Gatien. “Pray go on, Monsieur Lousteau.”
+
+Lousteau looked at the two women, two Indian idols, and contrived to keep his countenance. He thought it desirable to say, “Attention!” before going on as follows:—
+
+          OR ROMAN REVENGE      209
+
+  dress rustled in the silence. Sud-
+  denly Cardinal Borborigano stood
+  before the Duchess.
+
+  “His face was gloomy, his brow
+  was dark with clouds, and a bitter
+  smile lurked in his wrinkles.
+
+  “Madame,” said he, “you are under
+  suspicion. If you are guilty, fly. If
+  you are not, still fly; because,
+  whether criminal or innocent, you
+  will find it easier to defend yourself
+  from a distance.”
+
+  “I thank your Eminence for your
+  solicitude,” said she. “The Duke of
+  Bracciano will reappear when I find
+  it needful to prove that he is alive.”
+
+“Cardinal Borborigano!” exclaimed Bianchon. “By the Pope’s keys! If you do not agree with me that there is a magnificent creation in the very name, if at those words _dress rustled in the silence_ you do not feel all the poetry thrown into the part of Schedoni by Mrs. Radcliffe in _The Black Penitent_, you do not deserve to read a romance.”
+
+“For my part,” said Dinah, who had some pity on the eighteen faces gazing up at Lousteau, “I see how the story is progressing. I know it all. I am in Rome; I can see the body of a murdered husband whose wife, as bold as she is wicked, has made her bed on the crater of a volcano. Every night, at every kiss, she says to herself, ‘All will be discovered!’”
+
+“Can you see her,” said Lousteau, “clasping Monsieur Adolphe in her arms, to her heart, throwing her whole life into a kiss?—Adolphe I see as a well-made young man, but not clever—the sort of man an Italian woman likes. Rinaldo hovers behind the scenes of a plot we do not know, but which must be as full of incident as a melodrama by Pixerecourt. Or we can imagine Rinaldo crossing the stage in the background like a figure in one of Victor Hugo’s plays.”
+
+“He, perhaps, is the husband,” exclaimed Madame de la Baudraye.
+
+“Do you understand anything of it all?” Madame Piedefer asked of the Presidente.
+
+“Why, it is charming!” said Dinah to her mother.
+
+All the good folks of Sancerre sat with eyes as large as five-franc pieces.
+
+“Go on, I beg,” said the hostess.
+
+Lousteau went on:—
+
+  210           OLYMPIA
+
+  “Your key----”
+
+  “Have you lost it?”
+
+  “It is in the arbor.”
+
+  “Let us hasten.”
+
+  “Can the Cardinal have taken it?”
+
+  “No, here it is.”
+
+  “What danger we have escaped!”
+
+  Olympia looked at the key, and
+  fancied she recognized it as her own.
+  But Rinaldo had changed it; his
+  cunning had triumphed; he had the
+  right key. Like a modern Cartouche,
+  he was no less skillful than bold,
+  and suspecting that nothing but a
+  vast treasure could require a duchess
+  to carry it constantly at her belt.
+
+“Guess!” cried Lousteau. “The corresponding page is not here. We must look to page 212 to relieve our anxiety.”
+
+  212        OLYMPIA
+
+  “If the key had been lost?”
+
+  “He would now be a dead man.”
+
+  “Dead? But ought you not to
+  grant the last request he made, and
+  to give him his liberty on the con-
+  ditions----”
+
+  “You do not know him.”
+
+  “But—”
+
+  “Silence! I took you for my
+  lover, not for my confessor.”
+
+  Adolphe was silent.
+
+“And then comes an exquisite galloping goat, a tail-piece drawn by Normand, and cut by Duplat.—the names are signed,” said Lousteau.
+
+“Well, and then?” said such of the audience as understood.
+
+“That is the end of the chapter,” said Lousteau. “The fact of this tailpiece changes my views as to the authorship. To have his book got up, under the Empire, with vignettes engraved on wood, the writer must have been a Councillor of State, or Madame Barthelemy-Hadot, or the late lamented Desforges, or Sewrin.”
+
+“‘Adolphe was silent.’—Ah!” cried Bianchon, “the Duchess must have been under thirty.”
+
+“If there is no more, invent a conclusion,” said Madame de la Baudraye.
+
+“You see,” said Lousteau, “the waste sheet has been printed fair on one side only. In printer’s lingo, it is a back sheet, or, to make it clearer, the other side which would have to be printed is covered all over with pages printed one above another, all experiments in making up. It would take too long to explain to you all the complications of a making-up sheet; but you may understand that it will show no more trace of the first twelve pages that were printed on it than you would in the least remember the first stroke of the bastinado if a Pasha condemned you to have fifty on the soles of your feet.”
+
+“I am quite bewildered,” said Madame Popinot-Chandier to Monsieur Gravier. “I am vainly trying to connect the Councillor of State, the Cardinal, the key, and the making-up—”
+
+“You have not the key to the jest,” said Monsieur Gravier. “Well! no more have I, fair lady, if that can comfort you.”
+
+“But here is another sheet,” said Bianchon, hunting on the table where the proofs had been laid.
+
+“Capital!” said Lousteau, “and it is complete and uninjured. It is signed IV.; J, Second Edition. Ladies, the figure IV. means that this is part of the fourth volume. The letter J, the
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+For three days, Dinah’s imagination was filled with romantic notions, influenced by the conversations of her two Parisian visitors. Lousteau observed her growing distraction, waiting for the moment when she would be completely captivated. Dinah wanted to show La Baudraye to her guests, and the farce began with Bianchon’s papers left behind in Anzy. Gatien hurried off to fetch them, while Madame Piedefer went shopping, leaving Dinah alone with Lousteau and Bianchon. Lousteau sat beside Dinah, while Bianchon rode backward, and they discussed the unfortunate circumstances surrounding her life, mocking the local men, which left Dinah feeling defensive.
+
+“I understand your position,” Bianchon said as they crossed the Loire. “You’ve been closed off to love, but now it’s essential for you.” Dinah was taken aback. “Do you prescribe love for me?” she asked. Bianchon warned her that if she continued her current lifestyle, she would become unattractive. Lousteau, half-jokingly, defended Bianchon, claiming his advice was purely for her benefit.
+
+Upon arriving in Cosne, a crowd gathered around the old carriage, adorned with the arms of Louis XIV. Dinah insisted they get out, and she took Bianchon’s arm, walking briskly along the Loire. Bianchon suggested that Lousteau loved her but cautioned that he was frivolous and difficult to keep. He advised Dinah to befriend Lousteau, as he could bring her beauty and happiness. Dinah felt vulnerable under Bianchon’s scrutiny and was unsure about competing with Lousteau’s past lovers.
+
+As they walked, Dinah’s coachman announced Gatien’s arrival, and Bianchon blessed them before they entered town. Lousteau took Dinah’s hand, declaring his love, but she resisted, questioning whether she would reserve her heart for someone who saw her as a fleeting pleasure. Just then, Gatien approached, and Lousteau whispered his passionate intentions in her ear, suggesting she feign resistance to protect his honor. In a moment of reckless abandon, Lousteau crumpled Dinah’s muslin dress, leaving her feeling disheveled.
+
+Gatien, unaware of the tension, rode up, and Lousteau attempted to divert his attention. Dinah urged Gatien to return to the inn for Bianchon’s papers, and he reluctantly complied. Lousteau then insisted they hurry back to La Baudraye, claiming Dinah was unwell. Dinah, feeling humiliated, retreated inside, overwhelmed by emotion. Lousteau followed her, pleading for her forgiveness.
+
+Madame Piedefer entered, concerned about Dinah’s distress. Hearing Gatien’s horse approaching, Dinah fled to her room, while Lousteau confronted Gatien outside, who accused him of trickery. Lousteau dismissed Gatien’s feelings, suggesting that Dinah had played him for a laugh. Meanwhile, Dinah changed into a velvet gown, and when she rejoined the men, Gatien clumsily remarked on her attire.
+
+Lousteau explained her change of dress as a response to the cool air, and Dinah blushed, while her mother glared at Lousteau. The conversation turned to Bianchon, whom Lousteau praised, and Dinah, feeling the weight of the situation, remained silent. Lousteau, determined to win her over, professed his desire to stay in Sancerre and be near her, claiming he had forgotten the vices of Paris.
+
+As they returned to Anzy, Lousteau’s charm began to break through Dinah’s defenses, and she laughed, signaling a shift in her feelings. During dinner, Lousteau remained in high spirits, occasionally lost in thought, reveling in his happiness with Dinah. After coffee, the women left the men to stroll in the gardens, and Lousteau took the opportunity to express his feelings to Dinah, who was now more receptive.
+
+The next day, Lousteau learned that he would have to return to Paris soon. He and Dinah shared a moment with the local artist restoring the chateau, discussing the coat of arms that would replace the old one. Lousteau found humor in the old man’s intentions, while Dinah requested one more day with him before his departure. They exchanged promises of love, and Dinah accompanied him to Cosne, defying societal expectations.
+
+Upon returning to La Baudraye, Dinah spoke highly of Lousteau, claiming he had shown her what true love felt like. Her three admirers, including Monsieur de Clagny, were left to grapple with their feelings for her, while Dinah accepted Clagny as a confidant, showering him with affection as he remained devoted to her despite her newfound happiness.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+In Paris once more, Lousteau quickly lost the joyful memories of his time at the Chateau d’Anzy. He lived by his pen, and in this era, especially after the rise of the bourgeoisie, writing was akin to a form of servitude. To live by the pen meant constant creation or the appearance of it, with both demanding significant effort. Lousteau contributed daily to a newspaper and worked for several literary magazines, but he lacked artistic integrity, ranking among the literary hacks of Paris. This hack-work barred him from any literary pretensions, and when he could no longer aspire to advancement, he became a journalist.
+
+Despite this, his life was not unpleasant. He mingled with blue-stockings, aspiring actresses, publishers, and authors, enjoying a lifestyle that required little expense beyond rent. He had theatre boxes, and the sale of books he reviewed covered his minor expenses. His daily life was filled with social engagements, and his writing was the price he paid for this easy existence. Yet, after ten years of struggle, he found himself as financially constrained as when he first arrived in Paris, believing that a monthly income of five hundred francs would make him rich.
+
+Lousteau lived in well-furnished ground-floor rooms in the Rue des Martyrs, which he rented for twelve hundred francs. His financial woes peaked during January, April, July, and October, when rent and other expenses drained his resources. He spent lavishly on cabs, meals, and gifts for his lovers, leaving him perpetually broke despite earning seven to eight hundred francs a month.
+
+Occasionally weary of his literary life, Lousteau would reflect with friends like Nathan and Bixiou about their futures, joking about marriage and their romantic entanglements. Lousteau had a mistress, Madame Schontz, who was proud of having a writer as her lover. She lived nearby and enjoyed teasing her friends about their relationships.
+
+These details of Lousteau’s life are crucial, as his bohemian existence would later impact Dinah’s life. He could easily laugh about his romantic entanglements, including his relationship with Dinah, whom he had almost forgotten. When Bixiou inquired about his time in Sancerre, Lousteau recounted his experiences with three provincial men who were too timid to pursue a local beauty.
+
+Lousteau received a lengthy letter from Dinah, filled with affection, which he read and then burned, dismissing her feelings. He was not particularly concerned about Madame Schontz, who genuinely loved him, but he had also replaced a friend in the affections of a Marquise, who sometimes visited him unexpectedly.
+
+A week later, another letter from Dinah arrived, which he again discarded unread. Madame Schontz, noticing the scented paper, opened hampers sent by Dinah, filled with game and flowers, and suggested they host a dinner. Lousteau wrote back to Dinah, crafting a clever but insincere letter, which he believed would charm her.
+
+By December, Lousteau had stopped reading Dinah’s letters, which piled up in a drawer. Then, Madame Schontz informed him of a potential marriage opportunity. A young woman had fallen into trouble, and her father, a notary, wanted to marry her off quickly, offering a substantial dowry. The young woman’s previous lover had died, and the notary sought a respectable man to marry his daughter.
+
+Madame Schontz encouraged Lousteau to consider the proposal, emphasizing the financial benefits and the potential for a comfortable life. She warned him about the mother-in-law, a strict woman who would scrutinize his past. Despite the challenges, she insisted that marrying the widow would leave him free and financially secure.
+
+Lousteau, initially hesitant, agreed to meet the notary and his family. He flattered the notary, recalling his father, and presented himself as a man of ambition. The notary appreciated Lousteau’s charm and background, and soon Lousteau was introduced to the Cardot family as a prospective son-in-law.
+
+At his first dinner with them, Lousteau found the atmosphere dull, but he noticed Felicie, the notary’s daughter, who seemed shy yet affectionate. She expressed gratitude for his willingness to marry her, which touched Lousteau. Madame Cardot viewed him as a man with a promising future, pleased with his moral standing.
+
+Lousteau, buoyed by his new prospects, began to feel a sense of purpose. He envisioned a life of stability, a charming wife, and a respectable family connection, all while enjoying the financial security that came with the marriage. He was ready to embrace this new chapter, believing it would lead to greater ambitions and opportunities.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+Madame Cardot wanted to see the prints for _Gil Blas_, an illustrated volume, and borrowed it to visit her future son-in-law, Lousteau, unexpectedly. She hoped to learn about his lifestyle through his bachelor rooms. Her sister-in-law, Madame Camusot, was apprehensive about the marriage, having heard unflattering things about Lousteau from her husband, a Supreme Court Councillor.
+
+On a January day in 1837, Madame Cardot and her daughter took a cab to return the book to Lousteau, eager to see his living space. The porter was absent, but his daughter gave them the key after Madame Cardot slipped her a gold coin. Around noon, Lousteau was returning from breakfast when he spotted Dinah, his former lover, arriving in a coach. He was shocked to see her, especially when she revealed she was a mother.
+
+Lousteau, feeling overwhelmed, tried to dismiss Dinah, but she insisted on staying. Meanwhile, Pamela, the child in the apartment, sensed the awkwardness and informed Lousteau that his mother-in-law was inside. When he entered, he found Madame Cardot and Felicie hiding in a corner. Dinah declared her love for Lousteau, but he was concerned about the complications of their situation.
+
+Madame Cardot confronted Lousteau, expressing her disapproval of him as a potential son-in-law. She left, taking Felicie with her, while Dinah remained, believing in Lousteau's reassurances. Lousteau, realizing Dinah's high-mindedness, thought she would sacrifice for his future. He planned to manipulate the situation to his advantage, imagining how he could use her to escape his impending marriage.
+
+As Dinah settled into Lousteau's apartment, she was charmed by its elegance, unaware of the underlying poverty. Pamela, eager to help, went to borrow dinnerware from Madame Schontz, who soon learned of Lousteau's predicament and warned him that Cardot would not pursue the marriage. Lousteau, however, was more focused on his new life with Dinah, enjoying their time together.
+
+When Bixiou, a friend, arrived, he questioned Lousteau about his decision to abandon a wealthy marriage for Dinah. Bixiou warned him that provincial women often struggle to adapt to Parisian life and would eventually bore him. Lousteau dismissed his concerns, insisting he loved Dinah and preferred her over any fortune.
+
+Bixiou continued to argue that Lousteau was making a mistake, emphasizing the importance of marriage for securing legitimacy and stability. Lousteau, however, was resolute in his feelings for Dinah, despite Bixiou's warnings about the potential consequences of their relationship.
+
+As the conversation continued, Lousteau returned to Dinah, who was distressed and questioning her decision to come to Paris. He reassured her of his commitment, but the reality of their situation loomed over them. Madame Schontz later informed Lousteau that Cardot had decided to marry his daughter to another man, effectively ending Lousteau's prospects.
+
+Despite losing his chance at a stable future, Lousteau found himself more entangled with Dinah, who believed in their love. They began to settle into a life together, with Lousteau trying to keep Dinah entertained and dependent on him. Their relationship, initially filled with passion, began to resemble the very provincial romance Lousteau had once mocked.
+
+In the end, both Lousteau and Dinah found themselves caught in a cycle of dependency and illusion, unaware of the challenges that lay ahead in their unconventional union.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+This winter in Paris was for Madame de la Baudraye what October had been in Sancerre. Etienne, eager to introduce Dinah to Parisian life, took her to the theater, where she initially felt self-conscious and feared being recognized by acquaintances from Sancerre. However, Lousteau, who was vain and ambitious, helped her shed her provincial modesty by taking her to fashionable dressmakers and introducing her to the elite of Paris. Dinah quickly adapted to the vibrant life of the city, immersing herself in its culture and entertainment.
+
+One morning, a newspaper article reminded her of her past in Sancerre, mentioning Monsieur le Baron de Clagny's promotion. Dinah joked with Lousteau about his continued affection for her, revealing the depth of their passion, which was still fresh and enchanting. They exchanged exaggerated declarations of love, promising to die for each other if their love faded. Lousteau, however, secretly planned to deceive Dinah when he grew tired of her, viewing her as a valuable asset.
+
+Dinah, despite her love for Lousteau, maintained her dignity and ambition. She was more than just a charming companion; she was intelligent and well-read, capable of holding her own in conversations with the most sophisticated women. Lousteau recognized her worth, seeing in her the potential to be both a muse and a partner.
+
+As Dinah's pregnancy became evident, she prepared to retreat from public life. Before doing so, she attended the premiere of a play by Nathan, where she felt a mix of excitement and anxiety. The evening turned sour when she found herself in a box next to Anna Grossetete, an old acquaintance, and Lousteau abandoned her to socialize with others. Dinah felt the weight of scrutiny and discomfort, unable to mask her unease.
+
+When Clagny visited her at the theater, he expressed concern for her reputation and warned her about the consequences of her relationship with Lousteau. Dinah, however, was resolute in her happiness and the sacrifices she had made for love. Clagny's visit stirred feelings of nostalgia and regret, but she remained committed to her choices.
+
+After the birth of her child, Dinah took on the role of a devoted mother and housekeeper, determined to support Lousteau's career. She pawned her jewelry to help with their finances, believing that her sacrifices would lead to a better life for them both. However, Lousteau's financial irresponsibility and laziness soon became apparent, and Dinah found herself bearing the burden of their household.
+
+Despite her efforts to uplift Lousteau, he continued to struggle with his writing and debts. Dinah's love for him fueled her determination to help him succeed, but she also began to feel the strain of their situation. As she worked tirelessly to maintain their home, she noticed Lousteau's increasing indifference and reliance on her.
+
+The arrival of a second child added to Dinah's challenges, and she found herself working harder than ever. Lousteau's debts mounted, and he became increasingly detached from their domestic life, seeking solace in the company of friends and other women. Dinah, feeling the weight of her sacrifices, began to question the sustainability of their relationship.
+
+As tensions rose, Dinah's jealousy and insecurities surfaced. She attempted to regain control over their lives by confronting Lousteau about his behavior and the state of their finances. However, her efforts often led to conflict, and she struggled to maintain her dignity while navigating the complexities of their love.
+
+The turning point came when Dinah's estranged husband, Monsieur de la Baudraye, re-entered her life, seeking a power of attorney to manage an inheritance. This encounter forced Dinah to confront her past and the reality of her situation. Clagny, now Attorney-General, intervened to protect her interests, negotiating an allowance from her husband in exchange for her cooperation.
+
+As Dinah grappled with her feelings of betrayal and loss, she found herself at a crossroads. Lousteau's lack of ambition and commitment weighed heavily on her, and she began to realize that her sacrifices might not be reciprocated. The love that once felt like a refuge now seemed like a burden, and she questioned whether she could continue to support a man who was unwilling to fight for their future.
+
+In the end, Dinah's journey through love, sacrifice, and self-discovery revealed the complexities of her relationship with Lousteau. She learned that true love requires not only passion but also mutual respect and commitment. As she faced the challenges of motherhood and the realities of her choices, Dinah emerged stronger, determined to reclaim her identity and find her own path in a world that often sought to define her.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+From that day forth, Etienne lived in luxury, and Dinah could hold her own among the best-dressed women in Paris. Lousteau, however, feigned despair among his friends, claiming he was ruined by Madame de la Baudraye. He lamented, “Oh, what would I not give to the friend who would deliver me from Dinah! But no one ever can!” He believed her love was so strong that she would harm herself if he asked.
+
+Despite his complaints, Lousteau was unfaithful, and Monsieur de Clagny, distressed by Dinah's disgrace, warned her of betrayal. Dinah, however, simply replied, “I know it.” When Clagny asked if she still loved Lousteau, she responded passionately, “I would lose my soul for you!” This revelation left Clagny speechless, and tears filled his eyes.
+
+Dinah eventually recognized Lousteau’s true nature. She described him to her mother as a poet, lazy and prone to pleasure, but ultimately someone she could not hate. She felt responsible for his well-being, believing she was his only support. “Oh, my Dinah!” her mother exclaimed, “what a hell you live in! What gives you the strength to persist?” Dinah replied, “I will be a mother to him!”
+
+In her painful situation, Dinah accepted compromises with herself, only feeling the weight of her dishonor when confronted by others. She resolved to emulate Madame de Pompadour to maintain her love, indicating that her affection was becoming a burden. Lousteau’s insincerity and false affection further degraded her, leading her to believe in a revival of his love. She felt like a mere plaything, yet found a twisted joy in it.
+
+Dinah often rehearsed the tragedy of _Le Dernier Jour d’un condamne_, contemplating their separation, but each time a word or gesture from Lousteau would pull her back into love. She even contemplated suicide while walking in her garden, yet her devotion remained unexhausted. The romance of _Adolphe_ became her guide, and she vowed not to become like Ellenore, refusing to express her pain through tears or reproaches.
+
+Meanwhile, Monsieur de la Baudraye, seeking to reclaim his fortune, manipulated his wife’s inheritance, reducing its value while pocketing the difference. He invested in land, expecting significant returns, and considered himself free of debt to Dinah, believing he could restore her fortune later. He envisioned himself as a prominent figure in Sancerre, aspiring for a title and a noble lifestyle.
+
+By early 1842, Dinah felt like a mere reserve for Lousteau, sacrificing herself for his comfort. She donned mourning attire, symbolizing her remorse, and her mother, concerned for her well-being, sought to intervene. The reality of their situation was far from the dramatic conclusions of literature; it was marked by fatigue and disillusionment.
+
+Madame Piedefer, with the help of Monsieur de Clagny, encouraged Dinah to consider a life apart from Lousteau, suggesting that her husband would allow her to keep the children and live in Paris. Dinah left the negotiations to Clagny, who assured her that her husband would support her return to a respectable life.
+
+Monsieur de la Baudraye, meanwhile, had been secretly investing in a luxurious residence in Paris, seeking to elevate his status. He aimed for a peerage and sought to present a respectable image with a well-furnished home. He wrote to Dinah, inviting her to live with him in Paris, promising financial support for their children’s education.
+
+Dinah, now a Countess, felt the weight of her new title and the expectations that came with it. She prepared for a life of social prominence, contrasting sharply with her previous struggles. On a fateful day in May 1842, she paid off her debts and invited Lousteau to dinner, signaling a significant change in their relationship.
+
+When Lousteau arrived, he was taken aback by Dinah’s transformation. She informed him of her new status and declared their separation, expressing her enduring affection but insisting on a calm parting. Lousteau, feeling betrayed, accused her of ruining his life, but Dinah stood firm, asserting her independence.
+
+Their conversation turned bitter, with Lousteau lamenting his lost potential and Dinah refusing to accept blame. She declared her resolve to move on, and their final exchange was marked by a mix of sorrow and defiance. Dinah returned home, feeling both liberated and heartbroken.
+
+In her new life, Dinah transformed her home into a model of comfort, spending more than her husband anticipated. When Monsieur de la Baudraye returned to Paris, he was pleased with her efforts, unaware of the emotional turmoil beneath her polished exterior. Dinah, while charming and fashionable, felt a void in her life, missing the passion and excitement of her past.
+
+As she navigated her new social circle, Dinah found herself haunted by memories of Lousteau. Despite her success, she struggled to connect with other women and felt isolated in her achievements. Monsieur de Clagny, ever supportive, tried to introduce her to influential figures, but she remained unfulfilled.
+
+One evening, after a theater performance, Dinah confided in Clagny about her lingering feelings for Lousteau. He revealed that Lousteau was living with another woman, which stirred conflicting emotions in Dinah. This revelation prompted her to immerse herself in social life, seeking success and recognition.
+
+In March 1843, Dinah was appointed to collect donations for a charitable cause, marking a turning point in her public image. Her efforts were recognized, and she began to regain her standing in society. However, the emotional scars from her past remained, and she often reflected on her choices.
+
+As the seasons changed, Dinah’s life continued to evolve. She returned to Sancerre for the summer, where her husband doted on their children, and she found herself caught between her past and present. The dynamics of her relationships shifted, and she faced the challenges of motherhood and societal expectations.
+
+In June 1844, Monsieur de la Baudraye proudly introduced his children to a cousin, highlighting the family’s newfound status. Dinah, while maintaining her composure, grappled with the complexities of her life, balancing her roles as a mother, a Countess, and a woman shaped by her experiences.
+
+The narrative concludes with a sense of unresolved tension, as Dinah navigates her dual existence, reflecting the intricate interplay of love, ambition, and societal pressures that define her journey.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################

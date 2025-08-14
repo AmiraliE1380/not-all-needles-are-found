@@ -6,15 +6,15 @@ GPT_4O_MINI_CONTEXT_LENGTH = 128000  # Maximum context length for GPT-4o-mini in
 GPT_4O_MINI_CONTEXT_LENGTH_WORDS = 80000  # Conservative max context length for GPT-4o-mini in words
 
 # contracting original story to a target length
-# input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_2000000.txt"
+input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_400000_actual_443899.txt"
 
-input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_40%_actual_48445.txt"
+# input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_40%_actual_48445.txt"
 
 
 init_length_tokens = 131644  # Target length for the final story
-final_length_tokens = 128000  # Target length for the final story
+final_length_tokens = 400000  # Target length for the final story
 # shrinking_percent = shrink_percentage(init_length_tokens, final_length_tokens)  # Target length for the final story
-shrinking_percent = 50  # if reduced by 10%, i.e. make the new file 90% of the original length
+shrinking_percent = 5  # if reduced by 10%, i.e. make the new file 90% of the original length
 
 
 def contract_story(story: str, shrink_percent: int) -> str:

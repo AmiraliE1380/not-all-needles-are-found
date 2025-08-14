@@ -26,7 +26,7 @@ def summarize_text(input_text: str, shrink_percent: int) -> str:
     # print(f"prompt prefix:\n{prompt[:1000]}...")  # Print first 1000 chars for brevity
 
     from call_api import chat_with_model
-    response = chat_with_model(prompt, model="gpt-4o-mini")
+    response = chat_with_model(prompt, model="gpt-5-mini")
     return response.strip()
 
 
