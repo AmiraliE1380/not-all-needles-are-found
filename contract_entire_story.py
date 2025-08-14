@@ -6,7 +6,7 @@ GPT_4O_MINI_CONTEXT_LENGTH = 128000  # Maximum context length for GPT-4o-mini in
 GPT_4O_MINI_CONTEXT_LENGTH_WORDS = 80000  # Conservative max context length for GPT-4o-mini in words
 
 # contracting original story to a target length
-input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_400000_actual_443899.txt"
+input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_400000_actual_341846.txt"
 
 # input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_40%_actual_48445.txt"
 

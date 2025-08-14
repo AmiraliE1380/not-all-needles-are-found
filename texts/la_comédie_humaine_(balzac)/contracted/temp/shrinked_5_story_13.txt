@@ -260,7 +260,7 @@ It is possible, it seems, for members of one family to live side by side and kno
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Yesterday at two o'clock I drove through the Champs-Elysées and the Bois de Boulogne on a beautiful autumn day that reminded me of the Loire. I finally experienced Paris! The Place Louis XV is impressive, a testament to human artistry.
+Yesterday at two o'clock I drove through the Champs-Elysées and the Bois de Boulogne on a beautiful autumn day that reminded me of the Loire. I finally experienced Paris. The Place Louis XV is impressive, a testament to human artistry.
 
 I was impeccably dressed, pensive, and poised, yet not a single smile was aimed at me. The carriage moved slowly, matching my demeanor. Only one person, a duke—my father—acknowledged me with satisfaction; my mother sent a butterfly kiss. Griffith, ever observant, scanned indiscriminately. A young woman should know where to look.
 
@@ -286,11 +286,11 @@ I went to bed sorrowful, reeling from the clash between my candid, joyful nature
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-How deeply your letter moved me, especially when I reflect on our divergent paths! You are entering a brilliant world; I will conclude my modest life in a peaceful retreat.
+How deeply your letter moved me, especially when I reflect on our divergent paths. You are entering a brilliant world; I will conclude my modest life in a peaceful retreat.
 
 In the Castle of Maucombe my room remains as I left it, now with a splendid view of the Gemenos valley that I once saw without understanding. Shortly after my arrival my parents took me to dine with M. de l'Estorade, a wealthy old gentleman who prospered by frugality.
 
-M. de l'Estorade lost his only son to Bonaparte's conscription in 1813. After evading the draft, the son joined the Emperor's bodyguard but was not heard from after the Battle of Leipzig. The Baron clung to hope that his son lived and hoarded his income for him. Eventually I realized the son's unexpected return explained my own: who could have imagined my future husband was making his way back from Russia, Poland, and Germany? His fortune turned in Berlin, where the French Minister facilitated his return. The Baron, a small landowner in Provence with an income of about ten thousand livres, has not become famed enough to draw attention to his son's adventures.
+M. de l'Estorade lost his only son to Bonaparte's conscription in 1813. After evading the draft, the son joined the Emperor's bodyguard but was not heard from after the Battle of Leipzig. The Baron clung to hope and hoarded his income for him. Eventually I realized the son's unexpected return explained my own: who could have imagined my future husband was making his way back from Russia, Poland, and Germany? His fortune turned in Berlin, where the French Minister facilitated his return. The Baron, a small landowner in Provence with an income of about ten thousand livres, has not become famed enough to draw attention to his son's adventures.
 
 The combined income from the late Mme. de l'Estorade's estate and the father's savings amounts to around two hundred and fifty thousand livres, excluding property—quite a fortune in Provence. The Baron recently bought a poorly managed estate, intending to plant ten thousand mulberry trees. Now that he has found his son, his sole desire is to marry him to a girl of good family.
 
@@ -320,19 +320,19 @@ P.S. I have just opened your third letter. I have about one thousand livres to s
 ################################################
 VI. DON FELIPE HENAREZ TO DON FERNAND PARIS, September.
 
-The heading of this letter shows the head of your house is safe. The massacre of our ancestors in the Court of Lions forced us into a double identity, but it also gave us Arab cunning, which may have saved my life.
+The heading of this letter shows the head of your house is safe. The massacre of our ancestors in the Court of Lions forced us into double identity, but it also taught us Arab cunning that may have saved my life.
 
-Ferdinand’s fear made his acting convincing enough for Valdez to believe him. Without my intervention, the Admiral would have perished. The Liberals still fail to understand kingship. I know this Bourbon well; his repeated assurances of protection only confirm my suspicions. A true Spaniard does not need to repeat promises; excess words often signal deceit.
+Ferdinand’s fear made his acting convincing enough for Valdez to believe him. Without my intervention, the Admiral would have perished. The Liberals still fail to understand kingship. I know this Bourbon well; his repeated assurances of protection confirm my suspicions. A true Spaniard need not repeat promises; excess words often signal deceit.
 
-Valdez left on an English ship. As soon as I saw the cause of my beloved Spain falter in Andalusia, I set my escape in motion. I instructed my steward, sent coral fishers to meet me at a coast, and while Ferdinand sought to seize me, I was already in my barony of Macumer, among brigands who defy authority.
+Valdez left on an English ship. As soon as I saw the cause of my beloved Spain falter in Andalusia, I set my escape in motion. I instructed my steward, sent coral fishers to meet me on a coast, and while Ferdinand sought to seize me, I was already in my barony of Macumer, among brigands who defy authority.
 
-The last Hispano-Moorish family of Granada has found refuge in an African desert, and even a Saracen horse on an estate inherited from Saracens. The brigands, who once feared my authority, now shield me from the King of Spain's vendetta, proud to defend the Duc de Soria, a Henarez—the first to visit them since the Moors ruled.
+The last Hispano-Moorish family of Granada has found refuge in an African desert, even a Saracen horse on an estate inherited from Saracens. The brigands, who once feared my authority, now shield me from the King of Spain's vendetta, proud to defend the Duc de Soria, a Henarez—the first to visit them since the Moors ruled.
 
 I had hoped to live off this estate’s income, but Queverdo’s reports were right. He had twenty-two lives at my disposal but not a real one; vast prairies without houses, virgin forests with no furniture. A million piastres and a resident master for fifty years would be needed to make these lands profitable. I must address this.
 
 The conquered have time to reflect. Seeing my noble country reduced to a corpse for monks to exploit moved me to tears; it foreshadows Spain’s grim future.
 
-In Marseilles I learned of Riego's fall. It struck me that my life would be a prolonged, unnoticed martyrdom. Is existence worth living when one can neither die for country nor live for a woman? To love and conquer—this law is engraved on our sabres and echoed in our palaces. Yet my sabre is broken, the palace in ruins, the living spring dried in barren sand.
+In Marseilles I learned of Riego's fall. It struck me that my life would be a prolonged, unnoticed martyrdom. Is existence worth living when one can neither die for country nor live for a woman? To love and conquer—this was our law. Yet my sabre is broken, the palace in ruins, the living spring dried in barren sand.
 
 Here is my last will and testament.
 
@@ -438,7 +438,7 @@ The parts of Chimène in the Cid and the Cid himself delight me. What a marvelou
 
 VIII. THE SAME TO THE SAME January.
 
-Our master is a poor refugee, hiding because of his part in the revolution quelled by the Duc d’Angoulême—a triumph that has led to splendid fêtes. Though a Liberal and likely a man of the people, he has piqued my interest; I suspect he was condemned to death. I make him talk to uncover his secret, but he has a truly Castilian taciturnity, proud as if he were Gonsalvo di Cordova, yet angelic in patience and gentleness. His pride is not irritable like Miss Griffith’s; it belongs to his nature, compelling civility through perfect manners and keeping us at a distance with the respect he shows.
+Our master is a poor refugee, hiding because of his part in the revolution quelled by the Duc d’Angouleme—a triumph that has led to splendid fêtes. Though a Liberal and likely a man of the people, he has piqued my interest; I suspect he was condemned to death. I make him talk to uncover his secret, but he has a truly Castilian taciturnity, proud as if he were Gonsalvo di Cordova, yet angelic in patience and gentleness. His pride is not irritable like Miss Griffith’s; it belongs to his nature, compelling civility through perfect manners and keeping us at a distance with the respect he shows.
 
 My father says much nobility dwells in Señor Henarez, whom he humorously calls Don Henarez. A few days ago I took the liberty of thus addressing him. He raised his eyes, usually cast down, and flashed a look that abashed me; he certainly has the most beautiful eyes imaginable. I asked if I had offended, and he replied in grand, rolling Spanish:
 
@@ -502,11 +502,11 @@ I can say no more today. Thank you for all you have sent me. Please look at my n
 ################################################
 X. MLLE. DE CHAULIEU TO MME. DE L'ESTORADE January.
 
-Oh, Renée, you have made me miserable for days! Your enchanting beauty, proud features, and graceful manner, combined with your rich soul and exquisite heart, are destined to be wasted in a dull marriage that you will end up despising. I loathe your future children before they are even conceived; they will be monsters!
+Oh, Renée, you have caused me misery! Your beauty, proud features, graceful manner, rich soul, and exquisite heart are destined to be wasted in a dull marriage you will end up despising. I already loathe your future children; they will be monsters!
 
-You seem to accept what lies ahead, without hope or fear. But what if a glorious morning brings the man who could awaken you from this slumber? The thought chills me!
+You seem resigned, without hope or fear. But what if a glorious morning brings the man who could awaken you? The thought chills me.
 
-At least you will have a friend. You will become the guardian angel of your valley, learn its beauty until it becomes part of you. As you walk with your husband and children, I can predict your letters: the valley, hills, and meadows will mirror the monotony of your soul. But I will be there, a heart untouched by social pettiness, all your own.
+At least you will have a friend. You will become the guardian angel of your valley and learn its beauty until it becomes part of you. As you walk with your husband and children, I can predict your letters: the valley, hills, and meadows will mirror the monotony of your soul. I will be there, a heart untouched by social pettiness, all your own.
 
 Monday.
 
@@ -516,7 +516,7 @@ His coldness provokes me. He keeps distance, wrapped in pride and mystery, while
 
 Yesterday, I made a remark to M. Henarez that must have struck him; he did not respond, and the lesson ended with a bow implying he would not return. That suits me; I do not want a new Nouvelle Héloïse. I recently read Rousseau and found it distasteful. Passion that argues and moralizes seems detestable.
 
-Clarissa is too pleased with herself and her long letter, but my father praises Richardson as an admirable portrayal of English women. Rousseau’s reads more like a philosophical sermon in letter form.
+Clarissa is too pleased with herself and her long letter, but my father praises Richardson as an admirable portrayal of English women. Rousseau’s reads more like a philosophical sermon in letters.
 
 Love, to me, is a subjective poem. Everything written about it is both false and true. Since you will be an authority on married love, I feel called to remain unmarried and pursue a grand passion, enriching our shared experience.
 
@@ -526,19 +526,19 @@ Farewell, poor martyred darling.
 
 XI. MME. DE L'ESTORADE TO MLLE. DE CHAULIEU La Crampade.
 
-Your Spaniard and you make me shudder, my darling. I beg you to dismiss him. Everything you say aligns with the character of dangerous adventurers who risk everything. He cannot be your husband or lover. I will write more about my married life when my heart is free from the anxiety your last letter caused.
+Your Spaniard and you make me shudder, my darling. I beg you to dismiss him. Everything you say fits the dangerous adventurer who risks everything. He cannot be your husband or lover. I will write more about my married life when my heart is free from the anxiety your last letter caused.
 
 XII. MLLE. DE CHAULIEU TO MME. DE L'ESTORADE February.
 
 This morning my father visited, more thoughtful than usual. He gestured for me to sit; I sensed he wanted something.
 
-He began by flattering me, admitting he had misjudged my intelligence. He praised my clear-sightedness, saying I was the only one capable of grasping his political concerns. He explained that France is in a critical position, understood only by the King and a few others. The King is a head without arms, and the nobles lack authority over elected men who refuse to cooperate.
+He began by flattering me, admitting he had misjudged my intelligence and praising my clear-sightedness as the only one capable of grasping his political concerns. He explained that France is in a critical position, understood only by the King and a few others. The King is a head without arms, and the nobles lack authority over elected men who refuse to cooperate.
 
 He described the Revolution as still active, embedded in law and thought, and warned that the family has ceased to exist in France. We are left with individuals, and the State treasury has replaced the family spirit. He argued that a country cannot be stable without a foundation of paternal authority.
 
 He urged me to consider the importance of family in establishing a strong state, warning of calamities if our party fails. I interrupted, asking how I could help the State, as I felt no vocation for martyrdom.
 
-He called me a little hussy, and we laughed. He asked for my help in persuading me to sacrifice my inheritance for my younger brother's estate. I questioned whether I could still enjoy life if I gave up my fortune.
+He called me a little hussy, and we laughed. He asked for my help persuading him to sacrifice my inheritance for my younger brother's estate. I questioned whether I could still enjoy life if I gave up my fortune.
 
 He insisted that my future husband would not take me without a dowry; I suggested perhaps an older peer might be an option. He laughed, and we parted on good terms.
 
@@ -712,35 +712,35 @@ I dare not write my thoughts and will go to bed joyful, thinking of all we would
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-If love is the essence of life, why do philosophers dismiss it in marriage? Society demands that women sacrifice for family, creating discord in marriage. This discord was anticipated, prompting men to develop defenses against women. Without these, we might dismantle their theories through love or aversion.
+If love is life’s essence, why do philosophers dismiss it in marriage? Society demands women sacrifice for family, creating marital discord. That discord was anticipated, prompting men to develop defenses against women; without them, their theories might be overturned by love or aversion.
 
-Marriage, as it stands, embodies two opposing forces the law should reconcile. Your letter challenges the foundations laid by the sage of Aveyron, under which I had once found comfort. Laws crafted by men declare conjugal love devoid of passion acceptable, allowing women to yield without love's sanction, mirroring Nature’s emphasis on procreation.
+Marriage, as it stands, embodies two opposing forces the law should reconcile. Your letter challenges foundations laid by the sage of Aveyron, under which I once found comfort. Laws crafted by men accept conjugal love devoid of passion, allowing women to yield without love’s sanction, reflecting Nature’s emphasis on procreation.
 
-Once a person, I now feel like property. I have swallowed many tears alone, aching for a comforting smile. Why are our fates so different? You thrive in lawful love, where virtue aligns with pleasure, while I face a future of uncertainty.
+Once a person, I now feel like property. I have swallowed many tears alone, aching for a comforting smile. Why are our fates so different? You thrive in lawful love, where virtue aligns with pleasure, while I face an uncertain future.
 
-You are loved and adored. Embrace this noble romance that has long been our dream. Your beauty, refined and spiritual, was made to enchant. Guard your heart’s secret and test Felipe’s love, but more importantly, test your own. It’s easy to be misled by novelty and the illusion of happiness.
+You are loved and adored. Embrace this noble romance that has long been our dream. Your beauty, refined and spiritual, was made to enchant. Guard your heart’s secret and test Felipe’s love, but, more importantly, test your own. Novelty and the illusion of happiness easily mislead.
 
-You remain independent, dear friend; I urge you not to rush into marriage without assurance. In intimate conversation, a gesture or word can illuminate hidden depths. You have the courage to explore where others falter.
+You remain independent, dear friend; I urge you not to rush into marriage without assurance. In intimate conversation, a gesture or word can reveal hidden depths. You have the courage to explore where others falter.
 
-I watch you with anxiety from afar; my heart is in sync with yours. Write to me about everything; your letters ignite passion in my otherwise mundane life. I oscillate between despair and hope—perhaps expecting too much from life. In youth, we often believe ideals and reality will align.
+I watch you with anxiety from afar; my heart is in sync with yours. Write to me about everything; your letters ignite passion in my otherwise mundane life. I oscillate between despair and hope—perhaps expecting too much. In youth we often believe ideals and reality will align.
 
-Seated beneath a rock in my park, I pondered that love in marriage is a fortunate accident, not a universal principle. The philosopher rightly views the family as society’s unit, placing women in subservience, as has been the case historically. The resolution to our dilemma lies in motherhood, which I yearn for to channel my energy and heart.
+Seated beneath a rock in my park, I pondered that love in marriage is a fortunate accident, not a universal rule. The philosopher rightly views the family as society’s unit, placing women in subservience as history shows. The resolution to our dilemma lies in motherhood, which I yearn for to channel my energy and heart.
 
 Louis remains cheerful; his love is active while mine is passive. He enjoys the flowers of my affection without acknowledging the toil behind them. I play the devoted mother, sacrificing for his happiness, which in turn gives me joy. I await the rewards of my sacrifices, hoping motherhood will fulfill my aspirations and compensate for what I surrender.
 
 ---
 
-Dear wedded friend, your letter arrived just as I contemplated a bold step. I feel a strange yearning for the unknown, revealing a conflict between societal and natural laws within me. I want to speak with Felipe alone, under the lime-trees in our garden. This suits the modern girl I’ve become, as my father recognizes.
+Dear wedded friend, your letter arrived just as I contemplated a bold step. I feel a strange yearning for the unknown, revealing a conflict between societal and natural laws within me. I want to speak with Felipe alone, under the lime trees in our garden. This suits the modern girl I’ve become, as my father recognizes.
 
-There is method in this seeming madness: I wish to reward Felipe for his nights beneath my window while testing his reaction to my boldness. If he respects my folly, he may envision me as his wife; if not, farewell, Don Felipe.
+There is method in this seeming madness: I wish to reward Felipe for his nights beneath my window while testing his reaction to my boldness. If he respects my folly, he may imagine me as his wife; if not, farewell, Don Felipe.
 
 Meeting him this way seems less risky than encounters in society where prying eyes abound. I cannot express the agitation this idea brings me, nor how I longed for your company to share the anticipation of our first clandestine meeting.
 
-I sent Felipe a tracing of the garden-key along with a note urging him to stop his reckless behavior, warning that if he fell it would tarnish my reputation. Yesterday I took Griffith to the garden, and after a delicious moment of tension, I saw him approach like a shadow.
+I sent Felipe a tracing of the garden key with a note urging him to stop his reckless behavior, warning that if he fell it would tarnish my reputation. Yesterday I took Griffith to the garden, and after a delicious moment of tension, I saw him approach like a shadow.
 
-When he reached the garden, I introduced him to Griffith, who withdrew a few steps. The night was mild and heavy with scents; I felt intoxicated by the thrill of being almost alone with him. We savored the moment before I urged him to abandon his reckless climbing, fearing scandal.
+When he reached the garden, I introduced him to Griffith, who withdrew a few steps. The night was mild and heavy with scent; I felt intoxicated by the thrill of being almost alone with him. We savored the moment before I urged him to abandon his reckless climbing, fearing scandal.
 
-His pallor revealed fear; I reminded him that if he had been caught, suspicion would fall on my family. He apologized, and I reassured him that my actions were not as mad as they seemed.
+His pallor revealed fear; I reminded him that if he had been caught, suspicion would fall on my family. He apologized, and I reassured him my actions were not as mad as they seemed.
 
 After a few moments of silence he expressed joy and reverence for me, acknowledging that my actions were sacred. I told him I was on the path to loving the man who understands me, but that my heart would belong only to someone who truly knows it.
 
@@ -754,33 +754,31 @@ Love appears in two forms: one that commands and one that obeys. Can both coexis
 
 He remains oblivious to my true nature. If I were in his position, I would see Mlle. de Chaulieu as a calculating coquette. I still care for Felipe, but I feel calm and in control now. The thrill of uncertainty has faded, and I fear I may have lost the excitement of our initial encounters.
 
-Is suspense always more pleasurable than fulfillment? Do we exaggerate our feelings by allowing imagination too much freedom? These thoughts haunt me as I consider another secret meeting in the garden—this time without Griffith. How far can I go? Imagination knows no bounds, but pleasure has its limits. How can a woman reconcile these two aspects of her existence?
+Is suspense always more pleasurable than fulfillment? Do we exaggerate our feelings by letting imagination run wild? These thoughts haunt me as I consider another secret meeting in the garden—this time without Griffith. How far can I go? Imagination knows no bounds, but pleasure has its limits. How can a woman reconcile these two aspects of her existence?
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-I am displeased with you. If you did not cry over Racine's Berenice and find it a profound tragedy, we have no connection and should part. Forget me; unless I receive a satisfactory response I will forget you too. You will be M. le Baron de Macumer to me, or cease to exist.
+I am displeased with you. If you did not cry over Racine's Berenice and find it a profound tragedy, we have no connection and should part. Forget me; unless you answer satisfactorily I will forget you. You will be M. le Baron de Macumer to me, or cease to exist.
 
-At Mme. d'Espard's yesterday, your self-satisfied air disgusted me. Your confidence of success alarms me. You no longer have the humility of your first letter. Instead of showing the absent-mindedness of a lover, you polished epigrams. That is not the behavior of a true believer, who should always be in awe of his divinity.
+At Mme. d'Espard's yesterday your self-satisfied air disgusted me; your confidence of success alarms me. You have lost the humility of your first letter and, instead of the absent-mindedness of a lover, you polished epigrams. That is not the behavior of a true believer, who should always stand in awe of his divinity.
 
-If you do not see me as the very breath of your life, a being above others, then I must be less than a woman in your eyes. You have bred a spirit of mistrust in me that drowns my tenderness. Reflecting on our past, I feel justified in my suspicions. Understand, Prime Minister of all the Spains, that I have contemplated the vulnerable state of our sex. My innocence has illuminated my path, and I have emerged unscathed.
+If you do not see me as the very breath of your life, a being above others, then I must be less than a woman in your eyes. You have bred a spirit of mistrust that drowns my tenderness. Reflecting on our past, I feel justified in my suspicions. Understand, Prime Minister of all the Spains, that I have contemplated the vulnerable state of our sex. My innocence has lit my path, and I have emerged unscathed.
 
-Let me reiterate what my youthful experiences taught me: in most matters deceit and broken promises are punished, but love follows its own code, where the victim is also accuser and judge. The most heartless betrayals remain secret, known only to the two hearts involved. How can the victim reveal them without harming herself? Love administers its own justice, which the world ignores.
+Let me reiterate what my youthful experience taught me: in most matters deceit and broken promises are punished, but love follows its own code—the victim is also accuser and judge. The most heartless betrayals remain secret, known only to the two hearts involved. How can the victim reveal them without harming herself? Love administers its own justice, which the world ignores.
 
-I have resolved never to forgive a serious offense; in love, what is not serious? Yesterday you appeared like a man who has already succeeded. If that confidence has stripped you of the charming uncertainty that once characterized you, I would blame you. I want you neither timid nor presumptuous; I do not want you to fear losing my affection—that would be an insult—yet I also do not want you to treat your love lightly. Your heart should never be freer than mine. If you cannot grasp the torment a single stab of doubt can inflict, beware the lesson I might teach you.
+I have resolved never to forgive a serious offense; in love, what is not serious? Yesterday you looked like a man who had already succeeded. If that certainty has stripped you of the charming uncertainty that once characterized you, I would blame you. I want you neither timid nor presumptuous; I do not want you to fear losing my affection—that would be an insult—yet I also do not want you to treat your love lightly. Your heart should never be freer than mine. If you cannot grasp the torment a single stab of doubt can inflict, beware the lesson I might teach you.
 
 In a single glance I entrusted my heart to you, and you understood it. The purest feelings of a young girl are yours. My reflections have enriched my mind; yet if a wounded heart seeks counsel from reason, it may ally itself with the darker aspects of knowledge and daring.
 
-I swear to you, Felipe, if you love me as I believe you do, and if I sense even the least decline in the fear, obedience, and respect you have shown, or if the pure flame that ignited my heart grows dim, you need not expect reproaches. I would not burden you with letters of weakness, pride, or rage. But if I became silent, my face would declare that death was near. I would not perish, however, until I had branded you with infamy and sown eternal sorrow in your heart; you would behold the girl you loved dishonored and lost, condemned to suffering.
+I swear to you, Felipe, if you love me as I believe you do, and if I sense even the least decline in the fear, obedience, and respect you have shown, or if the pure flame that ignited my heart grows dim, expect no reproaches. I would not burden you with letters of weakness, pride, or rage. But if I became silent, my face would announce that death was near. I would not perish, however, until I had branded you with infamy and sown eternal sorrow in your heart; you would behold the girl you loved dishonored and lost, condemned to suffering.
 
-Therefore, I implore you, do not make me envy the old, happy Louise, the object of your pure worship, whose heart thrived in happiness, as Dante wrote:
-  Senza brama, sicura ricchezza!
-I have searched the Inferno for the most terrible punishment, a mental torture to link with divine vengeance.
+Therefore, I implore you, do not make me envy the old, happy Louise, the object of your pure worship, whose heart thrived in happiness, as Dante wrote: Senza brama, sicura ricchezza! I have searched the Inferno for the most terrible punishment, a mental torture to link with divine vengeance.
 
-Yesterday, as I observed you, doubt pierced me like a cold dagger. Do you know what that means? I mistrusted you, and the pain was unbearable. If my service is too exacting, leave it; I would not retain you. I do not need proof of your cleverness. Keep your wit for me. Do not present a polished façade to others for flattery or praise. Come to me burdened with scorn or hatred, the target of calumny, told that no woman loves you; then you will discover the treasures of Louise's heart.
+Yesterday, as I observed you, doubt pierced me like a cold dagger. I mistrusted you, and the pain was unbearable. If my service is too exacting, leave it; I would not retain you. I do not need proof of your cleverness. Keep your wit for me. Do not present a polished façade to others for flattery or praise. Come to me burdened with scorn or hatred, the target of calumny, told that no woman loves you; then you will discover the treasures of Louise's heart.
 
 We are truly rich only when our wealth lies so deep the world could trample it without knowing. If you were merely handsome, I doubt I would have noticed you or found the myriad reasons for my love. We understand little of those reasons, as little as we know why the sun makes flowers bloom and ripens fruit. Yet I can reveal one cause dear to me.
 
-The character and individuality that give meaning to your face are a mystery to all but me. My love transforms you into the most lovable of men, and that is why I wish to keep your mental gifts for myself. To others they should be as meaningless as your eyes and features. Let it be mine alone to ignite your intelligence, as I bring light to your eyes. I envision you as a proud Spanish grandee, cold and haughty, a monument to be admired from a distance—like ruins of barbaric power—rather than a figure of Parisian affability.
+The character and individuality that give meaning to your face are a mystery to all but me. My love transforms you into the most lovable of men, and that is why I wish to keep your mental gifts for myself. To others they should be as meaningless as your eyes and features. Let it be mine alone to ignite your intelligence, as I bring light to your eyes. I envision you as a proud Spanish grandee, cold and haughty, a monument to be admired from a distance—ruins of barbaric power—rather than a figure of Parisian affability.
 
 Have you forgotten my ideal portrait? Your excessive cheerfulness betrayed your love. Had I not restrained you, you would have revealed to the sharpest salons of Paris that your inspiration came from Armande‑Louise‑Marie de Chaulieu.
 
@@ -1036,13 +1034,13 @@ I have not written to you, dear, since our marriage nearly eight months ago, and
 
 We set off in a post-chaise for the Castle of Chantepleurs, which Macumer has bought in Nivernais, on the banks of the Loire, sixty leagues from Paris. Our servants, except my maid, were there before us, and we arrived the next evening after a rapid journey. I slept all the way from Paris to beyond Montargis, resting my head on Felipe's shoulder. His tender affection touched me deeply, and I awoke to find his passionate gaze unchanged. He had kissed me twice on the forehead.
 
-At Briare, we had breakfast in the carriage, followed by a conversation reminiscent of our old talks at Blois, admiring the Loire. By half-past seven, we entered the beautiful avenue leading to Chantepleurs. We dined at eight and retired to our charming Gothic bedroom, comfortable with modern luxuries. Felipe, often thought ugly, appeared beautiful to me in his kindness. Throughout the journey, he felt like an old friend, though he later described the storms of passion he concealed beneath a calm exterior.
+At Briare, we had breakfast in the carriage, followed by a conversation like our old talks at Blois, admiring the Loire. By half-past seven, we entered the beautiful avenue leading to Chantepleurs. We dined at eight and retired to our charming Gothic bedroom, comfortable with modern luxuries. Felipe, often thought ugly, appeared beautiful to me in his kindness. Throughout the journey, he felt like an old friend, though he later described the storms of passion he concealed beneath a calm exterior.
 
 "So far, I have found nothing terrible in marriage," I said, gazing out at the moonlit park.
 
 "Why fear it?" he replied. "Have I ever proved false to my promise? Why should I in the future?"
 
-His words and glances were full of mastery, thrilling my heart. I mused on duty and the constraints placed on a woman's delicate feelings. What malevolent force has sought to crush a woman's sensitivity under obligation? Love should guard its own rights, blooming freely under its warmth.
+His words and glances were full of mastery, thrilling my heart. I mused on duty and the constraints placed on a woman's delicate feelings. What force has sought to crush a woman's sensitivity under obligation? Love should guard its own rights, blooming freely under its warmth.
 
 Oh, my noble Renee! I understand you now. The woman who has not used marriage merely to legalize her heart's choice has only motherhood left to turn to. When earthly ties fail, the soul seeks the divine.
 
@@ -1050,9 +1048,9 @@ A hard truth emerges: only truly great men know how to love. They balance sensua
 
 This is the philosophy of my first three months of marriage. Felipe is angelic, another self, and I can think aloud with him. His greatness surpasses my understanding, and our bond deepens with possession. I foresee that years of marriage will only strengthen his affection and enhance our connection. What joy!
 
-Pleasure invigorates me, leaving behind sunshine that becomes part of my being. The intervals between ecstasies are like the brief nights separating long summer days. What happy chance has given me such a destiny? My mother's fears have proven unfounded; your fears and mine have vanished.
+Pleasure invigorates me, leaving behind sunshine that becomes part of my being. The intervals between ecstasies are like the brief nights separating long summer days. What happy chance has given me such a destiny? My mother's fears have proved unfounded; your fears and mine have vanished.
 
-We spent seven and a half months at Chantepleurs, like runaway lovers in a blissful solitude. One morning, in a particularly happy moment, I reflected on my life and thought of your prosaic marriage. I grasped the meaning of your life. Oh, my sweet, why do we speak different languages? Your marriage of convenience and my love match are worlds apart. You walk the earth, while I soar in the heavens! Love crowned me queen, while you reign by duty. My heights are so lofty that a fall would shatter me.
+We spent seven and a half months at Chantepleurs, like runaway lovers in blissful solitude. One morning, in a particularly happy moment, I reflected on my life and thought of your prosaic marriage. I grasped the meaning of your life. Oh, my sweet, why do we speak different languages? Your marriage of convenience and my love match are worlds apart. You walk the earth, while I soar in the heavens! Love crowned me queen, while you reign by duty. My heights are so lofty that a fall would shatter me.
 
 But I won't dwell on this. I hesitate to describe the vibrant joy of love's springtime as we know it.
 
@@ -1072,59 +1070,63 @@ I have an idea. I suspect you are nurturing ambitious plans for Louis de l'Estor
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-My dear Louise, your letter left me dizzy with joy and a touch of envy. I held it in my hands at sunset, tears glistening. I sat alone beneath a barren rock overlooking the Mediterranean, where I’ve planted climbing plants to one day cover it in greenery. This spot, named Louise's seat, symbolizes my solitude, yet it reminds me that I am not truly alone.
+My dear Louise, your letter left me dizzy with joy and a touch of envy. I held it at sunset, tears glistening, beneath a barren rock overlooking the Mediterranean where I’ve planted climbers to one day cover it in greenery. This spot, named Louise's seat, symbolizes my solitude while reminding me I am not truly alone.
 
-As I read your words, I felt the first stirrings of the child within me, a sensation that brought both joy and healing to my soul. This experience—a blend of warning, delight, pain, promise, and fulfillment—has shown me that I will one day have a life filled with laughter and love. I now understand my purpose: to bring forth life. The certainty of motherhood has transformed my sacrifices into a profound joy, surpassing any personal passion.
+As I read, the child within me stirred, a sensation of joy and healing. It was a mix of warning, delight, pain, promise, and fulfillment that has shown me I will one day have a life full of laughter and love. I now understand my purpose: to bring forth life. The certainty of motherhood has transformed my sacrifices into profound joy, surpassing any personal passion.
 
-For you, love reflects Felipe's passion, while my love for my children will return to me in abundance. Your golden harvest may fade, but my motherhood, though delayed, will be enduring and ever-renewing. Love may be a beautiful gem taken from Nature, but motherhood is Nature's purest joy. A smile has dried my tears; while love makes Louis happy, it is marriage that has made me a mother, and I find happiness in that.
+For you, love reflects Felipe’s passion; my love will return in my children. Your golden harvest may fade, but my motherhood, though delayed, will be enduring and renewing. Love may be a beautiful gem taken from Nature, but motherhood is Nature’s purest joy. A smile has dried my tears; while love makes Louis happy, it is marriage that has made me a mother, and I find happiness in that.
 
-I returned to my white grange to share these thoughts with you. For five months the miracle of nature has unfolded within me, yet I remain emotionally detached. My family is excited, but I feel cold and hesitant to share my true feelings. Motherhood, for me, is still an abstract concept.
+I returned to my white grange to share these thoughts. For five months the miracle of nature has unfolded within me, yet I remain emotionally detached. My family is excited, but I feel cold and hesitant to share my true feelings; motherhood is still abstract to me.
 
-Louis was equally surprised by my condition, which highlights how little the father’s role matters in this process. My doctor believes that while chance governs childbirth, children born of passionate love tend to be more fortunate. Perhaps motherhood holds joys for you that I may never experience, as your love for Felipe is different from my sense of duty and obligation.
+Louis was equally surprised by my condition, which shows how little the father’s role seems to matter in this process. My doctor believes chance governs childbirth, though children born of passionate love tend to be more fortunate. Perhaps motherhood holds joys for you I may never feel, since your love for Felipe differs from my sense of duty.
 
-These thoughts weigh on me as I anticipate the joys of family life. Currently I live in a state of expectation, accompanied by physical discomfort. I experience nausea and strange cravings, including an inexplicable desire for rotten fruit. While Louis brings home the finest oranges, I seek out the half-rotten ones, finding them delicious despite their smell. This craving, though odd, has alleviated my sickness and made me feel stronger, suggesting a natural process common among women.
+These thoughts weigh on me as I anticipate family life. I live in a state of expectation, accompanied by physical discomfort: nausea and strange cravings, including an inexplicable desire for rotten fruit. While Louis brings home the finest oranges, I seek the half-rotten ones, finding them delicious despite their smell. This craving has eased my sickness and made me feel stronger, suggesting a natural process common among women.
 
-As my condition progresses, I plan to stay within the grounds to avoid being seen. I am curious about when the sense of motherhood truly begins, hoping it won’t coincide with suffering.
+As my condition progresses, I plan to stay within the grounds to avoid being seen. I am curious when the sense of motherhood truly begins and hope it won’t coincide with suffering.
 
 Farewell, my fortunate friend! Your love story inspires me, and I long to hear every detail. Please remain faithful to our bond, and I promise to share everything with you.
 
-However, I must confess that after rereading your letter I felt a sense of dread. Your happiness seems to challenge Providence, and I worry that calamity may take offense at your joy. Remember to pray and do good, as religion has become more significant to me since my marriage. Your letter lacks mention of this, and I hope you still invoke God in your happiness.
+However, after rereading your letter I felt dread. Your happiness seems to challenge Providence, and I worry calamity may take offense. Remember to pray and do good; religion has become more significant to me since my marriage. Your letter lacks mention of this, and I hope you still invoke God in your happiness.
 
-This concern stems from my deep affection for you. I trust you and Felipe attend church and do good deeds together. My fears may seem primitive, but they arise from a friendship that cares deeply. You deserve happiness, and I cherish the bond we share, even in my uneventful life. God bless you!
+This concern comes from my deep affection for you. I trust you and Felipe attend church and do good together. My fears may seem primitive, but they arise from a friendship that cares deeply. You deserve happiness, and I cherish the bond we share, even in my uneventful life. God bless you!
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Madame,—My wife wishes you to hear first from us about an event that has brought us immense joy. Renee has given birth to a healthy boy, and we are postponing his baptism until your return to Chantepleurs. We sincerely hope you will come to La Crampade and agree to be the godmother of our firstborn, whom we have named Armand-Louis de l'Estorade.
+Madame,—My wife wishes you to hear first from us about an event that has brought us immense joy. Renée has given birth to a healthy boy, and we are postponing his baptism until your return to Chantepleurs. We sincerely hope you will come to La Crampade and agree to be the godmother of our firstborn, whom we have named Armand‑Louis de l’Estorade.
 
-Renee endured considerable pain but showed remarkable patience. You, who know her well, can understand that the thought of bringing happiness to us all helped her through this trying experience of motherhood.
+Renée endured considerable pain but showed remarkable patience. You, who know her well, can understand that the thought of bringing happiness to us all helped her through this trying experience of motherhood.
 
-Without new-father exaggeration, I can say that little Armand is a beautiful infant, resembling Renee in both features and eyes, which suggests intelligence.
+Without new‑father exaggeration, I can say that little Armand is a beautiful infant, resembling Renée in both features and eyes, which suggests intelligence.
 
-The physician assures us that Renee is now out of danger, and as she proves to be an excellent nurse—thanks to Nature—we are free to express our joy. I hope this intense happiness, which has revitalized our home and transformed my wife's life, will soon be yours as well.
+The physician assures us that Renée is now out of danger, and as she proves to be an excellent nurse—thanks to Nature—we are free to express our joy. I hope this intense happiness, which has revitalized our home and transformed my wife’s life, will soon be yours as well.
 
-Renee has prepared a suite of rooms for you, and while I wish I could make them more splendid, I hope the warmth of our welcome will compensate for any lack of luxury.
+Renée has prepared a suite of rooms for you, and while I wish I could make them more splendid, I hope the warmth of our welcome will compensate for any lack of luxury.
 
-I have heard from Renee about your kind thoughts regarding us, and I thank you for them, especially as they are so timely. The birth of a grandson has reconciled my father to sacrifices that weighed heavily on him. He has recently purchased two estates, and La Crampade now generates an annual rental of thirty thousand francs. He plans to seek the King’s permission to establish it as an entailed estate, and if you could assist him in obtaining the title you mentioned in your last letter, it would greatly benefit your godson.
+I have heard from Renée about your kind thoughts regarding us, and I thank you for them, especially as they are so timely. The birth of a grandson has reconciled my father to sacrifices that weighed heavily on him. He has recently purchased two estates, and La Crampade now yields an annual rental of thirty thousand francs. He plans to seek the King’s permission to establish it as an entailed estate, and if you could assist him in obtaining the title you mentioned in your last letter, it would greatly benefit your godson.
 
-As for me, I will follow your suggestions to facilitate your reunion with Renee during the Chamber sessions. I am working diligently to become a specialist, and nothing would encourage me more than knowing you will take an interest in little Armand. We earnestly invite you to come and, with your beauty, grace, playful spirit, and noble heart, be a good fairy to my son and heir. In doing so, you will earn our everlasting gratitude and the respectful regard of Your very humble, obedient servant, LOUIS DE L'ESTORADE.
+As for me, I will follow your suggestions to facilitate your reunion with Renée during the Chamber sessions. I am working diligently to become a specialist, and nothing would encourage me more than knowing you will take an interest in little Armand. We earnestly invite you to come and, with your beauty, grace, playful spirit, and noble heart, be a good fairy to my son and heir. In doing so, you will earn our everlasting gratitude.
+
+Your very humble, obedient servant,
+LOUIS DE L’ESTORADE.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-XXX. LOUISE DE MACUMER TO RENEE DE L'ESTORADE January 1826.
+XXX. LOUISE DE MACUMER TO RENEE DE L'ESTORADE
+January 1826.
 
-Macumer just woke me with your husband's letter. Yes, we will be going to Chantepleurs at the end of April. I am delighted to travel, to see you, and to be godmother to your first child. I must have Macumer as godfather; sharing this role would be unbearable. If you could see the look he gave me, you would understand how much he cherishes me!
+Macumer just woke me with your husband's letter. Yes, we will go to Chantepleurs at the end of April. I am delighted to travel, to see you, and to be godmother to your first child. I must have Macumer as godfather; sharing this role would be unbearable. If you could see the look he gave me, you would know how dearly he cherishes me!
 
-I am eager for our visit to La Crampade, as I might have a child there too. Can you imagine me torn between you and the infant? If I saw anything taking my place in your heart, I couldn't promise my reaction. Medea may have had a point!
+I look forward to visiting La Crampade; I might have a child there too. Can you imagine me torn between you and an infant? If I ever saw anything take my place in your heart, I can't promise how I'd react. Medea might have had a point!
 
-So, my dear, you have the fruit without the flowers; I have the flowers without the fruit. Our lives contrast, but we have enough philosophy to find meaning in it someday. Ten months married is too soon to lose hope.
+So, my dear, you have the fruit without the flowers; I the flowers without the fruit. Our lives contrast, but we have enough philosophy to find meaning yet. Ten months married is too soon to lose hope.
 
-We are living a joyful life, as happy people do. Society now sees the Baronne de Macumer as prettier than Louise de Chaulieu; love is a wonderful cosmetic. Driving along the Champs-Élysées on a crisp January day, I reflect on how far we've come since last year.
+We live happily, as happy people do. Society now finds the Baronne de Macumer prettier than Louise de Chaulieu; love is a wonderful cosmetic. Driving along the Champs-Élysées on a crisp January morning, I reflect on how far we've come since last year.
 
-If I lack a mother's joys, you can share them with me; I will learn through sympathy. Yet I cannot imagine anything surpassing the rapture of love. You may laugh, but I often wish to die at thirty, leaving life untainted by disappointment, having lived fully in love. To carry a young heart in an aged body, surrounded by cold faces, would be a torment.
+If I lack a mother's joys, you can share them with me; I will learn by sympathy. Still, I cannot imagine anything surpassing the rapture of love. You may laugh, but I often wish to die at thirty, leaving life untainted by disappointment, having lived fully in love. To carry a young heart in an aged body, surrounded by cold faces, would be torment.
 
-Felipe and I had our first quarrel over this. I insisted he should have the strength to end my life in my sleep at thirty, so I could pass from one dream to another. He refused, turning pale at the thought. This distinguished statesman is surprisingly childlike. Now that I share my thoughts with him, we continually surprise each other.
+Felipe and I quarrelled about this. I insisted he should have the strength to end my life in my sleep at thirty, so I might pass from one dream to another. He refused, turning pale. This distinguished statesman is surprisingly childlike. Now that I share such thoughts with him, we continually surprise each other.
 
-Felipe and I want to send you a gift, dear mother. We wish to choose something that will bring you joy and remind you of us. Please tell me what you would like. I thought of a luncheon service adorned with baby figures, since lunch is our happiest meal. Let me know quickly, as we must order it soon.
+Felipe and I want to send you a gift, dear mother. We wish to choose something that will bring you joy and remind you of us. Tell me what you would like. I thought of a luncheon service with baby figures, since lunch is our happiest meal. Let me know soon; we must order it.
 
 Farewell, dear nursing mother. May you enjoy all the delights of motherhood! I eagerly await your first letter describing your experiences. Some parts of your husband's letter touched me; I will tell my godson how dearly he must love you. Much love, my sweet one.
 
@@ -1136,27 +1138,27 @@ I went to the parish church for the Mass of recovery from childbirth, supported 
 
 Transformed into a joyful mother, I felt the Virgin on the altar bow her head, pointing to the infant Christ, who smiled at me. With a heart full of love, I held little Armand for the priest to bless, anticipating his baptism later.
 
-My child—how sweet that word is! In the last two months I dragged myself through the gardens, scarcely conscious of the precious burden I carried. I was haunted by gloomy forebodings, overshadowing my curiosity about motherhood. My heart did not respond to the thought of the little one, though he announced himself with lively kicks.
+My child—how sweet that word is! In the last two months I dragged myself through the gardens, scarcely conscious of the precious burden I carried. Gloomy forebodings haunted me, overshadowing curiosity about motherhood. My heart did not respond to the thought of the little one, though he made himself known with lively kicks.
 
-When the moment came, I summoned all my strength and braced myself for suffering. I bore the agony marvelously, sinking into a stupor. I felt like two beings—my body in pain and my soul at peace. The pain formed a halo around me, and when the climax came, I screamed, finding strength against the torture. Suddenly, the newborn's cries silenced my pain.
+When the moment came, I summoned all my strength and braced for suffering. I bore the agony marvelously, sinking into a stupor. I felt like two beings—my body in pain and my soul at peace. The pain formed a halo around me, and at the climax I screamed, finding strength against the torture. Suddenly the newborn's cries silenced my pain.
 
 They laid me back in bed, and it felt like paradise despite my exhaustion. Happy faces pointed to the child, and I exclaimed in terror, "It looks like a little monkey! Are you sure it's a child?"
 
-My mother, now the nurse, reassured me, "You've got the finest baby in the world. Don't worry; focus on being a mother." I fell asleep, resolved to let nature take its course.
+My mother, now my nurse, reassured me, "You've got the finest baby in the world. Don't worry; focus on being a mother." I fell asleep, resolved to let nature take its course.
 
-Waking from the pain of the first days was heavenly. A ray of light pierced the darkness, and my heart and soul emerged from suffering as a flower opens in the sun. The moment the little one latched onto my breast was pure joy—this is the dawn of motherhood!
+Waking from the first days' pain was heavenly. A ray of light pierced the darkness, and my heart and soul emerged from suffering as a flower opens to the sun. The moment the little one latched onto my breast was pure joy—this is the dawn of motherhood!
 
-Here is happiness, though it comes with pangs. Oh, my sweet jealous soul, you will relish this delight that exists only for us, the child, and God. For this tiny creature, all knowledge is in its mother's breast. Its thoughts revolve around this source of life, and its lips bring a sweetness beyond words.
+Here is happiness, though it comes with pangs. Oh, my sweet jealous soul, you will relish this delight that exists only for us, the child, and God. For this tiny creature, all knowledge is in its mother's breast. Its wants and thoughts revolve around this source of life, and its lips bring a sweetness beyond words.
 
-Nursing is a miracle of transformation. The cries go to your heart, and the child's eyes and lips speak volumes. What else matters? The father? You could kill him if he disturbed the baby! The bond between mother and child is profound, and the joy of nurturing is unparalleled.
+Nursing is a miracle of transformation. The cries go to your heart; the child's eyes and lips speak volumes. What else matters? The father? You could kill him if he disturbed the baby! The bond between mother and child is profound; the joy of nurturing is unparalleled.
 
 My little one has become the prettiest darling in five months. He cries little now, content in the love that surrounds him. I strive to envelope him in my affection.
 
-Dear, my feelings for Louis have evolved into a tender fondness, perhaps even surpassing love. This unselfish gratitude reflects the joy of motherhood, lighting the future and recalling fond memories of the past.
+Dear, my feelings for Louis have evolved into a tender fondness, perhaps surpassing love. This unselfish gratitude reflects the joy of motherhood, lighting the future and recalling fond memories of the past.
 
-The old l'Estorade and his son have redoubled their devotion to me; I feel like a new person. Each time they see me, it brings them joy, which touches me deeply. Louis is ecstatic about having a son and spends hours watching him sleep. He feared he would be childless, but now he works harder, driven by fatherhood.
+The old l'Estorade and his son have redoubled their devotion to me; I feel like a new person. Each time they see me it brings them joy, which touches me deeply. Louis is ecstatic about having a son and spends hours watching him sleep. He feared childlessness, but now he works harder, driven by fatherhood.
 
-I grow happier every moment. Each hour strengthens the bond between mother and child. My feelings are natural and enduring, unlike love, which can wane. A mother's love grows with the child's needs, embracing passion, duty, and joy. Here lies a woman's true sphere, where self-sacrifice flourishes without jealousy.
+I grow happier every moment. Each hour strengthens the bond between mother and child. My feelings are natural and enduring, unlike romantic love, which can wane. A mother's love grows with the child's needs, embracing passion, duty, and joy. Here lies a woman's true sphere, where self-sacrifice flourishes without jealousy.
 
 Society aligns with nature in this regard, reinforcing the maternal instinct. A mother cherishes the child who opens up these joys and teaches her the art of motherhood. The right of the eldest child, once part of the natural order, should never have been questioned. A mother learns so much from her child, and her character flourishes in fulfilling life's duties and pleasures. A woman without children is incomplete.
 
@@ -1164,7 +1166,7 @@ Hasten, my sweetest, to fulfill your mission. Your happiness will multiply with 
 
 23rd.
 
-I had to leave you because my godson was crying. I can hear him from the garden. I wanted to say farewell. I reread my letter and am surprised at how ordinary my feelings seem; every mother must have felt this way. But I am as happy now as I once was miserable. This place is my land of promise. The desert is past. A thousand loves, darling. Write to me, for I can now read about your happy love without tears. Farewell.
+I had to leave you because my godson was crying; I can hear him from the garden. I wanted to say farewell. I reread my letter and am surprised at how ordinary my feelings seem; every mother must have felt this way. But I am as happy now as I once was miserable. This place is my land of promise. The desert is past. A thousand loves, darling. Write to me, for I can now read about your happy love without tears. Farewell.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
@@ -1270,23 +1272,23 @@ Farewell, my dear jealous soul! Many women would be flattered by your pangs, but
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-My beloved beauty,—I was eager to explore Italy, and I’m thrilled to have brought Macumer along, as his plans for Sardinia are postponed.
+My beloved beauty,—I was eager to explore Italy and am thrilled to have brought Macumer, since his Sardinia plans are postponed.
 
-This country is enchanting. The churches, especially the chapels, have a captivating allure that must make every female Protestant yearn for Catholicism. Macumer has been warmly welcomed; everyone is pleased to have such a distinguished Italian. Felipe could secure the Sardinian embassy in Paris if I desired, as I am well-regarded at court.
+This country is enchanting; the churches, especially the chapels, have an allure to make any Protestant yearn for Catholicism. Macumer has been warmly welcomed—everyone pleased to have such a distinguished Italian. Felipe could secure the Sardinian embassy in Paris if I wished, for I am well regarded at court.
 
-If you write, send letters to Florence. I don’t have time for details now, but I’ll share our travel stories when you visit Paris. We’ll be here a week before heading to Florence, stopping in Leghorn. We plan a month in Tuscany and another in Naples, aiming to reach Rome in November. From there, we’ll return home via Venice, where we’ll stay the first two weeks of December, arriving in Paris through Milan and Turin in January.
+If you write, send letters to Florence. I have no time for details now; I’ll tell our travel stories when you visit Paris, as soon as I can. We’ll stay here a week before heading to Florence, stopping at Leghorn; we plan a month in Tuscany and another in Naples, aiming to reach Rome in November. From there we’ll return home via Venice—where we’ll stay the first two weeks of December—and arrive in Paris through Milan and Turin in January.
 
-Our journey feels like a perfect honeymoon; discovering new places revitalizes our passion. Macumer is unfamiliar with Italy, and we began with the stunning Cornice road, which seems crafted by fairies.
+The journey feels like a perfect honeymoon; discovering new places revitalizes our passion. Macumer had not seen Italy, and we began with the stunning Cornice road, as if made by fairies.
 
-Goodbye, darling. Please don’t be upset if I don’t write; it’s impossible to find a moment while traveling. My time is consumed with seeing, admiring, and absorbing my experiences. I’ll share more once I can reflect on them properly.
+Goodbye, darling. Don’t be upset if I don’t write—there’s no moment while traveling; I’m consumed with seeing, admiring, and absorbing my experiences. I’ll share more once I can reflect properly.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-My dear,—I have a full reply to your letter from Marseilles waiting for you at Chantepleurs. This honeymoon journey has heightened my concerns, so please have my letter sent from Nivernais.
+My dear,—a full reply to your letter from Marseilles waits for you at Chantepleurs. This honeymoon journey has heightened my concerns; please have my letter sent from Nivernais.
 
-It is rumored the Government plans to dissolve Parliament, unfortunate for the Crown, since the last session would have focused on essential laws to strengthen its power. This worries us too, as Louis will not turn forty until the end of 1827. Fortunately my father has agreed to stand and will resign his seat at the proper moment.
+It is rumored the Government plans to dissolve Parliament—unfortunate for the Crown, since the last session would have focused on essential laws to strengthen its power. This worries us, as Louis will not be forty until the end of 1827. Fortunately my father has agreed to stand and will resign his seat at the proper moment.
 
-Your godson has learned to walk without his godmother's help. He is delightful and already shows signs of thought rather than mere infancy; his smiles are meaningful. I have succeeded in nursing and plan to wean Armand in December, a year at the breast being sufficient; longer nursing is said to lead to dullness, and I trust popular wisdom.
+Your godson has learned to walk without his godmother's help. He is delightful and already shows signs of thought rather than infancy; his smiles are meaningful. I have succeeded in nursing and plan to wean Armand in December; a year at the breast seems sufficient, longer nursing reportedly leads to dullness, and I trust popular wisdom.
 
 You must be making quite an impression in Italy, my fair one with golden locks. A thousand loves.
 ################################################
@@ -1294,11 +1296,11 @@ You must be making quite an impression in Italy, my fair one with golden locks. 
 ################################################
 XXXIX. THE BARONNE DE MACUMER TO THE VICOMTESSE DE L'ESTORADE
 
-Your dreadful letter has reached me, forwarded by my steward as I requested. Oh, Renée... I will spare you my turmoil and simply tell you the effect your words had.
+Your dreadful letter has reached me, forwarded by my steward as I requested. Oh, Renée... I will spare you my turmoil and tell you its effect.
 
-We had just returned from a delightful reception given by the ambassador, where I shone and Macumer was utterly captivated. Then I read your harsh reply to my letter, and sobbed. My dear Arab threw himself at my feet, declaring you mad. He led me to our palace balcony; the moonlight made a magnificent scene. We now speak Italian, and his declarations in that language were like poetry. He swore that even if your predictions were true, he would not trade a single moment of our love for a lifetime of convention. He would choose our love and death over a dull existence with children.
+We had just returned from a reception given by the ambassador, where I shone and Macumer was utterly captivated. Then I read your harsh reply to my letter and sobbed. My dear Arab threw himself at my feet, calling you mad. He led me to our balcony; speaking Italian, his declarations were like poetry. He swore that even if your predictions were true, he would not trade one moment of our love for a lifetime of convention—he would choose our love and death over a dull existence with children.
 
-While he whispered, a bat's cry startled us, and I fainted. Do not worry—I am better this morning, though that ominous sound haunts me. Upon waking, I knelt before Felipe, looked into his eyes, and confessed: "My love, I may be naive, and Renée might be right. Perhaps I love only your love, but this is the only feeling in my heart. If anything about me disturbs you, tell me. I want to follow your wishes." Macumer was too choked with emotion to answer.
+While he whispered, a bat's cry startled us and I fainted. I am better this morning, though that sound haunts me. Upon waking, I knelt before Felipe, looked into his eyes, and confessed: "My love, I may be naive, and Renée might be right. Perhaps I love only your love, but this is the only feeling in my heart. If anything about me disturbs you, tell me. I want to follow your wishes." Macumer was too choked with emotion to answer.
 
 I thank you, Renée; your letter revealed the depths of Macumer's love. Rome is the city of love, where passion should flourish alongside art and faith.
 
@@ -1310,21 +1312,21 @@ XL. THE COMTESSE DE L'ESTORADE TO THE BARONNE DE MACUMER January 1827.
 
 My father has been elected to the Chamber, my father-in-law has died, and I am near my second confinement; these mark the year’s end. I mention them first to spare you the fright of the black seal.
 
-Your letter from Rome chilled me. You and Felipe are like children. Either he is a deceitful diplomat, or his love for you is like a man’s for a courtesan—lavishing affection while knowing she is unfaithful. Enough. You say I rave, so I will hold my tongue: from our differing fates I draw a harsh lesson—do not love if you wish to be loved.
+Your letter from Rome chilled me. You and Felipe behave like children. Either he is a deceitful diplomat, or his love is like a man’s for a courtesan—lavishing affection while knowing she is unfaithful. Enough. You say I rave, so I will hold my tongue: from our differing fates I draw a harsh lesson—do not love if you wish to be loved.
 
-When Louis joined the provincial Council he received the Legion of Honor cross. Nearly three years on, my father asks the rank of Officer for his son-in-law. I would value your influence with the right person, but do not entangle yourself in my father's affairs. The Comte de Maucombe seeks a marquisate for himself; reserve efforts for me. When Louis becomes a deputy next winter, we will be in Paris to secure him a government post so we may live on his salary. My father sits between center and right; a title will satisfy him. Our family was noble even under King René, and Charles X. will likely grant a Maucombe title. My fear is my father using this to favor my younger brother—if a marquisate is dangled, he will focus on himself.
+When Louis joined the provincial Council he received the Legion of Honor cross. Nearly three years on, my father asks the rank of Officer for his son-in-law. I would value your influence with the right person, but do not entangle yourself in my father's affairs. The Comte de Maucombe seeks a marquisate for himself; reserve efforts for me. When Louis becomes a deputy next winter, we will be in Paris to secure him a government post so we may live on his salary. My father sits between center and right; a title will satisfy him. Our family was noble even under King René, and Charles X will likely grant a Maucombe title. My fear is my father using this to favor my younger brother—if a marquisate is dangled, he will focus on himself.
 
 January 15th.
 
-Ah, Louise, I have been through hell. I tell you this because you are like a sister; still, I doubt I shall ever relive those five ghastly days. The word "convulsions" sickens me. Five days felt like five centuries. A mother who has not suffered this cannot comprehend it. I even envied you for never having had a child!
+Ah, Louise, I have been through hell. I tell you because you are like a sister; still, I doubt I shall ever relive those five ghastly days. The word "convulsions" sickens me. Five days felt like five centuries. A mother who has not suffered this cannot comprehend it.
 
-The night before, the weather was close; I thought my Armand affected by teething. Usually sweet, he was peevish, crying, wanting to play, breaking his toys. I put him to bed beside me, waking often. He had a slight fever but nothing alarming. Toward morning he cried "Mamma!" in a strange voice and twitched. I rose to fetch a drink. As I handed him the cup he was motionless, repeating "Mamma!" in a voice hardly a voice. His hand was stiff. He gulped water convulsively, clung to me, eyes rolling back, limbs rigid. I screamed for Louis.
+The night before, the weather was close; I thought Armand affected by teething. Usually sweet, he grew peevish, crying and breaking his toys. I put him to bed beside me. Toward morning he cried "Mamma!" in a strange voice and twitched. I rose for a drink; as I handed him the cup he was motionless, repeating "Mamma!" in a voice hardly a voice. His hand was stiff. He gulped water convulsively, clung to me, eyes rolling back, limbs rigid. I screamed for Louis.
 
 "A doctor! Quick!... he is dying," I cried.
 
-Louis vanished. Armand gasped "Mamma!" then lost consciousness. Veins on his forehead swelled, and convulsions began. For an hour before doctors arrived I held my lifeless baby—my pride and joy. His eyes! I cannot think of them without horror. My pretty Armand was a mere shell—black, shriveled, misshapen.
+Louis vanished. Armand gasped "Mamma!" then lost consciousness. Veins on his forehead swelled, and convulsions began. For an hour before doctors arrived I held my lifeless baby—my pride and joy. His eyes! I cannot think of them without horror. My pretty Armand was a mere shell—black, shriveled.
 
-Two doctors from Marseilles hovered like birds of ill omen. One blamed brain fever, the other called them ordinary convulsions. Our country doctor offered no opinion. "Teething," said one; "fever," said the other. They agreed on leeches to the neck and ice to the head. To see a child like that—purple, silent—was horrible. At one point I laughed hysterically at the sight of leeches on his neck and the ice cap. They even cut his curls for the ice. The convulsions returned every ten minutes; the child writhed, white then violet, limbs clattering like wood. This unconscious flesh had smiled and said "Mamma!"—the thought pierced my soul. My mother was in Paris; mothers know more about convulsions than doctors.
+Two doctors from Marseilles hovered like birds of ill omen. One blamed brain fever, the other called them ordinary convulsions. Our country doctor offered no opinion. "Teething," said one; "fever," said the other. They agreed on leeches to the neck and ice to the head. To see a child like that—purple, silent—was horrible. They even cut his curls for the ice. The convulsions returned every ten minutes; the child writhed, white then violet, limbs clattering like wood. This unconscious flesh had smiled and said "Mamma!"—the thought pierced my soul.
 
 After four days and nights, the doctors recommended a dreadful ointment to create open sores. Sores on my Armand! Five days earlier he had been playing and laughing. I refused, trusting nature. Louis, who believes doctors, scolded me. But in those moments when the disease mimicked death, I felt that remedy might save him. His skin was dry and rough; the ointment would not work. I wept; the doctors were at dinner!
 
@@ -1362,11 +1364,11 @@ We expect you there. Do not fear my jealousy. You are free to test Macumer's hea
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-My little girl is two months old, Jeanne-Athenais, with my mother and Louis' grand-uncle as godparents. I plan to visit Chantepleurs soon, since you’re not worried about a nursing mother. Your godson can now say your name, calling it Matoumer because he struggles with the letter c. You will be delighted with him; he has all his teeth and eats meat like a big boy, scurrying about like a little mouse. I watch him anxiously, feeling miserable that I can’t keep him close while I recover. The doctors have advised special precautions, making this time feel especially long. Unfortunately, the discomforts of childbearing remain the same. But don’t tell Felipe—this little girl resembles me and may outshine your Armand.
+My little girl is two months old, Jeanne-Athenais, and my mother and Louis' grand-uncle are her godparents. I plan to visit Chantepleurs very soon, since you aren't worried about a nursing mother. Your godson can now say your name—calling Matoumer because he struggles with letter c. You'll be delighted indeed; he has all his teeth, eats meat like a big boy, and scurries about like a little mouse. I watch him anxiously, feeling miserable that I can't keep him close while I recover. Doctors have advised special precautions, making recovery feel especially long. The discomforts of childbearing remain still the same. But don't tell Felipe—this little girl resembles me and may outshine your Armand.
 
-My father noticed Felipe looking thin, and my dear pet doesn’t seem as blooming either. The Duc and Duchesse de Soria have left, so there’s no reason for jealousy now! Is something troubling you that you’re not sharing? Your letter isn’t as long or affectionate as usual. Is this a whim of my dear whimsical friend?
+My father noticed Felipe looking thin, and my pet doesn't seem as blooming either. The Duc and Duchesse de Soria have left, so there's no reason for jealousy! Is something troubling you that you're not sharing? Your letter isn't as long or affectionate as usual—another whim of my whimsical friend?
 
-I’m writing too much; my nurse is upset, and Mlle. Athenais de l'Estorade is hungry. Farewell; please write me some long letters.
+I'm writing too much; my nurse is rather upset, and Mlle. Athenais de l'Estorade is hungry. Farewell; please do write me long letters.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
@@ -1468,25 +1470,25 @@ Goodbye. Writing tires me; thoughts crowd fast, but I have no heart to express t
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-My darling,—By the time you read this letter, I will be near, as I am leaving shortly after sending it this morning. We will be alone together, as Louis must stay in Provence for the upcoming elections, seeking re-election against Liberal opposition.
+My darling,—By the time you read this I will be near; I leave shortly after sending it this morning. We will be alone together, since Louis must stay in Provence for the upcoming elections, seeking re-election against Liberal opposition.
 
-I do not come merely to comfort you; I bring my heart to resonate with yours and help you endure life. I urge you to weep, for only through tears can you find the joy of reuniting with him. Remember, he is journeying toward Heaven, and each duty you fulfill weakens the chain that separates you.
+I do not come merely to comfort you; I bring my heart to resonate with yours and help you endure life. I urge you to weep, for only through tears can you find the joy of reuniting with him. Remember he is journeying toward Heaven, and each duty you fulfill weakens the chain that separates you.
 
 In my arms you will lift your head and continue toward him—pure and noble, free from errors that do not define you, carrying the good you will accomplish in his name.
 
-I write these hurried lines amid preparations for our departure, interrupted by the children and by Armand, who keeps calling, "Godmother, godmother! I want to see her," making me so truly jealous. He could be your child!
+I write these hurried lines amid preparations for departure, interrupted by the children and by Armand, who keeps calling, "Godmother, godmother! I want to see her," making me truly jealous. He could be your child!
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
 Yes, Renée, it is true; I have sold my house, Chantepleurs, and the farms in Seine-et-Marne, but I assure you I am neither mad nor ruined.
 
-After settling everything, I have about twelve hundred thousand francs from my late husband’s fortune. I invested a million in the Three per Cents at fifty, which yields sixty thousand francs instead of the thirty thousand from the property. My former life was tedious—six months in the country managing leases, dealing with farmers who paid when they pleased, and selling produce at a loss. In Paris, my house brought ten thousand francs in rent, but delays and legal troubles made life burdensome and frustrating for a twenty-seven-year-old widow.
+After settling everything, I have about twelve hundred thousand francs from my late husband’s fortune. I invested a million in the Three per Cents at fifty, which yields sixty thousand francs instead of the thirty thousand the property gave. My former life was tedious—six months in the country managing leases, farmers who paid when they pleased, and selling produce at a loss. In Paris, my house brought ten thousand francs in rent, but delays and legal troubles made life burdensome and frustrating for a twenty-seven-year-old widow.
 
 Now my fortune is secured with the state. Instead of paying taxes, I receive thirty thousand francs every six months from the Treasury, handed to me by a pleasant clerk. If the nation were to fail, I would still be as well off as before, and I have time to save a little capital. Besides, the Comte de l’Estorade is a peer of this semi-republic and a friend at Court, so I have no cause for anxiety.
 
 What drives a woman to such financial calculations? Love, my dear!
 
-Now I must reveal the reasons behind my actions, which may have puzzled you. I am to be married in a village near Paris. I love and am loved. Forgive me for keeping this secret; I wished to spare you and de l’Estorade the inevitable concerns. You know how jealous I can be, and I wanted to avoid the anxiety.
+Now I must reveal the reasons behind my actions, which may have puzzled you. I am to be married in a village near Paris. I love and am loved. Forgive me for keeping this secret; I wished to spare you and de l’Estorade the inevitable concerns. You know how jealous I can be, and I wanted to avoid anxiety.
 
 The man I love had thirty thousand francs in debts, which I have paid. You might think him an adventurer, but I investigated him. He has been courting me for nearly two years. I am twenty-seven and he is twenty-three — a significant difference. He is a poet who has lived on very little and spent more time dreaming than working. Practical people often see artists as unreliable, and I understand that skepticism.
 
@@ -1568,11 +1570,11 @@ Nais is so dear to me I can hardly see her as separate from myself. I want her t
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-So, after two years of silence, you wonder about my lack of letters. My dear Renée, words fail to express my happiness. We bear everything with ease; we are in perfect harmony. There has been no discord in our feelings, and each day brings its own joy. We fear not monotony; rather, we regret that our time together may not suffice for all the poetic expressions of our love. We take more pleasure in each other's company than on the first day, and every hour reveals new reasons to love one another.
+So, after two years of silence, you wonder about my lack of letters. My dear Renée, words fail to express my happiness. We bear everything with ease; we are in perfect harmony. There has been no discord in our feelings, and each day brings its own joy. We do not fear monotony; we regret that our time together may not suffice for all the poetic expressions of our love. We take more pleasure in each other's company than on the first day, and every hour reveals new reasons to love one another.
 
-Every evening we speak of visiting Paris, of the new boulevards and the finished Madeleine, but come morning we linger over breakfast and take a siesta instead. Gaston gazes at me as if I were a painting, and we both shed tears of joy reflecting on our love. I still play the mistress, pretending to give less than I receive, and I delight in this little play. There is something sweet about passion tempered by tenderness, with Gaston, my master, remaining a timid suitor at my command.
+Every evening we speak of visiting Paris, of the new boulevards and the finished Madeleine, but in the morning we linger over breakfast and take a siesta. Gaston gazes at me as if I were a painting, and we both shed tears of joy reflecting on our love. I still play the mistress, pretending to give less than I receive, and I delight in this little play. There is something sweet about passion tempered by tenderness; Gaston, my master, remains a timid suitor at my command.
 
-You asked me to describe him, yet it is impossible to portray the man we love without emotion. Society alters men so that the man in public can seem quite different from the man of strong feeling. The charming suitor may lack the deeper qualities a woman values, while an unrefined man may possess profound capacity for love. Our ideal is a man whose outward appearance aligns with his true nature, embodying grace that cannot be acquired. This ideal haunts every woman's imagination, and in Gaston I have found it.
+You asked me to describe him, yet it is impossible to portray the man we love without emotion. Society alters men so that the man in public can seem quite different from the man of strong feeling. The charming suitor may lack deeper qualities a woman values, while an unrefined man may possess a profound capacity for love. Our ideal is a man whose outward appearance aligns with his true nature, embodying a grace that cannot be acquired. This ideal haunts every woman's imagination, and in Gaston I have found it.
 
 Ah, dear, I never knew love could be so intertwined with youth, talent, and beauty. Gaston is unpretentious, moving with effortless grace. When we walk together, our bodies fit perfectly, seeming a single figure gliding through the woods. Our thoughts, desires, and words harmonize. Sometimes we walk in silence, listening to the rain and admiring the sunset, feeling as if in silent prayer for our happiness. A timid kiss exchanged in nature feels like a divine act of worship.
 
@@ -1602,23 +1604,23 @@ Goodbye, dear friend. Shall we let years pass without writing again? Happiness c
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-My dear Louise, I have read your letter repeatedly; it reads more like a child's thoughts than a woman's. You forget that pure love belongs to nature and has been distorted by civilization. Society created the family as the foundation of organized life at the cost of individual desires. A married man dedicates himself to his wife, who benefits from his efforts.
+My dear Louise, I have read your letter repeatedly; it reads more like a child's than a woman's. You forget that pure love belongs to nature and is distorted by civilization. Society created the family as the foundation of organized life at the cost of individual desires. A married man dedicates himself to his wife, who benefits from his efforts.
 
-You have taken a misguided path: the dream of being adored suits the young, not a mature woman. Vanity may enjoy inspiring adoration, but true fulfillment is the life of wife and mother. Return to Paris; fear not misfortune but happiness.
+You have taken a misguided path: the dream of being adored suits the young, not a mature woman. Vanity may enjoy inspiring adoration, but true fulfillment lies in the life of wife and mother. Return to Paris; fear not misfortune but happiness.
 
-Life's simple pleasures—bread, air, silence—sustain us. Passionate love exhausts; motherhood's feelings endure and reward. I chose self-sacrifice and would choose it again. Your life, despite its romantic veneer, is rooted in selfishness; I plead with you as I watch your happiness tested.
+Life's simple pleasures—bread, air, silence—sustain us. Passionate love exhausts; motherhood’s affections endure and reward. I chose self-sacrifice and would choose it again. Your life, despite its romantic veneer, is rooted in selfishness; I plead with you as I watch your happiness tested.
 
-Life is balance; excess brings pain or fleeting pleasure. You are unwell because you keep a passion marriage should steady. The glory of home is calmness and shared life, which you overlook. You, more passionate than tender, would be both wife and mistress, undermining marriage's sanctity.
+Life is balance; excess brings pain or only fleeting pleasure. You are unwell because you hold to a passion a marriage should steady. The glory of home is calmness and a shared life, which you overlook. You, more passionate than tender, would be both wife and mistress, undermining marriage's sanctity.
 
-If you could understand a mother's sweet self-discipline. My proud nature softened into gentle melancholy, rewarded by motherhood's joys. I fear your life may darken. I wish you could witness family joys, but my arguments seem futile against your delusions. I had hoped time would restore reason, but your appetite for love seems insatiable. Farewell; I despair my letter, meant to reconcile you with society, only revealed your selfishness.
+If you could understand a mother's sweet self-discipline. My proud nature softened into gentle melancholy, rewarded by motherhood's joys. I fear your life may darken. I wish you could witness family delights, but my arguments seem futile against your illusions. I had hoped time would restore reason, but your appetite for love seems insatiable. Farewell; I despair my letter, meant to reconcile you with society, only revealed your selfishness.
 
 ---
 
-Renee, calamity has struck—no, a thunderbolt for poor Louise. Doubt is my calamity; certainty would be death. The day before yesterday, after finishing my first toilette, I looked for Gaston to walk but found him gone. In the stable his mare Fedelta was in a lather, implying he'd been to Paris without telling me. Suspicion seized me; I fought to compose myself.
+Renee, calamity has struck—no, a thunderbolt for poor Louise. Doubt is my calamity; certainty would be death. The day before yesterday, after my first toilette, I looked for Gaston to walk but found him gone. In the stable his mare Fedelta was in a lather, implying he'd been to Paris without telling me. Suspicion seized me; I struggled to compose myself.
 
-When Gaston found me I was pale and shaken. He carried me to the parlor; I would not speak and fled to my room to weep. He waited outside; I said I'd see him when ready. After composing myself he returned, and I asked about mud on Fedelta's legs. He playfully threatened to withhold explanations; yet I saw no disloyalty in his eyes, though I remained unconvinced.
+When Gaston found me I was pale and shaken. He carried me to the parlor; I would not speak and fled to my room to weep. He waited; I said I'd see him when ready. After composing myself he returned, and I asked about mud on Fedelta's legs. He playfully threatened to withhold explanations; yet I saw no disloyalty in his eyes, though I remained unconvinced.
 
-We spent the day together, and my heart bound tighter to him. I hated that mare for my distress. I asked if I bored him; he reassured me. I suggested selling Fedelta; his response crushed me, making me feel inadequate. Alone, I was consumed by despair, surrounded by darkness.
+We spent the day together, and my heart clung to him. I hated that mare for my distress. I asked if I bored him; he reassured me. I suggested selling Fedelta; his response crushed me, making me feel inadequate. Alone, I was consumed by despair, surrounded by darkness.
 
 Next morning I told him to take Fedelta to Paris; my tone betrayed turmoil. He urged trust; I tried to suppress suspicion. He left, and I grappled with fear. I felt a strange solemnity in my love and watched him go with a sense of doom.
 
@@ -1648,7 +1650,7 @@ My love,—Take the children to Provence without me; I must stay with Louise, wh
 
 You know the letter that sent me rushing to Ville d'Avray, gathering doctors along the way. Since then I have not left my dear friend, sitting up every night for two weeks.
 
-When I arrived, Louise was with Gaston, looking beautiful and happy, but it was a facade. She whispered, "He must not know; I am dying." A chill ran through me as I felt her burning hand and saw the red spots on her cheeks. I was glad I had left the doctors in the woods until needed.
+When I arrived, Louise was with Gaston, looking beautiful and happy, but it was a façade. She whispered, "He must not know; I am dying." A chill ran through me as I felt her burning hand and saw the red spots on her cheeks. I was glad I had left the doctors in the woods until needed.
 
 "Leave us for a little," she told Gaston. "Two women who have not met for five years have secrets to share."
 
@@ -1700,7 +1702,7 @@ Her room lacks the sick-chamber atmosphere; medicines and nursing supplies are c
 
 We watched her like misers. The anxiety and harsh truths have prepared Gaston for the worst. He is brave, but the blow has struck deep. I would not be surprised if he followed her soon. Yesterday, while walking by the lake, he said, "I must be a father to those two children," pointing to his sister-in-law with the boys. "But I want your promise that you will be a second mother to them and persuade your husband to accept the role of guardian."
 
-He spoke simply, like a man who knows his time is short. He wears smiles for Louise, but I see through his facade. He matches her courage.
+He spoke simply, like a man who knows his time is short. He wears smiles for Louise, but I see through his façade. He matches her courage.
 
 Louise wishes to see her godson, but I prefer he remains in Provence; she might want to remember him generously, putting me in a difficult position.
 
@@ -1717,6 +1719,9 @@ The last sacrament was administered the evening before, unbeknownst to Gaston, w
 August 26th.
 
 My heart is broken. I have just seen her in her winding-sheet; her face is pale with purple shadows. Oh! I want my children! Bring me my children!
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
