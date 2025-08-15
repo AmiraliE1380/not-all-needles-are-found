@@ -14,7 +14,7 @@ input_story_addr = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédi
 init_length_tokens = 131644  # Target length for the final story
 final_length_tokens = 400000  # Target length for the final story
 # shrinking_percent = shrink_percentage(init_length_tokens, final_length_tokens)  # Target length for the final story
-shrinking_percent = 50  # if reduced by 10%, i.e. make the new file 90% of the original length
+shrinking_percent = 10  # if reduced by 10%, i.e. make the new file 90% of the original length
 
 
 def contract_story(story: str, shrink_percent: int) -> str:
