@@ -1,139 +1,513 @@
-Railroads promise to render many contemporary industries obsolete and will change travel around Paris; elements of the Scene will one day seem relics. The once-common "coucous" of 1830 were already fading by 1842, surviving mainly at occasional suburban spectacles. In 1820 many celebrated districts still lacked regular stage-coach service, so local short-route vehicles remained vital.
+DEDICATION
 
-The Touchards, father and son, held a near-monopoly on travel within roughly forty-five miles from their base in the rue du Faubourg-Saint-Denis, yet they faced lively competition from local coucous on shorter routes. Parisians’ appetite for the countryside let small, familiar enterprises thrive: proprietors—often innkeepers—knew the roads, undercut prices, bent rules, and earned local loyalty. These coucous offered speed and convenience that could challenge the Touchards’ more formal coaches until omnibuses later eclipsed them by carrying more passengers more efficiently.
+To Laure.
 
-One lucrative contested line ran from Paris to Beaumont-sur-Oise, with multiple rivals in 1822 despite Touchard efforts to cut fares and improve equipment, because profitable stops like Saint-Denis and Saint-Brice ensured demand. The Touchards even extended to Chambly while rivals reached Beauvais. By contrast, the road to Isle-Adam, prized for its quarries and picturesque terminus, was served by only two coaches; its terminus discouraged speculation, giving Pierrotin and his colleague a virtual monopoly on a route locals often preferred to the crowded Beaumont coaches.
+Let the brilliant mind that gave me the subject of this Scene have the honor of it.
 
-Pierrotin, in his forties, had taken over his father’s coucou after leaving the cavalry in 1815. He married an innkeeper’s daughter, enlarged the business, and combined intelligence with military precision. His dress—sturdy boots, bottle-green trousers, a blue embroidered blouse—matched his trade and hinted at the soldier’s respect for order. Yet his daily work inclined him to regard passengers as cargo.
+Her brother,
 
-Sensing the industry’s future, Pierrotin tried to modernize: he ordered a larger coach from a respected maker; his fleet still included an inherited coucou painted yellow with blue trim—built for six but often overloaded—and a noisy four-wheeled coach that could hold seventeen though officially limited to fourteen. The four-wheeler was so recognizable villagers announced its approach. Pierrotin also paid taxes only on the coucou, using a special permit for the larger coach to skirt regulations.
+De Balzac
 
-On a Saturday morning in autumn 1822 Pierrotin stood outside the Lion d’Argent, watching coaches depart and fretting over scarce passengers and parcels. Optimistic about the new coach but burdened by a thousand-franc debt, he considered asking Monsieur Moreau, steward at Presles, for a loan. Then a footman arrived seeking a ride for his master, the Comte de Serizy, traveling incognito after countermanding his carriage. Pierrotin seized the chance, hoping the fare would ease his debts; the footman’s insistence on secrecy and the count’s mysterious purpose heightened Pierrotin’s sense of responsibility to ensure a smooth, discreet journey.
+A START IN LIFE
+
+CHAPTER I. THAT WHICH WAS LACKING TO PIERROTIN’S HAPPINESS
+
+Railroads were soon to make certain trades obsolete and change travel around Paris, leaving the elements of this Scene relics. The once-popular "coucous" of 1830 were already almost extinct by 1842, lingering only at occasional suburban spectacles. In 1820 many celebrated districts around Paris still lacked regular stage-coach services.
+
+Within a forty-five-mile radius the Touchards, father and son, monopolized travel from their base in the rue du Faubourg-Saint-Denis, but they faced fierce competition from local coucous on shorter routes. Parisians’ passion for the countryside allowed small local enterprises to thrive against the Touchards: they offered rapid, convenient conveyance and thus provoked intense rivalry. Eventually omnibuses, carrying more passengers more efficiently, would overtake these smaller services.
+
+Operating since 1822, these smaller lines often won local favor. Proprietors, usually innkeepers, knew their districts and undercut the Touchards with better service and lower prices. They frequently ran without permits and bent passenger limits, earning community loyalty. Travelers preferred familiar coachmen and would delay journeys to ride with them.
+
+One contested line ran from Paris to Beaumont-sur-Oise, lucrative and in 1822 served by three competing services. Despite Touchard efforts to reduce fares and improve coaches, rivals persisted because the route included profitable stops like Saint-Denis and Saint-Brice; the Touchards extended to Chambly while rivals reached Beauvais.
+
+The road to Isle-Adam, known for its quarries and history, was less contested in 1822, served by only two coaches. Its terminus discouraged speculative enterprises, so Pierrotin and his colleague enjoyed a near-monopoly on this beloved line. Their vehicles were familiar to locals; even travelers on the main road to the Cave preferred them to the often-full Beaumont coaches.
+
+Pierrotin, in his forties, had taken over his father’s coucou after discharge from the cavalry in 1815. He married the daughter of a small innkeeper, expanded the business, and was noted for intelligence and military precision. His appearance matched his trade: sturdy boots, bottle-green trousers, and a blue blouse embroidered with bright threads. Military habits gave him respect for order, but his work inclined him to view passengers as cargo.
+
+Aware of industry changes, Pierrotin sought to modernize and ordered a larger coach from a reputable maker to meet growing demand. His current fleet included an inherited coucou, painted yellow with blue accents, built to seat six but habitually overloaded; Pierrotin preferred a full vehicle to a half-empty one. He also owned a four-wheeled coach that could hold seventeen though officially limited to fourteen. Noisy and instantly recognizable, it made the neighborhood announce its arrival long before it appeared. Pierrotin paid taxes only on the coucou, using a special permit for the four-wheeler to skirt regulations.
+
+On a Saturday morning in autumn 1822, Pierrotin stood outside the Lion d’Argent, watching other coaches depart and fretting over the lack of passengers and parcels. He lamented his financial strain. Although optimistic about the new coach, he faced a pressing debt of a thousand francs to finish paying for it. Desperate, he considered asking Monsieur Moreau, the steward at Presles, for a loan.
+
+A footman arrived seeking a ride for his master, the Comte de Serizy, who wished to travel incognito. Pierrotin seized the chance, hoping the fare would ease his debts. The footman explained that the count had countermanded a carriage for reasons unknown, implying a secretive purpose. Pierrotin, sensing the importance of the count’s visit, felt both excitement and concern for Moreau, whom he respected.
+
+As they talked, Pierrotin learned more of the count’s intentions and the implications for Moreau. The footman’s insistence on secrecy heightened Pierrotin’s sense of responsibility. He resolved to ensure a smooth journey while still anxious about his finances and the fate of his new coach.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Monsieur Huguet de Serisy descends from the eminent President Huguet, ennobled under François I; the family arms and motto connect modesty with the estate’s name.
+Monsieur Huguet de Serisy descends from the notable President Huguet, ennobled under François I. The family coat of arms is party per pale or and sable, with a motto reflecting modesty and a pun on “Serisy,” the estate's name.
 
-The current count’s father served as president of parliament before the Revolution. The count became a councillor of State at twenty-two, noted for persuasive diplomatic memoranda. He remained at Serizy during the Revolution, protected by his father’s standing, and after his father’s death in 1794 joined the Council of Five Hundred to distract himself from grief. After 18th Brumaire he gained the First Consul’s favor, rejoined the Council of State, and was charged with reorganizing a chaotic department—work that helped shape much of Napoleon’s administration. In 1806, at forty, he married the widow of a prominent Republican general, improving his fortune. By 1814 years of labor and ill health compelled his resignation; though Napoleon treated him with some mistrust, he retained rank. Louis XVIII later trusted him, appointing him a cabinet minister. During the Hundred Days he remained loyal to the Bourbons, staying at Serizy. After Napoleon’s final defeat he resumed duties as privy councillor and vice-president of the Council of State, influencing affairs without seeking acclaim. His routine—early to rise, early to bed—reflected relentless, quiet duty; he received many honors, including the grand cross of the Legion of Honor, yet his devotion carried an unspoken sorrow.
+The current count’s father was a president of parliament before the Revolution. The count became a councillor of State at twenty-two, noted for diplomatic memoranda. He did not emigrate during the Revolution but remained at Serizy, protected by his father's reputation. After his father's death in 1794 he was elected to the Council of Five Hundred to divert himself from grief. After 18th Brumaire he gained the First Consul’s favor, was appointed to the Council of State, and tasked with reorganizing a disordered department; his work helped shape the administrative framework under Napoleon.
 
-He had long been passionately attached to his wife; despite strains their bond endured. Work was his refuge from heartache; he treated her with respect and granted her considerable freedom. Though she acknowledged some of his virtues, her ingratitude often wounded him; only occasionally did she soothe his pain.
+In 1806, at forty, he married the widow of a prominent Republican general, significantly increasing his wealth. By 1814, worn by years of hard work and ill health, he resigned; though Napoleon regarded him with some suspicion, he retained status and later won Louis XVIII’s trust, who made him a cabinet minister. During the Hundred Days he stayed loyal to the Bourbons, spending that period at Serizy.
 
-A pressing business matter then occupied him: a farm called Presles was encroaching on his estate. Leased by tenant Léger from a local burgher, Margueron, the lease was expiring and the property would be sold. The count intended to buy it to end disputes and instructed his notary and lawyer to negotiate quickly.
+After Napoleon’s final fall he resumed duties as a privy councillor and vice-president of the Council of State, influencing public affairs without seeking praise. His life was one of relentless labor—early rising and early rest—and he received many honors, including the grand cross of the Legion of Honor. Despite public recognition, he led a life of quiet dedication, driven by a deeper, unspoken sorrow.
 
-His steward, Moreau, had served faithfully for seventeen years; the count’s father had saved him during the Revolution, and the count later spared him from a death sentence. Moreau asked to manage Presles and at first was diligent, but after securing the post he grew lax and corrupt, taking bribes and arranging shady deals. He had already struck a bargain with Léger. His conduct provoked the retired officer Monsieur de Reybert’s wrath; Madame de Reybert brought the count detailed accusations of Moreau’s dishonesty. Initially skeptical of her motives, the count’s doubts grew and he ordered his notary to accompany Madame de Reybert to Presles. What began as a straightforward purchase thus became an investigation fraught with intrigue and the threat of betrayal by trusted servants.
+The count had long been passionately in love with his wife; this feeling persisted despite marital strains. His constant work helped distract him from heartache, and he gave her considerable freedom, treating her with respect and admiration. Though she appreciated some of his qualities, her ingratitude sometimes wounded him, and only occasionally did she soothe his pain.
+
+The narrative then turns to a pressing matter: a farm encroaching on the count’s estate, Presles. The farm, leased by a tenant named Léger from a local burgher, Margueron, was up for sale as the lease expired. The count wanted to buy it to end ongoing disputes and had instructed his notary and lawyer to prepare for negotiations, stressing prompt action to avoid losing the opportunity.
+
+The count’s steward, Moreau, had served him faithfully for seventeen years. Moreau’s father had saved the Serizys during the Revolution, and in gratitude the count had helped Moreau avoid a death sentence. Moreau had since married and asked to manage the Presles estate, where he could live comfortably. Initially diligent, Moreau’s loyalty faded after securing his post; he began accepting bribes and engaging in questionable dealings.
+
+As the count prepared to visit Presles, Moreau plotted to profit from the farm sale, having already arranged a lucrative deal with Léger. He hoped to secure a large sum to improve his family's circumstances.
+
+But Moreau’s actions had drawn the ire of a neighboring retired officer, Monsieur de Reybert, who sought revenge for perceived slights. Madame de Reybert approached the count, alleging Moreau’s dishonesty and an attempt to defraud him in the purchase, and provided particulars of Moreau’s alleged corruption. Though the count initially suspected Madame de Reybert’s motives, his doubts about Moreau mounted.
+
+He decided to investigate, instructing his notary to accompany Madame de Reybert back to Presles and to meet him there. Thus the count’s incognito journey, intended as a straightforward purchase, became charged with intrigue and the threat of betrayal by those he trusted.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-As Pierrotin left the Café de l’Echiquier he saw Madame Clapart and her son at the Lion d’Argent searching for him. Dressed in a faded gown, she was anxious yet dignified—poverty evident but devotion clear as she entrusted eighteen-year-old Oscar, on his first trip alone, to Pierrotin’s care. Pierrotin watched them briefly with concern and pity. Oscar, in a coat and patched trousers, remained under his mother’s influence and resented her fussing over his gloves and trip to Moreau.
+As Pierrotin left the Café de l’Echiquier, he spotted a woman and her son at the Lion d’Argent looking for him. The woman, in a faded black gown and an old shawl, was anxious—a devoted mother concerned for her son Oscar, who was traveling alone for the first time. Her attire suggested a life of sacrifice; she was eager to entrust him to Pierrotin’s care.
 
-Pierrotin knew them from errands for Moreau, who discreetly patronized the family. Once Madame Husson, she was impoverished by misfortunes—her first husband’s suicide—and later married Clapart, a meager clerk. Moreau aided them and secured Oscar a scholarship, but the household was strained; Clapart’s coldness worsened Oscar’s faults.
+Oscar, in a short-sleeved coat and patched trousers, was an eighteen-year-old still under his mother’s influence. As Pierrotin approached, Madame Clapart urged him not to soil his gloves and fretted over his journey to Monsieur Moreau. Pierrotin knew the family; he often transported goods for Moreau, who had a discreet relationship with Madame Clapart. Their exchanges hinted at a deeper connection, though Pierrotin did not know the full story.
 
-Madame Clapart clung to past glories and centered her life on Oscar; her overprotection fed his vanity and entitlement. Blind to his limitations, she worried Moreau, who proposed testing Oscar by placing him with the steward. As they left, two well-dressed men mocked Oscar, deepening his humiliation, desire for independence, and sense of inadequacy.
+Madame Clapart lived modestly on the third floor amid old furniture and signs of poverty, yet she kept a regal air. Her husband, Clapart, was a government clerk with a meager salary; the household was sustained by Moreau’s occasional assistance. Oscar was the center of her world, and she remained blind to his shortcomings, which were worsened by his stepfather’s disdain.
 
-Boarding intensified his discomfort: a shabby artist and his apprentice Mistigris, whose bohemian banter highlighted Oscar’s self-consciousness. The Comte de Serizy, travelling incognito, altered the coach’s tone; Pierrotin rearranged seats to oblige him, drawing complaints and adding tension. When the coach set off, it showed a cross-section—proud mothers, insecure youths, discreet patrons, bohemians—while Oscar’s struggle with identity and self-worth simmered, setting the journey’s stage.
+Moreau had once been close to Madame Husson—Madame Clapart in her better days. After misfortunes, including her first husband’s suicide, she married Clapart, who failed to provide as she had hoped. When Moreau returned to France he helped secure a scholarship for Oscar, but the family remained in dire straits.
+
+Oscar’s upbringing, colored by his mother’s past glories, had fed his vanity and sense of entitlement. Unaware of his limitations, he provoked Moreau’s concern, prompting Moreau to suggest the young man spend time with the steward to test his potential. Meanwhile Madame Clapart’s overprotectiveness and constant reminders about propriety only intensified Oscar’s embarrassment as he prepared to leave.
+
+As departure neared, Madame Clapart fussed over Oscar, packing him food and offering last-minute advice. He felt humiliated by her attentiveness, especially before two young men who mocked him. Their laughter stung; he longed for independence from his mother’s affection and resented being treated like a child.
+
+The two young men, better dressed and more confident, intensified Oscar’s insecurities. He envied their appearance and felt inadequate. Boarding the coach, his discomfort grew; he tried to ignore their jests while wrestling with his own inferiority.
+
+A young artist and his apprentice, Mistigris, arrived and enlivened the scene. The artist’s shabby, artistic look and his companion’s youthful exuberance contrasted with Oscar’s self-consciousness. Their banter and carefree attitudes deepened his sense of isolation.
+
+The Comte de Serizy’s arrival caused a stir. His presence shifted the dynamics; the young men’s mockery turned to curiosity. Disguised as a bourgeois, the count aimed to preserve anonymity while navigating the coach’s social hierarchy.
+
+Pierrotin, eager to please the count, tried to balance seating arrangements, prompting complaints from other passengers. Tension charged the compartment as they awaited departure, each character’s personality and background contributing to the unfolding drama.
+
+When the coach finally set off, the passengers’ interactions revealed diverse origins and motives. Beneath the surface, Oscar’s struggle with identity and self-worth continued to simmer, setting the stage for the journey ahead.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Those who travel by public conveyance usually begin in silence until the most talkative passenger breaks it. National types are sketched briefly: Englishmen taciturn, Germans somber, Italians cautious, Spaniards seldom using public transport, Russians hampered by poor roads; France, by contrast, is lively, especially among the lower classes and bourgeois.
+Those who travel in public conveyances often remain silent at first, using the time to observe and settle in. This silence usually breaks when the most talkative person begins conversation, especially in France, where social interaction is encouraged. By contrast, other national types are sketched: Englishmen rarely speak, Germans are somber, Italians cautious, Spaniards supposedly lack public transport, and Russians have poor roads. In France the atmosphere is livelier, and conversation flows freely among the lower classes and bourgeois.
 
-Georges, a clever, lively young man, quickly sized up his fellow passengers, deemed himself superior, and resolved to amuse himself at their expense. As the coach descended from La Chapelle to Saint-Denis he toyed with identities, finally posing as a disguised Russian prince or a soldier returned from the East. When Mistigris complained about dust, Georges joked and steered conversation toward travels in the Levant, claiming service under Ali Pacha of Janina and inventing a plague scare that alarmed the count enough to have the driver stop. He also asserted he’d fought in the 1813 campaign and at Waterloo, where he was promoted to captain.
+Georges, a clever and lively young man, quickly sized up his fellow passengers, judged himself superior, and decided to amuse himself at their expense. As the coach descended from La Chapelle to Saint-Denis, he tried on various identities and settled on presenting himself as a disguised Russian prince or a soldier returned from the East.
 
-When the count inquired about decorations, Georges said he did not wear them while traveling; the count produced his own honors, and Georges professed admiration for Napoleon, spinning further tales—of Egypt and a harem supposedly presented to him by Ali Tebelen, though he dismissed harem life as uninteresting. At Saint-Denis the party disembarked at a tavern famed for its cheese-cakes. There the count, growing suspicious, discovered a portfolio that identified Georges as Crottat’s second clerk, quickening doubts about his identity and motives.
+When Mistigris, one of the passengers, complained about dust, Georges made a joke and steered the talk toward supposed travels in the Levant. He claimed to have served under Ali, pacha of Janina, inventing a scare about contracting a form of plague that alarmed the count, who asked the driver to stop. Georges went on, asserting he had been a soldier in the 1813 campaign and had fought at Waterloo, where he said he was promoted to captain.
 
-Despite this exposure, Georges continued to impress the others—especially Père Léger and Oscar—by paying for their treats and ordering drinks, cultivating the pose of an important man. Mistigris, a painter, introduced himself modestly; the count watched the group dynamics, noting Georges’s efforts to buy admiration and elevate his status.
+The count, intrigued, asked about decorations; Georges replied he did not wear them in travel. The count then produced his own collection of honors, and Georges professed admiration for the Emperor Napoleon, claiming prior service under him. He continued with tales of Egypt and a supposed harem presented to him by Ali Tebelen, though he dismissed harem life as uninteresting.
 
-As the journey resumed, Georges spun more accounts of Eastern oddities: lax policing, strange farming practices, and heavy taxation under the pacha that left peasants barely surviving. The count and Mistigris compared such systems to French conditions while the count remained skeptical of Georges’s authenticity.
+Arriving at Saint-Denis, the group disembarked at a tavern famed for its cheese-cakes. There the count, suspicious of Georges’s narratives, discovered a portfolio revealing Georges was actually Crottat’s second clerk. This prompted the count to suspect Georges’s true identity and motives.
 
-Georges’s storytelling culminated in a dramatic Dalmatian romance—Zena, a jealous pirate husband, poisoning, and a narrow escape from execution—that captivated the travelers; Oscar was especially envious. Mistigris added humorous anecdotes. Throughout, laughter, banter, and drink warmed the coach: Georges’s bravado and charm won admiration even as the count stayed alert to contradictions. The journey became a weave of tales, camaraderie, and intermittent skepticism—passengers united by shared narrative and an entertaining performance of identity.
+Meanwhile Georges kept impressing the others—especially Père Léger and Oscar—by paying for their treats and ordering drinks, cultivating the pose of an important person. Mistigris, a painter, introduced himself modestly. The count observed the group dynamics, noting Georges’s efforts to elevate his status and the ease with which he bought admiration.
+
+As the journey resumed, Georges continued to spin accounts of his Eastern adventures and oddities: lack of police, peculiar farming practices, and heavy taxation under the pacha that left little for peasants. He portrayed local farmers as chiefly bent on subsistence rather than cultivation. The count and Mistigris discussed the implications of such a system and drew parallels to French conditions, while the count remained skeptical of Georges’s authenticity.
+
+Georges’s stories grew more elaborate, culminating in a dramatic narrative of a love affair with a beautiful Greek woman named Zena in Dalmatia. He recounted threatened danger from her jealous husband, a pirate, and a narrow escape from execution after the husband was poisoned. The tale, full of peril and romance, captivated the group; Oscar was especially envious of Georges’s supposedly adventurous life.
+
+Mistigris added his own anecdotes, bringing humor and variety. The count, amused yet doubtful, questioned the plausibility of Georges’s exploits. Georges maintained his bravado, insisting such adventures were not uncommon for a man of his experience.
+
+Throughout, the coach’s atmosphere turned lively, with laughter, banter, and the easy give-and-take of a group warmed by drink and storytelling. Georges’s confidence and charisma won admiration from many fellow travelers, even as the count remained wary and alert to contradictions. The journey continued as a rich weave of tales, camaraderie, and intermittent skepticism, passengers drawn together by shared narrative and the entertaining performance of identity.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Pierrotin’s coach stopped at Saint-Brice about half past one to rest the horses; the innkeeper greeted the travelers by name and they disembarked for a brief halt. Georges, ostentatious and boastful, called for a hearty breakfast and twirled his cane. Père Léger, the stout farmer, agreed to “break a crust.” Georges produced a straw case, lit a pale cigar, and offered cigars to Oscar and Schinner. Oscar, flattered then awkward, puffed ineptly and became the butt of teasing: Schinner smoked easily, Georges fumbled, and Mistigris joked about Oscar’s discomfort. Oscar watched Georges’s largesse with thinly veiled resentment, tallying the bills he suspected Georges was burning through.
+Pierrotin’s vehicle descended into Saint-Brice, where he usually stopped an hour to rest his horses. It was about half-past one.
 
-Georges proposed a bottle of Bordeaux with Père Léger, and the innkeeper supplied local gossip. He’d heard François, conductor of Touchard’s coach, say Monsieur Margueron had been invited by the Comte de Serizy to dine at Presles that day. Père Léger laughed and outlined his plan to preempt such patronage: he intended to buy Les Moulineaux cheaply by using newly minted coins and snapping up the farm before the count could act. The innkeeper mused about lending twenty thousand and calculated returns; Les Moulineaux, he said, produced six thousand francs—a sound investment. Père Léger explained he’d made Moreau a partner and, taking advantage of royal favor and the pictures on coin, had secured the estate. The scheme sounded shrewd even if the count tried to intervene.
+“Ha! here’s Père Léger,” called the innkeeper as the coach arrived. “Do you breakfast?”
 
-The count—listening—grew uneasy about discretion. When Pierrotin stepped out to water the horses, the count drew him aside and reminded him of a bribe: ten louis to keep the matter secret. Then he raised the inducement dramatically: if Pierrotin would conceal his name, the count would give him a thousand francs the next day for a new coach. He instructed him not to enter the inn, not to speak of the incident, and to stay with the horses. Pierrotin returned curt reassurance and hurried his customers on, insisting he must deliver fish by three to a big dinner in Stors.
+“Once a day,” the fat farmer replied. “I’ll break a crust here.”
 
-Père Léger suggested harnessing the horse Pierrotin meant to sell into the cabriolet so they could breakfast calmly and overtake Pierrotin. To everyone’s surprise, Pierrotin rebridled and set off; Schinner and Mistigris walked. Georges kept up talk about the hostess and the landscape, joking about leftover cigars. Oscar, stung by being called “the little young man,” defended his dignity: he was not Mina’s aide-de-camp, had not been to the East, and his family intended him for diplomacy. This invited ridicule: his companions mocked his pretensions, tutors, and “household” language—Oscar proudly noting his mother ran their household—and taunted his social standing and vocabulary.
+“Give us a good breakfast,” Georges shouted, twirling his cane, which impressed poor Oscar.
 
-They goaded him into naming his tutor; Oscar named the Abbé Loraux, vicar of Saint-Sulpice, and hinted at family influence that might help the abbé’s ecclesiastical rise. Pressed for acquaintance with Abbé Frayssinous, Oscar said the abbé owed favors to his father. Then, unexpectedly, Oscar declared he was bound for the Château de Presles to visit the Comte de Serizy and claimed intimacy with the count’s son. His confident utterances about the Serizys—outlined to the small party—caught the count’s attention.
+Oscar’s admiration turned to jealousy when Georges produced a straw case and lit a light-colored cigar on the inn threshold.
 
-The count seized the chance to question Oscar, explaining he sought information on Monsieur de Serizy to support a claim he intended to press with the American government. Oscar counseled him to approach the count’s wife rather than the count himself: the count, he said, was madly in love with her, while she secretly despised him. He described the count’s disfiguring skin disease and the humiliating remedies—sulphur and steam baths, even an iron box—portraying a man reduced and ashamed; in Oscar’s telling, such afflictions left the count vulnerable at home. He recommended instead seeking the Marquis d’Aiglemont, an old admirer of Madame de Serizy, for influence.
+“Do you smoke?” Georges asked Oscar.
 
-The young man’s ease in speaking of intimate things shocked the company. Schinner scolded him for airing friends’ affairs in public; Mistigris professed indifference to tale-bearing. Georges preached a favored maxim: in a public coach one should know how to talk without saying anything. When the conversation turned to the Comtesse de Serizy, the count interrupted sharply and forbade any disparagement. Asserting his friendship with her brother, the Marquis de Ronquerolles, he vowed that speaking ill of the countess would not go unpunished. The painter agreed: no man should blague (mock) women. The count hinted at influence—knowing ministers, blocking unworthy men from decorations, and even acquaintanceship with the architect of Presles—and asked Pierrotin to stop at the next inn so he could step out.
+“Sometimes,” Oscar replied, puffing out his chest.
 
-Once they were clear of the others, the count had Pierrotin show him aside in the inn-yard and asked about the talkative young man. Pierrotin explained the boy was the son of a poor woman in the rue de la Cerisaie, Madame Husson, whom he often supplied with fruit and game from Presles. Pierrotin had driven the youngster only once and thought he might be the prince of Maffliers; the boy had told him to leave him near Maffliers, not to go on to Isle-Adam. The count was reassured by this account. When he rejoined the party, Père Léger and the others exchanged awkward glances, feeling exposed; the three young men shared a guilty silence. Mistigris quipped about suffering for loose talk, and Georges reminded Oscar that public conveyances required speaking artfully.
+Georges offered the case to Oscar and Schinner.
 
-They rode on into the Carreau woods in heavy silence; the count noted their quiet as if they had been led to the scaffold. Mistigris muttered a proverb; Georges remarked on the fine weather. Oscar, striving to assert himself, declared he was Oscar Husson and would be famous within ten years. The companions teased him further, and the count refined his name to Husson de la Cerisaie, giving Oscar’s modest boast a veneer of dignity. The coach descended toward the grand château of Presles.
+“Phew! ten-sous cigars!” Schinner sniffed.
 
-Before disembarking, the count delivered formal, almost theatrical farewells: the colonel should make peace with the king; Schinner’s fame was assured; Oscar, the budding diplomat, needed no protection, since he possessed “the secrets of statesmen;” Père Léger was urged to pluck the Comte de Serizy and to do so firmly. Asking Pierrotin to set and fetch him at the same spot the next day, the count left the coach to the others’ bewildered speculation about his identity. Père Léger guessed he was the count who’d leased Franconville; Schinner swore never to blague again in a public coach. Mistigris, unrepentant, shrugged with a proverb.
+“The remains of those I brought back from Spain,” Georges said. “Do you breakfast here?”
 
-As they neared the château gate, Georges warned Oscar that if the man indeed had been the Comte de Serizy, Oscar should be wary—a chill reminder of his mother’s warnings. Pierrotin called out: they had arrived at Presles. Some of the young men feigned familiarity, but Georges, not wishing to reveal his destination, pretended he would continue to Les Moulineaux. Père Léger then triumphantly disclosed that he was the farmer at Les Moulineaux, forcing Georges to admit it was so.
+“No,” Schinner answered. “I’m expected at the chateau. I had something at the Lion d’Argent.”
 
-Oscar asked Pierrotin to leave his belongings at the steward’s; he intended to go straight to the château. He plunged forward along a narrow path, uncertain where to go, and Père Léger corrected him: the little gate, not the forest path, led to the château. Guided thus, Oscar entered the courtyard. While Père Léger watched, Georges slipped away upon realizing Père Léger truly possessed Les Moulineaux. Pierrotin, having obeyed the count’s injunction to keep the matter secret for now, drove in with swagger, deposited the painter’s packages and Oscar’s bundles, and handed a small leather portmanteau to the concierge’s wife. Mistigris and the painter took rooms in the château itself—a discovery that stunned Oscar.
+“And you?” Georges asked Oscar.
 
-The scene closed on Pierrotin’s contentment: he had kept the count’s secret and now looked forward to the promised reward. With a sly peasant’s calculation, he anticipated receiving a thousand francs the next day and buying the splendid new coach he long desired. The coach rolled on, the passengers dispersed through the estate, and the social ambitions, pretensions, and private bargains that had surfaced in their talk settled back into the polite surface of conversation, continuing to move unseen beneath it.
+“I have breakfasted,” Oscar said, wishing for better clothes. He coughed and grimaced trying to smoke.
+
+“You don’t know how to smoke,” Schinner said, and showed him easily.
+
+Georges tried to imitate Schinner but failed to exhale properly, making Oscar feel still more awkward.
+
+Mistigris, noticing Oscar’s discomfort, joked, “You haven’t any contagious diseases, I hope,” and took his cigar.
+
+Oscar, annoyed at Georges’s extravagance—“Eight francs for Alicante and the cheesecakes; forty sous for cigars; and his breakfast will cost him—”—was answered by Mistigris, “Ten francs at least. But that’s how it is. ‘Sharp stomachs make short purses.’”
+
+“Come, Père Léger, let’s drink a bottle of Bordeaux together,” Georges suggested.
+
+“Twenty francs for his breakfast!” Oscar exclaimed.
+
+Feeling inferior, Oscar sat on a stone post, lost in thought, unaware his trousers revealed mismatched stockings.
+
+“We are brothers in socks,” Mistigris joked, pulling up his own trousers to show a similar mismatch. The count, overhearing, laughed and envied their careless air.
+
+“Are you to have Les Moulineaux? I know you went to Paris for the money,” the innkeeper asked Père Léger, who was inspecting a horse.
+
+“I’ve done for him,” Père Léger replied quietly.
+
+“Good! I like to see those nobles fooled. If you need twenty thousand francs, I’ll lend them,” the innkeeper offered.
+
+“François, conductor of Touchard’s coach, told me Monsieur Margueron was invited by the Comte de Serizy to dine today at Presles,” the innkeeper added.
+
+“That was the plan, but we had our own ways of thwarting it,” Père Léger laughed.
+
+“The count could appoint Monsieur Margueron’s son, and you haven’t any place to give,” the innkeeper reminded him.
+
+“Of course, but if the count has the ministry, I have King Louis XVIII,” Père Léger said. “Forty thousand of his pictures on coin of the realm given to Moreau will enable me to buy Les Moulineaux for two hundred and sixty thousand, money down, before Monsieur de Serizy can do so.”
+
+“Well done, bourgeois!” the innkeeper exclaimed.
+
+“Besides, the farm is worth that to him,” Père Léger added.
+
+“Yes; Les Moulineaux brings in six thousand francs. I’ll take another lease at seven thousand five hundred for eighteen years. It’s an investment at more than two and a half percent. The count can’t complain,” the innkeeper reasoned.
+
+“How much will Moreau make?” he asked.
+
+“If the count gives him ten thousand francs for the transaction, it will bring him fifty thousand,” Père Léger replied.
+
+“After all, the count doesn’t like Presles. He’s rich—what does it matter?” the innkeeper said.
+
+“Nor I,” Père Léger agreed. “But he must intend to live there; why else spend two hundred thousand restoring the chateau?”
+
+The count listened, skeptical about any conspiracy involving his steward.
+
+Pierrotin came out to water his horses. Fearing indiscretion, the count drew him aside. “I promised you ten louis to keep my secret; if you continue to conceal my name, I’ll give you a thousand francs tomorrow for your new coach. Don’t go in there to breakfast; stay with your horses.”
+
+“Monsieur le comte, I understand; don’t worry! It relates to Père Léger, of course,” Pierrotin assured him.
+
+“Make yourself easy,” the count replied.
+
+“Come, hurry,” Pierrotin urged the farmer. “We’re late. You can overtake me; it will do you good to walk.”
+
+“What a hurry you are in, Pierrotin!” the innkeeper remarked. “Can’t you stay and breakfast? The colonel pays fifty sous for the wine and has ordered champagne.”
+
+“I can’t. I have a fish to deliver by three for a great dinner at Stors; there’s no fooling with customers or fish,” Pierrotin insisted.
+
+“Very good,” Père Léger said. “You can harness that horse you want to sell me into the cabriolet; we’ll breakfast in peace and overtake Pierrotin.”
+
+To the count’s surprise, Pierrotin himself rebridled the horses. Schinner and Mistigris had walked on. As Pierrotin drove down the road to Moisselles, Georges continued talking with the farmer about the hostess’s beauty.
+
+“Upon my word, this landscape is not so bad, great painter, is it?” Georges exclaimed.
+
+“Pooh! you who have seen the East and Spain can’t really admire it,” Schinner replied.
+
+“I’ve two cigars left! If no one objects, will you help me finish them, Schinner? The little young man there seems to have found a whiff or two enough for him,” Georges said.
+
+Père Léger and the count remained silent, taken as consent.
+
+Oscar, furious at being called a “little young man,” retorted, “I am not the aide-de-camp of Mina, monsieur, and I have not yet been to the East, but I shall probably go. The career my family destines me for will spare me the annoyances of this kind of travel before I reach your age.”
+
+“‘Et caetera punctum!’” Mistigris crowed, imitating a young cock, making Oscar’s indignation seem absurd.
+
+“Your family, young man, destines you to some career, do they?” Georges asked. “Might I ask what it is?”
+
+“Diplomacy,” Oscar replied.
+
+Laughter erupted from Mistigris, Schinner, and the farmer; even the count smiled.
+
+“By Allah!” Georges exclaimed, “I see nothing to laugh at. Though it seems your respectable mother is not exactly in the sphere of an ambassadress.”
+
+“My mother, monsieur!” Oscar exclaimed. “She ran our household.”
+
+“‘Our household’ is a very aristocratic term,” the count remarked.
+
+“Kings have households,” Oscar replied proudly.
+
+Georges suppressed a laugh, signaling Mistigris and Schinner to manage Oscar for amusement.
+
+“Monsieur is right,” Schinner said. “Well-bred people speak of their ‘households’; common folks say ‘home.’”
+
+“I congratulate myself on having traveled with three such distinguished men,” the count said, “a painter already famous, a future general, and a young diplomat who may one day recover Belgium for France.”
+
+Oscar, wanting to assert himself, declared, “All is not gold that glitters.”
+
+“That’s not it,” Mistigris corrected. “You’ll never get on in diplomacy if you don’t know your proverbs.”
+
+“I may not know proverbs, but I know my way—”
+
+“It must be far,” Georges interjected, “for I saw that person in charge of your household give you provisions enough for an ocean voyage: rolls, chocolate—”
+
+“A special kind of bread and chocolate, yes, monsieur,” Oscar retorted. “My stomach is too delicate for tavern victuals.”
+
+“‘Victuals’ is as refined a word as your stomach,” Georges quipped.
+
+“Ah! I like that word ‘victuals,’” Schinner chimed in.
+
+“The word is all the fashion in the best society,” Mistigris added.
+
+“Your tutor is, doubtless, some celebrated professor?” Schinner asked.
+
+“My tutor was the Abbé Loraux, now vicar of Saint-Sulpice,” Oscar replied.
+
+“Well, you were right to take a private tutor,” Mistigris said. “Of course you will reward him well, your abbé?”
+
+“Undoubtedly he will be made a bishop,” Oscar said.
+
+“By your family influence?” Georges asked.
+
+“We shall probably contribute to his rise; the Abbé Frayssinous is constantly at our house,” Oscar replied.
+
+“Ah! you know the Abbé Frayssinous?” the count asked.
+
+“He is under obligations to my father,” Oscar answered.
+
+“Are you on your way to your estate?” Georges asked.
+
+“No, but I can say where I’m going. I am going to the Château de Presles, to the Comte de Serizy.”
+
+“Is Monsieur de Serizy at Presles?” Père Léger asked, astonished.
+
+“Apparently, as I am going there,” Oscar replied.
+
+“Do you often see the count?” Schinner asked.
+
+“Often,” Oscar said. “I am a comrade of his son, about my age; we ride together nearly every day.”
+
+“‘Aut Caesar, aut Serizy,’” Mistigris said sententiously. Pierrotin and Père Léger exchanged knowing glances.
+
+“Really,” the count said to Oscar, “I am delighted to meet a young man who can tell me about that personage. I want his influence on a matter that would cost him nothing. It concerns a claim I wish to press on the American government. I should be glad to obtain information about Monsieur de Serizy.”
+
+“Oh! if you want to succeed,” Oscar advised, “don’t go to him, but to his wife; he is madly in love with her; no one knows more than I do about that; but she can’t endure him.”
+
+“Why not?” Georges asked.
+
+“The count has a skin disease that disfigures him. Doctor Albert has tried in vain. He would give half his fortune for a chest like mine,” Oscar boasted. “He lives a lonely life; gets up early and works from three to eight; after eight takes remedies—sulphur-baths, steam-baths. His valet bakes him in a sort of iron box—he hopes to get cured.”
+
+“If he is such a friend of the King as they say, why doesn’t His Majesty touch him?” Georges asked.
+
+“The count promised thirty thousand francs to a celebrated Scotch doctor who is coming,” Oscar continued.
+
+“Then his wife can’t be blamed if she finds better—” Schinner began but left it.
+
+“I should say so!” Oscar resumed. “The poor man is so shriveled and old you’d take him for eighty! He’s as dry as parchment, and he feels his position.”
+
+“Most men would,” Père Léger said.
+
+“He adores his wife and dares not find fault with her,” Oscar continued, enjoying the attention. “He plays scenes with her like Arnolphe in Molière.”
+
+The count, horrified, looked at Pierrotin, who assumed Oscar lied.
+
+“So, monsieur,” Oscar concluded, “if you want the count’s influence, I advise you to apply to the Marquis d’Aiglemont. If you get that former admirer of Madame de Serizy, you will win husband and wife at one stroke.”
+
+“Look here!” Schinner said. “You seem to have seen the count without his clothes; are you his valet?”
+
+“His valet!” Oscar exclaimed.
+
+“People don’t tell such things about their friends in public conveyances,” Mistigris said. “As for me, I’m not listening; I’m deaf: ‘discretion plays the better part of adder.’”
+
+“‘A poet is nasty and not fit,’ and so is a tale-bearer,” Schinner added.
+
+“Great painter,” Georges said, “learn this: you can’t say harm of people you don’t know. Now the little one here has proved he knows his Serizy by heart. If he had told us about the countess, perhaps—?”
+
+“Stop! not a word about the Comtesse de Serizy, young men,” the count interrupted. “I am a friend of her brother, the Marquis de Ronquerolles, and whoever disparages the countess must answer to me.”
+
+“Monsieur is right,” the painter agreed. “No man should blague women.”
+
+“God, Honor, and the Ladies! I believe in that melodrama,” Mistigris added.
+
+“I don’t know the guerrilla Mina, but I know the Keeper of the Seals,” the count continued, looking at Georges. “And though I don’t wear my decorations,” he added, glancing at the painter, “I prevent those who do not deserve them from obtaining any. And I know so many people I even know Monsieur Grindot, the architect of Presles. Pierrotin, stop at the next inn; I want to get out a moment.”
+
+Pierrotin hurried through Moisselles, and the short distance was completed in silence.
+
+“Where is that young fool going?” the count asked Pierrotin as he drew him into the inn-yard.
+
+“To your steward. He is the son of a poor lady in the rue de la Cerisaie, to whom I often carry fruit and game from Presles. She is Madame Husson,” Pierrotin explained.
+
+“Who is that man?” Père Léger asked after the count left.
+
+“I don’t know,” Pierrotin replied. “This is the first time I have driven him. I shouldn’t be surprised if he were that prince who owns Maffliers. He told me to leave him on the road near there; he doesn’t want to go on to Isle-Adam.”
+
+“Pierrotin thinks he is the master of Maffliers,” Père Léger told Georges when the count returned.
+
+The three young men felt as if they had been caught in a lie; they dared not look at each other.
+
+“This is what is called ‘suffering for licence’s sake,’” Mistigris said.
+
+“You see I did know the count,” Oscar insisted.
+
+“Possibly. But you’ll never be an ambassador,” Georges replied. “When people talk in public conveyances, they ought to be careful, like me, to talk without saying anything.”
+
+“That’s what speech is for,” Mistigris concluded.
+
+The count returned to his seat, and the coucou rolled on in silence.
+
+“Well, my friends,” the count said as they reached the Carreau woods, “here we all are, as silent as if we were going to the scaffold.”
+
+“‘Silence gives content,’” Mistigris muttered.
+
+“The weather is fine,” Georges remarked.
+
+“What place is that?” Oscar asked, pointing to the Château de Franconville against the Saint-Martin forest.
+
+“How is it,” the count exclaimed, “that you, who say you go often to Presles, do not know Franconville?”
+
+“Monsieur knows men, not castles,” Mistigris replied.
+
+“Budding diplomatists have so much else to take their minds,” Georges added.
+
+“Be so good as to remember my name,” Oscar said angrily. “I am Oscar Husson, and ten years hence I shall be famous.”
+
+After that declaration, Oscar slumped back.
+
+“Husson of what, of where?” Mistigris asked.
+
+“It is a great family,” the count replied. “Husson de la Cerisaie; monsieur was born beneath the steps of the Imperial throne.”
+
+Oscar blushed deeply.
+
+They were about to descend the steep hill of La Cave, at the foot of which stood the magnificent chateau of Presles.
+
+“Messieurs,” the count said, “I wish you every good fortune in your various careers. Monsieur le colonel, make your peace with the King of France; the Czerni-Georges ought not to snub the Bourbons. I have nothing to wish for you, my dear Monsieur Schinner; your fame is already won by splendid work. But you are much to be feared in domestic life, and I, being married, dare not invite you. As for Monsieur Husson, he needs no protection; he possesses the secrets of statesmen and can make them tremble. Monsieur Léger is about to pluck the Comte de Serizy, and I can only exhort him to do it firmly. Pierrotin, put me out here, and pick me up at the same place tomorrow,” the count added before leaving the coach, leaving his companions confused.
+
+“He must be that count who has hired Franconville; that’s the path to it,” Père Léger said.
+
+“If ever again,” Schinner said, “I am caught blague-ing in a public coach, I’ll fight a duel with myself. It was your fault, Mistigris,” he added, tapping him.
+
+“All I did was help you out, and follow you to Venice,” Mistigris replied. “But that’s always the way, ‘Fortune belabors the slave.’”
+
+“Let me tell you,” Georges said to Oscar, “if, by chance, that was the Comte de Serizy, I wouldn’t be in your skin for a good deal, healthy as you think it.”
+
+Oscar, recalling his mother’s warnings, turned pale.
+
+“Here you are, messieurs!” Pierrotin called as they arrived at a fine iron gate.
+
+“Here we are—where?” the painter, Georges, and Oscar asked.
+
+“Well, well!” Pierrotin exclaimed. “If that doesn’t beat all! Ah ça, messieurs, have none of you been here before? Why, this is the Château de Presles.”
+
+“Oh, yes; all right, friend,” Georges said, regaining his composure. “But I happen to be going on to Les Moulineaux,” he added, not wanting his companions to know he was actually heading there.
+
+“You don’t say so? Then you are coming to me,” Père Léger said.
+
+“How so?” Georges asked.
+
+“Why, I’m the farmer at Moulineaux. Hey, colonel, what brings you there?” Père Léger inquired.
+
+“To taste your butter,” Georges replied, pulling out his portfolio.
+
+“Pierrotin,” Oscar said, “leave my things at the steward’s. I am going straight to the chateau.”
+
+Oscar plunged into a narrow path, unsure of his direction.
+
+“Hi! Monsieur l’ambassadeur,” Père Léger called. “That’s the way to the forest; if you really want to get to the chateau, go through the little gate.”
+
+Thus compelled, Oscar entered the grand courtyard. While Père Léger watched, Georges, realizing the farmer was the current occupant of Les Moulineaux, slipped away unnoticed.
+
+The iron gates opened at Pierrotin’s request, and he proudly drove in to deposit Schinner’s items. Oscar was stunned to discover that Mistigris and his master would be staying in the chateau itself. In ten minutes Pierrotin had unloaded the painter’s packages, Oscar’s bundles, and a small leather portmanteau, which he handed to the concierge’s wife. Then he drove out, cracking his whip, his face beaming with the sly expression of a peasant calculating his profits. Nothing lacked now to his happiness; tomorrow he would have his thousand francs, and consequently his magnificent new coach.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Oscar hid behind trees and watched Monsieur Moreau emerge from the guard-room in a blue overcoat, carrying a riding whip. Moreau greeted the painters Mistigris and his master—sent by architect Monsieur Grindot—told the concierge to show them to their rooms, invited them to dinner at five, and mentioned hunting on the estate.
+Oscar, feeling awkward, hid behind trees in the courtyard and watched Monsieur Moreau emerge from the guard-room in a blue overcoat, carrying a riding whip. He greeted Oscar warmly and introduced himself to Mistigris and his master, the two painters sent by architect Monsieur Grindot. Moreau told the concierge to show the painters to their rooms, invited them to dinner at five, and mentioned hunting on the estate.
 
-As Moreau led Oscar through the park, he sent his son Jacques ahead to tell Madame Moreau of their arrival. Stern in appearance but kindly, Moreau encouraged Oscar to learn to ride and hunt despite his inexperience. Oscar’s mother had allowed only a two-week stay because Madame Moreau was present, yet Moreau seemed intent on extending it.
+As Moreau led Oscar through the park, he sent his son Jacques ahead to inform Madame Moreau of their arrival. Stern in appearance but kind in nature, Moreau impressed Oscar, who felt small beside him. Moreau encouraged Oscar to learn to ride and hunt despite his inexperience. Oscar’s mother had allowed only a two-week stay because Madame Moreau was present, yet Moreau seemed intent on extending it.
 
-Their steward’s house, built before the Revolution and attached to the chateau, stood in a large garden and contained a salon, dining room, and a modern boudoir furnished to Madame Moreau’s taste. The Moreaus lived comfortably on estate provisions. Madame Moreau, once a maid, preserved an air of elegance and worked to be seen as the chateau’s mistress, often patronizing villagers. Tension with the Reyberts dated to a past slight when Madame de Reybert reminded her of her former status. Eager to impress, Madame Moreau hoped the visiting artist would raise her social standing.
+The steward’s house, built before the Revolution, stood in a large garden and connected to the chateau. It contained a salon, dining room, and a modern boudoir furnished to Madame Moreau’s taste. The Moreaus lived comfortably on estate provisions with little expense. Madame Moreau, once a maid, kept an air of elegance and worked to be seen as the mistress of the chateau, often patronizing villagers.
 
-On the day the painters were due, Madame Moreau dressed elegantly, but the Paris coach brought only Mistigris’s packages, leaving her disappointed. When Mistigris and Bridau arrived, she welcomed them and professed a love of art; the two artists quickly recognized her pretentiousness and decided to humor her, engaging in polite conversation about art.
+Tension with the Reyberts dated to a past slight when Madame de Reybert reminded Madame Moreau of her former status. The Moreaus had notice of the painters’ arrival, and Madame Moreau was eager to impress them, hoping the artist she hosted would raise her social standing.
 
-Their talk was cut short when a maid announced the count’s arrival, and Madame Moreau grew flustered. Oscar, feeling out of place, was fetched by his younger brother and scolded for his appearance. Mistigris’s joking remark about Oscar’s future only increased the awkwardness. The maid then said the count wanted dinner promptly, adding to the bustle.
+On the day the painters were due, Madame Moreau dressed elegantly, but the Paris coach brought only Mistigris’s packages, leaving her disappointed. The two artists eventually arrived; Madame Moreau welcomed them and professed a love of art. Mistigris and Bridau quickly recognized her pretentiousness and decided to humor her, engaging in conversation about art.
 
-The count had come unexpectedly and was upset to learn Moreau was absent. Having overheard remarks that suggested Moreau’s disloyalty, he confronted him, disappointed that private matters had been discussed—especially in front of Oscar. Moreau’s attempts to explain failed; he returned home distraught over the loss of his position and the damage caused by Oscar’s careless words. Estelle, his wife, was furious and grasped the gravity of their predicament. Moreau demanded an explanation from Oscar, who remained silent from fear and shame. In anger Moreau dragged him back to the count to apologize; the count dismissed Oscar’s behavior and doubted his promise. Humiliated, Moreau took Oscar home to face the uncertain consequences for their family.
+Their talk was cut when a maid announced the count’s arrival, and Madame Moreau grew flustered. Oscar, feeling out of place, was brought in by his younger brother and chastised for his appearance. Mistigris cracked a joke about Oscar’s future, which only increased the awkwardness. The maid returned saying the count wanted dinner promptly, adding to the household’s bustle.
+
+The count had arrived unexpectedly and was distressed to learn Moreau was absent. He had overheard remarks that suggested Moreau’s disloyalty, prompting a confrontation. The count expressed disappointment that Moreau had discussed private matters, especially in front of Oscar. Moreau attempted to explain but ultimately faced the consequences of his indiscretions.
+
+As the count prepared for dinner, he encountered guests including notaries and the Reyberts, who were surprised by his presence. The atmosphere was tense and the count’s displeasure clear. Mistigris’s light remark about the count’s appearance briefly eased the mood.
+
+Moreau returned home distraught over the loss of his position and the implications of Oscar’s careless words. Madame Moreau, furious, grasped the gravity of their predicament. Moreau confronted Oscar, demanding an explanation; Oscar remained silent, overwhelmed by fear and shame.
+
+In anger, Moreau dragged Oscar back to the count, insisting he apologize. The count dismissed Oscar’s behavior and doubted his potential. Humiliated, Moreau took Oscar home, left to contemplate the consequences of their actions and the uncertain future of their family.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Moreau wrote to Madame Clapart, distressed that Oscar had revealed Madame de Serizy’s secrets to an incognito count; the count sent Oscar home, costing Moreau the stewardship at Presles and jeopardizing the family’s prospects. At the Clapart home, Monsieur fretted about Oscar’s character while Madame defended him. When Brochon returned with Oscar and Moreau’s letter, Madame Clapart fainted at the thought of her son’s future.
+While the horses were being harnessed, Moreau wrote to Madame Clapart about his distress over Oscar's conduct. During a journey Oscar had revealed sensitive information about Madame de Serizy to a count traveling incognito, which led to Moreau's dismissal as steward of Presles. The count ordered Oscar sent home immediately, a decision that terrified Moreau and his wife because of its implications for their family's future and for Moreau's hopes to improve their fortunes.
 
-The next day she found Oscar sullen, reminded him of Moreau’s past support and their precarious position without the stewardship, and urged discretion, hard work, and prudence; Oscar remained largely indifferent. As a last hope she proposed appealing to Uncle Cardot, a self-made businessman who lived modestly, generously supported his children, and had been unaware of their plight. Cardot received them kindly, praised Oscar’s promise, and—moved by Madame Clapart—offered to fund his legal studies, urging integrity, discipline, and effort.
+That evening Madame Clapart was knitting when Monsieur Clapart mentioned a friend’s anticipated visit and expressed doubts about Oscar's prospects at Presles, criticizing the boy's character. Madame Clapart defended Oscar, insisting on his good nature and potential. Their conversation was cut short by Brochon’s arrival, bringing Oscar back and a letter from Moreau explaining the situation. Overwhelmed, Madame Clapart fainted on reading the letter, panic-stricken about her son's prospects.
 
-Madame Clapart felt renewed hope despite the strain. Moreau later visited, saying he had begun speculating in land and could place Oscar as a pupil in a law office; he reiterated that disciplined study was essential to repair Oscar’s reputation and secure his future. Grateful, Madame Clapart urged Oscar to show his gratitude by heeding these admonitions.
+The next day Madame Clapart sought Oscar alone, her appearance betraying her distress. She reminded him of the support Moreau had given and how precarious their situation now was without the stewardship. She outlined the few career options left and stressed the need for discretion, hard work, and prudence. Oscar remained largely indifferent to the gravity of their circumstances, which only increased her anxiety and frustration.
+
+Madame Clapart pressed Oscar to promise greater discretion and to heed her advice, proposing a visit to Uncle Cardot as their last hope. Uncle Cardot, a self-made businessman who had amassed a fortune and was known for his generosity to his children, lived modestly and was unaware of their struggles.
+
+At Uncle Cardot’s he greeted them warmly and was pleased to hear of Oscar's academic achievements, though he remarked the boy had much to learn. Moved by Madame Clapart’s account of their hardship, Uncle Cardot offered to support Oscar’s education in law, promising to pay the costs. He urged Oscar to apply himself, preserve his integrity, and cultivate discipline, convinced that with effort he could succeed.
+
+Afterward Madame Clapart felt renewed hope for Oscar, though the family still faced financial strain. Moreau later visited to say he had begun land speculation and could help place Oscar as a pupil in a law office. He reiterated that discipline and hard work were the path to redemption and a secure future.
+
+Madame Clapart was grateful for Moreau’s continued support and urged Oscar to express his gratitude. Moreau pressed Oscar to focus on his studies and behavior, stressing that diligent effort was essential to repair his reputation and improve his prospects.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Ten days later Monsieur Moreau brought Oscar to Maître Desroches, a young solicitor in the rue de Béthisy who had recently opened a roomy but inexpensive office. Desroches, twenty-six and raised in poverty, recognized Oscar’s situation; the boy’s gaunt look and curt manners intimidated him. “We work here day and night,” Desroches declared amid a mountain of papers, and he placed his head clerk, Monsieur Godeschal, in charge of Oscar’s training so the youth would not lose time on the way to law school and would master the Code. Oscar was lodged in a small attic beside Godeschal’s room; Desroches plainly intended to make him a capable clerk.
+Ten days later Monsieur Moreau took Oscar to Maître Desroches, a young solicitor in the rue de Béthisy who had recently opened a spacious but inexpensive office. Desroches, twenty-six and raised in poverty, recognized Oscar’s situation; his gaunt appearance and curt manner intimidated the young man. “We work here day and night,” Desroches declared from his armchair amid a mountain of papers. He instructed his head clerk, Monsieur Godeschal, to oversee Oscar’s training so he would not lose time on the way to law school and would master the Code. Oscar was to live in a small attic next to Godeschal’s room; Desroches expressed his aim to make him a capable clerk.
 
-For two years Oscar lived at the office under a regimen of exacting, petty work. Under Godeschal’s strict oversight he kept a monk-like schedule: rising at five to prepare for the day, running errands, studying the Code under rigorous tests, returning to office tasks after classes, and subsisting on plain meals. His social life was minimal — monthly breakfasts with his uncle Cardot and Sundays with his mother — interrupted only by the occasional outing Moreau could arrange. His efforts at elegance met the disapproval of his superiors.
+For two years Oscar lived in the office, immersed in petty but diligent work. Under Godeschal’s strict supervision he adopted a monk-like routine: rising at five to prepare for the day, running errands, and studying the Code under rigorous examination. After classes he returned to more work; meals were plain and his social life limited to monthly breakfasts with his uncle Cardot and Sundays with his mother. Moreau occasionally took him out, but Oscar’s attempts at elegance met disapproval from his superiors.
 
-Godeschal counseled a modest wardrobe and frugal living — insisting a good clerk should not spend more than seven hundred francs a year — and lived by those principles. He embodied honest, unostentatious leadership: when a colleague failed his duties, Godeschal discreetly guided him to resign rather than face public dismissal, showing practical humanity.
+Godeschal counseled a modest wardrobe and frugal living, insisting a good clerk should not spend more than seven hundred francs a year. He practiced these principles himself, showing honesty and integrity without pretense. When another clerk failed in his duties, Godeschal discreetly urged him to leave rather than suffer dismissal, preferring to protect the office’s order and the reputations of its members.
 
-By twenty, Oscar had become the third clerk, doing the second’s duties without pay but receiving room and board. His legal knowledge surpassed that of many licensed graduates, and he even began arguing cases in chambers. Yet he felt constrained by a life at odds with his desires: he envied the well-dressed young men he saw on the streets and yearned for freedom and pleasure, feelings he habitually suppressed. Godeschal, aware of these struggles, tried to shield him and sometimes covered the cost of outings to give him some enjoyment; Moreau supported him but could not connect as Godeschal did. Both feared youthful follies that might imperil his future, though they hoped to steer him aright.
+By twenty, Oscar had become the third clerk, performing the second clerk’s duties without salary but receiving room and board. His legal knowledge surpassed that of many licensed graduates, and he began to argue cases in chambers. Despite this progress, he felt trapped in a life at odds with his desires: he envied the well-dressed young men in the streets and yearned for freedom and pleasure, feelings he often suppressed to conform to his responsibilities.
 
-“How is he getting on?” Moreau asked. “Too much vanity,” Godeschal replied, noting Oscar’s taste for fine clothes and suggesting his talents might suit a barrister rather than a solicitor’s clerkship.
+Godeschal, conscious of Oscar’s struggles, tried to shield him from temptation. He sometimes covered the costs of outings to give Oscar some enjoyment, understanding that his home life offered little stimulation. Moreau was supportive but could not connect with Oscar as Godeschal did; the older clerk’s combination of strictness and solicitude made him the real guide of Oscar’s formative years. Oscar’s repressed desires and youthful follies were a risk, but both men hoped to steer him safely through them.
 
-In November 1825 a new clerk, Frédéric Marest, arrived. Well-to-do and aiming for the magistracy, Marest claimed a desire for hands-on practice. The clerks enjoyed practical jokes: Godeschal kept a fictitious register of receptions for new clerks filled with absurd entries. When Oscar asked for it, Marest read and laughed, then said he would consult a cousin who was a head clerk about the welcome he should give — a remark that convinced Godeschal of Marest’s inexperience. Despite the office’s camaraderie, Oscar’s inner conflict persisted as he navigated professional pressures and youthful expectations.
+“How is he getting on?” Moreau asked Godeschal after a trip.
+
+“Too much vanity,” Godeschal replied, noting Oscar’s taste for fine clothing and his wish to move in a more extravagant circle. He feared Oscar’s talents might be better suited to the bar than to a solicitor’s clerkship.
+
+In November 1825, shortly after Oscar’s promotion, a new clerk, Frédéric Marest, joined the office. Marest, a well-off young man with ambitions toward the magistracy, sought practical experience in legal work. Godeschal announced his arrival, hoping Marest would fit into the office camaraderie.
+
+The clerks enjoyed practical jokes, and Godeschal long maintained a humorous tradition: a fictitious register of receptions for new clerks filled with absurd entries. It served as a source of amusement and team bonding. Desroches’ recently established office lacked such customs, but Godeschal was determined to uphold them.
+
+As Oscar settled into his role, he joined the jest and called for the register when Marest arrived. Marest read it and laughed privately, revealing nothing to the others; he said he would consult his cousin, a head clerk, about the welcome he should extend, which aroused Godeschal’s suspicions regarding Marest’s claimed inexperience.
+
+Despite the lighthearted atmosphere and clerks’ camaraderie, Oscar’s internal conflict persisted as he navigated the pressures of his profession and the expectations placed upon him.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-The next day at two Oscar recognized Georges Marest, now head-clerk to notary Hannequin, who greeted him and recalled their past mischief involving a peer of France that had led to Georges’ transfer. Georges invited Oscar and the other clerks to the Rocher de Cancale and later to an evening with Madame la Marquise de las Florentinas y Cabirolos, promising high society. Desroches, head of the office, interrupted to charge Oscar with fetching a crucial legal document from the Palais and warned him to beware of Derville, who might obstruct the task. Eager to prove himself as second clerk, Oscar accepted.
+The next day at two o’clock Oscar recognized Georges Marest, now head-clerk of notary Hannequin, entering the office. Georges greeted Oscar, recalling their past mischief involving a peer of France that had led to Georges’ transfer to Hannequin. Georges then invited Oscar and his colleagues to a gathering at the Rocher de Cancale and to spend the evening with Madame la Marquise de las Florentinas y Cabirolos, promising a night of high society.
 
-After Georges and Oscar left, Godeschal tried to learn more about the Marquise, but Frédéric, keeping up a ruse, called her a wealthy widow from Mexico. The clerks, excited by the promised breakfast and festivities, were keen to meet her. In truth the Marquise was Mademoiselle Agathe-Florentine Cabirolle, a celebrated danseuse at the Gaîté, supported by Père Cardot, a merchant who had taken her and her mother in and invested in her career; she lived comfortably and prepared for a possible engagement at the Opera.
+Desroches, the office head, interrupted to instruct Oscar to obtain a crucial legal document from the Palais and warned him to be cautious of Derville, who might obstruct their efforts. Oscar was eager to prove himself in this first assignment as second clerk.
 
-With new means, Georges actively pursued Florentine. The clerks dressed in their best; Oscar’s mother, Madame Clapart, voiced hopes for his future and warned him about Georges, whom she blamed for Oscar’s earlier misfortune. On the day of the gathering Oscar felt excitement mixed with apprehension. After a lavish breakfast the intoxicated clerks went to Florentine’s salon and found a scene of opulence. Introduced to her, Oscar was charmed and joined a game of vingt-et-un with Florentine and the actress Fanny Beaupré, quickly losing the money he’d been given for the legal document. Florentine offered him a thousand francs, which he accepted, yet he lost everything and fell into despair and stupor. The party continued into the early morning; Florentine and her friends reveled while Oscar slept in the boudoir, unaware of the consequences.
+After Georges and Oscar left, Godeschal tried to learn more about the Marquise, but Frederic, keeping up the ruse, suggested she was a wealthy widow from Mexico. The clerks, excited by the promise of a grand breakfast and fashionable festivities, were keen to meet her.
+
+In truth the Marquise was Mademoiselle Agathe-Florentine Cabirolle, a successful danseuse at the Gaîté, supported by Père Cardot, a merchant who had taken her and her mother under his wing. Over the years Cardot had invested in Florentine’s career; she became a celebrated star, living comfortably and preparing for a possible engagement at the Opera.
+
+Georges, with his newfound wealth, actively pursued Florentine, and the clerks, anxious to impress, dressed in their best for the event. Oscar’s mother, Madame Clapart, expressed hopes for her son’s future and warned him about Georges, whom she believed had caused Oscar’s earlier misfortune.
+
+On the day of the gathering, Oscar felt a mix of excitement and apprehension, determined to enjoy the day but mindful of his mother’s and Godeschal’s advice. After a lavish breakfast the clerks, by then intoxicated, went on to Florentine’s salon and were greeted by a dazzling array of guests and opulence.
+
+As the evening progressed, Oscar was introduced to Florentine, who charmed him with her grace and beauty. He was drawn into a game of vingt-et-un with her and the actress Fanny Beaupré, quickly losing the money he had been given for the legal document. Despite initial reluctance, Oscar was swept up in the excitement, gambling more and becoming increasingly desperate.
+
+Florentine, noticing his distress, offered him a thousand francs to recover his losses, which he accepted, interpreting her aid as noble kindness. His luck worsened; he lost everything and fell into despair and drunken stupor, overwhelmed by the consequences.
+
+The party continued into the early morning, Florentine and her friends enjoying themselves while Oscar remained oblivious to the chaos, lost in his own troubles. The night ended with Florentine retiring to bed, leaving Oscar asleep in the boudoir, unaware of what his actions would bring.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-The next morning a loud noise woke clerk Oscar Husson. His uncle Cardot scolded him for late-night revelry and the disorderly apartment; Florentine, a danseuse, laughed and revealed Oscar as Cardot’s nephew and urged the uncle to help. Oscar had lost gambling money belonging to his employer, Monsieur Desroches, and, ashamed, begged Cardot for aid. Cardot reluctantly lent five hundred francs, warning it would be the last help.
+The next morning a loud noise woke the clerk Oscar Husson. Hearing his uncle Cardot's voice, he feigned sleep as Cardot scolded him for late-night revelry, the disorder of the apartment, and the company he kept.
 
-Mariette sent a note and money; Godeschal, another clerk, hurried to get the necessary documents for Desroches. Angered, Desroches resolved to dismiss Oscar despite Godeschal’s defense. Godeschal recounted Oscar’s past mistakes and blamed the bad influence of Georges Marest; Desroches half-joked that Oscar might try law, thinking his vanity suited the bar.
+Florentine, a danseuse, laughed and revealed Oscar as Cardot's nephew, urging the uncle to help him. Oscar had lost money gambling—money belonging to his employer, Monsieur Desroches. Desperate and ashamed, he begged Cardot for aid, fearing disgrace and loss of his job.
 
-At home, Clapart tormented his wife with reminders of their son’s failures; Madame Clapart defended Oscar. When Oscar returned he confronted his father, asserting independence, but his plea was ignored. Determined to take responsibility, Oscar faced conscription. Clapart believed military service would instill discipline. Oscar drew a number and, despite his fears, hoped for a favorable outcome. Three days later, through the Comte de Serizy’s influence, Oscar was drafted into the cavalry.
+Cardot reluctantly lent him five hundred francs, warning it would be the last help. Oscar left uncertain and beleaguered. Mariette, concerned, sent a note and money; Godeschal, another clerk, hurried to get the necessary documents for Desroches.
 
-Overwhelmed by her son’s misfortunes, Madame Clapart turned to religion, seeking solace through piety. In the army Oscar applied himself and eventually rose to lieutenant-colonel.
+Angered, Desroches resolved to dismiss Oscar despite Godeschal's defense. Godeschal recounted Oscar's past mistakes and blamed the influence of Georges Marest, a bad companion. Desroches, half in jest, suggested Oscar should try law, thinking his vanity might suit the bar.
 
-Years later a decorated Oscar stood with his mother outside the Lion d’Argent, waiting for a coach. Both were altered from their former selves; though haunted by past mistakes, Oscar had achieved success. As they prepared to board they encountered Georges Marest, now a shadow of his former self, who failed to recognize him. On the journey passengers exchanged stories of transformed lives; military service had reshaped Oscar, taught him hard lessons, and steadied his character. He was invited to a wedding and eventually married Georgette Pierrotin, the coach proprietor’s daughter. His earlier errors became instructive lessons; through connections, discipline, and changed character he earned respect and security.
+At home, Clapart, Oscar's father, tormented his wife with reminders of their son's failures. Madame Clapart defended Oscar, while Clapart remained cynical. When Oscar returned, he confronted his father, asserted his independence, and protested his treatment, but his plea fell on deaf ears.
+
+Determined to take responsibility, Oscar faced the prospect of military service, which Clapart believed would instill discipline. He drew a number for conscription and, despite fears, hoped for a favorable outcome. Three days later, through the Comte de Serizy's influence, Oscar was drafted into the cavalry. Overwhelmed by her son's misfortunes, Madame Clapart turned to religion, believing past sins had brought their troubles and seeking redemption through piety. Oscar excelled in the army, eventually rising to lieutenant-colonel.
+
+Years later a decorated Oscar stood with his mother outside the Lion d’Argent, waiting for a coach. Both were unrecognizable from their former selves. Though haunted by past mistakes, Oscar had achieved a measure of success. As they prepared to board, they encountered Georges Marest, now a shadow of his former self, who failed to recognize Oscar.
+
+Georges, poorly dressed, tried to preserve dignity despite his decline. Oscar reflected on how far they had diverged since youth. The coach departed; passengers exchanged stories that revealed transformed lives. Military service had reshaped Oscar and taught him hard lessons.
+
+On the journey Georges attempted to impress others with tales of his past, but his efforts fell flat. Oscar, confident and composed, defended his achievements and credited his military career for his stability. He was invited to a wedding, a sign of his integration into respectable society.
+
+Oscar’s shift from reckless youth to respected officer showed the effects of experience and maturity. He married Georgette Pierrotin, the coach proprietor’s daughter, cementing his social standing. His earlier errors became instructive lessons, guiding him to discretion, honesty, and steady work. Ultimately, connections, discipline, and changed character led to a successful career, earning him respect and security in a world that once seemed precarious.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-### THE MIDDLE OF THE STORY — MIDDLE OF THE STORY. MIDDLE OF THE STORY.
+### MIDDLE OF THE STORY ###
+################################################
 ############# MIDDLE OF THE STORY. #############
+################################################
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
