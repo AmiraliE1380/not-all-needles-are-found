@@ -4,7 +4,9 @@ import os
 
 import time
 
-model = "gpt-5-mini"  # default model to use for chat_with_model
+model = "gpt-5"  # default model to use for chat_with_model
+# model = "gpt-5-mini"  # default model to use for chat_with_model
+grading_model = "gpt-5-mini"  # model to use for grading
 
 def grade_quiz(model_response, ground_truth):
     """
@@ -24,7 +26,7 @@ def grade_quiz(model_response, ground_truth):
         grading_prompt = file.read()
 
     grading_prompt = grading_prompt.format(MODEL_RESPONSE=model_response, GROUND_TRUTH=ground_truth)
-    scores = chat_with_model(prompt=grading_prompt, model="gpt-5-mini")
+    scores = chat_with_model(prompt=grading_prompt, model=grading_model)
     print(f"scores = \n{scores}\n") # scores are 30 numbers separated by a line break
 
     def _score_to_percentage(scores):
