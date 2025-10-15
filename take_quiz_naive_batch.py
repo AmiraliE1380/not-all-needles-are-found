@@ -5,6 +5,7 @@ import os
 import time
 
 model = "gpt-5-mini"  # default model to use for chat_with_model
+# model = "gpt-5"  # default model to use for chat_with_model
 
 def grade_quiz(model_response, ground_truth):
     """
@@ -16,8 +17,8 @@ def grade_quiz(model_response, ground_truth):
     hallucination
     """
 
-    print(f"Grading model_responce = \n{model_response}\n")
-    print(f"With ground_truth = \n{ground_truth}\n")
+    # print(f"Grading model_responce = \n{model_response}\n")
+    # print(f"With ground_truth = \n{ground_truth}\n")
 
     grading_prompt_address = 'prompts/grading.txt'
     with open(grading_prompt_address, 'r') as file:
@@ -98,19 +99,24 @@ def take_quizes_diff_lengths():
     """
     grades = []
     
-    # for i in range(10):
-    for i in [0]:
-        story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_{(i+1)*10}%.txt"
+    # print(chat_with_model(prompt="Hello, this is a test to check if the model is working.", model=model))
+    # time.sleep(300)  # to avoid rate limit errors
+    
+    for i in range(10):
+    # for i in range(4, 10):
+        story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_400k_expected_{(i+1)*10}%.txt"
+        # story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_{(i+1)*10}%.txt"
+
         grades.append([])
         # for j in range(10):
-        for j in [0]:
+        for j in range(10):
             fact_location = j * 0.1 + 0.05
-            print(f"Taking quiz for story length {i*10}% and fact location {fact_location}...")
-            # grades[i - 1].append(take_single_quiz(story_address, fact_location))
+            print(f"Taking quiz for story length {(i+1)*10}% and fact location {fact_location}...")
             grades[i].append(take_single_quiz(story_address, fact_location))
+            # grades[i - 4].append(take_single_quiz(story_address, fact_location))
             print("\n" + "="*50 + "\n")
 
-            time.sleep(1)  # to avoid rate limit errors
+            time.sleep(300)  # to avoid rate limit errors
     
     print(grades)
     save_grades_path = f"logs/grades_{model}.txt"
@@ -124,6 +130,46 @@ def take_quizes_diff_lengths():
     # plot_grades([[0, 20.5],[90.8,10]])
     
 
+#####################################
+# Batch processing of quizzes
+#####################################
+
+
+from batch_api import submit_chat_batch, wait_for_batch, BatchItem
+def take_quizes_diff_lengths_batch():
+    """
+    Takes quizzes using contracted stories with 10 different lengths,
+    128k, ..., 12k.
+    Also injects facts at different locations in the story
+    from 0.1 to 0.9 with step 0.1.
+    Uses batch processing to submit the quizzes.
+    """
+    items = []
+    
+    for i in range(10):
+        story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_400k_expected_{(i+1)*10}%.txt"
+        # story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_{(i+1)*10}%.txt"
+
+        for j in range(10):
+            fact_location = j * 0.1 + 0.05
+            print(f"Preparing quiz for story length {(i+1)*10}% and fact location {fact_location}...")
+            items.append(BatchItem(
+                custom_id=f"quiz_{i+1}_{j+1}",
+                prompt=take_single_quiz(story_address, fact_location),
+                system_prompt="You are a quiz grader."
+            ))
+    
+    print(f"Submitting {len(items)} quizzes to batch processing...")
+    batch = submit_chat_batch(items, default_model=model)
+    
+    print(f"Batch submitted with ID: {batch.id}")
+    
+    # Wait for the batch to complete
+    final_batch = wait_for_batch(batch.id)
+    
+    print(f"Batch completed with status: {final_batch.status}")
+
+
 if __name__ == "__main__":
     # # test grade_quiz function
     # print(grade_quiz(model_responce="Question 1: A\nQuestion 2: C\nQuestion 3: C\nQuestion 4: D", 
@@ -131,4 +177,5 @@ if __name__ == "__main__":
     # exit()
     
     # take_single_quiz()
-    take_quizes_diff_lengths()
+    # take_quizes_diff_lengths()
+    take_quizes_diff_lengths_batch()
