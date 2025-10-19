@@ -1,0 +1,10 @@
+[ex1]
+- Earth's only natural satellite, about 3,474 km across and orbiting at an average distance of ~384,400 km; it likely formed ~4.5 billion years ago after a giant impact with a Mars-sized body.  
+- A rocky, airless world covered in regolith with dark basaltic maria and bright, heavily cratered highlands; it experiences extreme temperature swings and has no breathable atmosphere.  
+- Tidally locked so the same face largely points toward Earth, the Moon drives ocean tides and has been visited by humans (six Apollo landings, 1969–1972) and numerous robotic missions.
+
+[ex2]
+Bonjour
+
+[ex3]
+Batching cuts cost because it spreads fixed setup, handling, and transportation overhead across more units, lowering the per‑unit expense and enabling economies of scale.

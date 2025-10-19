@@ -1,0 +1,10 @@
+[ex1]
+- Earth's only natural satellite, about 3,474 km in diameter (≈1/4 Earth's), orbiting at an average distance of ~384,400 km and formed ~4.5 billion years ago (likely from a giant impact).  
+- Tidally locked so the same face points toward Earth, it produces lunar phases and drives Earth’s ocean tides; it also causes solar and lunar eclipses.  
+- Virtually airless with extreme temperature swings, the Moon has been visited by humans (six crewed landings, 1969–1972) and retains a record of the early solar system on its surface.
+
+[ex2]
+Bonjour
+
+[ex3]
+Batching cuts cost by spreading fixed setup, handling, and transport overhead across many items and reducing per-unit labor and downtime, yielding economies of scale.

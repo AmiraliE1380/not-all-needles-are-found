@@ -10,7 +10,7 @@ items = [
     BatchItem(custom_id="q1", prompt="Give me 3 facts about the Moon."),
     BatchItem(custom_id="q2", prompt="Translate 'Hello' to French.", system_prompt="Be literal."),
 ]
-out = run_chat_batch_and_get_results(items, default_model="gpt-5-mini")
+out = run_chat_batch_and_get_results(items, default_model="gpt-5-mini", problem_id="moon_001")
 print(out["q1"])
 """
 
@@ -20,6 +20,7 @@ import json
 import os
 import tempfile
 import time
+import pathlib
 from dataclasses import dataclass
 from typing import Dict, Iterable, List, Optional
 
@@ -91,6 +92,23 @@ def _write_jsonl_for_batch(items: Iterable[BatchItem], default_model: str) -> st
     return path
 
 
+# --------------------------- helpers ----------------------------------------
+def _write_results_file(problem_id: str, results: Dict[str, str]) -> str:
+    """
+    Writes results as a readable text file:
+        [custom_id]
+        <assistant text>
+    """
+    out_dir = pathlib.Path("batch_responses")
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"{problem_id}.txt"
+    lines = []
+    for cid, text in results.items():
+        lines.append(f"[{cid}]\n{text}\n")
+    out_path.write_text("\n".join(lines), encoding="utf-8")
+    return str(out_path)
+
+
 # --------------------------------------------------------------------------- #
 #  Public API
 # --------------------------------------------------------------------------- #
@@ -99,9 +117,11 @@ def submit_chat_batch(
     *,
     default_model: str = "gpt-5-mini",
     completion_window: str = "24h",
+    problem_id: Optional[str] = None,  # <-- pass-through id for logging
 ):
     """
     Creates a Batch job and returns the batch object (opaque dict-like).
+    If problem_id is provided, it will be printed alongside the batch_id.
     """
     if not items:
         raise ValueError("No BatchItem entries provided.")
@@ -117,6 +137,10 @@ def submit_chat_batch(
         endpoint="/v1/chat/completions",
         completion_window=completion_window,
     )
+    if problem_id:
+        print(f"✅ Submitted batch: problem_id={problem_id} (batch_id={batch.id})")
+    else:
+        print(f"✅ Submitted batch: (batch_id={batch.id})")
     return batch
 
 
@@ -125,18 +149,25 @@ def wait_for_batch(
     *,
     poll_interval_seconds: float = 5.0,
     timeout_seconds: Optional[float] = None,
+    verbose: bool = False,
+    problem_id: Optional[str] = None,  # <-- include in progress logs
 ):
     """
     Polls until batch is in a terminal state; returns final batch object.
     """
     start = time.time()
+    interval = poll_interval_seconds
     while True:
         batch = client.batches.retrieve(batch_id)
+        if verbose:
+            tag = f"problem_id={problem_id}, " if problem_id else ""
+            print(f"[{tag}batch_id={batch.id}] status={batch.status}")
         if batch.status in {"completed", "failed", "expired", "cancelled"}:
             return batch
         if timeout_seconds is not None and (time.time() - start) > timeout_seconds:
             raise TimeoutError(f"Timed out waiting for batch {batch_id}.")
-        time.sleep(poll_interval_seconds)
+        time.sleep(interval)
+        interval = min(interval * 1.5, 60.0)
 
 
 def cancel_batch(batch_id: str):
@@ -181,21 +212,58 @@ def run_chat_batch_and_get_results(
     default_model: str = "gpt-5-mini",
     completion_window: str = "24h",
     poll_interval_seconds: float = 5.0,
+    verbose: bool = True,
+    problem_id: str,  # <-- REQUIRED: user-specified id for this run
 ) -> Dict[str, str]:
-    batch = submit_chat_batch(items, default_model=default_model, completion_window=completion_window)
-    wait_for_batch(batch.id, poll_interval_seconds=poll_interval_seconds)
-    return fetch_batch_results(batch.id)
+    """
+    Submit → wait → fetch, all while tagging logs and the output filename with problem_id.
+    """
+    batch = submit_chat_batch(
+        items,
+        default_model=default_model,
+        completion_window=completion_window,
+        problem_id=problem_id,
+    )
+
+    print(f"⏳ Waiting for response... (problem_id={problem_id}, batch_id={batch.id})")
+    final = wait_for_batch(
+        batch.id,
+        poll_interval_seconds=poll_interval_seconds,
+        timeout_seconds=None,   # keep original behavior; customize if desired
+        verbose=verbose,
+        problem_id=problem_id,
+    )
+
+    print(f"ℹ️ Batch finished: status={final.status} (problem_id={problem_id}, batch_id={final.id})")
+
+    if final.status != "completed":
+        stub = {
+            "_batch_id": final.id,
+            "_status": final.status,
+            "_note": "Batch did not complete successfully; no output_file_id to fetch."
+        }
+        path = _write_results_file(problem_id, {"_batch_status": json.dumps(stub, ensure_ascii=False, indent=2)})
+        print(f"📄 Wrote batch status to: {path}")
+        return {"_batch_status": json.dumps(stub)}
+
+    results = fetch_batch_results(final.id)
+    path = _write_results_file(problem_id, results)
+    print(f"📄 Saved results to: {path}")
+    return results
 
 
-# --------------------------------------------------------------------------- #
-#  Demo
-# --------------------------------------------------------------------------- #
+# --------------------------- demo -------------------------------------------
 if __name__ == "__main__":  # pragma: no cover
     demo_items = [
         BatchItem(custom_id="ex1", prompt="Give me 3 bullet points about the Moon."),
         BatchItem(custom_id="ex2", prompt="Translate 'Hello' to French.", system_prompt="Be literal."),
         BatchItem(custom_id="ex3", prompt="One sentence on why batching cuts cost."),
     ]
-    out = run_chat_batch_and_get_results(demo_items, default_model="gpt-5-mini")
+    out = run_chat_batch_and_get_results(
+        demo_items,
+        default_model="gpt-5-mini",
+        problem_id="demo_moon_translation_batch_v2",
+        verbose=True,
+    )
     for k, v in out.items():
         print(f"\n[{k}]\n{v}\n")
