@@ -1,10 +1,11 @@
 from inject_fact import inject_fact
-from call_api import chat_with_model
+# from call_api import chat_with_model
+from batch_api import run_chat_batch_and_get_results, BatchItem
 import os
 
 import time
 
-model = "gpt-5"  # default model to use for chat_with_model
+model = "gpt-5-mini"  # default model to use for chat_with_model
 # model = "gpt-5-mini"  # default model to use for chat_with_model
 grading_model = "gpt-5-mini"  # model to use for grading
 
@@ -46,7 +47,7 @@ def grade_quiz(model_response, ground_truth):
     
 
 
-def take_single_quiz(story_address, fact_location : float):
+def construct_single_quiz(story_address, fact_location : float) -> str:
     """
     Main function to take a quiz by injecting facts into a story and grading the model's responses.
     """
@@ -76,17 +77,17 @@ def take_single_quiz(story_address, fact_location : float):
 
     # print(f"quiz = \n{quiz}\n")
 
-    model_responce = chat_with_model(prompt=quiz, model=model)
+    # model_responce = chat_with_model(prompt=quiz, model=model)
     # print(f"model_responce = \n{model_responce}\n")
 
-    with open('prompts/answer_keys/answer_key1.txt', 'r') as file:
-        ground_truth = file.read()
+    # with open('prompts/answer_keys/answer_key1.txt', 'r') as file:
+    #     ground_truth = file.read()
     # print(f"ground_truth = \n{ground_truth}\n")
 
-    grade = grade_quiz(model_responce, ground_truth)
-    print(f"Grade = {grade}\n")
+    # grade = grade_quiz(model_responce, ground_truth)
+    # print(f"Grade = {grade}\n")
 
-    return grade
+    return quiz
 
 
 
@@ -98,28 +99,37 @@ def take_quizes_diff_lengths():
     Also injects facts at different locations in the story
     from 0.1 to 0.9 with step 0.1.
     """
-    grades = []
+    batch_items = []
     
     # for i in range(10):
     for i in [0]:
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_400k_expected_{(i+1)*10}%.txt"
-        grades.append([])
+        # grades.append([])
         # for j in range(10):
         for j in [0]:
             fact_location = j * 0.1 + 0.05
             print(f"Taking quiz for story length {i*10}% and fact location {fact_location}...")
             # grades[i - 1].append(take_single_quiz(story_address, fact_location))
-            grades[i].append(take_single_quiz(story_address, fact_location))
+            quiz = construct_single_quiz(story_address, fact_location)
+            batch_items.append(
+                BatchItem(
+                    custom_id=f"length_{(i+1)*10}%_factloc_{fact_location}",
+                    prompt=quiz,
+                    model=model,
+                )
+            )
             print("\n" + "="*50 + "\n")
 
             time.sleep(1)  # to avoid rate limit errors
     
-    print(grades)
-    save_grades_path = f"logs/grades_{model}.txt"
+    print(f"Running batch of {len(batch_items)} quiz items...")
+    results = run_chat_batch_and_get_results(batch_items, default_model=model)
+
+    save_grades_path = f"logs/batch_results_{model}.txt"
     os.makedirs(os.path.dirname(save_grades_path), exist_ok=True)
     with open(save_grades_path, 'w') as file:
-        file.write(str(grades))
-    print(f"Grades saved to {save_grades_path}")
+        file.write(str(results))
+    # print(f"Grades saved to {save_grades_path}")
     # print("Grades matrix:")
     # print(grades)
     # plot_grades(grades)
