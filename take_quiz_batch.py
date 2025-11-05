@@ -1,5 +1,5 @@
 from inject_fact import inject_fact
-# from call_api import chat_with_model
+from call_api import chat_with_model
 from batch_api import run_chat_batch_and_get_results, BatchItem
 import os
 
