@@ -4,6 +4,8 @@ from batch_api import run_chat_batch_and_get_results, BatchItem
 import os
 
 import time
+import re
+from typing import Optional
 
 model = "gpt-5-mini"  # default model to use for chat_with_model
 # model = "gpt-5-mini"  # default model to use for chat_with_model
@@ -91,6 +93,29 @@ def construct_single_quiz(story_address, fact_location : float) -> str:
 
 
 
+def get_unique_path(path: str) -> str:
+    """
+    Return a path that does not exist by appending or incrementing a numeric suffix
+    before the extension, e.g. file.txt -> file_1.txt, file_1.txt -> file_2.txt, etc.
+    """
+    if not os.path.exists(path):
+        return path
+
+    base, ext = os.path.splitext(path)
+    m = re.match(r"^(.*)_(\d+)$", base)
+    if m:
+        root = m.group(1)
+        idx = int(m.group(2)) + 1
+    else:
+        root = base
+        idx = 1
+
+    candidate = f"{root}_{idx}{ext}"
+    while os.path.exists(candidate):
+        idx += 1
+        candidate = f"{root}_{idx}{ext}"
+    return candidate
+
 
 def take_quizes_diff_lengths():
     """
@@ -101,19 +126,35 @@ def take_quizes_diff_lengths():
     """
     batch_items = []
     
-    # for i in range(10):
-    for i in [0]:
+    for i in range(10):
+    # for i in [0]:
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_400k_expected_{(i+1)*10}%.txt"
         # grades.append([])
-        # for j in range(10):
-        for j in [0]:
+        for j in range(10):
+        # for j in [0]:
             fact_location = j * 0.1 + 0.05
-            print(f"Taking quiz for story length {i*10}% and fact location {fact_location}...")
+            print(f"Taking quiz for story length {(i+1)*10}% and fact location {fact_location}...")
             # grades[i - 1].append(take_single_quiz(story_address, fact_location))
-            quiz = construct_single_quiz(story_address, fact_location)
+            
+            # cache quiz to avoid re-generating it
+            id = f"length_{(i+1)*10}%_factloc_{fact_location}"
+            cached_quiz_dir = "texts\la_comédie_humaine_(balzac)\contracted\temp_injected_facts"
+            cached_quiz_addr = cached_quiz_dir + f"\{id}.txt"
+
+            if os.path.exists(cached_quiz_addr):
+                with open(cached_quiz_addr, 'r', encoding='utf-8') as file:
+                    quiz = file.read()
+                print(f"Loaded cached quiz from {cached_quiz_addr}")
+            else:
+                quiz = construct_single_quiz(story_address, fact_location)
+                os.makedirs(cached_quiz_dir, exist_ok=True)
+                with open(cached_quiz_addr, 'w', encoding='utf-8') as file:
+                    file.write(quiz)
+                print(f"Saved constructed quiz to {cached_quiz_addr}")
+            
             batch_items.append(
                 BatchItem(
-                    custom_id=f"length_{(i+1)*10}%_factloc_{fact_location}",
+                    custom_id=id,
                     prompt=quiz,
                     model=model,
                 )
@@ -130,8 +171,13 @@ def take_quizes_diff_lengths():
 
     save_grades_path = f"logs/batch_results_{model}.txt"
     os.makedirs(os.path.dirname(save_grades_path), exist_ok=True)
+
+    # utils/file_utils.py
+
+    save_grades_path = get_unique_path(save_grades_path)
     with open(save_grades_path, 'w') as file:
         file.write(str(results))
+
     # print(f"Grades saved to {save_grades_path}")
     # print("Grades matrix:")
     # print(grades)

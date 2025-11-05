@@ -1,4 +1,5 @@
-from take_quiz_batch import grade_quiz
+from take_quiz_batch import grade_quiz, get_unique_path
+
 import re
 
 grader_model = "gpt-5-mini"
@@ -30,7 +31,7 @@ def grade(response_addr : str):
         grades[id] = grade
     
     output_addr = response_addr.replace("batch_responses", "grades").replace(".txt", f"_{grader_model}_grades.txt")
-    with open(output_addr, 'w') as file:
+    with open(get_unique_path(output_addr), 'w') as file:
         for id, grade in grades.items():
             file.write(f"{id} ==> {grade}\n")
 
