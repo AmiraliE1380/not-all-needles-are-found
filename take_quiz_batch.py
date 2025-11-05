@@ -123,7 +123,10 @@ def take_quizes_diff_lengths():
             time.sleep(1)  # to avoid rate limit errors
     
     print(f"Running batch of {len(batch_items)} quiz items...")
-    results = run_chat_batch_and_get_results(batch_items, default_model=model)
+    results = run_chat_batch_and_get_results(problem_id=model,
+                                             items=batch_items, 
+                                             default_model=model)
+    print("Batch results obtained.")
 
     save_grades_path = f"logs/batch_results_{model}.txt"
     os.makedirs(os.path.dirname(save_grades_path), exist_ok=True)
