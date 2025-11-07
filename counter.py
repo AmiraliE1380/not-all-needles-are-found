@@ -46,4 +46,4 @@ if __name__ == "__main__":
 
 
     # count_words_and_tokens("texts/la_comédie_humaine_(balzac)/contracted/la_comédie_humaine_expected_128000_actual_154955.txt")
-    count_words_and_tokens("texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_400000_actual_443899.txt")
+    count_words_and_tokens("texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_400k_expected_100%.txt")
