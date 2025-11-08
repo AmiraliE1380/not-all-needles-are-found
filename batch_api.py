@@ -27,6 +27,7 @@ from typing import Dict, Iterable, List, Optional
 from dotenv import load_dotenv
 from openai import OpenAI
 
+
 # --------------------------------------------------------------------------- #
 #  Environment & client setup
 # --------------------------------------------------------------------------- #
@@ -102,6 +103,11 @@ def _write_results_file(problem_id: str, results: Dict[str, str]) -> str:
     out_dir = pathlib.Path("batch_responses")
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / f"{problem_id}.txt"
+
+    
+    from take_quiz_batch import get_unique_path
+    out_path = get_unique_path(str(out_path))
+    
     lines = []
     for cid, text in results.items():
         lines.append(f"[{cid}]\n{text}\n")

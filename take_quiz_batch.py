@@ -128,19 +128,17 @@ def take_quizes_diff_lengths():
     """
     batch_items = []
     
-    # for i in range(10):
-    for i in [0]:
-        # story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
-        story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_{(i+1)*10}%.txt"
+    for i in range(10):
+    # for i in [0]:
+        story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
         # grades.append([])
-        # for j in range(10):
-        for j in [0]:
+        for j in range(10):
+        # for j in [0]:
             fact_location = j * 0.1 + 0.05
             print(f"Taking quiz for story length {(i+1)*10}% and fact location {fact_location}...")
             # grades[i - 1].append(take_single_quiz(story_address, fact_location))
             
             # cache quiz to avoid re-generating it
-            max_context_length = 128
             id = f"{max_context_length}k_length_{(i+1)*10}%_factloc_{fact_location*100:.0f}"
             cached_quiz_dir = "texts/la_comédie_humaine_(balzac)/contracted/temp_injected_facts"
             cached_quiz_addr = cached_quiz_dir + f"/{id}.txt"
@@ -156,31 +154,29 @@ def take_quizes_diff_lengths():
                     file.write(quiz)
                 print(f"Saved constructed quiz to {cached_quiz_addr}")
             
-            batch_items.append(
-                BatchItem(
-                    custom_id=id,
-                    prompt=quiz,
-                    model=model,
-                )
-            )
+            # batch_items.append(
+            #     BatchItem(
+            #         custom_id=id,
+            #         prompt=quiz,
+            #         model=model,
+            #     )
+            # )
             print("\n" + "="*50 + "\n")
 
-            time.sleep(1)  # to avoid rate limit errors
+            # time.sleep(1)  # to avoid rate limit errors
     
     print(f"Running batch of {len(batch_items)} quiz items...")
-    results = run_chat_batch_and_get_results(problem_id=model,
-                                             items=batch_items, 
-                                             default_model=model)
-    print("Batch results obtained.")
+    # results = run_chat_batch_and_get_results(problem_id=model,
+    #                                          items=batch_items, 
+    #                                          default_model=model)
+    # print("Batch results obtained.")
 
-    save_grades_path = f"logs/batch_results_{model}.txt"
-    os.makedirs(os.path.dirname(save_grades_path), exist_ok=True)
+    # # save_grades_path = f"logs/batch_results_{model}.txt"
+    # # os.makedirs(os.path.dirname(save_grades_path), exist_ok=True)
 
-    # utils/file_utils.py
-
-    save_grades_path = get_unique_path(save_grades_path)
-    with open(save_grades_path, 'w') as file:
-        file.write(str(results))
+    # # save_grades_path = get_unique_path(save_grades_path)
+    # # with open(save_grades_path, 'w') as file:
+    # #     file.write(str(results))
 
     # print(f"Grades saved to {save_grades_path}")
     # print("Grades matrix:")

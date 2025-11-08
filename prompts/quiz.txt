@@ -1,4 +1,4 @@
-ou are a person who has read the following story carefully with all details to be able to answer questions about it:
+You are a person who has read the following story carefully with all details to be able to answer questions about it:
 
 <story>
 {STORY}
