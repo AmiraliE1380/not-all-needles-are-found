@@ -1,8 +1,6 @@
 from constant_vals import *
 from counter import count_tokens
 
-import re
-
 
 def inject_fact(fact, story, location):
     """
@@ -38,3 +36,60 @@ def inject_fact(fact, story, location):
 
     # print(f'story_with_fact = \n{story_with_fact}\n\n')
     return story_with_fact
+
+
+import math
+import random
+from typing import Dict, List
+
+# All possible injection locations
+LOCATION_GRID: List[float] = [i * 0.05 for i in range(20)]  # 0.00 .. 0.95
+
+
+def _normalize(weights: List[float]) -> List[float]:
+    total = sum(weights)
+    if total == 0:
+        raise ValueError("Sum of weights is zero.")
+    return [w / total for w in weights]
+
+
+# Precompute weights for each distribution over LOCATION_GRID
+_uniform_weights = _normalize([1.0] * len(LOCATION_GRID))
+
+_normal_mean = 0.5
+_normal_std = 0.15
+_normal_weights = _normalize([
+    math.exp(-0.5 * ((x - _normal_mean) / _normal_std) ** 2)
+    for x in LOCATION_GRID
+])
+
+DISTRIBUTION_WEIGHTS: Dict[str, List[float]] = {
+    "uniform": _uniform_weights,
+    "normal": _normal_weights,
+    # later: "front_loaded": [...], "back_loaded": [...], etc.
+}
+
+
+def sample_location(distribution: str = "uniform", rng: random.Random = None) -> float:
+    if rng is None:
+        rng = random
+
+    try:
+        weights = DISTRIBUTION_WEIGHTS[distribution]
+    except KeyError:
+        raise ValueError(f"Unknown distribution: {distribution!r}")
+
+    # random.choices supports weighted sampling
+    return rng.choices(LOCATION_GRID, weights=weights, k=1)[0]
+
+
+if __name__ == "__main__":
+    distribution = "uniform"  # or "uniform", or arg/flag
+    location = sample_location(distribution)
+    
+    for _ in range(40):
+        loc = sample_location(distribution)
+        print(f"Sampled location: {loc}")
+
+    # fact, story come from elsewhere
+    # modified_story = inject_fact(fact, story, location)

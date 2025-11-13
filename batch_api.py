@@ -111,7 +111,11 @@ def _write_results_file(problem_id: str, results: Dict[str, str]) -> str:
     lines = []
     for cid, text in results.items():
         lines.append(f"[{cid}]\n{text}\n")
-    out_path.write_text("\n".join(lines), encoding="utf-8")
+    content = "\n".join(lines)
+    
+    with open(out_path, "w", encoding="utf-8") as f:
+        f.write(content)
+
     return str(out_path)
 
 
