@@ -4,7 +4,6 @@ from batch_api import run_chat_batch_and_get_results, BatchItem
 from counter import count_tokens
 import os
 
-import time
 import re
 
 model = "gpt-5-mini"  # default model to use for chat_with_model
@@ -101,6 +100,7 @@ def get_unique_path(path: str) -> str:
     before the extension, e.g. file.txt -> file_1.txt, file_1.txt -> file_2.txt, etc.
     """
     if not os.path.exists(path):
+        print(f"Writing to {path}...")
         return path
 
     base, ext = os.path.splitext(path)
@@ -116,6 +116,8 @@ def get_unique_path(path: str) -> str:
     while os.path.exists(candidate):
         idx += 1
         candidate = f"{root}_{idx}{ext}"
+    
+    print(f"Writing to {candidate}...")
     return candidate
 
 
@@ -132,8 +134,8 @@ def take_quizes_diff_lengths():
     # for i in [0]:
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
         # grades.append([])
-        for j in range(10):
-        # for j in [0]:
+        # for j in range(10):
+        for j in [0]:
             fact_location = j * 0.1 + 0.05
             print(f"Taking quiz for story length {(i+1)*10}% and fact location {fact_location}...")
             # grades[i - 1].append(take_single_quiz(story_address, fact_location))
@@ -154,29 +156,30 @@ def take_quizes_diff_lengths():
                     file.write(quiz)
                 print(f"Saved constructed quiz to {cached_quiz_addr}")
             
-            # batch_items.append(
-            #     BatchItem(
-            #         custom_id=id,
-            #         prompt=quiz,
-            #         model=model,
-            #     )
-            # )
+            batch_items.append(
+                BatchItem(
+                    custom_id=id,
+                    prompt=quiz,
+                    model=model,
+                )
+            )
             print("\n" + "="*50 + "\n")
 
             # time.sleep(1)  # to avoid rate limit errors
     
     print(f"Running batch of {len(batch_items)} quiz items...")
-    # results = run_chat_batch_and_get_results(problem_id=model,
-    #                                          items=batch_items, 
-    #                                          default_model=model)
-    # print("Batch results obtained.")
+    results = run_chat_batch_and_get_results(problem_id=model,
+                                             items=batch_items, 
+                                             default_model=model)
+    print(f"Results: {results}\n")
+    print("Batch results obtained.")
 
-    # # save_grades_path = f"logs/batch_results_{model}.txt"
-    # # os.makedirs(os.path.dirname(save_grades_path), exist_ok=True)
+    save_results_path = f"logs/batch_results_{model}.txt"
+    os.makedirs(os.path.dirname(save_results_path), exist_ok=True)
 
-    # # save_grades_path = get_unique_path(save_grades_path)
-    # # with open(save_grades_path, 'w') as file:
-    # #     file.write(str(results))
+    save_results_path = get_unique_path(save_grades_path)
+    with open(save_results_path, 'w') as file:
+        file.write(str(results))
 
     # print(f"Grades saved to {save_grades_path}")
     # print("Grades matrix:")

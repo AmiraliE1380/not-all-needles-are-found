@@ -212,6 +212,7 @@ def fetch_batch_results(batch_id: str) -> Dict[str, str]:
     return results
 
 
+
 def run_chat_batch_and_get_results(
     items: List[BatchItem],
     *,
@@ -242,20 +243,43 @@ def run_chat_batch_and_get_results(
 
     print(f"ℹ️ Batch finished: status={final.status} (problem_id={problem_id}, batch_id={final.id})")
 
-    if final.status != "completed":
+    # Helper to write a status-only file and return the stub dict
+    def _return_status_stub(note: str) -> Dict[str, str]:
         stub = {
             "_batch_id": final.id,
             "_status": final.status,
-            "_note": "Batch did not complete successfully; no output_file_id to fetch."
+            "_output_file_id": getattr(final, "output_file_id", None),
+            "_error_file_id": getattr(final, "error_file_id", None),
+            "_request_counts": getattr(final, "request_counts", None),
+            "_note": note,
         }
-        path = _write_results_file(problem_id, {"_batch_status": json.dumps(stub, ensure_ascii=False, indent=2)})
+        path = _write_results_file(
+            problem_id,
+            {"_batch_status": json.dumps(stub, ensure_ascii=False, indent=2)},
+        )
         print(f"📄 Wrote batch status to: {path}")
+        # Return a simpler (non-pretty-printed) JSON string as the value
         return {"_batch_status": json.dumps(stub)}
 
+    # Case 1: batch did not complete
+    if final.status != "completed":
+        return _return_status_stub(
+            "Batch did not complete successfully; no output_file_id to fetch."
+        )
+
+    # Case 2: batch says 'completed' but has no output_file_id
+    if not getattr(final, "output_file_id", None):
+        return _return_status_stub(
+            "Batch completed but has no output_file_id; likely all requests failed. "
+            "Check error_file_id and request_counts for details."
+        )
+
+    # Normal happy path: completed AND has output_file_id
     results = fetch_batch_results(final.id)
     path = _write_results_file(problem_id, results)
     print(f"📄 Saved results to: {path}")
     return results
+
 
 
 # --------------------------- demo -------------------------------------------
