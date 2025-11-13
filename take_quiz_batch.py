@@ -177,7 +177,7 @@ def take_quizes_diff_lengths():
     save_results_path = f"logs/batch_results_{model}.txt"
     os.makedirs(os.path.dirname(save_results_path), exist_ok=True)
 
-    save_results_path = get_unique_path(save_grades_path)
+    save_results_path = get_unique_path(save_results_path)
     with open(save_results_path, 'w') as file:
         file.write(str(results))
 
