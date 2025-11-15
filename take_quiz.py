@@ -49,47 +49,47 @@ def grade_quiz(model_response, ground_truth):
     
 
 
-def take_single_quiz(story_address, fact_location : float):
-    """
-    Main function to take a quiz by injecting facts into a story and grading the model's responses.
-    """
+# def take_single_quiz(story_address, fact_location : float):
+#     """
+#     Main function to take a quiz by injecting facts into a story and grading the model's responses.
+#     """
 
-    # load questions
-    with open('prompts/questions/questions1.txt', 'r') as file:
-        questions = file.read()
+#     # load questions
+#     with open('prompts/questions/questions1.txt', 'r') as file:
+#         questions = file.read()
 
-    # load prompt
-    with open('prompts/quiz.txt', 'r') as file:
-        prompt = file.read()
+#     # load prompt
+#     with open('prompts/quiz.txt', 'r') as file:
+#         prompt = file.read()
 
-    with open('prompts/facts/facts1.txt', 'r') as file:
-        facts = file.read()
+#     with open('prompts/facts/facts1.txt', 'r') as file:
+#         facts = file.read()
 
-    # load story
-    # story_address = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_1000_actual_1244.txt"
-    # story_address = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_100%.txt"
-    with open(story_address, 'r', encoding='utf-8') as file:
-        story = file.read()
+#     # load story
+#     # story_address = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_1000_actual_1244.txt"
+#     # story_address = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_100%.txt"
+#     with open(story_address, 'r', encoding='utf-8') as file:
+#         story = file.read()
 
-    print(f"story length in words: {len(story.split())}")
-    # print(f"facts = \n{facts}\n")
+#     print(f"story length in words: {len(story.split())}")
+#     # print(f"facts = \n{facts}\n")
 
-    story = inject_fact(facts, story, fact_location) 
-    quiz = prompt.format(STORY=story, QUESTIONS=questions)
+#     story = inject_fact(facts, story, fact_location) 
+#     quiz = prompt.format(STORY=story, QUESTIONS=questions)
 
-    # print(f"quiz = \n{quiz}\n")
+#     # print(f"quiz = \n{quiz}\n")
 
-    model_responce = chat_with_model(prompt=quiz, model=model)
-    # print(f"model_responce = \n{model_responce}\n")
+#     model_responce = chat_with_model(prompt=quiz, model=model)
+#     # print(f"model_responce = \n{model_responce}\n")
 
-    with open('prompts/answer_keys/answer_key1.txt', 'r') as file:
-        ground_truth = file.read()
-    # print(f"ground_truth = \n{ground_truth}\n")
+#     with open('prompts/answer_keys/answer_key1.txt', 'r') as file:
+#         ground_truth = file.read()
+#     # print(f"ground_truth = \n{ground_truth}\n")
 
-    grade = grade_quiz(model_responce, ground_truth)
-    print(f"Grade = {grade}\n")
+#     grade = grade_quiz(model_responce, ground_truth)
+#     print(f"Grade = {grade}\n")
 
-    return grade
+#     return grade
 
 
 

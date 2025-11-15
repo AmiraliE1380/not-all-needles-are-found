@@ -1,7 +1,8 @@
 from inject_fact import inject_fact
-from call_api import chat_with_model
+# from call_api import chat_with_model
 from batch_api import run_chat_batch_and_get_results, BatchItem
 from counter import count_tokens
+# from take_quiz import grade_quiz
 import os
 
 import re
@@ -10,43 +11,6 @@ model = "gpt-5-mini"  # default model to use for chat_with_model
 # model = "gpt-5-mini"  # default model to use for chat_with_model
 grading_model = "gpt-5-mini"  # model to use for grading
 max_context_length = 400 # number of thousands of tokens
-
-def grade_quiz(model_response, ground_truth):
-    """
-    Returns for numbers in the interval [0, 100] representing the percentage of correct answers.
-    The four numbers represent:
-    Total grade
-    direct facts 
-    inferential facts
-    hallucination
-    """
-
-    print(f"Grading model_responce = \n{model_response}\n")
-    print(f"With ground_truth = \n{ground_truth}\n")
-
-    grading_prompt_address = 'prompts/grading.txt'
-    with open(grading_prompt_address, 'r') as file:
-        grading_prompt = file.read()
-
-    grading_prompt = grading_prompt.format(MODEL_RESPONSE=model_response, GROUND_TRUTH=ground_truth)
-    scores = chat_with_model(prompt=grading_prompt, model=grading_model)
-    print(f"scores = \n{scores}\n") # scores are 30 numbers separated by a line break
-
-    def _score_to_percentage(scores):
-        return sum(scores) / len(scores) * 100
-
-    scores = [int(score) for score in scores.split('\n')]
-    total_scores = _score_to_percentage(scores)
-    print(f"Total scores = {total_scores}")
-    direct_scores = _score_to_percentage(scores[:10])
-    print(f"Direct facts scores = {direct_scores}")
-    inferential_scores = _score_to_percentage(scores[10:20])
-    print(f"Inferential facts scores = {inferential_scores}")
-    hallucinations_scores = _score_to_percentage(scores[20:])
-    print(f"hallucinations scores = {hallucinations_scores}")
-
-    return total_scores, direct_scores, inferential_scores, hallucinations_scores
-    
 
 
 def construct_single_quiz(story_address, fact_location : float) -> str:
