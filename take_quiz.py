@@ -1,12 +1,15 @@
 from inject_fact import inject_fact
 from call_api import chat_with_model
+from take_quiz_batch import get_unique_path, construct_single_quiz
 import os
 
 import time
 
-model = "gpt-5"  # default model to use for chat_with_model
-# model = "gpt-5-mini"  # default model to use for chat_with_model
+# model = "gpt-5"  # default model to use for chat_with_model
+model = "gpt-5-mini"  # default model to use for chat_with_model
 grading_model = "gpt-5-mini"  # model to use for grading
+max_context_length = 400 # number of thousands of tokens
+
 
 def grade_quiz(model_response, ground_truth):
     """
@@ -98,32 +101,53 @@ def take_quizes_diff_lengths():
     Also injects facts at different locations in the story
     from 0.1 to 0.9 with step 0.1.
     """
-    grades = []
     
     # for i in range(10):
     for i in [0]:
-        story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_400k_expected_{(i+1)*10}%.txt"
-        grades.append([])
+        story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
+        # grades.append([])
         # for j in range(10):
-        for j in [0]:
+        for j in range(1,10):
             fact_location = j * 0.1 + 0.05
-            print(f"Taking quiz for story length {i*10}% and fact location {fact_location}...")
+            print(f"Taking quiz for story length {(i+1)*10}% and fact location {fact_location}...")
             # grades[i - 1].append(take_single_quiz(story_address, fact_location))
-            grades[i].append(take_single_quiz(story_address, fact_location))
+            
+            # cache quiz to avoid re-generating it
+            id = f"{max_context_length}k_length_{(i+1)*10}%_factloc_{fact_location*100:.0f}"
+            cached_quiz_dir = "texts/la_comédie_humaine_(balzac)/contracted/temp_injected_facts"
+            cached_quiz_addr = cached_quiz_dir + f"/{id}.txt"
+
+            if os.path.exists(cached_quiz_addr):
+                with open(cached_quiz_addr, 'r', encoding='utf-8') as file:
+                    quiz = file.read()
+                print(f"Loaded cached quiz from {cached_quiz_addr}")
+            else:
+                quiz = construct_single_quiz(story_address, fact_location)
+                os.makedirs(cached_quiz_dir, exist_ok=True)
+                with open(cached_quiz_addr, 'w', encoding='utf-8') as file:
+                    file.write(quiz)
+                print(f"Saved constructed quiz to {cached_quiz_addr}")
+            
+            response = chat_with_model(prompt=quiz, model=model)
+            print(f"response: {response}\n")
             print("\n" + "="*50 + "\n")
 
-            time.sleep(1)  # to avoid rate limit errors
+            # time.sleep(120)  # to avoid token rate per minute limit errors
     
-    print(grades)
-    save_grades_path = f"logs/grades_{model}.txt"
-    os.makedirs(os.path.dirname(save_grades_path), exist_ok=True)
-    with open(save_grades_path, 'w') as file:
-        file.write(str(grades))
-    print(f"Grades saved to {save_grades_path}")
+
+    save_results_path = f"logs/quiz_responses_{id}_{model}.txt"
+    os.makedirs(os.path.dirname(save_results_path), exist_ok=True)
+
+    save_results_path = get_unique_path(save_results_path)
+    with open(save_results_path, 'w') as file:
+        file.write(str(response))
+
+    # print(f"Grades saved to {save_grades_path}")
     # print("Grades matrix:")
     # print(grades)
     # plot_grades(grades)
     # plot_grades([[0, 20.5],[90.8,10]])
+    
     
 
 if __name__ == "__main__":
