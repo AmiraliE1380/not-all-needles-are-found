@@ -8,7 +8,7 @@ import time
 # model = "gpt-5"  # default model to use for chat_with_model
 model = "gpt-5-mini"  # default model to use for chat_with_model
 grading_model = "gpt-5-mini"  # model to use for grading
-max_context_length = 400 # number of thousands of tokens
+max_context_length = 272 # number of thousands of tokens
 
 
 def grade_quiz(model_response, ground_truth):
@@ -103,7 +103,7 @@ def take_quizes_diff_lengths():
     """
     
     # for i in [6]:
-    for i in range(7, 10):
+    for i in range(10):
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
         # grades.append([])
         # for j in [9]:

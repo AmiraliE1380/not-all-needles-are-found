@@ -1,131 +1,111 @@
-from typing import List, Optional
+from __future__ import annotations
+import ast
+import csv
 import os
-import re
-from collections import Counter
-from io import StringIO
-import pandas as pd
+from pathlib import Path
+from typing import Iterable, List, Sequence, Tuple
 
-"""
-print2csv.py
-
-Provides a single function `extract_and_save_tables` that:
-- reads a .txt file,
-- extracts up to 4 tabular blocks into pandas DataFrames,
-- saves them as CSV files named "<model>_table1.csv" ... "<model>_table4.csv".
-
-Heuristic parsing:
-- Splits the text into blocks separated by two or more newlines.
-- Tokenizes each block by commas, tabs, semicolons or whitespace.
-- Keeps rows with the most common column count in the block.
-- Detects a header row when the first row contains non-numeric tokens while subsequent rows are mostly numeric.
-"""
+# print2csv.py
 
 
-
-
-def extract_and_save_tables(model: str, file_addr: str, out_dir: Optional[str] = None) -> List[pd.DataFrame]:
+def parse_grades_file(path: str) -> List[List[Tuple[float, float, float, float]]]:
     """
-    Load a text file, extract up to 4 tables, save them as CSVs, and return the DataFrames.
-
-    Args:
-        model: identifier used to name output CSVs (e.g. "gpt-4").
-        file_addr: path to the input .txt file.
-        out_dir: directory to write CSVs (defaults to current working directory).
-
-    Returns:
-        List of up to 4 pandas.DataFrame objects (empty DataFrames if fewer than 4 found).
+    Load and parse a text file that contains a Python literal representing
+    a matrix (list of lists) of 4-tuples of numbers.
     """
-    if out_dir is None:
-        out_dir = os.getcwd()
-    os.makedirs(out_dir, exist_ok=True)
-
-    with open(file_addr, "r", encoding="utf-8") as f:
-        text = f.read()
-
-    # Split text into blocks separated by at least one blank line
-    blocks = re.split(r'(?:\r?\n){2,}', text)
-
-    tables: List[pd.DataFrame] = []
-
-    def tokenize_line(line: str) -> List[str]:
-        # split by comma, tab, semicolon or any whitespace
-        parts = [p for p in re.split(r'[,\t;]|\s+', line.strip()) if p != ""]
-        return parts
-
-    for block in blocks:
-        if len(tables) >= 4:
-            break
-
-        lines = [ln for ln in block.splitlines() if ln.strip()]
-        if len(lines) < 2:
-            # skip blocks that are too short to be a table
-            continue
-
-        tokenized = [tokenize_line(ln) for ln in lines]
-        if not tokenized:
-            continue
-
-        counts = [len(row) for row in tokenized]
-        if not counts:
-            continue
-
-        # choose the most common column count to filter noisy lines
-        mode_count = Counter(counts).most_common(1)[0][0]
-        rows = [row for row in tokenized if len(row) == mode_count]
-        if len(rows) < 2:
-            continue  # not enough consistent rows
-
-        # header detection: if first row has any non-numeric token and subsequent rows are mostly numeric
-        def is_numeric_token(tok: str) -> bool:
-            tok = tok.replace(",", "")  # allow thousands separators
-            try:
-                float(tok)
-                return True
-            except Exception:
-                return False
-
-        first_row = rows[0]
-        numeric_in_rest = sum(1 for r in rows[1:] for tok in r if is_numeric_token(tok))
-        total_in_rest = sum(len(r) for r in rows[1:]) or 1
-
-        header_is_text = any(not is_numeric_token(tok) for tok in first_row) and (numeric_in_rest / total_in_rest) > 0.3
-
-        if header_is_text:
-            header = [h.strip() if h.strip() != "" else f"col{i}" for i, h in enumerate(first_row, start=1)]
-            data_rows = rows[1:]
-        else:
-            # create generic column names
-            header = [f"col{i}" for i in range(1, mode_count + 1)]
-            data_rows = rows
-
-        df = pd.DataFrame(data_rows, columns=header)
-
-        # attempt to convert columns to numeric types where reasonable
-        for col in df.columns:
-            coerced = pd.to_numeric(df[col].str.replace(",", ""), errors="coerce")
-            # if at least one value converted to numeric, use it (preserve non-convertible as NaN)
-            if coerced.notna().sum() > 0:
-                df[col] = coerced
-
-        tables.append(df)
-
-    # If fewer than 4 tables found, append empty DataFrames
-    while len(tables) < 4:
-        tables.append(pd.DataFrame())
-
-    # sanitize model for filenames
-    safe_model = re.sub(r'[^A-Za-z0-9_.-]+', '_', model)
-
-    # Save to CSV files
-    for i, df in enumerate(tables[:4], start=1):
-        out_path = os.path.join(out_dir, f"{safe_model}_table{i}.csv")
-        # ensure consistent CSV output even for empty DataFrame
-        df.to_csv(out_path, index=False)
-
-    return tables
+    p = Path(path)
+    if not p.exists():
+        raise FileNotFoundError(f"grades file not found: {path}")
+    text = p.read_text()
+    data = ast.literal_eval(text)
+    if not isinstance(data, list):
+        raise ValueError("parsed data is not a list")
+    # Basic validation and normalization
+    matrix: List[List[Tuple[float, float, float, float]]] = []
+    for row in data:
+        if not isinstance(row, (list, tuple)):
+            raise ValueError("each row must be a list/tuple")
+        parsed_row: List[Tuple[float, float, float, float]] = []
+        for cell in row:
+            if not (isinstance(cell, (list, tuple)) and len(cell) >= 4):
+                raise ValueError("each cell must be a sequence with at least 4 numeric elements")
+            # take first 4 elements and convert to float
+            first4 = tuple(float(cell[i]) for i in range(4))
+            parsed_row.append(first4)
+        matrix.append(parsed_row)
+    return matrix
 
 
-# Example usage (commented out):
-# dfs = extract_and_save_tables("my_model", "/path/to/input.txt", out_dir="output_csvs")
-# for i, df in enumerate(dfs, 1):
-#     print(f"Table {i}: {df.shape}")
+def transpose_matrix(matrix: List[List[Tuple[float, float, float, float]]]
+                     ) -> List[List[Tuple[float, float, float, float]]]:
+    """
+    Transpose a rectangular matrix (list of rows). Raises ValueError if rows differ in length.
+    """
+    if not matrix:
+        return []
+    row_count = len(matrix)
+    col_count = len(matrix[0])
+    for r in matrix:
+        if len(r) != col_count:
+            raise ValueError("cannot transpose matrix with rows of differing lengths")
+    # transpose: new rows are columns of original
+    return [[matrix[r][c] for r in range(row_count)] for c in range(col_count)]
+
+
+def _write_matrix_csv(matrix: List[List[float]], out_path: Path) -> None:
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    with out_path.open("w", newline="") as f:
+        writer = csv.writer(f)
+        for row in matrix:
+            writer.writerow(row)
+
+
+def save_scores_to_csvs(model: str, raw_grades_addr: str, out_dir: str = "CSVs") -> dict:
+    """
+    Given a model name and a path to a .txt file containing a matrix of 4-tuples,
+    extract the 1st, 2nd, 3rd and 4th elements of every tuple into four CSV files:
+      - {out_dir}/{model}_total_scores.csv          (first element)
+      - {out_dir}/{model}_direct_scores.csv         (second element)
+      - {out_dir}/{model}_inferential_scores.csv    (third element)
+      - {out_dir}/{model}_hallucinations_scores.csv (fourth element)
+
+    Returns a dict with the produced file paths.
+    """
+    matrix = parse_grades_file(raw_grades_addr)
+
+    # apply transpose
+    matrix = transpose_matrix(matrix)
+
+    # Build four matrices of floats with same shape
+    totals: List[List[float]] = []
+    directs: List[List[float]] = []
+    inferentials: List[List[float]] = []
+    hallucinations: List[List[float]] = []
+
+    for row in matrix:
+        totals.append([cell[0] for cell in row])
+        directs.append([cell[1] for cell in row])
+        inferentials.append([cell[2] for cell in row])
+        hallucinations.append([cell[3] for cell in row])
+
+    out_base = Path(out_dir)
+    paths = {
+        "total": out_base / f"{model}_total_scores.csv",
+        "direct": out_base / f"{model}_direct_scores.csv",
+        "inferential": out_base / f"{model}_inferential_scores.csv",
+        "hallucinations": out_base / f"{model}_hallucinations_scores.csv",
+    }
+
+    _write_matrix_csv(totals, paths["total"])
+    _write_matrix_csv(directs, paths["direct"])
+    _write_matrix_csv(inferentials, paths["inferential"])
+    _write_matrix_csv(hallucinations, paths["hallucinations"])
+
+    # return string paths for convenience
+    return {k: str(v) for k, v in paths.items()}
+
+if __name__ == "__main__":
+    save_scores_to_csvs(
+        model="gpt-4o",
+        raw_grades_addr="logs/grades_gpt-4o-mini.txt"
+    )
