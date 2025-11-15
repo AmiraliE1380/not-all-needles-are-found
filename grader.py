@@ -18,13 +18,13 @@ def grade(response_addr : str):
     final_log = responses + f"\n\n=== GRADES ===\n\n{str(grades)}\n\n=== GRADES ===\n\n"
     grades_dict = {
         "total_scores" : grades[0], 
-        "direct_scores" : grades[0],
-        "inferential_scores" : grades[0],
-        "hallucinations_scores" : grades[0]
+        "direct_scores" : grades[1],
+        "inferential_scores" : grades[2],
+        "hallucinations_scores" : grades[3]
     }
     final_log += str(grades_dict)
     
-    output_addr = response_addr.replace(".txt", f"_{grader_model}_grades.txt")
+    output_addr = response_addr.replace(".txt", f"_grades.txt")
     with open(output_addr, 'w') as file:
         file.write(final_log)
 
@@ -33,7 +33,8 @@ def grade(response_addr : str):
 
 if __name__ == "__main__":
     # for i in range(10):
-    for i in range(1,10):
-        addr = f"logs/quiz_responses_400k_length_10%_factloc_{5+i*10}_gpt-5-mini.txt"
-        print(grade(addr))
+    for i in range(1, 10):
+        for j in range(10):
+            addr = f"logs/quiz_responses_400k_length_{(i+1)*10}%_factloc_{5+j*10}_gpt-5-mini.txt"
+            print(grade(addr))
     

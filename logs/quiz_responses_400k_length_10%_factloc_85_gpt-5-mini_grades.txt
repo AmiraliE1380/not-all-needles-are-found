@@ -35,4 +35,4 @@ Question 30: She was unhappy in the marriage / suffered because of it
 
 === GRADES ===
 
-{'total_scores': 90.0, 'direct_scores': 90.0, 'inferential_scores': 90.0, 'hallucinations_scores': 90.0}
+{'total_scores': 90.0, 'direct_scores': 100.0, 'inferential_scores': 100.0, 'hallucinations_scores': 70.0}

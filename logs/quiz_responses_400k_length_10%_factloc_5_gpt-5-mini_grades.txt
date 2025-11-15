@@ -35,4 +35,4 @@ Question 30: She was unhappy in the marriage / it led to misery (no indication o
 
 === GRADES ===
 
-{'total_scores': 93.33333333333333, 'direct_scores': 93.33333333333333, 'inferential_scores': 93.33333333333333, 'hallucinations_scores': 93.33333333333333}
+{'total_scores': 93.33333333333333, 'direct_scores': 100.0, 'inferential_scores': 100.0, 'hallucinations_scores': 80.0}

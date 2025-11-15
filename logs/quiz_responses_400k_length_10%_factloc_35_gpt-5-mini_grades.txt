@@ -35,4 +35,4 @@ Question 30: She was unhappy and endured hardship in the marriage (felt misery)
 
 === GRADES ===
 
-{'total_scores': 96.66666666666667, 'direct_scores': 96.66666666666667, 'inferential_scores': 96.66666666666667, 'hallucinations_scores': 96.66666666666667}
+{'total_scores': 96.66666666666667, 'direct_scores': 100.0, 'inferential_scores': 100.0, 'hallucinations_scores': 90.0}

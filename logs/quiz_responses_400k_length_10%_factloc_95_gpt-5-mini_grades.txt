@@ -35,4 +35,4 @@ Question 30: She was unhappy/miserable in the marriage
 
 === GRADES ===
 
-{'total_scores': 86.66666666666667, 'direct_scores': 86.66666666666667, 'inferential_scores': 86.66666666666667, 'hallucinations_scores': 86.66666666666667}
+{'total_scores': 86.66666666666667, 'direct_scores': 100.0, 'inferential_scores': 100.0, 'hallucinations_scores': 60.0}
