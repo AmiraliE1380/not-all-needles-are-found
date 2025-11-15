@@ -24,16 +24,16 @@ def grade(response_addr : str):
     with open(ground_truth_addr, 'r') as file:
         ground_truth = file.read()
 
-    grades: dict[str, list[int]] = {}
-    for id, resp in responses.items():
-        grade = grade_quiz(resp, ground_truth)
-        print(f"Grade for {id} = {grade}\n")
-        grades[id] = grade
+    # grades: dict[str, list[int]] = {}
+    # for id, resp in responses.items():
+    #     grade = grade_quiz(resp, ground_truth)
+    #     print(f"Grade for {id} = {grade}\n")
+    #     grades[id] = grade
     
-    output_addr = response_addr.replace("batch_responses", "grades").replace(".txt", f"_{grader_model}_grades.txt")
-    with open(get_unique_path(output_addr), 'w') as file:
-        for id, grade in grades.items():
-            file.write(f"{id} ==> {grade}\n")
+    # output_addr = response_addr.replace("batch_responses", "grades").replace(".txt", f"_{grader_model}_grades.txt")
+    # with open(get_unique_path(output_addr), 'w') as file:
+    #     for id, grade in grades.items():
+    #         file.write(f"{id} ==> {grade}\n")
 
 
 if __name__ == "__main__":

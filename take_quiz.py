@@ -127,7 +127,7 @@ def take_quizes_diff_lengths():
                 with open(cached_quiz_addr, 'w', encoding='utf-8') as file:
                     file.write(quiz)
                 print(f"Saved constructed quiz to {cached_quiz_addr}")
-            
+
             response = chat_with_model(prompt=quiz, model=model)
             print(f"response: {response}\n")
             print("\n" + "="*50 + "\n")
@@ -135,12 +135,12 @@ def take_quizes_diff_lengths():
             # time.sleep(120)  # to avoid token rate per minute limit errors
     
 
-    save_results_path = f"logs/quiz_responses_{id}_{model}.txt"
-    os.makedirs(os.path.dirname(save_results_path), exist_ok=True)
+            save_results_path = f"logs/quiz_responses_{id}_{model}.txt"
+            os.makedirs(os.path.dirname(save_results_path), exist_ok=True)
 
-    save_results_path = get_unique_path(save_results_path)
-    with open(save_results_path, 'w') as file:
-        file.write(str(response))
+            save_results_path = get_unique_path(save_results_path)
+            with open(save_results_path, 'w') as file:
+                file.write(str(response))
 
     # print(f"Grades saved to {save_grades_path}")
     # print("Grades matrix:")
