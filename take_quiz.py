@@ -115,7 +115,8 @@ def take_quizes_diff_lengths():
             # cache quiz to avoid re-generating it
             id = f"{max_context_length}k_length_{(i+1)*10}%_factloc_{fact_location*100:.0f}"
             cached_quiz_dir = "texts/la_comédie_humaine_(balzac)/contracted/temp_injected_facts"
-            cached_quiz_addr = cached_quiz_dir + f"/{id}.txt"
+            # cached_quiz_addr = cached_quiz_dir + f"/{id}.txt"
+            cached_quiz_addr = cached_quiz_dir + f"/{id}_no_hallucination.txt"
 
             if os.path.exists(cached_quiz_addr):
                 with open(cached_quiz_addr, 'r', encoding='utf-8') as file:
