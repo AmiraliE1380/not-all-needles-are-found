@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie‑Rose
+Question 3: At Élodie‑Rose’s wedding
+Question 4: She was the same age as Augustine
+Question 5: Hazel
+Question 6: The marriage ended very shortly after (she became single again)
+Question 7: About 36 years old (married at 16 and lived two decades thereafter)
+Question 8: Six feet tall
+Question 9: He was skinny (thin)
+Question 10: Her dark black hair turned gray
+Question 11: Yes — she developed stage‑4 glioblastoma, an advanced (terminal) form of brain cancer
+Question 12: Six feet tall
+Question 13: 32 years old (twice her age when she was 16)
+Question 14: She lived in Paris until her marriage at age 16 (about 16 years)
+Question 15: Dark black
+Question 16: Approximately 183 cm
+Question 17: Maelien
+Question 18: Largely alone (she lived most of those years alone in Albi)
+Question 19: Happy and well cared for before age 16
+Question 20: Miserable, lonely, and suffering after age 16
+Question 21: Not stated in the story
+Question 22: Not stated in the story
+Question 23: Not stated in the story
+Question 24: Not stated in the story
+Question 25: In Albi (she died there)
+Question 26: No formal job stated; lived as a wife/homekeeper (housewife)
+Question 27: Not stated in the story
+Question 28: Not specified in the story (it is said she died a lonely death)
+Question 29: Not stated in the story
+Question 30: She was unhappy/miserable about her marriage and its consequences
+
+=== GRADES ===
+
+(83.33333333333334, 90.0, 100.0, 60.0)
+
+=== GRADES ===
+
+{'total_scores': 83.33333333333334, 'direct_scores': 90.0, 'inferential_scores': 100.0, 'hallucinations_scores': 60.0}

@@ -1,0 +1,27 @@
+You are a person who has read the following story carefully with all details to be able to answer questions about it:
+
+<story>
+{STORY}
+</story>
+
+Now, you will answer the following questions based on the story you just read:
+
+<questions>
+{QUESTIONS}
+</questions>
+
+Instructions for answering:
+1. Read each question carefully.
+2. Review the story to find the relevant information.
+3. If the information is not explicitly stated in the story, respond with the most logical answer based on the given information or one that can be inferred upon.
+4. If the information was neither explicitly nor implicitly mentioned, answer "Not mentioned in the text or story."
+
+Provide your answers in the following format:
+Question 1: [YOUR ANSWER]
+Question 2: [YOUR ANSWER]
+...
+Question 8: [YOUR ANSWER]
+
+Each answer must be on a separate line.
+
+Your final output should consist of only the answers in the specified format, without any additional explanation or commentary.

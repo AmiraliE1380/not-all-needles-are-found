@@ -1,0 +1,38 @@
+Question 1: 18
+Question 2: Élodie‑Rose
+Question 3: At Élodie‑Rose’s wedding
+Question 4: She was the same age as Augustine
+Question 5: Hazel
+Question 6: He died (she is described as the widow of Maelien)
+Question 7: Not stated
+Question 8: Six feet tall
+Question 9: Not stated
+Question 10: Her dark black hair turned gray
+Question 11: Yes — she developed stage‑4 glioblastoma, an aggressive/terminal brain cancer
+Question 12: Not stated
+Question 13: Not stated
+Question 14: She lived in Paris through her childhood/up until her marriage (i.e., until about age 18)
+Question 15: Not stated
+Question 16: Not stated
+Question 17: Maelien
+Question 18: She lived alone in Albi (mostly by herself)
+Question 19: Happy — she grew up happily alongside Augustine
+Question 20: Miserable/declined — endured hardship, loneliness and health deterioration after 16
+Question 21: Not stated
+Question 22: Not stated
+Question 23: Not stated
+Question 24: Not stated
+Question 25: Albi
+Question 26: Not stated
+Question 27: Not stated
+Question 28: Not stated
+Question 29: Not stated
+Question 30: Not stated
+
+=== GRADES ===
+
+(66.66666666666666, 60.0, 50.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 66.66666666666666, 'direct_scores': 60.0, 'inferential_scores': 50.0, 'hallucinations_scores': 90.0}

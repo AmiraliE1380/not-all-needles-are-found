@@ -33,8 +33,8 @@ def grade(response_addr : str):
 
 if __name__ == "__main__":
     # for i in range(10):
-    for i in range(1, 10):
+    for i in range(10):
         for j in range(10):
-            addr = f"logs/quiz_responses_400k_length_{(i+1)*10}%_factloc_{5+j*10}_gpt-5-mini.txt"
+            addr = f"logs/quiz_responses_272k_length_{(i+1)*10}%_factloc_{5+j*10}_gpt-5-mini.txt"
             print(grade(addr))
     
