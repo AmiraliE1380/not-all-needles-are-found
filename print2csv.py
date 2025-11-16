@@ -8,6 +8,9 @@ from typing import Iterable, List, Sequence, Tuple
 # print2csv.py
 
 
+
+
+
 def parse_grades_file(path: str) -> List[List[Tuple[float, float, float, float]]]:
     """
     Load and parse a text file that contains a Python literal representing
@@ -104,8 +107,37 @@ def save_scores_to_csvs(model: str, raw_grades_addr: str, out_dir: str = "CSVs")
     # return string paths for convenience
     return {k: str(v) for k, v in paths.items()}
 
+
+def grade_collector(context_length: int, model: str):
+    """
+    Collect grades from multiple quiz response files into a single grades file.
+    """
+    grades: List[List[Tuple[float, float, float, float]]] = []
+
+    for i in range(10):
+        grades.append([])
+        for j in range(10):
+            response_addr = f"logs/quiz_responses_{context_length}k_length_{(i+1)*10}%_factloc_{5+j*10}_{model}_grades.txt"
+            
+            with open(response_addr, 'r') as file:
+                responses = file.read()
+
+            grade = eval(responses.split("=== GRADES ===")[1])
+            grades[i].append(grade)
+
+    save_grades_path = f"logs/grades_{model}.txt"
+    with open(save_grades_path, 'w') as file:
+        file.write(str(grades))
+
+    print(f"Grades saved to {save_grades_path}")
+    print("Grades matrix:")
+    for row in grades:
+        print(row)
+
+
 if __name__ == "__main__":
+    grade_collector(context_length=272, model="gpt-5-mini")
     save_scores_to_csvs(
-        model="gpt-4o",
-        raw_grades_addr="logs/grades_gpt-4o-mini.txt"
+        model="gpt-5-mini",
+        raw_grades_addr="logs/grades_gpt-5-mini.txt"
     )

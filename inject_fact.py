@@ -1,17 +1,21 @@
 from constant_vals import *
 from counter import count_tokens
 
+import math
+import random
+from typing import Dict, List
+
 
 def inject_fact(fact, story, location):
     """
     Inject a fact into a story, ensuring the story remains coherent and within token limits.
-    
+
     Args:
         fact (str): The fact to inject.
         story (str): The original story.
         location (float): The location in the story where the fact should be injected,
             represented as a percentage (0.0 to 1.0).
-    
+
     Returns:
         str: The modified story with the fact injected.
     """
@@ -19,7 +23,7 @@ def inject_fact(fact, story, location):
     # Split on either MIDDLE_OF_STORY or STORY_SEPERATOR
     # story = story.replace(STORY_SEPERATOR, '\n' + MIDDLE_OF_STORY + '\n')
     # split_parts = story.split(MIDDLE_OF_STORY)
-    
+
     split_parts = story.split('\n')
     full_story = ''.join(split_parts)
     entire_story_token_count = count_tokens(full_story)
@@ -33,14 +37,13 @@ def inject_fact(fact, story, location):
             story_with_fact += '\n\n' + fact + '\n\n'
             story_injected = True
 
-
     # print(f'story_with_fact = \n{story_with_fact}\n\n')
     return story_with_fact
 
 
-import math
-import random
-from typing import Dict, List
+# --------------------------------------------------------------------------- #
+#  Location distributions
+# --------------------------------------------------------------------------- #
 
 # All possible injection locations
 LOCATION_GRID: List[float] = [i * 0.05 for i in range(20)]  # 0.00 .. 0.95
@@ -53,9 +56,10 @@ def _normalize(weights: List[float]) -> List[float]:
     return [w / total for w in weights]
 
 
-# Precompute weights for each distribution over LOCATION_GRID
+# Uniform
 _uniform_weights = _normalize([1.0] * len(LOCATION_GRID))
 
+# Normal (Gaussian) centered in the middle
 _normal_mean = 0.5
 _normal_std = 0.15
 _normal_weights = _normalize([
@@ -63,14 +67,75 @@ _normal_weights = _normalize([
     for x in LOCATION_GRID
 ])
 
+# Exponential (decaying from left to right)
+_exp_lambda = 4.0
+_exponential_weights = _normalize([
+    math.exp(-_exp_lambda * x) for x in LOCATION_GRID
+])
+
+# "Flipped" Exponential (increasing from left to right)
+_exponential_flipped_weights = list(reversed(_exponential_weights))
+
+# Bimodal (Gaussian mixture)
+_bimodal_mu1 = 0.3
+_bimodal_mu2 = 0.7
+_bimodal_sigma = 0.08
+_bimodal_weights = _normalize([
+    math.exp(-0.5 * ((x - _bimodal_mu1) / _bimodal_sigma) ** 2)
+    + math.exp(-0.5 * ((x - _bimodal_mu2) / _bimodal_sigma) ** 2)
+    for x in LOCATION_GRID
+])
+
+# Arcsine on [0, 1] (peaks at both ends)
+_eps = 1e-3
+_arcsine_weights = _normalize([
+    1.0 / math.sqrt(max(x, _eps) * max(1.0 - x, _eps))
+    for x in LOCATION_GRID
+])
+
+# Lorentzian (Cauchy) centered in the middle
+_cauchy_x0 = 0.5
+_cauchy_gamma = 0.07
+_cauchy_weights = _normalize([
+    1.0 / (1.0 + ((x - _cauchy_x0) / _cauchy_gamma) ** 2)
+    for x in LOCATION_GRID
+])
+
+# Rayleigh (peak toward the left side)
+_rayleigh_sigma = 0.25
+_rayleigh_weights = _normalize([
+    (x / (_rayleigh_sigma ** 2)) * math.exp(-x * x / (2.0 * _rayleigh_sigma ** 2))
+    for x in LOCATION_GRID
+])
+
+# "Flipped" Rayleigh (peak toward the right side)
+_rayleigh_flipped_weights = list(reversed(_rayleigh_weights))
+
+
 DISTRIBUTION_WEIGHTS: Dict[str, List[float]] = {
+    # From first row
     "uniform": _uniform_weights,
     "normal": _normal_weights,
-    # later: "front_loaded": [...], "back_loaded": [...], etc.
+    "exponential": _exponential_weights,
+
+    # Second row
+    "exponential_flipped": _exponential_flipped_weights,
+    "bimodal": _bimodal_weights,
+    "bimodal_gaussian_mixture": _bimodal_weights,
+    "arcsine": _arcsine_weights,
+
+    # Third row
+    "lorentzian": _cauchy_weights,
+    "cauchy": _cauchy_weights,  # alias
+    "rayleigh": _rayleigh_weights,
+    "rayleigh_flipped": _rayleigh_flipped_weights,
 }
 
 
 def sample_location(distribution: str = "uniform", rng: random.Random = None) -> float:
+    """
+    Sample a location from LOCATION_GRID according to the given distribution.
+    """
     if rng is None:
         rng = random
 
@@ -84,9 +149,17 @@ def sample_location(distribution: str = "uniform", rng: random.Random = None) ->
 
 
 if __name__ == "__main__":
-    distribution = "uniform"  # or "uniform", or arg/flag
+    # distribution = "uniform"  # change to "normal", "bimodal", "rayleigh", etc.
+    distribution = "normal"  # change to "normal", "bimodal", "rayleigh", etc.
+    # distribution = "exponential"  # change to "normal", "bimodal", "rayleigh", etc.
+    # distribution = "exponential_flipped"  # change to "normal", "bimodal", "rayleigh", etc.
+    # distribution = "bimodal_gaussian_mixture"  # change to "normal", "bimodal", "rayleigh", etc.
+    # distribution = "arcsine"  # change to "normal", "bimodal", "rayleigh", etc.
+    # distribution = "lorentzian"  # change to "normal", "bimodal", "rayleigh", etc.
+    # distribution = "rayleigh"  # change to "normal", "bimodal", "rayleigh", etc.
+    # distribution = "rayleigh_flipped"  # change to "normal", "bimodal", "rayleigh", etc.
     location = sample_location(distribution)
-    
+
     for _ in range(40):
         loc = sample_location(distribution)
         print(f"Sampled location: {loc}")
