@@ -1,0 +1,38 @@
+Question 1: 16  
+Question 2: Élodie-Rose  
+Question 3: At Élodie-Rose’s wedding  
+Question 4: She was the same age as Augustine (born in the same year)  
+Question 5: Hazel  
+Question 6: He died (Élodie-Rose was left a widow)  
+Question 7: Not mentioned in the text or story.  
+Question 8: 6 feet  
+Question 9: Not mentioned in the text or story.  
+Question 10: Her dark black hair turned gray  
+Question 11: Yes — she had stage 4 glioblastoma, a terminal (the worst) form of brain cancer.  
+Question 12: Not mentioned in the text or story.  
+Question 13: 32  
+Question 14: Not mentioned in the text or story.  
+Question 15: Not mentioned in the text or story.  
+Question 16: Not mentioned in the text or story.  
+Question 17: Maelien  
+Question 18: She lived alone in Albi in her last years.  
+Question 19: Happy and well cared for (lived happily before age 16)  
+Question 20: Miserable, lonely, and physically/mentally deteriorated after 16  
+Question 21: Not mentioned in the text or story.  
+Question 22: Not mentioned in the text or story.  
+Question 23: Not mentioned in the text or story.  
+Question 24: Not mentioned in the text or story.  
+Question 25: Albi (died there; burial inferred to be there)  
+Question 26: Not mentioned in the text or story.  
+Question 27: Not mentioned in the text or story.  
+Question 28: Not mentioned in the text or story.  
+Question 29: Not mentioned in the text or story.  
+Question 30: Not mentioned in the text or story.
+
+=== GRADES ===
+
+(76.66666666666667, 80.0, 60.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 76.66666666666667, 'direct_scores': 80.0, 'inferential_scores': 60.0, 'hallucinations_scores': 90.0}

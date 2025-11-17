@@ -93,10 +93,10 @@ def save_scores_to_csvs(model: str, raw_grades_addr: str, out_dir: str = "CSVs")
 
     out_base = Path(out_dir)
     paths = {
-        "total": out_base / f"{model}_total_scores.csv",
-        "direct": out_base / f"{model}_direct_scores.csv",
-        "inferential": out_base / f"{model}_inferential_scores.csv",
-        "hallucinations": out_base / f"{model}_hallucinations_scores.csv",
+        "total": out_base / f"{model}_no_hallucination_total_scores.csv",
+        "direct": out_base / f"{model}_no_hallucination_direct_scores.csv",
+        "inferential": out_base / f"{model}_no_hallucination_inferential_scores.csv",
+        "hallucinations": out_base / f"{model}_no_hallucination_hallucinations_scores.csv",
     }
 
     _write_matrix_csv(totals, paths["total"])
@@ -117,7 +117,7 @@ def grade_collector(context_length: int, model: str):
     for i in range(10):
         grades.append([])
         for j in range(10):
-            response_addr = f"logs/quiz_responses_{context_length}k_length_{(i+1)*10}%_factloc_{5+j*10}_{model}_grades.txt"
+            response_addr = f"logs/quiz_responses_{context_length}k_length_{(i+1)*10}%_factloc_{5+j*10}_{model}_no_hallucination_grades.txt"
             
             with open(response_addr, 'r') as file:
                 responses = file.read()
@@ -125,7 +125,7 @@ def grade_collector(context_length: int, model: str):
             grade = eval(responses.split("=== GRADES ===")[1])
             grades[i].append(grade)
 
-    save_grades_path = f"logs/grades_{model}.txt"
+    save_grades_path = f"logs/grades_{model}_no_hallucination.txt"
     with open(save_grades_path, 'w') as file:
         file.write(str(grades))
 
@@ -136,8 +136,9 @@ def grade_collector(context_length: int, model: str):
 
 
 if __name__ == "__main__":
-    grade_collector(context_length=272, model="gpt-5-mini")
+    model = "gpt-5-mini"
+    grade_collector(context_length=272, model=model)
     save_scores_to_csvs(
         model="gpt-5-mini",
-        raw_grades_addr="logs/grades_gpt-5-mini.txt"
+        raw_grades_addr=f"logs/grades_{model}_no_hallucination.txt"
     )

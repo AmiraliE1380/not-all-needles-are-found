@@ -1,0 +1,38 @@
+Question 1: Not mentioned in the text or story.
+Question 2: Not mentioned in the text or story.
+Question 3: At the Louvre (the Louvre museum).
+Question 4: Not mentioned in the text or story.
+Question 5: Not mentioned in the text or story.
+Question 6: Not mentioned in the text or story.
+Question 7: Not mentioned in the text or story.
+Question 8: Not mentioned in the text or story.
+Question 9: Not mentioned in the text or story.
+Question 10: Not mentioned in the text or story.
+Question 11: Not mentioned in the text or story.
+Question 12: Not mentioned in the text or story.
+Question 13: Not mentioned in the text or story.
+Question 14: Not mentioned in the text or story.
+Question 15: Not mentioned in the text or story.
+Question 16: Not mentioned in the text or story.
+Question 17: Not mentioned in the text or story.
+Question 18: Not mentioned in the text or story.
+Question 19: Not mentioned in the text or story.
+Question 20: Not mentioned in the text or story.
+Question 21: Not mentioned in the text or story.
+Question 22: Not mentioned in the text or story.
+Question 23: Not mentioned in the text or story.
+Question 24: Not mentioned in the text or story.
+Question 25: Not mentioned in the text or story.
+Question 26: Not mentioned in the text or story.
+Question 27: Not mentioned in the text or story.
+Question 28: Not mentioned in the text or story.
+Question 29: Not mentioned in the text or story.
+Question 30: Not mentioned in the text or story.
+
+=== GRADES ===
+
+(33.33333333333333, 0.0, 0.0, 100.0)
+
+=== GRADES ===
+
+{'total_scores': 33.33333333333333, 'direct_scores': 0.0, 'inferential_scores': 0.0, 'hallucinations_scores': 100.0}

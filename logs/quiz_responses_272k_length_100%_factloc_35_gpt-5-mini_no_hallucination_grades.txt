@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie‑Rose’s wedding
+Question 4: She was the same age as Augustine
+Question 5: Hazel
+Question 6: The marriage ended very shortly after (she became single again very shortly after)
+Question 7: About 36 (married at 16 and lived in Albi for two decades; inferred)
+Question 8: Not mentioned in the text or story.
+Question 9: He was described as skinny.
+Question 10: Her dark black hair turned gray.
+Question 11: Yes — she developed stage‑4 glioblastoma, the most aggressive form of brain cancer (terminal).
+Question 12: Not mentioned in the text or story.
+Question 13: 32
+Question 14: 16 years (she lived in Paris until her marriage at 16)
+Question 15: Dark black (originally)
+Question 16: Not mentioned in the text or story.
+Question 17: Maelien
+Question 18: She lived alone in Albi for most of those years.
+Question 19: Happy; she “grew up happily” (positive childhood quality/mental state).
+Question 20: Miserable, isolated and suffering; her life became one of hardship and loneliness (declining mental/physical state).
+Question 21: Not mentioned in the text or story.
+Question 22: Not mentioned in the text or story.
+Question 23: Not mentioned in the text or story.
+Question 24: Not mentioned in the text or story.
+Question 25: Albi (she died there; burial place explicitly not stated but death occurred in Albi)
+Question 26: Not mentioned in the text or story.
+Question 27: Not mentioned in the text or story.
+Question 28: Not mentioned in the text or story.
+Question 29: Not mentioned in the text or story.
+Question 30: Not stated explicitly; the text indicates the marriage was unhappy (she became single again very shortly after), so she was unhappy with her husband.
+
+=== GRADES ===
+
+(80.0, 80.0, 80.0, 80.0)
+
+=== GRADES ===
+
+{'total_scores': 80.0, 'direct_scores': 80.0, 'inferential_scores': 80.0, 'hallucinations_scores': 80.0}
