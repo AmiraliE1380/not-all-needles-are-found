@@ -23,7 +23,7 @@ def construct_single_quiz(story_address, fact_location : float) -> str:
         questions = file.read()
 
     # load prompt
-    with open('prompts/quiz.txt', 'r') as file:
+    with open('prompts/quiz_no_hallucination.txt', 'r') as file:
         prompt = file.read()
 
     with open('prompts/facts/facts1.txt', 'r') as file:

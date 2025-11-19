@@ -6,9 +6,9 @@ import os
 import time
 
 # model = "gpt-5"  # default model to use for chat_with_model
-model = "gpt-5-mini"  # default model to use for chat_with_model
+model = "gpt-4o-mini"  # default model to use for chat_with_model
 grading_model = "gpt-5-mini"  # model to use for grading
-max_context_length = 272 # number of thousands of tokens
+max_context_length = 128 # number of thousands of tokens
 
 
 def grade_quiz(model_response, ground_truth):
