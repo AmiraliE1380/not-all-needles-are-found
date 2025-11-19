@@ -149,6 +149,8 @@ def sample_location(distribution: str = "uniform", rng: random.Random = None) ->
 
 
 if __name__ == "__main__":
+    ######################## testing ############################
+    
     # distribution = "uniform"  # change to "normal", "bimodal", "rayleigh", etc.
     distribution = "normal"  # change to "normal", "bimodal", "rayleigh", etc.
     # distribution = "exponential"  # change to "normal", "bimodal", "rayleigh", etc.
@@ -160,9 +162,11 @@ if __name__ == "__main__":
     # distribution = "rayleigh_flipped"  # change to "normal", "bimodal", "rayleigh", etc.
     location = sample_location(distribution)
 
-    for _ in range(40):
-        loc = sample_location(distribution)
-        print(f"Sampled location: {loc}")
+    # for _ in range(40):
+    #     loc = sample_location(distribution)
+    #     print(f"Sampled location: {loc}")
 
     # fact, story come from elsewhere
     # modified_story = inject_fact(fact, story, location)
+
+    
