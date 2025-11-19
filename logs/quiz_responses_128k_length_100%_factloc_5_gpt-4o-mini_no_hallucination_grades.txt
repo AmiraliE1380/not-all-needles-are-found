@@ -1,0 +1,38 @@
+Question 1: Not mentioned in the text or story.
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose’s wedding
+Question 4: Augustine is older than her cousin.
+Question 5: Not mentioned in the text or story.
+Question 6: Élodie-Rose's husband died shortly after their marriage.
+Question 7: Not mentioned in the text or story.
+Question 8: Six feet tall.
+Question 9: Not mentioned in the text or story.
+Question 10: Her dark black hair turned gray.
+Question 11: Yes, it was terminal because she developed stage 4 glioblastoma.
+Question 12: Not mentioned in the text or story.
+Question 13: Not mentioned in the text or story.
+Question 14: Not mentioned in the text or story.
+Question 15: Dark black hair.
+Question 16: Not mentioned in the text or story.
+Question 17: Not mentioned in the text or story.
+Question 18: She lived alone for most of her life.
+Question 19: Not mentioned in the text or story.
+Question 20: Not mentioned in the text or story.
+Question 21: Not mentioned in the text or story.
+Question 22: Not mentioned in the text or story.
+Question 23: Alabaster complexion.
+Question 24: Not mentioned in the text or story.
+Question 25: Not mentioned in the text or story.
+Question 26: Not mentioned in the text or story.
+Question 27: Not mentioned in the text or story.
+Question 28: Not mentioned in the text or story.
+Question 29: Not mentioned in the text or story.
+Question 30: Not mentioned in the text or story.
+
+=== GRADES ===
+
+(56.666666666666664, 50.0, 30.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 56.666666666666664, 'direct_scores': 50.0, 'inferential_scores': 30.0, 'hallucinations_scores': 90.0}

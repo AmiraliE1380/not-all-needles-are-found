@@ -1,0 +1,38 @@
+Question 1: Not mentioned in the text or story.
+Question 2: Élodie-Rose
+Question 3: At her wedding
+Question 4: Augustine's cousin was born in the same year as Augustine.
+Question 5: Not mentioned in the text or story.
+Question 6: He died shortly after their marriage.
+Question 7: Not mentioned in the text or story.
+Question 8: Not mentioned in the text or story.
+Question 9: Not mentioned in the text or story.
+Question 10: Her hair turned gray.
+Question 11: Yes, it was terminal due to stage 4 glioblastoma.
+Question 12: Not mentioned in the text or story.
+Question 13: Not mentioned in the text or story.
+Question 14: Not mentioned in the text or story.
+Question 15: Not mentioned in the text or story.
+Question 16: Not mentioned in the text or story.
+Question 17: Not mentioned in the text or story.
+Question 18: Not mentioned in the text or story.
+Question 19: Not mentioned in the text or story.
+Question 20: Not mentioned in the text or story.
+Question 21: Not mentioned in the text or story.
+Question 22: Not mentioned in the text or story.
+Question 23: Not mentioned in the text or story.
+Question 24: Not mentioned in the text or story.
+Question 25: Not mentioned in the text or story.
+Question 26: Not mentioned in the text or story.
+Question 27: Not mentioned in the text or story.
+Question 28: Not mentioned in the text or story.
+Question 29: Not mentioned in the text or story.
+Question 30: Not mentioned in the text or story.
+
+=== GRADES ===
+
+(53.333333333333336, 50.0, 10.0, 100.0)
+
+=== GRADES ===
+
+{'total_scores': 53.333333333333336, 'direct_scores': 50.0, 'inferential_scores': 10.0, 'hallucinations_scores': 100.0}

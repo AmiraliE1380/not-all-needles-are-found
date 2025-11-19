@@ -1,0 +1,38 @@
+Question 1: 16  
+Question 2: Élodie-Rose  
+Question 3: At Élodie-Rose’s wedding  
+Question 4: They were born in the same year  
+Question 5: Hazel  
+Question 6: Not mentioned in the text or story.  
+Question 7: Not mentioned in the text or story.  
+Question 8: 183 cm  
+Question 9: Skinny  
+Question 10: Her dark black hair turned gray  
+Question 11: Yes, because she developed stage 4 glioblastoma, the worst type of brain cancer.  
+Question 12: 183 cm  
+Question 13: 32  
+Question 14: Not mentioned in the text or story.  
+Question 15: Dark black  
+Question 16: 183 cm  
+Question 17: Not mentioned in the text or story.  
+Question 18: Alone  
+Question 19: Happy  
+Question 20: Full of hardship and pain  
+Question 21: Not mentioned in the text or story.  
+Question 22: Not mentioned in the text or story.  
+Question 23: Not mentioned in the text or story.  
+Question 24: Paris  
+Question 25: Not mentioned in the text or story.  
+Question 26: Not mentioned in the text or story.  
+Question 27: Not mentioned in the text or story.  
+Question 28: Not mentioned in the text or story.  
+Question 29: Not mentioned in the text or story.  
+Question 30: Not mentioned in the text or story.
+
+=== GRADES ===
+
+(83.33333333333334, 80.0, 80.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 83.33333333333334, 'direct_scores': 80.0, 'inferential_scores': 80.0, 'hallucinations_scores': 90.0}

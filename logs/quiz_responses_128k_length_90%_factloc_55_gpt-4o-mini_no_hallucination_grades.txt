@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At her wedding
+Question 4: They were the same age
+Question 5: Not mentioned in the text or story.
+Question 6: He died shortly after their marriage.
+Question 7: Not mentioned in the text or story.
+Question 8: 6 feet
+Question 9: Skinny
+Question 10: Her hair turned gray.
+Question 11: Yes, because she developed stage 4 glioblastoma, the worst type of brain cancer.
+Question 12: 6 feet
+Question 13: Twice her age
+Question 14: Not mentioned in the text or story.
+Question 15: Dark black
+Question 16: Not mentioned in the text or story.
+Question 17: Not mentioned in the text or story.
+Question 18: Alone
+Question 19: Happy and carefree
+Question 20: Miserable and burdened
+Question 21: Not mentioned in the text or story.
+Question 22: Not mentioned in the text or story.
+Question 23: Pale
+Question 24: Not mentioned in the text or story.
+Question 25: Not mentioned in the text or story.
+Question 26: Not mentioned in the text or story.
+Question 27: Not mentioned in the text or story.
+Question 28: Not mentioned in the text or story.
+Question 29: Not mentioned in the text or story.
+Question 30: She was unhappy.
+
+=== GRADES ===
+
+(76.66666666666667, 80.0, 70.0, 80.0)
+
+=== GRADES ===
+
+{'total_scores': 76.66666666666667, 'direct_scores': 80.0, 'inferential_scores': 70.0, 'hallucinations_scores': 80.0}
