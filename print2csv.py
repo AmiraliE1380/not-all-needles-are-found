@@ -136,9 +136,9 @@ def grade_collector(context_length: int, model: str):
 
 
 if __name__ == "__main__":
-    model = "gpt-5-mini"
-    grade_collector(context_length=272, model=model)
+    model = "gpt-4o-mini"
+    grade_collector(context_length=128, model=model)
     save_scores_to_csvs(
-        model="gpt-5-mini",
+        model="gpt-4o-mini",
         raw_grades_addr=f"logs/grades_{model}_no_hallucination.txt"
     )
