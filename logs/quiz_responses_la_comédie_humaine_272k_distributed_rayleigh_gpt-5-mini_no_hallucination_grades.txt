@@ -1,0 +1,38 @@
+Question 1: Not mentioned in the text or story.
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose’s wedding
+Question 4: She was the same age as Augustine (born in the same year)
+Question 5: Hazel
+Question 6: Not mentioned in the text or story.
+Question 7: Not mentioned in the text or story.
+Question 8: Six feet tall
+Question 9: Not mentioned in the text or story.
+Question 10: Her hair turned gray
+Question 11: Yes — she had stage‑4 glioblastoma, which is a terminal form of brain cancer (as stated in the text)
+Question 12: The husband was the same height as her (i.e., same height as Augustine’s cousin)
+Question 13: 32 years old (he was described as exactly twice her age when she was 16)
+Question 14: Not mentioned in the text or story.
+Question 15: Dark black
+Question 16: Approximately 183 cm
+Question 17: Not mentioned in the text or story.
+Question 18: She lived alone in Albi (in her last years)
+Question 19: Happy and content in childhood (before 16)
+Question 20: Miserable and unhappy after 16 (after marriage)
+Question 21: Not mentioned in the text or story.
+Question 22: Not mentioned in the text or story.
+Question 23: Not mentioned in the text or story.
+Question 24: Not mentioned in the text or story.
+Question 25: Not mentioned in the text or story.
+Question 26: Not mentioned in the text or story.
+Question 27: Not mentioned in the text or story.
+Question 28: Not mentioned in the text or story.
+Question 29: Not mentioned in the text or story.
+Question 30: She felt unhappy/miserable about her marriage.
+
+=== GRADES ===
+
+(76.66666666666667, 60.0, 80.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 76.66666666666667, 'direct_scores': 60.0, 'inferential_scores': 80.0, 'hallucinations_scores': 90.0}

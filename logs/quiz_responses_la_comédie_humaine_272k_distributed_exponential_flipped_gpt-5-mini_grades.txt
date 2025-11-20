@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie‑Rose
+Question 3: At Élodie‑Rose’s wedding
+Question 4: She was the same age as Augustine (born the same year)
+Question 5: Hazel
+Question 6: He died (was later dead)
+Question 7: She died young (died after living for two decades in Albi) — she died relatively young (exact age not stated beyond implication of early death)
+Question 8: Six feet tall
+Question 9: Skinny (lean in body condition)
+Question 10: Her dark black hair turned gray
+Question 11: Yes — she had a terminal brain illness (described as progressive, leading to a lonely death)
+Question 12: Six feet
+Question 13: 32 (twice her age at marriage)
+Question 14: She lived in Paris until her marriage at 16 (about 16 years)
+Question 15: Dark black
+Question 16: 183 cm
+Question 17: Not stated
+Question 18: Mostly alone in Albi (lived by herself there for two decades)
+Question 19: Happy and well cared for before age 16
+Question 20: Declined — hardship, isolation, ill health and mental/physical deterioration after 16
+Question 21: Not stated
+Question 22: Not stated
+Question 23: Fair/pale
+Question 24: Not stated
+Question 25: In Albi (died and was buried there)
+Question 26: No formal job stated — lived as a wife/householder
+Question 27: Not stated
+Question 28: Very few — she died a lonely death (only local/close persons, if any)
+Question 29: Not stated
+Question 30: Unhappy in the marriage; she endured hardship and pain
+
+=== GRADES ===
+
+(73.33333333333333, 80.0, 90.0, 50.0)
+
+=== GRADES ===
+
+{'total_scores': 73.33333333333333, 'direct_scores': 80.0, 'inferential_scores': 90.0, 'hallucinations_scores': 50.0}

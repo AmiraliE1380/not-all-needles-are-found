@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie‑Rose
+Question 3: At Élodie‑Rose’s wedding
+Question 4: She was the same age as Augustine (born the same year)
+Question 5: Hazel
+Question 6: The marriage ended very shortly after (she became single again shortly after — husband gone/not with her)
+Question 7: Died young (exact age not specified)
+Question 8: About 6 feet tall
+Question 9: Skinny / slim
+Question 10: Her hair turned gray (from dark black)
+Question 11: Yes — described as terminal (stage‑4 glioblastoma; aggressive and incurable)
+Question 12: About 6 feet (same height as her)
+Question 13: 32 (twice her age of 16)
+Question 14: She did not settle in Paris; she moved to Albi immediately after marriage (no significant Paris residence specified)
+Question 15: Black
+Question 16: Approximately 183 cm
+Question 17: Not specified in the story
+Question 18: Lived alone / in a town far from her family in her later years
+Question 19: Happy and carefree before age 16
+Question 20: Miserable, ill and suffering after age 16
+Question 21: Not specified
+Question 22: Not specified
+Question 23: Fair/pale
+Question 24: Not specified
+Question 25: Not specified
+Question 26: No formal job listed — she was a wife (later a widow) / homemaker
+Question 27: Not specified
+Question 28: Not specified
+Question 29: Not specified
+Question 30: She was unhappy in the marriage (miserable/strained)
+
+=== GRADES ===
+
+(76.66666666666667, 80.0, 80.0, 70.0)
+
+=== GRADES ===
+
+{'total_scores': 76.66666666666667, 'direct_scores': 80.0, 'inferential_scores': 80.0, 'hallucinations_scores': 70.0}

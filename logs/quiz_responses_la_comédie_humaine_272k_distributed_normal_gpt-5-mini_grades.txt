@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie‑Rose
+Question 3: At Élodie‑Rose’s wedding
+Question 4: She was younger than Augustine (about two years younger, inferred)
+Question 5: Hazel
+Question 6: Not stated
+Question 7: Not stated
+Question 8: Not stated
+Question 9: Skinny / slender
+Question 10: Her dark hair turned gray
+Question 11: Yes — it was described as a terminal, aggressive brain disease (stage‑4 glioblastoma)
+Question 12: Not stated
+Question 13: 32
+Question 14: Not stated
+Question 15: Dark (black)
+Question 16: Not stated
+Question 17: Not stated
+Question 18: She lived alone in Albi in her later years
+Question 19: Happy and content (a joyful childhood)
+Question 20: Suffered hardship and decline (poor health and distress)
+Question 21: Not stated
+Question 22: Not stated
+Question 23: Not stated
+Question 24: Not stated
+Question 25: Albi (she died there and was buried there, inferred)
+Question 26: No formal occupation stated (lived as a wife; later suffered hardship)
+Question 27: Not stated
+Question 28: Not stated
+Question 29: Not stated
+Question 30: She was unhappy in the marriage / endured hardship with him
+
+=== GRADES ===
+
+(66.66666666666666, 60.0, 60.0, 80.0)
+
+=== GRADES ===
+
+{'total_scores': 66.66666666666666, 'direct_scores': 60.0, 'inferential_scores': 60.0, 'hallucinations_scores': 80.0}

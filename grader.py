@@ -31,12 +31,31 @@ def grade(response_addr : str):
     return grades
 
 
+def grade_quiz_distributed_facts(
+    model: str = "gpt-5-mini",
+):
+    # load all the quiz responses with distributed facts
+    logs_addr = "logs/"
+
+    # for all quiz response files in logs_addr with "distributed" in the filename
+    import os
+    for filename in os.listdir(logs_addr):
+        if "distributed" in filename and filename.endswith(".txt"):
+            response_addr = os.path.join(logs_addr, filename)
+            print(f"Grading {response_addr}")
+            grades = grade(response_addr)
+            print(f"Grades: {grades}\n")
+
+
 if __name__ == "__main__":
-    model = 'gpt-4o-mini'
-    for i in range(10):
-        for j in range(10):
-            addr = f"logs/quiz_responses_128k_length_{(i+1)*10}%_factloc_{5+j*10}_{model}"
-            addr += "_no_hallucination.txt"
-            print(f'Grading {addr}')
-            print(grade(addr))
+    # model = 'gpt-4o-mini'
+    # for i in range(10):
+    #     for j in range(10):
+    #         addr = f"logs/quiz_responses_128k_length_{(i+1)*10}%_factloc_{5+j*10}_{model}"
+    #         addr += "_no_hallucination.txt"
+    #         print(f'Grading {addr}')
+    #         print(grade(addr))
     
+    grade_quiz_distributed_facts(
+        model="gpt-5-mini"
+    )
