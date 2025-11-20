@@ -13,7 +13,7 @@ grading_model = "gpt-5-mini"  # model to use for grading
 max_context_length = 400 # number of thousands of tokens
 
 
-def construct_single_quiz(story_address, fact_location : float) -> str:
+def construct_single_quiz(story_address, fact_location : float, no_halucination=False) -> str:
     """
     Main function to take a quiz by injecting facts into a story and grading the model's responses.
     """
@@ -23,7 +23,8 @@ def construct_single_quiz(story_address, fact_location : float) -> str:
         questions = file.read()
 
     # load prompt
-    with open('prompts/quiz_no_hallucination.txt', 'r') as file:
+    prompt_address = 'prompts/quiz_no_hallucination.txt' if no_halucination else 'prompts/quiz.txt'
+    with open(prompt_address, 'r') as file:
         prompt = file.read()
 
     with open('prompts/facts/facts1.txt', 'r') as file:
@@ -36,8 +37,9 @@ def construct_single_quiz(story_address, fact_location : float) -> str:
         story = file.read()
 
     # print(f"facts = \n{facts}\n")
-
-    story = inject_fact(facts, story, fact_location) 
+    if fact_location >= 0:  # inject fact only if location is valid, else has been injected already  
+        story = inject_fact(facts, story, fact_location) 
+        
     quiz = prompt.format(STORY=story, QUESTIONS=questions)
 
     print(f"quiz length in words: {len(quiz.split())}")

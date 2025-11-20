@@ -149,7 +149,52 @@ def take_quizes_diff_lengths():
     # plot_grades(grades)
     # plot_grades([[0, 20.5],[90.8,10]])
     
-    
+
+def take_distributed_facts_quizzes():
+    dist_fact_stories_addr = "texts/la_comédie_humaine_(balzac)/contracted/distributed"
+
+    # load all stories with distributed facts
+    story_files = os.listdir(dist_fact_stories_addr)
+    for story_file in story_files:
+        story_address = os.path.join(dist_fact_stories_addr, story_file)
+        print(f"Taking quiz for story {story_file}...")
+        
+        # cache quiz to avoid re-generating it
+        id = story_file.replace(".txt", "")
+        cached_quiz_dir = "texts/la_comédie_humaine_(balzac)/contracted/temp_distributed_facts"
+
+        # take both versions of the quiz: with and without hallucination instruction
+        for hallucination_version in ["", "_no_hallucination"]:
+            cached_quiz_addr = cached_quiz_dir + f"/{id}{hallucination_version}.txt"
+
+            if os.path.exists(cached_quiz_addr):
+                with open(cached_quiz_addr, 'r', encoding='utf-8') as file:
+                    quiz = file.read()
+                print(f"Loaded cached quiz from {cached_quiz_addr}")
+            else:
+                # determine fact location based on distribution name
+                
+                quiz = construct_single_quiz(story_address, -1, hallucination_version != "")
+                os.makedirs(cached_quiz_dir, exist_ok=True)
+                with open(cached_quiz_addr, 'w', encoding='utf-8') as file:
+                    file.write(quiz)
+                print(f"Saved constructed quiz to {cached_quiz_addr}")
+
+            response = chat_with_model(prompt=quiz, model=model)
+            print(f"response: {response}\n")
+            print("\n" + "="*50 + "\n")
+
+            time.sleep(70)  # to avoid token rate per minute limit errors
+
+            save_results_path = f"logs/quiz_responses_{id}_{model}{hallucination_version}.txt"
+            os.makedirs(os.path.dirname(save_results_path), exist_ok=True)
+
+            save_results_path = get_unique_path(save_results_path)
+            with open(save_results_path, 'w') as file:
+                file.write(str(response))
+        
+        
 
 if __name__ == "__main__":
-    take_quizes_diff_lengths()
+    # take_quizes_diff_lengths()
+    take_distributed_facts_quizzes()
