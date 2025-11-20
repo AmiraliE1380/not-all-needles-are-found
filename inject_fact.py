@@ -41,6 +41,34 @@ def inject_fact(fact, story, location):
     return story_with_fact
 
 
+def inject_distributed_facts(facts: List[str], story: str, locations: List[float]) -> str:
+    split_parts = story.split('\n\n')
+    full_story = ''.join(split_parts)
+    entire_story_token_count = count_tokens(full_story)
+
+    print(f'len(split_parts) = {len(split_parts)}')
+    story_with_fact = ""
+    for part in split_parts:
+        story_with_fact += part + '\n'
+        # print(f'len(story_with_fact) = {len(story_with_fact)}')
+        if len(facts) > 0 and count_tokens(story_with_fact) >= entire_story_token_count * locations[0]:
+            # Inject the fact at this point
+            while True:
+                fact = facts[0]
+                location = locations[0]
+                facts = facts[1:]
+                locations = locations[1:]
+                story_with_fact += fact + '\n'
+                print(f'len(story_with_fact) = {len(story_with_fact)}')
+                print(location)
+                if len(facts) == 0 or abs(locations[0] - location) > 0.0001:    # if the consecutive facts don't have same location
+                    print('breaking')
+                    break
+
+    # print(f'story_with_fact = \n{story_with_fact}\n\n')
+    return story_with_fact
+
+
 # --------------------------------------------------------------------------- #
 #  Location distributions
 # --------------------------------------------------------------------------- #
@@ -151,22 +179,49 @@ def sample_location(distribution: str = "uniform", rng: random.Random = None) ->
 if __name__ == "__main__":
     ######################## testing ############################
     
+    # distributions
+    dists = ["uniform", "normal", "exponential", "exponential_flipped",
+             "bimodal_gaussian_mixture", "arcsine", "lorentzian",
+             "rayleigh", "rayleigh_flipped"]
     # distribution = "uniform"  # change to "normal", "bimodal", "rayleigh", etc.
-    distribution = "normal"  # change to "normal", "bimodal", "rayleigh", etc.
-    # distribution = "exponential"  # change to "normal", "bimodal", "rayleigh", etc.
-    # distribution = "exponential_flipped"  # change to "normal", "bimodal", "rayleigh", etc.
-    # distribution = "bimodal_gaussian_mixture"  # change to "normal", "bimodal", "rayleigh", etc.
-    # distribution = "arcsine"  # change to "normal", "bimodal", "rayleigh", etc.
-    # distribution = "lorentzian"  # change to "normal", "bimodal", "rayleigh", etc.
-    # distribution = "rayleigh"  # change to "normal", "bimodal", "rayleigh", etc.
-    # distribution = "rayleigh_flipped"  # change to "normal", "bimodal", "rayleigh", etc.
-    location = sample_location(distribution)
-
-    # for _ in range(40):
-    #     loc = sample_location(distribution)
-    #     print(f"Sampled location: {loc}")
+    # location = sample_location(distribution)
 
     # fact, story come from elsewhere
     # modified_story = inject_fact(fact, story, location)
+
+    dist_facts_addr = "prompts/facts/distributed_facts.txt"
+    with open(dist_facts_addr, 'r') as file:
+        facts = file.read().split('\n\n')
+    # print(f"facts = \n{facts}\n")
+    print(len(facts))
+    
+    # locations = [sample_location(dists[1]) for _ in range(len(facts))]
+    # locations.sort()
+    # print(f"locations = \n{locations}\n")
+    # print(len(locations))
+
+    model = "gpt-5-mini"  # default model to use for chat_with_model
+    max_context_length = 272 # number of thousands of tokens
+    
+    story_addr = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_100%.txt"
+    with open(story_addr, 'r', encoding='utf-8') as file:
+        story = file.read()
+    
+    output_dir = "texts/la_comédie_humaine_(balzac)/contracted/distributed"
+
+    for dist in dists:
+        locations = [sample_location(dist) for _ in range(len(facts))]
+        locations.sort()
+        print(f"locations for {dist} = \n{locations}\n")
+        
+        modified_story = inject_distributed_facts(facts, story, locations)
+        print(f"distribution: {dist}")
+        print(f"locations: {locations}\n")
+        
+        output_addr = output_dir + f"/la_comédie_humaine_{max_context_length}k_distributed_{dist}.txt"
+        with open(output_addr, 'w', encoding='utf-8') as file:
+            file.write(modified_story)
+        
+
 
     
