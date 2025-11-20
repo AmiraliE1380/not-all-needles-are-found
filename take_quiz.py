@@ -6,9 +6,16 @@ import os
 import time
 
 # model = "gpt-5"  # default model to use for chat_with_model
-model = "gpt-4o-mini"  # default model to use for chat_with_model
+model = "gpt-5-mini"  # default model to use for chat_with_model
 grading_model = "gpt-5-mini"  # model to use for grading
 max_context_length = 128 # number of thousands of tokens
+
+
+MIDDLE_OF_STORY = (
+"\n################################################"
+"\n############# MIDDLE OF THE STORY. #############"
+"\n################################################\n"
+)
 
 
 def grade_quiz(model_response, ground_truth):
@@ -175,6 +182,7 @@ def take_distributed_facts_quizzes():
                 # determine fact location based on distribution name
                 
                 quiz = construct_single_quiz(story_address, -1, hallucination_version != "")
+                quiz = quiz.replace(MIDDLE_OF_STORY, '\n')
                 os.makedirs(cached_quiz_dir, exist_ok=True)
                 with open(cached_quiz_addr, 'w', encoding='utf-8') as file:
                     file.write(quiz)
