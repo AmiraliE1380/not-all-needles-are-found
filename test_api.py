@@ -11,7 +11,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Example request with specified hyperparameters
 response = client.chat.completions.create(
-    model="gpt-4o-mini",
+    model="gpt-5-mini",
     messages=[{
         "role": "user",
         "content": "Hello! How are you doing today?"

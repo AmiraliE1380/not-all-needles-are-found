@@ -28,7 +28,7 @@ with open("prompts/summarize.txt", "r", encoding="utf-8") as file:
 prompt = prompt_template.replace("{text}", input_story)
 
 # Call the model to summarize
-output_story = chat_with_model(prompt, model="gpt-4o-mini")
+output_story = chat_with_model(prompt, model="gpt-5-mini")
 
 # Save the output with updated token count
 output_story_addr = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_1000_actual_{count_tokens(output_story)}.txt"
