@@ -1,5 +1,6 @@
 # virtual environments
 venv/
+venv.bak/
 .env
 
 # Python cache
