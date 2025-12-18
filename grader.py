@@ -48,14 +48,15 @@ def grade_quiz_distributed_facts(
 
 
 if __name__ == "__main__":
-    # model = 'gpt-4o-mini'
-    # for i in range(10):
-    #     for j in range(10):
-    #         addr = f"logs/quiz_responses_128k_length_{(i+1)*10}%_factloc_{5+j*10}_{model}"
-    #         addr += "_no_hallucination.txt"
-    #         print(f'Grading {addr}')
-    #         print(grade(addr))
+    model = 'deepseek-v3.2-chat'
+    for i in range(10):
+        for j in range(10):
+            addr = f"logs/quiz_responses_128k_length_{(i+1)*10}%_factloc_{5+j*10}_{model}"
+            # addr += "_no_hallucination.txt"
+            addr += ".txt"
+            print(f'Grading {addr}')
+            print(grade(addr))
     
-    grade_quiz_distributed_facts(
-        model="gpt-5-mini"
-    )
+    # grade_quiz_distributed_facts(
+    #     model="gpt-5-mini"
+    # )
