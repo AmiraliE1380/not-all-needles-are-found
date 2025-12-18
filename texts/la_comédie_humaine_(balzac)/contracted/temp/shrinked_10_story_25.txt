@@ -1,55 +1,70 @@
-“HULLO! There’s that Box-coat again!” cried Simonnin, leaning from a window and flinging a breadcrumb at a stranger crossing Maître Derville’s courtyard.
+“HULLO! There is that old Box-coat again!” cried the lawyer’s clerk Simonnin, leaning from a window and tossing a breadcrumb at a shabby stranger crossing Maître Derville’s courtyard.
 
-“Come, Simonnin, don’t play tricks… However poor a client may be, he is still a man!” Boucard, head clerk, scolded over a bill. Simonnin, a saucy thirteen- or fourteen-year-old, and clerks, including Godeschal, mocked the shabby visitor as “old Box-coat”; Godeschal proposed a prank, saying Derville took clients only at odd hours.
+“Come, Simonnin, don’t play tricks, or I will turn you out. However poor a client is, he is still a man!” admonished Boucard, the head clerk.
 
-The cluttered, dim office smelled of food and musty papers and buzzed with laughter. The weary stranger asked for Maître Derville but was brusquely told to return at one. When he insisted he was Colonel Chabert, reported dead at Eylau, they laughed. Boucard finally silenced the room, his sternness cutting through their irreverent gaiety.
+Simonnin, thirteen or fourteen, and others including Godeschal taunted the visitor as “old Box-coat.” Godeschal proposed a prank about Derville receiving clients only at odd hours. The office buzzed with laughter; the cluttered, musty room’s disorder was routine.
+
+When the weary man entered and politely asked for M. Derville, Boucard brusquely told him to return at one. The clerks jeered—nobleman or porter?—and laughed when he insisted he was Colonel Chabert, reported dead at Eylau. Amid the chatter, Boucard finally silenced them; the irreverence contrasted with the old man’s somber presence.
+
+At about one in the morning the porter said Derville had not returned, but the head clerk—arranging papers—explained Derville preferred to work at night and that the Colonel was only the third late caller. When Derville arrived he was struck by the man’s thin, pale appearance and scars suggesting past trauma. The stranger claimed to be the Colonel presumed killed at Eylau, prompting Derville and the clerk to suspect madness, but the Colonel insisted on telling his story.
+
+Derville, used to varied clients, urged brevity. Chabert recounted Eylau: gravely wounded and buried among corpses, he had miraculously survived because his horse’s body shielded him. He described awakening in a grave, struggling free, and being rescued by a woman who took him to a hospital. After months of recovery he discovered he had lost everything—especially proof of identity. Without documents, attempts to reclaim his life met disbelief and ridicule; he wandered as a beggar, was often treated as mad, and spent two years confined in a mental institution. Upon release he learned his wife, the Countess Ferraud, had remarried and borne children.
+
+Derville, sensing the gravity though skeptical, was willing to help. Chabert sought to reclaim rights and fortune he believed unjustly taken and lamented that no lawyer had taken him seriously. Moved, Derville offered to obtain necessary papers from Germany, gave a small sum for subsistence, and provided a letter to a notary for further assistance.
+
+Overwhelmed with gratitude, Chabert felt hope for the first time in years, voiced a longing for vengeance, and declared he would rather die than live in obscurity. Derville acknowledged the case’s complexity but promised to treat it seriously; the meeting restored Chabert’s purpose and gave him a glimmer of hope.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-About one in the morning Colonel Chabert knocked at Maître Derville’s door. The porter said Derville had not returned, but the head clerk preparing papers explained Derville preferred to work at night and the Colonel was the third late caller.
+About three months after the interview, in Derville’s room, the notary Crottat—who had advanced half-pay to Derville’s eccentric client—demanded that the six hundred francs given to the old soldier be refunded.
 
-When Derville arrived he was struck by the man’s thin, pale, scarred appearance. The stranger claimed to be the Colonel presumed killed at Eylau; though Derville and the clerk suspected madness, Chabert insisted on telling his story.
+“Are you amusing yourself with pensioning the old army?” Crottat laughed; a young man who had taken the office after his chief fled in bankruptcy.
 
-He recounted Eylau: gravely wounded and buried among corpses, he survived miraculously because his horse’s body shielded him. A woman rescued him; he spent months in hospital, and on recovery found he'd lost everything, especially proof of identity. Without papers, attempts to reclaim his life met disbelief and ridicule; he begged and spent two years in an asylum. Upon release his wife, Countess Ferraud, had remarried and borne children.
+“Thank you for reminding me of that affair,” Derville replied wryly. “My philanthropy will not extend beyond twenty-five louis; I fear I have already been duped by my patriotism.”
 
-Sensing this, Derville offered help: obtain necessary documents from Germany, gave some money, and wrote a letter to a notary. Overwhelmed with gratitude, Chabert voiced longing for vengeance and refusal of obscurity; the meeting restored fragile hope.
+Noticing German-stamped papers on his desk, Derville ordered his head clerk Boucard to translate. A Berlin notary reported the requested documents would arrive and were legally stamped; witnesses to the recorded facts still lived in Eylau, and the woman who had saved Comte Chabert was alive in Heilsberg. “This looks like business,” Derville observed.
+
+Questioning Crottat about Chabert’s estate and the rogue Roguin, Derville learned the facts. Roguin—called by Crottat “the unfortunate Roguin” with a laugh—had absconded with eight hundred thousand francs of clients’ money. Crottat, who had copied the papers as third clerk, recounted that Rose Chapotel, wife of Hyacinthe (called Chabert, Count of the Empire), had married without settlement so they held property in common. The personalty was about six hundred thousand francs. Before marriage Colonel Chabert made a will leaving one-quarter to hospitals and assigning another quarter to the State; the will was contested, forcing a sale and leaving the widow with the portion bequeathed to the treasury. Thus Chabert’s personal fortune had been reduced to roughly three hundred thousand francs.
+
+Derville then sought out the Colonel. Chabert lodged in the Faubourg Saint-Marceau with an old quartermaster named Vergniaud; Derville had to walk because his coachman refused the unpaved street. The house was dismal—mismatched windows, a trodden-earth floor, a single chair and a straw bed, damp walls—testimony to poverty. Yet when Chabert emerged smoking a pipe he retained the military calm of a man unshaken by hardship.
+
+“Why did you not write to me?” Chabert asked, giving practical directions to avoid manure.
+
+“Here, we are not distinguished for luxury,” he added when asked about his lodgings. “But I have done no one wrong, and I sleep in peace.” Derville hesitated about the money he had advanced and instead asked why Chabert had not moved to Paris to live better.
+
+“The good folks here have taken me in and fed me for a year,” Chabert replied. “I cannot leave them now that I have a little money.”
+
+Derville told him the Heilsberg papers were expected and that the woman who saved him was alive; Chabert, frustrated at the thought of money he did not possess, threw down his pipe. Derville then outlined the legal complexities: proving Chabert’s identity would require lengthy, costly proceedings. The case could be prolonged by the bigamy issue—Comtesse Ferraud had remarried—and opponents would demand inquiries, translations, and foreign legal formalities that might take years and drain resources.
+
+“You will face many challenges,” Derville cautioned. “Your opponents will demand inquiries that could take years.” Overwhelmed by the prospect of a drawn-out lawsuit, Chabert expressed despair. Derville reassured him the outcome could be favorable and proposed a friendly suit to annul both the death certificate and the subsequent marriage. He offered to send a power of attorney for Chabert to sign and to provide financial help. Chabert, feeling hopeless, agreed to trust Derville completely.
+
+As Derville left he met Louis Vergniaud, who asked for a loan to improve the Colonel’s living conditions. Derville agreed but insisted Chabert should be the one to help his friends. He then planned to visit Comtesse Ferraud to assess her position and potential leverage.
+
+Monsieur le Comte Ferraud, the son of a former Councillor, had returned to France after the Revolution and married Madame Chabert, who had turned her share of her husband’s fortune into a substantial income. Their marriage was socially accepted; Ferraud was politically ambitious but had begun to regret his union. The Countess had become comfortable and influential, a sharp contrast to Chabert’s squalor.
+
+Derville arrived at the Hotel Ferraud and found her surrounded by luxury. “Good-morning, Monsieur Derville,” she greeted him, but he quickly shifted to serious matters. “I have come to speak with you on a very serious matter,” he stated, revealing that Colonel Chabert was alive. The Countess laughed dismissively until Derville’s serious tone silenced her. He warned her of the danger she faced if Chabert’s identity were proven, hinting at legal and social ramifications. She insisted her second marriage was secure because of her children, but Derville countered that the law might not favor her and that Ferraud might not support her if his name and fortune were at risk.
+
+Derville’s words struck a nerve; the Countess began to weigh the implications. He proposed a compromise, sensing her vulnerability. “Does he still love me?” she asked, contemplating how to use Chabert’s affection to her advantage. Derville left her with the suggestion to consider a settlement, confident he had gained the upper hand.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-About three months after the interview, in Derville’s room, the notary Crottat—who had advanced half-pay to Derville’s eccentric client—demanded the six hundred francs be refunded.
+A week after Derville’s visits, Colonel Chabert and his wife, Madame la Comtesse Ferraud, set out from opposite ends of Paris to meet at their lawyer’s office. With Derville’s help Chabert arrived restored: dignified in a blue suit with the Legion of Honor ribbon, his soldierly bearing renewed.
 
-“Are you amusing yourself with pensioning the old army?” Crottat laughed; his sarcastic tone showed he was a young man who’d recently taken over after his chief fled in bankruptcy. Derville shrugged, joking his philanthropy would not exceed twenty-five louis.
+When Chabert entered, Madame Ferraud soon followed, made up to appear youthful. Clerks noticed his change; Derville, sensing the couple’s tension, separated them to present a memorandum: Chabert would formally acknowledge his identity in exchange for financial support from his wife. The Countess, aghast at public exposure, resisted the obligation.
 
-Noticing a letter on his desk, Derville had his clerk Boucard translate. It was from Berlin: the requested documents would arrive, they were legally stamped, witnesses to the recorded facts still lived in Eylau, and the woman who had saved Comte Chabert was alive in Heilsberg. “This looks like business,” Derville said, and questioned Crottat about Chabert’s estate and the rogue Roguin.
+Back together, Chabert confronted her about their past, laying bare the pain of their separation. She feigned surprise and tried to leave, but Derville urged her to stay. A heated exchange ensued; despite cautions, Chabert pressed for justice. The Countess then took him to her carriage and brought him to her country house in Groslay. During the ride she confessed turmoil: she loved another man, Comte Ferraud, and wanted to preserve her dignity and avoid scandal. Hurt, Chabert offered measured understanding, aware of the social consequences she feared.
 
-“Let’s call him the unfortunate Roguin,” Crottat scoffed, then recalled the papers he’d copied as third clerk. Rose Chapotel, wife of Hyacinthe Chabert, had married without a settlement, so property had been common. The personalty had been about six hundred thousand francs. Before his marriage Colonel Chabert had made a will leaving one-quarter to the hospitals and another quarter to the State; the will was contested, forcing a sale that left the widow with the portion originally bequeathed to the treasury. Roguin later absconded with large sums—reports mentioned eight hundred thousand francs—and the net available to Chabert could be no more than three hundred thousand francs. “You lawyers can be clear-headed despite accusations,” Crottat added.
+At the country house she treated him kindly and they reminisced; Chabert found temporary solace even as resentment lingered. Meanwhile the Countess acted to secure her position, writing to Delbecq to neutralize his claim. When Chabert discovered this betrayal he resolved to confront her but ultimately sacrificed his identity to protect her and their children, renouncing his name and withdrawing from society.
 
-Derville then sought the Colonel. Chabert lodged in the Faubourg Saint-Marceau with Vergniaud, an old quartermaster-turned-dairyman. The coachman refused the unpaved street, and Derville found a dismal, ill-built house: trodden-earth floor, damp walls, a straw bed. Yet when Chabert appeared, smoking his pipe, he retained the military calm of a man unshaken by hardship.
+Months later Derville found him reduced to a vagabond in a courtroom. Despite poverty, Chabert retained dignity and scorn for society’s indifference, refusing charity. His story traces loss and resilience, love, betrayal, and the struggle for identity in an uncaring world.
 
-“Why did you not write to me?” Chabert asked. When Derville questioned his lodgings, Chabert replied that good folks had fed him for a year and that, having a little money, he could not leave them. Derville told him the Heilsberg papers were expected and that his savior was alive; Chabert, frustrated at the thought of money he did not yet possess, threw down his pipe.
+In June 1840 Godeschal, an attorney, accompanied Derville to Ris. Near Bicêtre they found an old pauper under an elm, drying his handkerchief. In a shabby wrapper-coat he had a carved, grotesque look; Godeschal compared him to German carvings, while Derville recognized him as Comte Chabert, husband of the pious Comtesse Ferraud, who had likely consigned him to the workhouse because he reminded her of their past.
 
-Derville explained the legal complexities: proving identity would demand long, costly proceedings, complicated by the bigamy question since Comtesse Ferraud had remarried. Opponents would insist on inquiries, translations, and foreign formalities—years and expense. Overwhelmed, Chabert despaired; Derville reassured him the outcome might be favorable and proposed a friendly suit to annul both the death certificate and the subsequent marriage. He offered to send a power of attorney and to provide financial help. Trusting Derville completely, Chabert agreed.
+Curious, Godeschal urged Derville to tell Chabert’s story. Two days later they returned and found the old man drawing in the sand. When spoken to he insisted he was no longer Chabert but “Hyacinthe,” merely a number in the institution; he even envied a condemned man for not being married. Godeschal gave him money for snuff; Chabert accepted eagerly, saluted them as “brave troopers,” waved his stick and cried “Vive Napoleon!” Another pauper noted his odd blend of philosophy and childishness and recalled how Chabert once impressed a Prussian officer with military recollections.
 
-As Derville left he met Louis Vergniaud, who asked for a loan to improve the Colonel’s lodging. Derville agreed but insisted Chabert should be the one to help his friends. He then planned to visit Comtesse Ferraud.
+Derville reflected on Chabert’s tragic arc—from foundling to Napoleonic soldier to workhouse inmate—and on the disillusionment facing priest, doctor, and lawyer, all exposed to human baseness: betrayal, greed, moral decay, fathers abandoned by daughters, mothers exploiting children. Godeschal admitted he’d seen similar horrors and longed to flee Parisian corruption for a quiet country life with his wife. An addendum lists characters from Balzac’s Human Comedy and their other appearances, including Napoleon and Comtesse Ferraud.
 
-Madame Ferraud, formerly Madame Chabert, had turned her share of the husband’s fortunes into substantial income; her second marriage to Ferraud, an ambitious man and son of a former councillor, was socially secure and brought her influence. At the Hotel Ferraud she was surrounded by luxury when Derville told her plainly that Colonel Chabert was alive. She laughed until his serious tone silenced her. He warned her of the legal and social danger if Chabert proved his identity and hinted Ferraud might not support her if his name and fortune were threatened. The Countess, shaken, asked whether Chabert still loved her and began to consider compromise. Derville left confident he had gained the upper hand.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
-A week after Derville’s visits, Colonel Chabert — restored and wearing his Legion of Honor — came to Derville’s office to meet his wife, the Countess. She appeared composed; sensing the tension, Derville separated them and proposed a memorandum: Chabert would acknowledge his identity for financial support. The Countess, fearing scandal, resisted.
-
-When Chabert returned he confronted her, forcing the painful truth of their separation. She feigned surprise and tried to leave; Derville urged her to stay. She then took Chabert to her country house in Groslay and confessed she loved Comte Ferraud and wanted to avoid scandal. Though hurt, Chabert showed some understanding. She treated him kindly while secretly scheming to secure her position, writing to Delbecq to quash his claim. Discovering this betrayal, Chabert ultimately sacrificed his identity to protect the Countess and their children, renounced reclaiming his name, and disappeared. Months later Derville found him a destitute vagabond in a courtroom; still dignified, he scorned society’s indifference and refused charity.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
-In June 1840 Godeschal accompanied Derville to Ris. Near Bicêtre they found an old pauper under an elm—clad with a grotesque face. Derville recognized him as Comte Chabert, whom his pious wife Comtesse Ferraud had placed in the workhouse to bury past.
-
-Two days later Chabert refused his name and called himself “Hyacinthe,” an institutional number who envied a condemned man. Godeschal gave him snuff and Chabert hailed them “brave troopers,” waved his stick and cried “Vive Napoleon!” A fellow pauper recalled Chabert impressing a Prussian officer with wartime recollections.
-
-Derville reflected on Chabert’s fall—from foundling and Napoleonic soldier to inmate—and on priest, doctor, lawyer confronting betrayal, greed and moral decay. Godeschal admitted similar disillusionment and longed for quiet country life. An addendum lists Balzac’s characters and cross-appearances.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
+MIDDLE OF THE STORY.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
