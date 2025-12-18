@@ -1,6 +1,6 @@
 """
 openai_chat.py
-A minimal helper around OpenAI + Gemini + Claude chat endpoints.
+A minimal helper around OpenAI + Gemini + Claude + DeepSeek chat endpoints.
 """
 
 from __future__ import annotations
@@ -31,10 +31,17 @@ load_dotenv()
 _openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 _gemini_client = genai.Client()  # reads GEMINI_API_KEY / GOOGLE_API_KEY from env
 
+# DeepSeek (OpenAI-compatible API)
+# Docs: base_url can be https://api.deepseek.com/v1 (OpenAI-compatible) :contentReference[oaicite:1]{index=1}
+_deepseek_client = OpenAI(
+    api_key=os.getenv("DEEPSEEK_API_KEY"),
+    base_url=os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com/v1"),
+)
+
 # Lazy-ish: instantiate if SDK is available; otherwise error only when used.
 _claude_client = None
 if Anthropic is not None:
-    _claude_client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))  # default env var :contentReference[oaicite:4]{index=4}
+    _claude_client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
 
 # --------------------------------------------------------------------------- #
@@ -53,15 +60,46 @@ def _is_claude_model(model: str) -> bool:
     return model.startswith("claude-")
 
 
+def _is_deepseek_model(model: str) -> bool:
+    # DeepSeek’s OpenAI-compatible model ids include:
+    # - deepseek-chat
+    # - deepseek-reasoner
+    # We also accept user-friendly aliases like "deepseek-v3.2".
+    return model.startswith("deepseek-")
+
+
 def _normalize_claude_model(model: str) -> str:
     """
     Allow a couple of user-friendly aliases, while preserving backward compatibility.
-    Official Haiku 4.5 model id (per Anthropic) is: "claude-haiku-4-5" :contentReference[oaicite:5]{index=5}
+    Official Haiku 4.5 model id (per Anthropic) is: "claude-haiku-4-5"
     """
     aliases = {
         "claude-4.5-haiku": "claude-haiku-4-5",
         "claude-haiku-4.5": "claude-haiku-4-5",
         "claude-haiku-4-5": "claude-haiku-4-5",
+    }
+    return aliases.get(model, model)
+
+
+def _normalize_deepseek_model(model: str) -> str:
+    """
+    DeepSeek API model ids (Chat Completions) are:
+      - deepseek-chat (V3.2 non-thinking)
+      - deepseek-reasoner (V3.2 thinking)
+    We accept a few aliases for convenience/back-compat.
+    :contentReference[oaicite:2]{index=2}
+    """
+    aliases = {
+        # User-friendly names -> official API ids
+        "deepseek-v3.2": "deepseek-chat",
+        "deepseek-v3-2": "deepseek-chat",
+        "deepseek-v3.2-chat": "deepseek-chat",
+        "deepseek-v3.2-non-thinking": "deepseek-chat",
+        "deepseek-v3.2-thinking": "deepseek-reasoner",
+        "deepseek-v3.2-reasoner": "deepseek-reasoner",
+        # Identity mappings
+        "deepseek-chat": "deepseek-chat",
+        "deepseek-reasoner": "deepseek-reasoner",
     }
     return aliases.get(model, model)
 
@@ -94,9 +132,10 @@ def chat_with_model(
     Send `prompt` to `model` and return the assistant's reply (content only).
 
     Routing:
-    - model starts with "gemini-" -> Gemini API
-    - model in OPENAI_MODELS     -> OpenAI API
+    - model starts with "gemini-"  -> Gemini API
+    - model in OPENAI_MODELS      -> OpenAI API
     - model starts with "claude-" -> Anthropic Claude API
+    - model starts with "deepseek-" -> DeepSeek API (OpenAI-compatible)
     """
 
     # ------------------------- Gemini routing ------------------------- #
@@ -105,7 +144,6 @@ def chat_with_model(
             temperature=0.0,        # deterministic
             top_p=1.0,              # no nucleus sampling
             frequency_penalty=0.0,  # allow repetition
-            # presence_penalty=0.3,   # encourage topic diversity
             system_instruction=system_prompt if system_prompt else None,
         )
 
@@ -114,7 +152,6 @@ def chat_with_model(
             contents=prompt,
             config=config,
         )
-
         return (resp.text or "").strip()
 
     # ------------------------- OpenAI routing ------------------------- #
@@ -130,9 +167,35 @@ def chat_with_model(
             temperature=1.0 if model in {"gpt-5-mini", "gpt-5"} else 0.0,
             top_p=1.0,
             frequency_penalty=0.0,
-            # presence_penalty=0.3,
         )
+        return response.choices[0].message.content.strip()
 
+    # ------------------------- DeepSeek routing ------------------------- #
+    if _is_deepseek_model(model):
+        if not os.getenv("DEEPSEEK_API_KEY"):
+            raise RuntimeError(
+                "DeepSeek requested but DEEPSEEK_API_KEY is not set."
+            )
+
+        deepseek_model = _normalize_deepseek_model(model)
+
+        messages = []
+        if system_prompt:
+            messages.append({"role": "system", "content": system_prompt})
+        messages.append({"role": "user", "content": prompt})
+
+        # DeepSeek parameters requested:
+        # temperature=0, top_p=1, frequency_penalty=0, presence_penalty=0.3
+        # Note: DeepSeek docs indicate some parameters may be unsupported for certain
+        # modes/models; if unsupported, they are ignored rather than erroring. :contentReference[oaicite:3]{index=3}
+        response = _deepseek_client.chat.completions.create(
+            model=deepseek_model,
+            messages=messages,
+            temperature=0.0,
+            top_p=1.0,
+            frequency_penalty=0.0,
+            presence_penalty=0.3,
+        )
         return response.choices[0].message.content.strip()
 
     # ------------------------- Claude routing ------------------------- #
@@ -145,11 +208,7 @@ def chat_with_model(
 
         claude_model = _normalize_claude_model(model)
 
-        # NOTE:
-        # - Anthropic supports temperature/top_p, but recommends adjusting only one. :contentReference[oaicite:6]{index=6}
-        # - Some 4.5 deployments (e.g., Bedrock) explicitly reject providing both temperature and top_p. :contentReference[oaicite:7]{index=7}
-        # To stay deterministic and avoid request errors, we set temperature=0.0 and omit top_p.
-        # Anthropic Messages API does not expose OpenAI-style frequency_penalty/presence_penalty. :contentReference[oaicite:8]{index=8}
+        # To stay deterministic and avoid request errors, set temperature=0 and omit top_p.
         claude_kwargs = dict(
             model=claude_model,
             max_tokens=1024,
@@ -157,18 +216,18 @@ def chat_with_model(
             temperature=0.0,
         )
 
-        if system_prompt:  # only include if non-empty
+        if system_prompt:
             claude_kwargs["system"] = [{"type": "text", "text": system_prompt}]
 
         resp = _claude_client.messages.create(**claude_kwargs)
         return _extract_claude_text(resp)
 
-
     # ------------------------- Unknown model ------------------------- #
     raise ValueError(
         f"Unknown model '{model}'. "
         f"Expected an OpenAI model from OPENAI_MODELS, a Gemini model like 'gemini-2.5-flash', "
-        f"or a Claude model like 'claude-haiku-4-5'."
+        f"a Claude model like 'claude-haiku-4-5', "
+        f"or a DeepSeek model like 'deepseek-chat' / 'deepseek-reasoner' / 'deepseek-v3.2'."
     )
 
 
@@ -190,5 +249,11 @@ if __name__ == "__main__":  # pragma: no cover
 
     print("\n=== Claude demo ===")
     claude_demo_prompt = "Briefly explain what a context window is for LLMs."
-    # Official model id per Anthropic: claude-haiku-4-5 :contentReference[oaicite:10]{index=10}
     print(chat_with_model(claude_demo_prompt, model="claude-haiku-4-5"))
+
+    print("\n=== DeepSeek demo ===")
+    deepseek_demo_prompt = "Briefly explain what a context window is for LLMs."
+    # DeepSeek-V3.2 non-thinking mode is exposed as model id "deepseek-chat". :contentReference[oaicite:4]{index=4}
+    print(chat_with_model(deepseek_demo_prompt, model="deepseek-chat"))
+    # Or using alias:
+    # print(chat_with_model(deepseek_demo_prompt, model="deepseek-v3.2"))
