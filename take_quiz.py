@@ -6,9 +6,9 @@ import os
 import time
 
 # model = "gpt-5"  # default model to use for chat_with_model
-model = "deepseek-v3.2-chat"  # default model to use for chat_with_model
+model = "claude-haiku-4-5"  # default model to use for chat_with_model
 grading_model = "gpt-5-mini"  # model to use for grading
-max_context_length = 128 # number of thousands of tokens
+max_context_length = 200 # number of thousands of tokens
 
 
 MIDDLE_OF_STORY = (
@@ -110,46 +110,54 @@ def take_quizes_diff_lengths():
     """
     
     # for i in [6]:
-    for i in range(10):
+    # for i in range(10):
+    for i in range(1,10):
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
         # grades.append([])
         # for j in [9]:
-        for j in range(10):
-            fact_location = j * 0.1 + 0.05
-            print(f"Taking quiz for story length {(i+1)*10}% and fact location {fact_location*100:.0f}...")
-            # grades[i - 1].append(take_single_quiz(story_address, fact_location))
-            
-            # cache quiz to avoid re-generating it
-            id = f"{max_context_length}k_length_{(i+1)*10}%_factloc_{fact_location*100:.0f}"
-            cached_quiz_dir = "texts/la_comédie_humaine_(balzac)/contracted/temp_injected_facts"
-            # cached_quiz_addr = cached_quiz_dir + f"/{id}.txt"
-            cached_quiz_addr = cached_quiz_dir + f"/{id}_no_hallucination.txt"
 
-            if os.path.exists(cached_quiz_addr):
-                with open(cached_quiz_addr, 'r', encoding='utf-8') as file:
-                    quiz = file.read()
-                print(f"Loaded cached quiz from {cached_quiz_addr}")
-            else:
-                quiz = construct_single_quiz(story_address, fact_location)
-                os.makedirs(cached_quiz_dir, exist_ok=True)
-                with open(cached_quiz_addr, 'w', encoding='utf-8') as file:
-                    file.write(quiz)
-                print(f"Saved constructed quiz to {cached_quiz_addr}")
+        for hallucination_version in [
+                                      "",
+                                      "_no_hallucination"
+                                      ]:
+            for j in range(10):
+                fact_location = j * 0.1 + 0.05
+                print(f"Taking quiz for story length {(i+1)*10}% and fact location {fact_location*100:.0f}...")
+                # grades[i - 1].append(take_single_quiz(story_address, fact_location))
+                
+                # cache quiz to avoid re-generating it
+                id = f"{max_context_length}k_length_{(i+1)*10}%_factloc_{fact_location*100:.0f}"
+                cached_quiz_dir = "texts/la_comédie_humaine_(balzac)/contracted/temp_injected_facts"
+                # cached_quiz_addr = cached_quiz_dir + f"/{id}.txt"
+                # cached_quiz_addr = cached_quiz_dir + f"/{id}_no_hallucination.txt"
+                cached_quiz_addr = cached_quiz_dir + f"/{id}{hallucination_version}.txt"
 
-            response = chat_with_model(prompt=quiz, model=model)
-            print(f"response: {response}\n")
-            print("\n" + "="*50 + "\n")
+                if os.path.exists(cached_quiz_addr):
+                    with open(cached_quiz_addr, 'r', encoding='utf-8') as file:
+                        quiz = file.read()
+                    print(f"Loaded cached quiz from {cached_quiz_addr}")
+                else:
+                    quiz = construct_single_quiz(story_address, fact_location)
+                    os.makedirs(cached_quiz_dir, exist_ok=True)
+                    with open(cached_quiz_addr, 'w', encoding='utf-8') as file:
+                        file.write(quiz)
+                    print(f"Saved constructed quiz to {cached_quiz_addr}")
 
-            time.sleep(15)  # to avoid token rate per minute limit errors
-    
+                response = chat_with_model(prompt=quiz, model=model)
+                print(f"response: {response}\n")
+                print("\n" + "="*50 + "\n")
 
-            # save_results_path = f"logs/quiz_responses_{id}_{model}.txt"
-            save_results_path = f"logs/quiz_responses_{id}_{model}_no_hallucination.txt"
-            os.makedirs(os.path.dirname(save_results_path), exist_ok=True)
+                time.sleep(70)  # to avoid token rate per minute limit errors
+        
 
-            save_results_path = get_unique_path(save_results_path)
-            with open(save_results_path, 'w') as file:
-                file.write(str(response))
+                # save_results_path = f"logs/quiz_responses_{id}_{model}.txt"
+                # save_results_path = f"logs/quiz_responses_{id}_{model}_no_hallucination.txt"
+                save_results_path = f"logs/quiz_responses_{id}_{model}{hallucination_version}.txt"
+                os.makedirs(os.path.dirname(save_results_path), exist_ok=True)
+
+                save_results_path = get_unique_path(save_results_path)
+                with open(save_results_path, 'w') as file:
+                    file.write(str(response))
 
     # print(f"Grades saved to {save_grades_path}")
     # print("Grades matrix:")
@@ -211,5 +219,5 @@ def take_distributed_facts_quizzes():
         
 
 if __name__ == "__main__":
-    # take_quizes_diff_lengths()
-    take_distributed_facts_quizzes()
+    take_quizes_diff_lengths()
+    # take_distributed_facts_quizzes()
