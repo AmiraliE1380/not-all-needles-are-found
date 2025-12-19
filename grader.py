@@ -52,8 +52,8 @@ if __name__ == "__main__":
     for i in range(10):
         for j in range(10):
             addr = f"logs/quiz_responses_128k_length_{(i+1)*10}%_factloc_{5+j*10}_{model}"
-            # addr += "_no_hallucination.txt"
-            addr += ".txt"
+            addr += "_no_hallucination.txt"
+            # addr += ".txt"
             print(f'Grading {addr}')
             print(grade(addr))
     
