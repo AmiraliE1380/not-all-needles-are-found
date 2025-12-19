@@ -25,9 +25,9 @@ Canalis reads Modeste’s letter with amusement and condescension, recognizing h
 ################################################
 To Monsieur de Canalis:
 
-Monsieur, you are a great poet and an honest man. After your frankness to a young girl on the brink of despair, answer me truly: would you have replied the same had you known Mademoiselle O. d’Este M. has six million francs and seeks a fool for a husband? Answer frankly. I am wiser than my years; nothing candid can harm you. If you speak openly, I will reply to your first letter.
+Monsieur, you are a great poet and an honest man. After your frankness to a girl on the verge of despair, answer me truly: would you have replied the same had you known Mademoiselle O. d’Este M. has six million francs and seeks a fool for a husband? Be frank. I am wiser than my years; nothing candid can harm you. If you speak openly, I will answer your first letter.
 
-Ernest de La Brière read this and walked the boulevards with conscience and curiosity at war. To Parisians it might look like flirtation; to a man of honor it looked like a judgment. Truth accused him of hypocrisy; Justice defended a girl’s revolt against mercenary marriage; Honor demanded sincerity. He delayed, then wrote:
+Ernest de La Brière read this and walked the boulevards with conscience and curiosity at war. To Parisians it might have looked like flirtation; to a man of honor it felt like judgment. Truth accused him of hypocrisy; justice defended a girl’s revolt against mercenary marriage; honor demanded sincerity. He delayed, then wrote:
 
 Mademoiselle, you are not a D’Este. The name is a disguise. Do I owe truth to someone who lies about herself? Are you noble or of the people? Ethics remain, but obligations vary with rank. A daughter of Este with six million may candidly confess a fondness for poetry; a girl of the people would be mocked. What class are you? Answer plainly, and I will reply to your question.
 
@@ -37,9 +37,9 @@ To Monsieur de Canalis, you grow sensible, my dear poet. My father is a count; w
 
 La Brière smiled at her mischief. Paris had taught him intrigue. He booked a seat to Havre, blamed delay on duties, and obtained a note from the post-office director to ensure secrecy. He watched Francoise Cochet collect letters and followed her discreetly to Ingouville, where he glimpsed Modeste at a chalet window. Struck by her beauty, he learned the estate belonged to Monsieur Vilquin, the richest merchant in Havre. The Vilquins were immensely wealthy; one daughter married M. Althor, and there were whispers of fashionable visitors and a possible match with a young duke.
 
-Having seen enough to dream, La Brière resumed the correspondence, regretting the reconnaissance but unable to resist Parisian curiosity. He composed a letter shaped by conscience and passion; Modeste read it at her window on a fine summer day.
+Having seen enough to dream, La Brière resumed the correspondence, regretting the reconnaissance but unable to resist curiosity. He composed a letter shaped by conscience and passion; Modeste read it at her window on a fine summer day.
 
-Mademoiselle, without hypocrisy: had I known your wealth I would have acted differently. Men often confuse happiness with means; money becomes a religion. Faced with such a prize, a young man may court fortune for social gain, flatter, perhaps lose esteem for you and win yours for me. Honesty compels me to say this.
+Mademoiselle, without hypocrisy: had I known your wealth I would have acted differently. Men often confuse happiness with means; money becomes a religion. Faced with such a prize, a young man may court fortune for social gain, flatter, perhaps lose esteem for you while winning yours for the wrong reasons. Honesty compels me to say this.
 
 Your letter forced deep reflection—on you and on myself. You provoked base thoughts yet drew forth something generous. I went to Havre, followed Francoise to Ingouville; you are as beautiful as a poet’s dream. I blush at such spying and stopped. You have altered my opinion: you are not merely a woman but a poetic Ideal. Exceptional souls may transcend the crowd’s laws. If your letter sprang from lofty reveries and the wish for friendship beyond ordinary relations, you are an exception.
 
@@ -65,7 +65,7 @@ Your letter was precious. Yes, it held necessary truths for family life. Act as 
 
 O. d’Este M.
 
-La Brière, surprised at his own absorption, wondered if he was already in love. She thought him the great poet; could he sustain the deception? The charm of the unseen—obscurity that stirs fancy—became an obsession. He answered with a studied letter where passion, pride, and caution mingled.
+La Brière, surprised at his absorption, wondered if he was already in love. She thought him the great poet; could he sustain the deception? The charm of the unseen—obscurity that stirs fancy—became an obsession. He answered with a studied letter where passion, pride, and caution mingled.
 
 Mademoiselle,—Is it loyal to enthrone yourself in a poor poet’s heart while reserving the right to abandon him if he disappoints? Your confidence leaves little of yourself but much charm. I offer humble remonstrances.
 
@@ -81,7 +81,7 @@ I am an eaglet; I want to be imprisoned by love as I am now by my father’s wil
 
 Your handmaiden, O. d’Este M.
 
-To Mademoiselle O. d’Este M.—You are a witch and I love you! Is that what you desire, most original girl? Perhaps you amuse provincial leisure with a folly to make a poet act rashly. If so, you have done wrong. Your letters have mischief. But I am no longer master of myself; my life depends on your answer. If a certainty of unbounded affection that disregards social conventions touches you—if you will let me seek you—say so. If your reply is favorable I change my life; I shall renounce the trivial pleasures we call happiness. For me, happiness is a fusion of feeling, a harmony of souls, an imprint of a noble ideal on daily life—a constancy of heart more precious than fidelity. We may call such devotion sacrifice, but is it not the dream of poets and maidens? I cannot speak more of myself—my past nor my filial affection, which you have altered. Say one word and I will love you until death. Either write no more or give me hope. Let me see you, or let me go. Must I bid you adieu? Will you permit me to sign myself,
+To Mademoiselle O. d’Este M.—You are a witch and I love you! Is that what you desire, most original girl? Perhaps you amuse provincial leisure with a folly to make a poet act rashly. If so, you have done wrong. Your letters have mischief. But I am no longer master of myself; my life depends on your answer. If a certainty of unbounded affection that disregards social conventions touches you—if you will let me seek you—say so. If your reply is favorable I change my life; I shall renounce the trivial pleasures we call happiness. For me, happiness is a fusion of feeling, a harmony of souls, an imprint of a noble ideal on daily life—a constancy of heart more precious than mere fidelity. We may call such devotion sacrifice, but is it not the dream of poets and maidens? I cannot speak more of myself—my past nor my filial affection, which you have altered. Say one word and I will love you until death. Either write no more or give me hope. Let me see you, or let me go. Must I bid you adieu? Will you permit me to sign myself,
 
 Your Friend?
 
@@ -101,11 +101,9 @@ O. d’Este M.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Desplein’s visit moved Modeste. Guests praised the Mignons for the hope he inspired and the salon debated Desplein’s “genius.” Colleagues admired his skill; Canalis dismissed it as application, not invention. Modeste defended a broader view, citing Parmentier and Jacquart; the dispute exposed Canalis’s vanity.
+Desplein’s visit moved Modeste; guests praised the Mignons as the salon debated his "genius." Canalis dismissed it as mere application, but Modeste defended a broader view and exposed his vanity.
 
-Modeste’s flirtation with Canalis provoked La Brière, who left convinced he’d lost her; her challenge to her father showed growing independence. The next day she provoked Canalis, stoking La Brière’s jealousy. Canalis made grand gestures, but Modeste remained skeptical and asserted autonomy.
-
-At the grand hunt and after the Duc d’Herouville’s arrival, Modeste drew closer to La Brière while drifting from Canalis. Her beauty and fortune exposed suitors’ true natures as she adopts a more complex view of love and ambition, learning compromises for happiness within society’s limits.
+Her flirtation with Canalis provoked La Brière and, by challenging her father, showed independence. She provoked him again, deepening La Brière’s jealousy. She rejected his grand gestures and asserted herself. After the hunt and the Duc’s arrival she turned to La Brière. Her beauty and fortune exposed suitors’ motives; she accepts compromises between love and ambition.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################

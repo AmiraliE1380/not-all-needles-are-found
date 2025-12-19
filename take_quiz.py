@@ -164,6 +164,9 @@ def take_distributed_facts_quizzes():
     # load all stories with distributed facts
     story_files = os.listdir(dist_fact_stories_addr)
     for story_file in story_files:
+        if str(max_context_length) not in story_file:
+            continue
+        
         story_address = os.path.join(dist_fact_stories_addr, story_file)
         print(f"Taking quiz for story {story_file}...")
         
@@ -173,7 +176,7 @@ def take_distributed_facts_quizzes():
 
         # take both versions of the quiz: with and without hallucination instruction
         for hallucination_version in [
-            # "",
+                                      "",
                                       "_no_hallucination"
                                       ]:
             cached_quiz_addr = cached_quiz_dir + f"/{id}{hallucination_version}.txt"
@@ -196,7 +199,7 @@ def take_distributed_facts_quizzes():
             print(f"response: {response}\n")
             print("\n" + "="*50 + "\n")
 
-            time.sleep(70)  # to avoid token rate per minute limit errors
+            time.sleep(15)  # to avoid token rate per minute limit errors
 
             save_results_path = f"logs/quiz_responses_{id}_{model}{hallucination_version}.txt"
             os.makedirs(os.path.dirname(save_results_path), exist_ok=True)
@@ -208,5 +211,5 @@ def take_distributed_facts_quizzes():
         
 
 if __name__ == "__main__":
-    take_quizes_diff_lengths()
-    # take_distributed_facts_quizzes()
+    # take_quizes_diff_lengths()
+    take_distributed_facts_quizzes()
