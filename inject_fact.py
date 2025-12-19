@@ -200,8 +200,8 @@ if __name__ == "__main__":
     # print(f"locations = \n{locations}\n")
     # print(len(locations))
 
-    model = "gpt-5-mini"  # default model to use for chat_with_model
-    max_context_length = 272 # number of thousands of tokens
+    model = "deepseek-v3.2-chat"  # default model to use for chat_with_model
+    max_context_length = 128 # number of thousands of tokens
     
     story_addr = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_100%.txt"
     with open(story_addr, 'r', encoding='utf-8') as file:
