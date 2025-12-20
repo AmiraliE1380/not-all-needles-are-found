@@ -111,7 +111,8 @@ def take_quizes_diff_lengths():
     
     # for i in [6]:
     # for i in range(10):
-    for i in range(1,10):
+    for i in range(6,10):
+    # for i in [1]:
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
         # grades.append([])
         # for j in [9]:
@@ -121,6 +122,7 @@ def take_quizes_diff_lengths():
                                       "_no_hallucination"
                                       ]:
             for j in range(10):
+            # for j in [9]:
                 fact_location = j * 0.1 + 0.05
                 print(f"Taking quiz for story length {(i+1)*10}% and fact location {fact_location*100:.0f}...")
                 # grades[i - 1].append(take_single_quiz(story_address, fact_location))
@@ -147,7 +149,7 @@ def take_quizes_diff_lengths():
                 print(f"response: {response}\n")
                 print("\n" + "="*50 + "\n")
 
-                time.sleep(70)  # to avoid token rate per minute limit errors
+                time.sleep(300)  # to avoid token rate per minute limit errors
         
 
                 # save_results_path = f"logs/quiz_responses_{id}_{model}.txt"
