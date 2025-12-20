@@ -118,10 +118,10 @@ def take_quizes_diff_lengths():
         # for j in [9]:
 
         for hallucination_version in [
-                                      "",
-                                    #   "_no_hallucination"
+                                    #   "",
+                                      "_no_hallucination"
                                       ]:
-            for j in range(6,10):
+            for j in range(0,10):
             # for j in [9]:
                 fact_location = j * 0.1 + 0.05
                 print(f"Taking quiz for story length {(i+1)*10}% and fact location {fact_location*100:.0f}...")
