@@ -1,56 +1,452 @@
-Many incident-rich tales can be told loosely, but some human experiences demand a delicate, almost anatomical touch—portraits need a soul; certain truths surface only through subtle harmonies of time, circumstance, or inner moral inclination.
+MADAME FIRMIANI
 
-Such revelations are required for this simple story, meant for grave, reflective readers who find sustenance in tender emotion. If the writer, like a surgeon at a dying friend’s side, reveres the subject, the reader should feel it too. The narrative speaks to those who have known private grief: the luxury of tears, the silent pangs of memory, regret for loss, and smiles at past joys. Others will set the book aside; those who have never buried a beloved will not grasp these pages. The writer assures the tale is true and worth the reader’s emotional investment.
+By Honore De Balzac
 
-In contemporary France, speech varies by individual; Parisians describe the same person in amusingly different ways. A Practical man lists facts about Madame Firmiani: a fine house on the rue du Bac, well-furnished salons, an income of a hundred thousand francs, and a husband once receiver-general—solid, respectable people.
+Translated by Katharine Prescott Wormeley
 
-A Lounger praises her social standing and excellent tea; an Egotist dismisses her salons as trivial, insisting a mind should transcend small talk. A Student calls her enchanting and eager to introduce you. A Fop laments faded beauty but admits lingering charm. A Connoisseur praises her painting collection. A Spiteful woman brands her a dangerous siren; an Attaché recalls past beauty. A Distinguishing observer notes elite connections despite modest means.
 
-A Duke professes not to know her, recognizing only those he has met. A Ninny mistakenly claims she sang at the Opera. Two old ladies trace ties to the noble Cadignan family. A Joke assures her salon is safe because any scoundrels are of high quality. Others allege affairs—Murat’s mistress—or accuse her coquetry of ruining a young man’s prospects.
+                              DEDICATION
 
-Madame Firmiani thus emerges through many lenses—each account reflecting the observer as much as the observed—and invites reflection on the deeper emotional truths that bind them.
+                    To my dear Alexandre de Berny.
+                           His old friend,
+
+                             De Balzac.
+
+
+MADAME FIRMIANI
+
+Many tales, whether rich in incident or shaped by chance, carry their
+own setting and can be rendered by narrators without losing charm. But
+some human incidents require the heart to give them life; certain
+delicate, almost anatomical touches cannot reappear except through an
+equally delicate rendering of thought. Some portraits demand the infusion
+of a soul; they mean nothing unless the subtlest expression of a speaking
+countenance is given. There are things we cannot say or do without the
+aid of secret harmonies produced by a day, an hour, a fortunate conjunction,
+or an inward tendency.
+
+Such mysterious revelations are needed to tell this simple history, which
+we hope will interest the naturally grave and reflective who find
+sustenance in tender emotions. If the writer, like the surgeon beside
+his dying friend, feels a species of reverence for his subject, should
+not the reader share that inexplicable feeling? Is it so difficult to
+be in unison with the vague, nervous sadness that casts gray tints about
+us—a semi-illness whose gentle sufferings are often pleasing? If the
+reader sometimes thinks of lost dear ones, if he is alone, if the day
+wanes or the night has come, let him read on; otherwise he should lay
+aside this book. If he has never buried a good old relative, infirm and
+poor, he will not understand these pages, which to some will seem redolent
+of musk, to others as colorless and virtuous as Florian. In short, the
+reader must have known the luxury of tears, felt the silent pangs of
+passing memory, the vision of a dear yet far-off Shade—memories that
+bring regret for all earth has swallowed up, with smiles for vanished joys.
+
+Believe that the writer would not, for the wealth of England, steal
+from poesy a single lie to embellish this narrative. The following is a
+true history, on which you may safely spend the treasures of your
+sensibility—if you have any.
+
+In these days the French language has as many idioms and represents as
+many idiosyncrasies as there are varieties of men in the great family
+of France. It is curious and amusing to hear the different interpretations
+or versions of the same thing by the various species that compose the
+genus Parisian—“Parisian” used merely to generalize our remark.
+
+If you say to an individual of the species Practical, “Do you know
+Madame Firmiani?” he will present that lady by this inventory: “Fine
+house in the rue du Bac, salons handsomely furnished, good pictures,
+one hundred thousand francs a year, husband formerly receiver-general
+of the department of Montenotte.” Thus the Practical man—rotund,
+fat, usually dressed in black—will project his lower lip, nodding as
+if to add: “Solid people, those; nothing to be said against them.” Ask
+no further; Practical men settle everyone’s status by figures,
+incomes, or solid acres.
+
+Turn to the right and ask that same question of the species Lounger.
+“Madame Firmiani?” he says; “yes, I know her; I go to her parties;
+receives Wednesdays; highly creditable house.” Madame Firmiani is
+metamorphosed into a house! but not a pile of stones—“house” in the
+Lounger’s language carries an indefinable idiom. The Lounger, spare,
+with an agreeable smile and more acquired cleverness than wit, stoops
+to your ear and adds with a shrewd glance: “I have never seen Monsieur
+Firmiani. His social position is that of looking after property in
+Italy. Madame Firmiani is a Frenchwoman, and spends her money like a
+Parisian. She has excellent tea. It is one of the few houses where you
+can amuse yourself; the refreshments are exquisite. It is very difficult
+to get admitted; therefore, of course, one meets only the best society
+in her salons.” Here the Lounger takes a pinch of snuff; he inhales
+slowly and seems to say: “I go there, but don’t expect me to present
+you.”
+
+Evidently the Lounger considers Madame Firmiani keeps a sort of inn,
+without a sign.
+
+“Why do you want to know Madame Firmiani? Her parties are as dull as
+the Court itself. What is the good of possessing a mind unless to avoid
+such salons, where stupid talk and foolish little ballads are the order
+of the day.” You have questioned an Egotist, a species that would keep
+the universe under lock and key and let nothing be done without their
+permission. They are unhappy if others are happy; they forgive nothing
+but vices, downfalls, frailties, and like none but protégés. Aristocrats
+by inclination, they make themselves democrats out of spite, preferring
+to consort with inferiors as equals.
+
+“Oh, Madame Firmiani, my dear fellow! she is one of those adorable
+women who serve as Nature’s excuse for all the ugly ones she creates.
+Madame Firmiani is enchanting, and so kind! I wish I were in power and
+possessed millions that I might—” (here a whisper). “Shall I present
+you?” The speaker is of the Student species, bold among men and timid
+in the boudoir.
+
+“Madame Firmiani?” cries another, twirling his cane. “I’ll tell you
+what I think of her; she is a woman between thirty and thirty-five;
+faded complexion, handsome eyes, flat figure, contralto voice worn
+out, much dressed, rather rouged, charming manners; in short, the
+remains of a pretty woman still worth the trouble of a passion.” This
+is the Fop, who has just breakfasted, doesn’t weigh his words, and is
+about to mount his horse. At that moment Fops are pitiless.
+
+“Magnificent collection of pictures in her house; go and see them by
+all means,” answers another. “Nothing finer.” You have questioned a
+Connoisseur. He leaves you to go to Perignon’s or Tripet’s. To him,
+Madame Firmiani is a collection of painted canvases.
+
+A Woman: “Madame Firmiani? I don’t wish you to visit her.” Rich in
+meanings—dangerous woman! a siren! dresses well, has taste; gives other
+women sleepless nights. Your informant belongs to the genus Spiteful.
+
+An Attache to an embassy: “Madame Firmiani? Isn’t she from Antwerp? I
+saw her ten years ago in Rome; she was very handsome then.” Attaches
+have a mania for speaking in Talleyrand’s style. Their wit is so refined
+the point is often imperceptible; they are like billiard-players who
+avoid hitting the ball with consummate dexterity. These individuals are
+usually taciturn, and when they talk it is only about Spain, Vienna,
+Italy, or Petersburg. Names of countries act like springs in their
+minds; press them, and the ringing of their changes begins.
+
+“That Madame Firmiani sees a great deal of the faubourg Saint-Germain,
+doesn’t she?” says one who desires to belong to the class Distinguished.
+She gives the “de” to everybody—Monsieur Dupin senior, Monsieur
+Lafayette; she flings it right and left and humiliates many. This
+woman spends her life striving to know and do “the right thing”; but,
+for her sins, she lives in the Marais, and her husband is a lawyer—a
+lawyer before the Royal courts, however.
+
+“Madame Firmiani, monsieur? I do not know her.” This man belongs to the
+species Duke. He recognizes none but women presented at court. Pray
+excuse him, he was one of Napoleon’s creations.
+
+“Madame Firmiani? surely she used to sing at the Opera-house.” Species
+Ninny. Individuals of this species have an answer for everything; they
+will tell lies sooner than say nothing.
+
+Two old ladies, wives of former magistrates: The First (cap with bows,
+wrinkled face, sharp nose, hard voice, prayer-book in hand): “What was
+that Madame Firmiani’s maiden name?”—The Second (small face red as a
+crab-apple, gentle voice): “She was a Cadignan, my dear, niece of the
+old Prince de Cadignan, consequently cousin to the present Duc de
+Maufrigneuse.”
+
+Madame Firmiani is a Cadignan. She might lack virtue, wealth, or youth,
+but she would still be a Cadignan; it is a prejudice always alive and
+working.
+
+An Original: “My dear fellow, I’ve seen no galoshes in her antechamber;
+consequently you can visit her without compromising yourself, and play
+cards there without fear; if there are any scoundrels in her salons,
+they are people of quality and come in carriages; such persons never
+quarrel.”
+
+Old man of the genus Observer: “If you call on Madame Firmiani, you
+will find a beautiful woman sitting at her ease by the corner of her
+fireplace. She will scarcely rise to receive you—she only does that
+for women, ambassadors, dukes, and persons of great distinction. She
+is very gracious, possesses charm; she converses well, and likes to
+talk on many topics. There are many indications of a passionate nature
+about her; but she has so many adorers that she cannot have a favorite.
+If suspicion rested on two or three intimates, we might say one or
+other was the ‘cavaliere servente’; but it does not. The lady is a
+mystery. She is married, though none of us have seen her husband.
+Monsieur Firmiani is altogether mythical; he is like that third
+post-horse for which we pay though we never behold it. Madame has the
+finest contralto voice in Europe, so say judges; but she has never been
+heard to sing more than two or three times since she came to Paris.
+She receives much company, but goes nowhere.”
+
+The Observer speaks, you will notice, as an Oracle. His words, anecdotes,
+and quotations must be accepted as truths, under pain of being thought
+without social education or intelligence, and of causing him to slander
+you with zest in twenty salons where he is indispensable. The Observer
+is forty, never dines at home, declares himself no longer dangerous to
+women, wears a maroon coat, and has a place reserved for him in several
+boxes at the “Bouffons.” He is sometimes confounded with the Parasite;
+but he has filled too many real functions to be thought a sponger;
+moreover he possesses a small estate in a certain department, the name
+of which he has never been known to utter.
+
+“Madame Firmiani? why, my dear fellow, she was Murat’s former mistress.”
+This man belongs to the Contradictors—persons who note errata in
+memoirs, rectify dates, correct facts, bet a hundred to one, and are
+certain about everything. You can detect them in some gross blunder in
+the course of a single evening. They will tell you they were in Paris
+at the time of Mallet’s conspiracy, forgetting that half an hour earlier
+they described how they had crossed the Berezina. Nearly all Contradictors
+are “chevaliers” of the Legion of honor; they talk loudly, have retreating
+foreheads, and play high.
+
+“Madame Firmiani a hundred thousand francs a year? nonsense, you are
+crazy! Some people will persist in giving millions with the liberality
+of authors, to whom it costs nothing to dower their heroines. Madame
+Firmiani is simply a coquette, who has lately ruined a young man, and
+now prevents him from making a fine marriage. If she were not so
+handsome she wouldn’t have a penny.”
+
+Ah, that one—of course you recognize him—belongs to the species
+Envious. There is no need to sketch him; the species is as well known
+as that of the felis domestica. But how explain the perennial vigor of
+envy?—a vice that brings nothing in!
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-In January 1824 opinions about Madame Firmiani diverged so widely that no clear portrait emerged: widow or wife, wise or foolish, virtuous or not, rich or poor, beautiful or plain. The varied interpretations showed how society distorted a reputation, like lithographic blocks producing different images from slight variations.
+Persons in society, literary men, honest folk—in short, individuals of all species—were promulgating in the month of January, 1824, so many different opinions about Madame Firmiani that it would be tedious to set them all down. A man seeking to understand her, yet unwilling or unable to go to her house, would have had as much reason from hearsay to suppose her a widow or a wife, silly or wise, virtuous or the reverse, rich or poor, soulless or full of feeling, handsome or plain—in short, as many Madame Firmianis as there are species in society or sects in Catholicism. Frightful reflection! We are all like lithographic blocks from which a variety of copies can be drawn by criticism—the proofs resembling us more or less according to a distribution of shading so nearly imperceptible that our reputation depends (barring the calumnies of friends and the witticisms of newspapers) on the balance struck by our critics between Truth that limps and Falsehood to which Parisian wit gives wings.
 
-That winter Monsieur de Bourbonne, an elderly provincial magnate from Touraine, grew intrigued. Shrewd, honorable, and experienced in estate management, he cherished his nephew Octave de Camps. When Octave sold an estate without consulting him and a distant relative claimed he had squandered his fortune on Madame Firmiani and been reduced to teaching mathematics, the old man refused to accept the worst and went to Paris to investigate.
+Madame Firmiani, like other noble women who make their hearts a sanctuary and disdain the world, was liable to be misjudged by Monsieur de Bourbonne, an old country magnate who had reason to think of her during that winter. He belonged to the class of provincial planters—men living on their estates, keeping close accounts, bargaining with the peasantry. Thus employed, a man becomes sagacious in spite of himself, just as soldiers in the long run acquire courage from routine. The old gentleman had come to Paris from Touraine to satisfy his curiosity about Madame Firmiani. He was a man of honor and breeding. His sole heir was a nephew he greatly loved, in whose interests he planted his poplars. When a man thinks without annoyance about his heir, watching trees grow finer for his future benefit, affection grows too with every blow of the spade around their roots. Though not common, this feeling is to be met with in Touraine.
 
-Using faubourg Saint‑Germain connections, he assumed the name de Rouxellay and arranged to meet Madame Firmiani in Octave’s absence. He soon confirmed his nephew’s financial distress. De Rouxellay, not a naive countryman—once in the King’s guard—knew society’s manners and politics. Entering her salon with the Marquise de Listomère, he expressed pity for Octave, wondering how a woman of such luxury could be linked to someone in such straits. Yet the salon’s atmosphere and her presence captivated him, forcing him to reconsider his initial judgments.
+This cherished nephew, Octave de Camps, descended from the famous Abbé de Camps—well known to bibliophiles and learned men. People in the provinces have the bad habit of branding with decent reprobation any young man who sells inherited estates. This antiquated prejudice has interfered with the stock-jobbing the present government encourages for its own interests. Without consulting his uncle, Octave had lately sold an estate belonging to him to the Bande Noire, a mysterious association of speculators that bought landed estates, cut them up, and sold parcels to peasants or others. The château de Villaines would have been pulled down were it not for the remonstrances the old uncle made to the representatives of the “Pickaxe company.” To increase the old man’s wrath, a distant relative—one of those cousins of small means and much astuteness about whom shrewd provincials remark, “No lawsuits for me with him!”—had, as it were by accident, come to visit Monsieur de Bourbonne and incidentally informed him of his nephew’s ruin.
 
-Madame Firmiani, said to be twenty‑five but nearer twenty‑eight, had married the elusive Firmiani at sixteen. At her height she combined beauty, wealth, musical talent, intelligence, and wit, admired even by rivals. That popularity made her a target for malicious gossip; though unfounded, the rumors persisted, revealing the dangers of societal suspicion and hinting at her complex, intriguing character.
+Monsieur Octave de Camps, he said, having wasted his means on a certain Madame Firmiani, was now reduced to teaching mathematics for a living, while awaiting his uncle’s death, not daring to let him know of his dissipations. This distant cousin, a sort of Charles Moor, was not ashamed to give this fatal news to the old gentleman as he sat by his fire, digesting a profuse provincial dinner.
+
+But heirs cannot always rid themselves of uncles. Thanks to his obstinacy, this uncle refused to believe the story, and came out victorious from the attack of indigestion produced by his nephew’s biography. Some shocks affect the heart, others the head; in this case the cousin’s blow fell on the digestive organs and did little harm, for the old man’s stomach was sound. Like a true disciple of Saint Thomas, Monsieur de Bourbonne came to Paris, unknown to Octave, resolved to make full inquiries as to his nephew’s insolvency. Having many acquaintances in the faubourg Saint-Germain—among the Listomères, the Lenoncourts, and the Vandenesses—he heard so much gossip, so many facts and falsities, about Madame Firmiani that he resolved to be presented to her under the name of de Rouxellay, that of his estate in Touraine. The astute old gentleman was careful to choose an evening when he knew Octave would be engaged in finishing a piece of work which was to pay him well—for this so-called lover of Madame Firmiani still went to her house; a circumstance that seemed difficult to explain. As to Octave’s ruin, that, unfortunately, was no fable, as Monsieur de Bourbonne at once discovered.
+
+Monsieur de Rouxellay was not at all like the provincial uncle at the Gymnase. Formerly in the King’s guard, a man of the world and a favorite among women, he knew how to present himself in society with the courteous manners of the olden time; he could make graceful speeches and understand the Charter, or most of it. Though he loved the Bourbons with noble frankness, believed in God as a gentleman should, and read nothing but the Quotidienne, he was not as ridiculous as the liberals of his department would fain have him. He could hold his own in the court circle, provided no one talked to him of “Moses in Egypt,” nor of the drama, or romanticism, nor of railways. He himself had never got beyond Voltaire, Buffon, Payronnet, and the Chevalier Gluck, the Queen’s favorite musician.
+
+“Madame,” he said to the Marquise de Listomère, who was on his arm as they entered Madame Firmiani’s salons, “if this woman is my nephew’s mistress, I pity him. How can she live in the midst of this luxury, and know that he is in a garret? Hasn’t she any soul? Octave is a fool to have given up such an estate as Villaines for a—”
+
+Monsieur de Bourbonne belonged to the species Fossil, and used the language of the days of yore.
+
+“But suppose he had lost it at play?”
+
+“Then, madame, he would at least have had the pleasure of gambling.”
+
+“And do you think he has had no pleasure here? See! look at Madame Firmiani.”
+
+The brightest memories of the old man faded at the sight of his nephew’s so-called mistress. His anger died away at the gracious exclamation that escaped him as he looked at her. By one of those fortunate accidents that happen only to pretty women, it was a moment when all her beauties shone with peculiar lustre, perhaps due to the wax-lights, to the charming simplicity of her dress, and to the ineffable atmosphere of elegance that surrounded her. One must have studied the transitions of an evening in a Parisian salon to appreciate the imperceptible lights and shades which color a woman’s face and vary it. There comes a moment when, content with her toilet, pleased with her own wit, delighted to be admired, and feeling herself the queen of a salon full of remarkable men who smile to her, the Parisian woman reaches a full consciousness of her grace and charm; her beauty is enhanced by the looks she gathers in—a mute homage which she transfers with subtle glances to the man she loves. At moments like these a woman is invested with supernatural power and becomes a magician, a charmer, without herself knowing that she is one; involuntarily she inspires the love that fills her own bosom; her smiles and glances fascinate. If this condition, which comes from the soul, can give attraction even to a plain woman, with what radiance does it not invest a woman of natural elegance, distinguished bearing, fair, fresh, with sparkling eyes, and dressed in a taste that wrings approval from artists and her bitterest rivals.
+
+Have you ever, for your happiness, met a woman whose harmonious voice gives to her speech the same charm that emanates from her manners? A woman who knows how to speak and to be silent, whose words are happily chosen, whose language is pure, and who concerns herself in your interests with delicacy? Her raillery is caressing, her criticism never wounds; she neither discourses nor argues, but she likes to lead a discussion and stop it at the right moment. Her manner is affable and smiling, her politeness never forced, her readiness to serve others never servile; she reduces the respect she claims to a soft shadow; she never wearies you, and you leave her satisfied with her and with yourself. Her charming grace is conveyed to all the things with which she surrounds herself. Everything about her pleases the eye; in her presence you breathe, as it were, your native air. This woman is natural. There is no effort about her; she is aiming at no effect; her feelings are shown simply, because they are true. Frank herself, she does not wound the vanity of others; she accepts men as God made them; pitying the vicious, forgiving defects and absurdities, comprehending all ages, and vexed by nothing, because she has had the sense and tact to foresee all. Tender and gay, she gratifies before she consoles. You love her so well that if this angel did wrong you would be ready to excuse her. If, for your happiness, you have met with such a woman, you know Madame Firmiani.
+
+After Monsieur de Bourbonne had talked with her for ten minutes, sitting beside her, his nephew was forgiven. He perceived that whatever the actual truth might be, the relation between Madame Firmiani and Octave covered some mystery. Returning to the illusions that gild the days of youth, and judging Madame Firmiani by her beauty, the old gentleman became convinced that a woman so innately conscious of her dignity as she appeared to be was incapable of a bad action. Her dark eyes told of inward peace; the lines of her face were so noble, the profile so pure, and the passion he had come to investigate seemed so little to oppress her heart, that the old man said to himself, while noting all the promises of love and virtue given by that adorable countenance, “My nephew is committing some folly.”
+
+Madame Firmiani acknowledged to twenty-five. But the Practicals proved that having married the invisible Firmiani (then a highly respectable individual in the forties) in 1813, at the age of sixteen, she must be at least twenty-eight in 1825. However the same persons also asserted that at no period of her life had she ever been so desirable or so completely a woman. She was now at an age when women are most prone to conceive a passion, and to desire it, perhaps, in their pensive hours. She possessed all that earth sells, all that it lends, all that it gives. The Attaches declared there was nothing of which she was ignorant; the Contradictors asserted that there was much she ought to learn; the Observers remarked that her hands were white, her feet small, her movements a trifle too undulating. But, nevertheless, individuals of all species envied or disputed Octave’s happiness, agreeing, for once in a way, that Madame Firmiani was the most aristocratically beautiful woman in Paris.
+
+Still young, rich, a perfect musician, intelligent, witty, refined, and received (as a Cadignan) by the Princesse de Blamont-Chauvry, that oracle of the noble faubourg, loved by her rivals the Duchesse de Maufrigneuse her cousin, the Marquise d’Espard, and Madame de Macumer,—Madame Firmiani gratified all the vanities which feed or excite love. She was therefore sought by too many men not to fall a victim to Parisian malice and its charming calumnies, whispered behind a fan or in a safe aside. It was necessary to quote the remarks given at the beginning of this history to bring out the true Firmiani in contradistinction to the Firmiani of society. If some women forgave her happiness, others did not forgive her propriety. Now nothing is so dangerous in Paris as unfounded suspicions—for the reason that it is impossible to destroy them.
+
+This sketch of a woman who was admirably natural gives only a faint idea of her. It would need the pencil of an Ingres to render the pride of that brow, with its wealth of hair, the dignity of that glance, and the thoughts betrayed by the changing colors of her cheeks. In her were all things; poets could have found an Agnes Sorel and a Joan of Arc, also the woman unknown, the Soul within that form, the soul of Eve, the knowledge of the treasures of good and the riches of evil, error and resignation, crime and devotion, the Donna Julia and the Haïdee of Lord Byron.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-The former guardsman lingered after the other guests had gone; Madame Firmiani found him still seated when the clock struck two.
+The former guardsman stayed impertinently after the other guests had left; Madame Firmiani found him sitting quietly before her in an armchair, determined to remain with the pertinacity of a fly. The clock marked two in the morning.
 
-“Madame,” he began as she rose, “I am the uncle of Monsieur Octave de Camps.”
+“Madame,” said the old gentleman as she rose, hoping to imply she wished him to go, “I am the uncle of Monsieur Octave de Camps.”
 
-She sat again, affected; Monsieur de Bourbonne could not tell whether her pallor was shame or pleasure. He spoke bluntly: rumors said his nephew had ruined himself for her, living in a garret while she enjoyed wealth. She stopped him. “I know of them,” she said. “You are too polite to press and too gallant to question me. It would be absurd to defend myself. Believe me: I scorn money. I married without fortune. Your nephew’s wealth or poverty matters not; I welcome him as a friend. My friends respect one another; I cannot accept those I do not esteem. My guardian angel has kept me from gossip and dishonesty.”
+Madame Firmiani immediately sat again, showing emotion. Despite his sagacity he could not tell whether she paled from shame or pleasure. Delicate women often hide delicious emotions; modesty betrays them. Many secretly long to hear a name they keep. Monsieur de Bourbonne did not interpret her agitation so generously—provincials are distrustful.
 
-“Madame,” the old man insisted, trembling, “I am almost a father to Octave. Pardon me one thing. I swear as a gentleman your answer shall remain here.” He put his hand on his heart. “Do you love Octave?”
+“Well, monsieur?” said Madame Firmiani, giving him one of those clear glances that question more than they reveal.
 
-“To any other man I would answer with a look,” she replied. “To you I ask what you would think of a woman who answered such a question. To confess love is the lover’s reward. To tell another—” She left the sentence unfinished, rose, bowed, and withdrew to her rooms.
+“Well, madame,” returned the old man, “do you know what someone came to tell me in the depths of my province? That my nephew had ruined himself for you, and that the poor fellow was living in a garret while you were in silk and gold. Forgive my rustic sincerity; it may be useful for you to know of these calumnies.”
 
-He left puzzled, thinking her either sly or angelic.
+“Stop, monsieur,” said Madame Firmiani, with an imperative gesture; “I know all that. You are too polite to continue this subject if I request you to leave it, and too gallant—in the old-fashioned sense,” she added with slight irony—“not to agree that you have no right to question me. It would be ridiculous to defend myself. I trust you will have a good opinion of my character and believe the profound contempt I feel for money, although I was married, without any fortune, to a man of immense wealth. It is nothing to me whether your nephew is rich or poor; if I have received him, and do now receive him, it is because I consider him worthy to be counted among my friends. All my friends respect each other; they know I have not philosophy enough to admit into my house those I do not esteem; this may argue a want of charity; but my guardian angel has maintained in me a profound aversion for tattle and for dishonesty.”
 
-The next morning Monsieur de Bourbonne found Octave in his garret and berated him for squandering the advantages of an uncle who meant to leave him an estate. “Have you been gambling? Lost at the Bourse? Say, ‘Uncle, I’m a wretch,’ and I’ll hug you. But if you lie, I’ll return to my youthful ways.” He approved when Octave admitted he had “ruined” himself for Madame Firmiani.
+Her voice rose in the first part of this answer; the last words were said with the ease and self-possession of Celimene bantering the Misanthrope.
 
-Octave produced a letter the woman had given him and asked his uncle to read. It revealed their relation and the moral test she had set. The letter began, in effect, “My beloved—” and explained why she was sad. She said a wife should be gay and confiding, that a woman’s glory is in the man she loves, and yet she had been humiliated by what she learned of Octave’s family. Knowing that his father had unjustly deprived others of property made her feel she could not respect him while he kept such gains. She urged him to consult his conscience: “If you come to me poor, my love shall be redoubled. If not, renounce it. I am your wife, not your mistress. A man who loves a woman sincerely respects the sanctity of her trust too deeply to dishonor himself.” She did not demand restitution as a command; she appealed to his honor and begged him to perceive his faults himself.
+“Madame,” said Monsieur de Bourbonne, in some emotion, “I am an old man; I am almost Octave’s father, and I ask your pardon most humbly for the question I shall now venture to put to you, giving you my word of honor as a loyal gentleman that your answer shall die here,”—laying his hand upon his heart with an old-fashioned gesture that was almost religious—“Are these rumors true; do you love Octave?”
 
-Octave, moved to tears, said there was more, but the rest he smiled away as a lover’s secret. The uncle, surprised by the gravity of the letter and that they considered themselves married, asked whether Octave had gone into teaching and whether he still had the uncle’s capital. Octave explained that the letter had sparked a revolution in him; conscience made every pleasure feel like theft. He rushed to Madame Firmiani, and together they calculated what ought to be paid to the Bourgneufs—the family whom Octave’s father had wronged. Despite limited means, he condemned himself to pay three percent interest and to make restitution as far as he could. Madame Firmiani, prudent because of past insecurity, offered her savings and he accepted them.
+“Monsieur,” she replied, “to any other man I should answer that question only by a look; but to you, and because you are almost the father of Monsieur de Camps, I reply by asking what you would think of a woman if to such a question she answered you? To avow our love for him we love, when he loves us—ah! that may be; but even when we are certain of being loved forever, believe me, monsieur, it is an effort for us, and a reward to him. To say to another—”
 
-“You mean that adorable woman actually saves money?” the uncle cried, half mocking, half admiring.
+She did not end, but rose, bowed, and withdrew into her private apartments, the doors opening and closing behind her with a language of their own to his ears.
 
-“Do not laugh at her,” Octave replied. He told his uncle that Madame Firmiani’s husband had gone to Greece in 1820 and died three years later; proof of his death and his will had been lost or stolen during the troubles there, so she had lived frugally to protect herself against possible loss of fortune. Octave had been trying to acquire property of his own to provide for her; he took pupils rather than rely on others. But the act of restitution had brought him joys beyond millions: finding the Bourgneufs living in misery—an old agent father, daughters keeping books and house, a sick mother—he felt like Providence in relieving them. Making amends gave him a purity of feeling he had thought he lacked; he called Madame Firmiani “my dear conscience” and hoped to earn an honest fortune by industry.
+“Ah! the mischief!” thought he; “what a woman! she is either a sly one or an angel”; and he got into his hired coach, the horses stamping in the silent courtyard, while the coachman slept on his box after cursing his tardy customer.
 
-Touched, the old man said, “Ah, my boy, you have your mother’s soul.” At that moment a carriage sounded outside. Madame Firmiani entered, a little annoyed to find Monsieur de Bourbonne still there smiling. “I came to entreat my husband to accept my fortune,” she said. The Austrian Embassy had just sent documents proving Monsieur Firmiani’s death and the will, which his valet had kept safe. Octave could accept it all: he was richer than she by having “treasures here”—she laid her hand on his heart—“to which none but God can add.” She then laid her head on his breast in unrestrained happiness.
+The next morning about eight o’clock the old gentleman mounted the stairs of a house in the rue de l’Observance where Octave de Camps lived. If there was ever an astonished man it was the young professor when he beheld his uncle. The door was unlocked, his lamp still burning; he had been up all night.
 
-Monsieur de Bourbonne concluded with an old man’s reflection: “In my day we made love; in yours, you love. Women are all that is best in humanity; they are not even guilty of their faults, for they come through us.”
+“You rascal!” said Monsieur de Bourbonne, sitting in the nearest chair; “since when is it fashion to laugh at uncles who have twenty-six thousand francs a year from solid acres to which we are the sole heir? Let me tell you that in the olden time we stood in awe of such uncles. Come, speak up, what fault have you to find with me? Haven’t I played my part as uncle properly? Did I ever require you to respect me? Have I ever refused you money? When did I shut the door in your face on pretext that you had come to look after my health? Haven’t you had the most accommodating and least domineering uncle that is in France—I won’t say Europe, because that might be presumptuous. You write to me, or you don’t write—no matter, I live on pledged affection, and I am making you the prettiest estate in all Touraine, the envy of the department. To be sure, I don’t intend to let you have it till the last possible moment, but that’s an excusable little fancy, isn’t it? And what does monsieur himself do?—sells his own property and lives like a lackey!”
+
+“Uncle—”
+
+“I’m not talking about uncles, I’m talking nephew. I have a right to your confidence. Come, confess at once; it is much the easiest way; I know by experience. Have you been gambling? lost money at the Bourse? Say, ‘Uncle, I’m a wretch,’ and I’ll hug you. But if you tell me any lies greater than those I used to tell at your age I’ll sell my property, buy an annuity, and go back to the evil ways of my youth—if I can.”
+
+“Uncle—”
+
+“I saw your Madame Firmiani yesterday,” went on the old fellow, kissing the tips of his fingers. “She is charming. You have the consent and approbation of your uncle, if that will do you any good. As to the sanction of the Church I suppose that’s useless, and the sacraments cost so much in these days. Come, speak out, have you ruined yourself for her?”
+
+“Yes, uncle.”
+
+“Ha! the jade! I’d have wagered it. In my time the women of the court were cleverer at ruining a man than the courtesans of to-day; but this one—I recognized her!—it is a bit of the last century.”
+
+“Uncle,” said Octave, with a manner tender and grave, “you are totally mistaken. Madame Firmiani deserves your esteem, and all the adoration the world gives her.”
+
+“Youth, youth! always the same!” cried Monsieur de Bourbonne. “Well, go on; tell me the same old story. But please remember my experience in gallantry is not of yesterday.”
+
+“My dear, kind uncle, here is a letter which will tell you nearly all,” said Octave, taking it from an elegant portfolio, her gift no doubt. “When you have read it I will tell you the rest, and you will then know a Madame Firmiani unknown to the world.”
+
+“I haven’t my spectacles; read it aloud.”
+
+Octave began:—
+
+  “My beloved—”
+
+“Hey, then you are still intimate with her?” interrupted his uncle.
+
+“Why yes, of course.”
+
+“You haven’t parted from her?”
+
+“Parted!” repeated Octave, “we are married.”
+
+“Heavens!” cried Monsieur de Bourbonne, “then why do you live in a garret?”
+
+“Let me go on.”
+
+“True—I’m listening.”
+
+Octave resumed, though some passages he read with deep emotion.
+
+  “‘My beloved Husband,—You ask me the reason of my sadness. Has
+  it, then, passed from my soul to my face; or have you only guessed
+  it?—but how could you fail to do so, one in heart as we are? I
+  cannot deceive you; this may be a misfortune, for it is one of the
+  conditions of happy love that a wife shall be gay and caressing.
+  Perhaps I ought to deceive you, but I would not do it even if the
+  happiness with which you have blessed and overpowered me depended
+  on it.
+
+  “‘Ah! dearest, how much gratitude there is in my love. I long to
+  love you forever, without limit; yes, I desire to be forever proud
+  of you. A woman’s glory is in the man she loves. Esteem,
+  consideration, honor, must they not be his who receives our all?
+  Well, my angel has fallen. Yes, dear, the tale you told me has
+  tarnished my past joys. Since then I have felt myself humiliated
+  in you,—you whom I thought the most honorable of men, as you are
+  the most loving, the most tender. I must indeed have deep
+  confidence in your heart, so young and pure, to make you this
+  avowal which costs me much. Ah! my dear love, how is it that you,
+  knowing your father had unjustly deprived others of their
+  property, that YOU can keep it?
+
+  “‘And you told me of this criminal act in a room filled with the
+  mute witnesses of our love; and you are a gentleman, and you think
+  yourself noble, and I am yours! I try to find excuses for you; I
+  do find them in your youth and thoughtlessness. I know there is
+  still something of the child about you. Perhaps you have never
+  thought seriously of what fortune and integrity are. Oh! how your
+  laugh wounded me. Reflect on that ruined family, always in
+  distress; poor young girls who have reason to curse you daily; an
+  old father saying each night: “We might not now be starving if that man’s father had been an honest man—”’”
+
+“Good heavens!” cried Monsieur de Bourbonne, interrupting, “surely you have not been such a fool as to tell that woman about your father’s affair with the Bourgneufs? Women know more about wasting a fortune than making one.”
+
+“They know about integrity. But let me read on, uncle.”
+
+  “‘Octave, no power on earth has authority to change the principles
+  of honor. Look into your conscience and ask it by what name you
+  are to call the action by which you hold your property.’”
+
+The nephew looked at the uncle, who lowered his head.
+
+  “‘I will not tell you all the thoughts that assail me; they can be
+  reduced to one,—this is it: I cannot respect the man who,
+  knowingly, is smirched for a sum of money, whatever the amount may
+  be; five francs stolen at play or five times a hundred thousand
+  gained by a legal trick are equally dishonoring. I will tell you
+  all. I feel myself degraded by the very love which has hitherto
+  been all my joy. There rises in my soul a voice which my
+  tenderness cannot stifle. Ah! I have wept to feel that I have more
+  conscience than love. Were you to commit a crime I would hide you
+  in my bosom from human justice, but my devotion could go no
+  farther. Love, to a woman, means boundless confidence, united to a
+  need of reverencing, of esteeming, the being to whom she belongs.
+  I have never conceived of love otherwise than as a fire in which
+  all noble feelings are purified still more,—a fire which develops
+  them.
+
+  “‘I have but one thing else to say: come to me poor, and my love
+  shall be redoubled. If not, renounce it. Should I see you no more,
+  I shall know what it means.
+
+  “‘But I do not wish, understand me, that you should make
+  restitution because I urge it. Consult your own conscience. An act
+  of justice such as that ought not to be a sacrifice made to love.
+  I am your wife and not your mistress, and it is less a question of
+  pleasing me than of inspiring in my soul a true respect.
+
+  “‘If I am mistaken, if you have ill-explained your father’s
+  action, if, in short, you still think your right to the property
+  equitable (oh! how I long to persuade myself that you are
+  blameless), consider and decide by listening to the voice of your
+  conscience; act wholly and solely from yourself. A man who loves a
+  woman sincerely, as you love me, respects the sanctity of her
+  trust in him too deeply to dishonor himself.
+
+  “‘I blame myself now for what I have written; a word might have
+  sufficed, and I have preached to you! Scold me; I wish to be
+  scolded,—but not much, only a little. Dear, between us two the
+  power is yours—you alone should perceive your own faults.’”
+
+“Well, uncle?” said Octave, whose eyes were full of tears.
+
+“There’s more in the letter; finish it.”
+
+“Oh, the rest is only to be read by a lover,” answered Octave, smiling.
+
+“Yes, right, my boy,” said the old man gently. “I have had many affairs in my day, but I beg you to believe that I too have loved, ‘et ego in Arcadia.’ But I don’t understand yet why you give lessons in mathematics.”
+
+“My dear uncle, I am your nephew; isn’t that as good as saying that I had dipped into the capital left me by my father? After I read this letter a sort of revolution took place within me. I paid my whole arrearage of remorse in one day. I cannot describe the state I was in. As I drove in the Bois a voice called to me, ‘That horse is not yours’; when I ate my dinner it said, ‘You have stolen this food.’ I was ashamed. The fresher my honesty, the more intense it was. I rushed to Madame Firmiani. Uncle! that day I had pleasures of the heart, enjoyments of the soul far beyond millions. Together we made out the account of what was due to the Bourgneufs, and I condemned myself, against Madame Firmiani’s advice, to pay three per cent interest. But all I had did not suffice to cover the full amount. We were lovers enough for her to offer, and me to accept, her savings—”
+
+“What! besides her other virtues does that adorable woman lay by money?” cried his uncle.
+
+“Don’t laugh at her, uncle; her position obliged her to be careful. Her husband went to Greece in 1820 and died there three years later. It has been impossible thus far to get legal proof of his death, or obtain the will leaving his property to his wife. These papers were either lost or stolen during the troubles in Greece—a country where registers are not kept as in France, and where we have no consul. Uncertain whether she might be forced to give up her fortune, she has lived with the utmost prudence. As for me, I wish to acquire property that shall be mine, to provide for my wife if she loses hers.”
+
+“But why didn’t you tell me all this? My dear nephew, you might have known I love you enough to pay all your good debts, the debts of a gentleman. I’ll play the traditional uncle now, and revenge myself!”
+
+“Ah! uncle, I know your vengeance! but let me get rich by my own industry. If you want to do me a real service, make me an allowance of two or three thousand francs a year till I see my way to an enterprise for which I shall want capital. At this moment I am so happy that all I desire is the means of living. I give lessons so that I may not live at the cost of any one. If you only knew the happiness I had in making that restitution! I found the Bourgneufs, after a good deal of trouble, living miserably and in need of everything. The old father was a lottery agent; the two daughters kept his books and took care of the house; the mother was always ill. The daughters are charming, but they had been cruelly taught that the world thinks little of beauty without money. What a scene it was! I entered their house the accomplice in a crime; I left it an honest man who had purged his father’s memory. Uncle, I don’t judge him; there is such excitement, such passion in a lawsuit that even an honorable man may be led astray. Lawyers can make the most unjust claims legal; laws have convenient syllogisms to quiet consciences. My visit was a drama. To be Providence itself; actually to fulfill that futile wish, ‘If heaven were to send us twenty thousand francs a year’—that silly wish we all make laughing; to bring opulence to a family sitting by the light of one miserable lamp over a poor turf fire—no, words cannot describe it. My extreme justice seemed to them unjust. Well! if there is a Paradise my father is happy in it now. As for me, I am loved as no man was ever loved yet. Madame Firmiani gives me more than happiness; she has inspired me with a delicacy of feeling I lacked. So I call her my dear conscience—a love-word expressing secret harmonies within our hearts. I find honesty profitable; I shall get rich in time by myself. I’ve an industrial scheme in my head, and if it succeeds I shall earn millions.”
+
+“Ah! my boy, you have your mother’s soul,” said the old man, his eyes filling at the thought of his sister.
+
+Just then, in spite of the distance between Octave’s garret and the street, the young man heard the sound of a carriage.
+
+“There she is!” he cried; “I know her horses by the way they are pulled up.”
+
+A few moments more, and Madame Firmiani entered the room.
+
+“Ah!” she exclaimed, with a gesture of annoyance at seeing Monsieur de Bourbonne. “But our uncle is not in the way,” she added quickly, smiling; “I came to humbly entreat my husband to accept my fortune. The Austrian Embassy has just sent me a document which proves the death of Monsieur Firmiani, also the will, which his valet was keeping safely to put into my hands. Octave, you can accept it all; you are richer than I, for you have treasures here”—laying her hand upon his heart—“to which none but God can add.” Then, unable to support her happiness, she laid her head upon her husband’s breast.
+
+“My dear niece,” said the old man, “in my day we made love; in yours, you love. You women are all that is best in humanity; you are not even guilty of your faults, for they come through us.”
+
+ADDENDUM
+
+The following personages appear in other stories of the Human Comedy.
+
+     Blamont-Chauvry, Princesse de
+       The Thirteen
+       Madame Firmiani
+       The Lily of the Valley
+
+     Bourbonne, De
+       Madame Firmiani
+       The Vicar of Tours
+
+     Camps, Octave de
+       Madame Firmiani
+       The Member for Arcis
+
+     Camps, Madame Octave de
+       Madame Firmiani
+       The Government Clerks
+       A Woman of Thirty
+       A Daughter of Eve
+       The Member for Arcis
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Middle of the story — midpoint of the narrative. MIDDLE OF THE STORY. MIDDLE OF THE STORY. MIDDLE OF THE STORY.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
