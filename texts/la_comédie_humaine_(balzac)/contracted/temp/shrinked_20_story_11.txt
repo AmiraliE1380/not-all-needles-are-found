@@ -1,4 +1,4 @@
-“Ah! madame,” said the doctor, “I have some appalling stories, but each has its proper hour in conversation—” The hostess reminded him it was two in the morning and that Rosina’s story had prepared them. Still, they urged Monsieur Bianchon to tell his tale, and he bowed and began.
+“Ah! madame,” said the doctor, “I have some appalling stories, but each has its proper hour in conversation—” The hostess reminded him it was two in the morning and that Rosina’s story had prepared them. Still, they urged Monsieur Bianchon to tell his tale; he bowed and began.
 
 About a hundred paces from Vendôme, on the bank of the Loir, stands an old brown house with very high roofs, solitary and utterly neglected—no tannery or tavern near it. A garden slopes to the river where once-clipped box shrubs now run wild; willows rooted in the stream form a half-hidden fence. Weeds have taken the bank; fruit trees, uncared for a decade, no longer bear, their suckers forming a thicket; espaliers look like a little copse. The once-graveled paths are overgrown—indeed there is no trace of a path. From the hilltop where the ruins of the Dukes of Vendôme cling, one can see that this spot must once have been the pride of a country gentleman devoted to horticulture. An arbor’s wreck and a partially standing table testify to that bygone care. The garden’s aspect suggests provincial peace—the epitaph of a worthy tradesman. To complete the mournful air, one wall bears a sundial with the motto “Ultimam cogita” (think on your last).
 
@@ -44,19 +44,19 @@ Thus Bianchon closed his tale on the picture of La Grande Bretèche, the Countes
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-One evening shortly after he arrived he stayed out late. I grew uneasy when he did not return until midnight, but we were used to his whims; he had the key, and we did not wait. He lived in a house we owned on Rue des Casernes. One of our stable-boys thought he had seen the Spanish Grandee swimming in the river. When he did come back I warned him about the weeds; he seemed annoyed at being seen.
+One evening shortly after his arrival he stayed out late. I worried when he did not return until midnight, but he had the key and we were used to his whims. He lived in a house we owned on Rue des Casernes. One of our stable-boys thought he had seen the Spanish grandee swimming in the river. When he did come back I warned him about the weeds; he seemed annoyed at being seen.
 
-Eventually one morning we found he had not come back at all. Searching his things I discovered a note in his drawer, fifty doubloons—about five thousand francs—and a sealed box of diamonds worth ten thousand francs. The note said that if he did not return he left the money and diamonds to fund masses in gratitude for his escape.
+One morning we found he had not returned at all. In his things I found a note, fifty doubloons—about five thousand francs—and a sealed box of diamonds worth ten thousand francs. The note said if he did not return, the money and diamonds were left to fund masses in gratitude for his escape.
 
-My husband went searching and returned with the Spaniard’s clothes, found under a stone on a breakwater near la Grande Bretèche. He had come early, unseen. After reading the letter my husband burned the clothes and, in keeping with Count Férédia’s wishes, we announced that he had escaped. The sub-prefect sent the constabulary after him, but he was never caught. Lepas thought the Spaniard had drowned. I suspected otherwise, believing him implicated in Madame de Merret’s affair; Rosalie had told me the crucifix her mistress cherished and was buried with was ebony and silver, and early in his stay Monsieur Férédia had owned a similar crucifix that I never saw again. “Should I feel remorse about the Spaniard’s fifteen thousand francs?” my hostess asked. “Aren’t they truly mine?”
+My husband searched and brought back the Spaniard’s clothes, found under a stone on a breakwater near la Grande Bretèche. He had come early, unseen. After reading the letter my husband burned the clothes and, honoring Count Férédia’s wishes, we announced that he had escaped. The sub-prefect sent the constabulary but he was never caught. Lepas thought he had drowned. I suspected otherwise: I believed him implicated in Madame de Merret’s affair. Rosalie had told me the crucifix her mistress cherished and was buried with was ebony and silver, and early in his stay Monsieur Férédia had owned a similar crucifix that I never saw again. “Should I feel remorse about the Spaniard’s fifteen thousand francs?” my hostess asked. “Aren’t they truly mine?”
 
 “Certainly. But have you ever questioned Rosalie?” I asked.
 
 “Oh, I have, sir. But what can be done? That girl is like a wall. She knows something, but it’s impossible to make her talk.”
 
-After a brief chat, my hostess left me with vague sinister thoughts, romantic curiosity, and a religious dread—like entering a dark church at night with a faint light beneath a high vault. La Grande Bretèche, with its overgrown grass, shuttered windows, rusty ironwork, and deserted rooms, suddenly loomed in my imagination. I felt compelled to explore the house and uncover the heart of this solemn story that had claimed three lives.
+After that brief, sinister chat I was left with romantic curiosity and a religious dread—like entering a dark church with a faint light far above. La Grande Bretèche, with its overgrown grass, shuttered windows, rusty ironwork, and deserted rooms, loomed in my imagination. I felt compelled to explore the house and uncover the heart of this solemn story that had claimed three lives.
 
-Rosalie became the most intriguing person in Vendôme. Observing her, I sensed some inner thought beneath her blooming health—a sorrow or hope; she seemed to keep a secret, like devout souls who pray excessively or a woman haunted by a past crime. Yet she was simple and clumsy, her vacant smile devoid of malice; one would deem her innocent seeing the large checked kerchief tucked into her lilac-and-white-striped gown. “No,” I resolved, “I will not leave Vendôme without knowing la Grande Bretèche’s full story. To achieve this, I will make advances toward Rosalie if necessary.”
+Rosalie became the most intriguing person in Vendôme. Observing her, I sensed some inner thought beneath her blooming health—sorrow or hope; she seemed to keep a secret, like a devout soul or a woman haunted by a past crime. Yet she was simple and clumsy, her vacant smile free of malice; one would deem her innocent seeing the large checked kerchief tucked into her lilac-and-white-striped gown. “No,” I resolved, “I will not leave Vendôme without knowing la Grande Bretèche’s full story. To achieve this, I will make advances toward Rosalie if necessary.”
 
 “Rosalie!” I called one evening.
 
@@ -64,7 +64,7 @@ Rosalie became the most intriguing person in Vendôme. Observing her, I sensed s
 
 “You’re not married?” She flinched.
 
-“Oh! There’s no shortage of men if I ever fancy being miserable!” she laughed, then regained composure.
+“Oh! There’s no shortage of men if I ever fancy being miserable!” she laughed, then composed herself.
 
 “Yes; you’re attractive enough to never lack suitors! But tell me, Rosalie, why did you become an inn-servant after leaving Madame de Merret? Didn’t she leave you a small annuity?”
 
@@ -76,7 +76,7 @@ Her response seemed evasive. Rosalie appeared central to the affair; she seemed 
 
 “Oh!” she replied, “I will tell you, but keep it a secret.”
 
-“Of course, my child; I will guard your secrets with a thief’s honor, the most loyal known.”
+“Of course, my child; I will guard your secrets with a thief’s honor.”
 
 “If it’s all the same to you,” she said, “I’d prefer it be with your own.”
 
