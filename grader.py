@@ -49,7 +49,7 @@ def grade_quiz_distributed_facts(
 
 
 if __name__ == "__main__":
-    model = 'deepseek-v3.2-chat'
+    model = 'claude-haiku-4-5'
     # for i in range(10):
     #     for j in range(10):
     #         addr = f"logs/quiz_responses_128k_length_{(i+1)*10}%_factloc_{5+j*10}_{model}"
