@@ -112,16 +112,16 @@ def take_quizes_diff_lengths():
     # for i in [6]:
     # for i in range(10):
     # for i in range(8,10):
-    for i in [6]:
+    for i in [9]:
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
         # grades.append([])
         # for j in [9]:
 
         for hallucination_version in [
-                                    #   "",
+                                      "",
                                       "_no_hallucination"
                                       ]:
-            for j in range(5,10):
+            for j in range(10):
             # for j in [9]:
                 fact_location = j * 0.1 + 0.05
                 print(f"Taking quiz for story length {(i+1)*10}% and fact location {fact_location*100:.0f}...")
@@ -149,9 +149,6 @@ def take_quizes_diff_lengths():
                 print(f"response: {response}\n")
                 print("\n" + "="*50 + "\n")
 
-                time.sleep(350)  # to avoid token rate per minute limit errors
-        
-
                 # save_results_path = f"logs/quiz_responses_{id}_{model}.txt"
                 # save_results_path = f"logs/quiz_responses_{id}_{model}_no_hallucination.txt"
                 save_results_path = f"logs/quiz_responses_{id}_{model}{hallucination_version}.txt"
@@ -161,11 +158,8 @@ def take_quizes_diff_lengths():
                 with open(save_results_path, 'w') as file:
                     file.write(str(response))
 
-    # print(f"Grades saved to {save_grades_path}")
-    # print("Grades matrix:")
-    # print(grades)
-    # plot_grades(grades)
-    # plot_grades([[0, 20.5],[90.8,10]])
+                time.sleep(500)  # to avoid token rate per minute limit errors
+        
     
 
 def take_distributed_facts_quizzes():
@@ -221,5 +215,5 @@ def take_distributed_facts_quizzes():
         
 
 if __name__ == "__main__":
-    take_quizes_diff_lengths()
-    # take_distributed_facts_quizzes()
+    # take_quizes_diff_lengths()
+    take_distributed_facts_quizzes()

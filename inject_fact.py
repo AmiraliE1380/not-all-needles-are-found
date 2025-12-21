@@ -192,16 +192,11 @@ if __name__ == "__main__":
     dist_facts_addr = "prompts/facts/distributed_facts.txt"
     with open(dist_facts_addr, 'r') as file:
         facts = file.read().split('\n\n')
-    # print(f"facts = \n{facts}\n")
+    
     print(len(facts))
     
-    # locations = [sample_location(dists[1]) for _ in range(len(facts))]
-    # locations.sort()
-    # print(f"locations = \n{locations}\n")
-    # print(len(locations))
-
-    model = "deepseek-v3.2-chat"  # default model to use for chat_with_model
-    max_context_length = 128 # number of thousands of tokens
+    model = "claude-haiku-4-5"  # default model to use for chat_with_model
+    max_context_length = 200 # number of thousands of tokens
     
     story_addr = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_100%.txt"
     with open(story_addr, 'r', encoding='utf-8') as file:
