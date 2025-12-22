@@ -1,202 +1,884 @@
-**The Two Brothers**  
-*By Honoré De Balzac*  
-*Translated by Katharine Prescott Wormeley*  
+PREPARER’S NOTE
 
-**Dedication**  
-To Monsieur Charles Nodier, a member of the French Academy. This book examines the hidden injustices of domestic life, where divine chance often replaces human justice, reflecting on the decline of paternal authority and the consequences of feminine weakness, urging a return to the moral foundations of marriage and family.
+Two Poets is part one of a trilogy and begins the story of Lucien, his sister Eve, and his friend David in the provincial town of Angoulême. Part two, A Distinguished Provincial at Paris, centers on Lucien’s Parisian life. Part three, Eve and David, returns to Angoulême. In many references parts one and three are combined under the title Lost Illusions, while A Distinguished Provincial at Paris is titled separately. Lucien’s story continues later in Scenes from a Courtesan’s Life.
 
----
+DEDICATION
 
-**Chapter I**  
-In 1792, the townspeople of Issoudun viewed Dr. Rouget as malicious, believing he made his beautiful wife, Madame Rouget, unhappy. Their son, Jean-Jacques, was born first, followed by their daughter Agathe a decade later, whose arrival strained family dynamics. The Rougets were connected to the wealthy Descoings family, who profited from the wool trade. Descoings’ brother sought fortune in Paris but ultimately failed.
+To Monsieur Victor Hugo,
 
-Descoings was imprisoned during the Revolution and executed, shocking the town. After his death, Madame Rouget’s health deteriorated due to her husband’s neglect and their son’s indifference. Agathe was sent to Paris to live with her uncle, but her arrival coincided with Descoings’ imprisonment, leaving him unable to care for her.
+It was your birthright to be, like a Rafael or a Pitt, a great poet at an age when others are children; it was your fate, as with Chateaubriand and every man of genius, to struggle against jealousy lurking in newspapers and the subterranean places of journalism. For this reason I desired that your victorious name should help to win a victory for this work, which some say is an act of courage as well as a veracious history. If there had been journalists in Molière’s time, who can doubt they would have been within the province of the playwright? Why should Comedy, qui castigat ridendo mores, exempt one power when the Parisian press spares none? I am happy to subscribe myself your sincere admirer and friend,
 
-Fearing she would never see Agathe again, Madame Rouget fell ill. Agathe’s beauty attracted Bridau, a secretary in the ministry, who married her with Dr. Rouget’s approval. After inheriting the Descoings’ wealth, Dr. Rouget led a debauched life following his wife’s death in 1799, leaving Jean-Jacques unprepared for adulthood.
+DE BALZAC.
 
-Agathe, resembling her mother, was a devoted wife and mother, but her ignorance of life’s complexities led to misfortunes. Bridau, loyal to Napoleon, worked tirelessly in the ministry until his death in 1808, just before a significant promotion.
+TWO POETS
 
-After Bridau’s death, Agathe received a pension and scholarships for her sons but remained estranged from her family in Issoudun. Despite warnings from her godmother, Madame Hochon, Agathe did not contest her father’s will, which deprived her of her rightful inheritance. Instead, she and Madame Descoings pooled their resources, living modestly.
+When this story opens, the Stanhope press and the modern ink roller were not yet common in small provincial printing houses. Even in Angoulême, linked to paper-mills and Parisian typography, the machinery was primitive: wooden presses, leather ink-balls, and a heavy movable marble “impression-stone.” This obsolete gear, to which Jérôme-Nicolas Séchard had a near-superstitious affection, figures in this chronicle.
 
-Madame Descoings, now sixty-five, maintained her youthful appearance and sought to cheer Agathe, often taking her to the theater. However, she harbored a secret about her grandson, Bixiou, whom she raised in secrecy. Agathe, devoted to her children, declined to remarry, but her lack of authority as a mother led to significant challenges.
+Séchard had been a journeyman pressman, nicknamed a “bear” in compositors’ slang—so called for the pacing of the pressman from ink-table to press. “Bears” called compositors “monkeys” for their nimble fingering of type from the many compartments of the cases.
 
-Madame Descoings’ gambling addiction worsened their financial situation, as she used household funds to support her lottery habit. As debts mounted, Agathe, unaware of the extent of the problem, continued to trust her aunt. Eventually, Madame Descoings confessed her financial troubles to Agathe, who took drastic measures to pay off the debts, selling possessions and cutting expenses.
+In the disastrous year 1793, Séchard, fifty and married, escaped the great Requisition that swept most workmen into the army. He was the only hand left in the printing-house; when the master died, leaving a widow but no children, the business seemed doomed because the solitary “bear” could not become a “monkey” and, as a pressman, could neither read nor write. A Representative of the People, hurried to publish Convention Decrees, bestowed a master printer’s license on Séchard and requisitioned the establishment. Jérôme-Nicolas accepted the dangerous patent, bought the business from the widow with his wife’s savings, and took over the plant at half value—but he still had to print the Republic’s decrees without mistakes.
 
-This chapter sets the stage for the unfolding drama of familial relationships, financial struggles, and the consequences of choices made within societal expectations and personal ambitions, highlighting the complexities of love, loyalty, and the often-hidden burdens within families.
+At this crisis Séchard was fortunate to find a noble Marseillais unwilling to emigrate or risk his head, who agreed to work disguised in a provincial printer’s jacket. M. le Comte de Maucombe set up, read, and corrected the decrees that forbade citizens to harbor aristocrats; the “bear” printed and posted them, and both remained safe.
 
-The rue Mazarin, particularly between rue Guenegard and rue de Seine, is one of Paris's dreariest areas, dominated by Cardinal Mazarin's college and library. Here, Madame Bridau, a widow, lives on the third floor of a dimly lit building. Opposite her, the Institute trains aspiring artists, known as "rapins," who undergo rigorous examinations for prestigious prizes.
+In 1795, when the Terror had passed, Séchard needed a new jack-of-all-trades to be compositor, reader, and foreman; an Abbé who declined the oath succeeded the Count after the First Consul restored public worship. The Abbé later became a Bishop at the Restoration; in time the Count and the Abbé met again on the same bench in the House of Peers.
 
-Madame Bridau's modest apartment reflects her frugal lifestyle. Since her husband's death, she has become increasingly disheveled and consumed by grief, neglecting her appearance and home. With financial struggles looming, she worries about her children, Philippe and Joseph, despite receiving some support from the Emperor.
+By 1795 Jérôme-Nicolas had not learned to read or write; by 1802 he still had not; yet by allowing a large margin for “wear and tear” in his estimates, he managed to pay a foreman’s wages. Once an easy-going journeyman, he became a terror to his “bears” and “monkeys.” Where poverty ceases, avarice begins. On glimpsing the possibility of making a fortune, covetousness sharpened a practical faculty for business—greedy, suspicious, and keen-eyed. He scorned theory; he could estimate at a glance the cost of printing per page or sheet for every kind of type. He proved to unlettered customers that large type costs more to move; if small type was discussed, he argued it was more difficult to handle. Setting up type was the one part of the craft he did not know; afraid of undercharging, he always made a heavy profit. He never took his eyes off compositors paid by the hour. If a paper manufacturer was in trouble, he bought up stock cheap and warehoused it. So he became his own landlord and owned the old house that had been a printing office for ages.
 
-Nearby, her aunt Madame Descoings also faces financial difficulties but provides assistance to Madame Bridau. The two widows share a close bond, often playing cards with friends from the ministry. Madame Descoings dotes on Philippe and Joseph, while Madame Bridau restricts her spending to save for her children's future.
+He had every sort of luck. He was left a widower with one son. He sent the boy to grammar school, not so much for the child’s sake as to train a successor; and Séchard treated the lad harshly to prolong parental rule, making him work at case on holidays and telling him he must learn to earn his living to repay his father’s toil.
 
-Philippe, the elder son, resembles his mother and exhibits a bold demeanor, preferring physical activities over academics. In contrast, Joseph is more introverted and artistic, struggling with cleanliness. Despite their differences, both boys are loved by their mother, though she tends to favor Philippe.
+The Abbé left and Séchard promoted one of his four compositors to foreman, chosen on the future bishop’s recommendation as an honest, intelligent man. These measures, Séchard thought, would tide him over until his son could take over what he expected to be a flourishing business.
 
-Joseph's interest in art is ignited when he sees a student drawing at the Institute. He becomes enamored with the artistic environment and begins visiting sculptor Chaudet's studio, who recognizes his potential. However, Madame Bridau is distressed by her son's aspirations, fearing hardship as an artist.
+David Séchard’s school career was brilliant. Old Séchard, as a self-made man without education, entertained considerable contempt for book learning; yet when he sent his son to Paris to study higher typography, he urged him to save money in the “working man’s paradise” and made clear he was not to draw on the paternal purse. David learned his trade and completed his education without costing his father a farthing; Didot’s foreman became a scholar. At the end of 1819 he was summoned home to take the helm.
 
-Despite her objections, Joseph pursues art, encouraged by Madame Descoings. Meanwhile, Philippe, inspired by military grandeur, secretly petitions the Emperor to join the army. He is accepted into the Imperial Lyceum and quickly rises through the ranks.
+Until then Nicolas Séchard’s establishment had enjoyed a monopoly of all regional official printing plus the prefecture and diocese—connections that should have been profitable. But at that moment the firm of Cointet Brothers, paper manufacturers, applied for the second printer’s license in Angoulême. Séchard had kept the license dormant during war-induced commercial atrophy but neglected to buy it outright; this parsimony threatened ruin. Séchard rejoiced when he heard the coming struggle would be fought by his son and not by himself—“a young fellow from the Didots will pull through,” he thought.
 
-As the political landscape shifts following Napoleon's return from exile, both brothers face challenges. Joseph's scholarship is revoked, and he is determined to make a living as an artist, while Philippe, now a captain, returns home to find his family in financial ruin. Their contrasting paths highlight their differing personalities and the complexities of their mother's affections.
+The septuagenarian sighed for an easy life. Though his knowledge of higher typography was slight, he was master of “tipple-ography,” an art in which he indulged. Bound by the laws of etymology to be a dry subject, he suffered from an inextinguishable thirst. His wife had controlled the passion in her life, but old age revived it. The habit altered his appearance: a large nose, veined cheeks like vine-leaves, and bloated purple patches gave his face a truffled look. His small gray eyes, under thick brows, glimmered with the cunning of avarice that had supplanted fatherly instinct. Those eyes retained their craftiness even in drink. Séchard resembled one of La Fontaine’s friars with a fringe of grizzled hair about a bald pate—short, corpulent, like an old-fashioned lamp burning much oil for a small wick; excess confirmed his body’s condition.
+
+For thirty years he had worn the municipal three-cornered hat still seen on provincial towncriers. His breeches and waistcoat were greenish velveteen, with an old brown greatcoat, gray cotton stockings, and shoes with silver buckles. This costume suited the man so completely it seemed part of his nature. If the old printer had been given to blind greed, it showed plainly in his manner of abdicating.
+
+Knowing his son had learned the business thoroughly at Didot’s, Jérôme-Nicolas had long plotted the bargain he meant to drive with David. All that the father made, the son was to lose, but in business Jérôme-Nicolas knew nothing of father or son. At first he regarded David as his only child; later he saw him as the natural purchaser of the business and therefore an antagonist whose duty it was to get the better of him. The transformation of sentiment into self-seeking, slow and veiled in more educated people, was swift and direct in the old “bear,” who showed the superiority of shrewd tipple-ography over book-learned typography.
+
+David returned home and the old man greeted him with the cordiality that cunning folk assume for business. He fussed over him—giving his arm, cautioning where to set his foot, warming his bed, making supper. After a sumptuous dinner and much potation, Jérôme-Nicolas began, between hiccoughs, with “Now for business.” David begged to postpone; the old “bear” would not. He had dragged the chain fifty years and would not wait another hour; his son would be “gaffer” tomorrow.
+
+A word about the premises: the printing-house had stood since Louis XIV’s reign at the angle of Rue de Beaulieu and Place du Mûrier. The ground floor was a single large room lit by a street casement and a sash window to the yard; a side passage led to the private office. In the provinces, typography excited curiosity, so customers entered through the street glass door and descended three steps because the workshop floor lay below street level. Newcomers, staring at sheets strung across the ceiling, often ran into cases or tie-bars; they watched compositors pick out type from the hundred and fifty-two compartments, read copy, and assemble lines, only to trip over a ream of damp paper or bump against a bench—delighting the boys, “bears,” and “monkeys.” No one passed through the shop without mishap. Two glass-windowed cages extended into the yard for foreman and master. The yard walls were decorated with trellised vines—tempting, given the owner’s reputation. One side held the kitchen, the other the woodshed, and a ramshackle penthouse against the hall housed paper trimming and damping; there forms—masses of set-up type—were washed. Inky streams from there mixed with kitchen waste and ran into the kennel in the street, so peasants thought the Devil was taking a wash inside the establishment.
+
+Above the shop, the house had three rooms on the first floor and two attic rooms. The first room served as dining-room and lobby; it was the same length as the passage below, minus the old wooden staircase, and lit by a narrow casement and a bull’s-eye into the yard. Its chief trait was a cynical simplicity born of money-making greed: bare whitewashed walls, a dirty brick floor never scoured, three rickety chairs, a round table, and a sideboard between bedroom and sitting-room doors. Windows and doors were dingy. Reams of paper or printed matter cluttered the floor; remains of Séchard’s dinners, empty bottles, and plates lay among packages.
+
+The bedroom, lit to the yard by a leaded window, was hung with old-world tapestry typical in provincial houses on Corpus Christi Day. Its furniture was the old Seigneur Rouzeau’s: a vast four-post bed with canopy, valances, and crimson serge quilt; a couple of worm-eaten armchairs, two tapestry-covered walnut chairs, an aged bureau, and a mantel clock. The room remained as Rouzeau had left it.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-In 1816, Joseph Bridau set up an art studio in his attic with support from his mother, Agathe, and financial backing from Madame Descoings. Both widows viewed painting as a respectable profession. While Joseph studied under Gros and Schinner, political unrest in France led to conspiracies and riots. His brother Philippe became involved, was arrested, and later released, but his military career was jeopardized when he was placed back on active duty.
+The sitting-room had been modernized by the late Mme. Séchard: powder-blue wainscot, sepia Oriental paper panels, six lyre-backed chairs with blue leather cushions. Two clumsy arched windows looked onto the Place du Mûrier, uncurtained; no clock, sconce, or mirror crowned the mantel-shelf, for Mme. Séchard had died before finishing her scheme, and the old man, seeing no profit in completing it, had left things as they were.
 
-Agathe worried for Philippe's safety as he frequented disreputable cafes, while the Grecian sages advised sending him abroad. Despite their concerns, Philippe joined General Lallemand in the U.S., leading to the failed Champ d’Asile venture. Agathe invested ten thousand francs to support him, but upon his return in 1819, Philippe was changed, hardened by his experiences and struggling with alcoholism.
+Pede titubante, Jérôme-Nicolas Séchard brought his son into this room and pointed to a sheet—a foreman’s valuation of the plant prepared under his direction. “Read that, my boy,” he said, rolling a wine-dark eye from the paper to David and back. David read aloud: “‘Three wooden presses, held in position by iron tie-bars, cast-iron plates—’” The father broke in to boast: “An improvement of my own.” David continued: “‘—Together with all the implements, ink-tables, balls, benches, et cetera, sixteen hundred francs!’” He let the sheet drop. “These presses are old sabots not worth a hundred crowns; they’re only fit for firewood.”
 
-Eager to help, Agathe bought him new clothes and indulged his drinking, despite her suspicions about his character. Philippe's tales of woe masked his selfishness, which had developed during his time away. Back in Paris, his behavior alarmed Agathe and Madame Descoings, who faced financial struggles. Agathe suggested selling furniture to support him, but Philippe continued gambling and drinking, worsening their situation.
+“Sabots?” roared the old man. He made his son come see. Down the worn staircase that shook under his tread, he threw open the workshop door, flew to the nearest press—oiled and cleaned for the occasion—and extolled the strong oaken cheeks polished by the apprentice. “Isn’t it a love of a press?” A wedding announcement lay in the press. The old “bear” folded the frisket and tympan, ran in the carriage, worked the lever, drew it out and lifted the frisket and tympan with all the agility of the youngest. The press creaked as if announcing itself. “Where is the English press that could go at that pace?” he asked. He repeated the manoeuvre at the second and third presses, and, seeing a patch overlooked by the apprentice on the third, he swore and rubbed it with his coat skirt, like a horse-dealer polishing an animal he wants to sell. “With those three presses, David, you can make your nine thousand francs a year without a foreman. As your future partner, I’m opposed to replacing them by your cursed cast-iron machinery that wears out the type. You in Paris have been making such a to-do about that damned Englishman’s invention—foreigners who make fortunes for ironfounders. You wanted Stanhopes, did you? Thanks for your Stanhopes, costing two thousand five hundred francs apiece—twice as much as my three jewels—and they maul your type to pieces. I haven’t book-learning like you, but remember, the life of the Stanhope is the death of the type. These three presses will do; people in Angoulême won’t ask more. You may print with wood or iron or gold, they’ll never pay you more.”
 
-Philippe's social life revolved around old army comrades and gambling, becoming reckless. He formed a bond with Giroudeau, who introduced him to Paris nightlife. Philippe's ambitions shifted towards pursuing Mariette, a young dancer, while still dreaming of political influence. Despite his failures, he sought to leverage his past for personal gain, planning to demand accountability for the funds raised for Champ d’Asile. His mother and Madame Descoings secured him a cashier position at a new newspaper, believing it would help financially. However, Philippe lived extravagantly without supporting them, while Mariette gained fame through his connections.
+David read on: “‘Item, five thousand pounds weight of type from M. Vaflard’s foundry—’” The Didots’ apprentice could not help smiling. “Laugh away!” said the father. “After twelve years of wear that type is as good as new. That is what I call a typefounder! M. Vaflard is honest and uses hard metal; the best typefounder is the one you go to least often.” David continued: “‘—Taken at ten thousand francs,’” he repeated. Ten thousand francs, father! Two francs a pound! The Didots only ask thirty-six sous for their Cicero! These nail-heads of yours will only fetch old-metal price—fivepence a pound.”
 
-Bixiou informed Agathe and Madame Descoings of Philippe's infatuation with Mariette, shocking them as they viewed stage women as morally corrupt. Philippe proposed marriage, but she declined, seeking wealthier prospects. As Philippe distanced himself from his family, he indulged in a hedonistic lifestyle, leading to embezzlement from his job.
+“You call M. Gillé’s italics, running-hand and round-hand, ‘nail-heads,’ do you? M. Gillé used to be printer to the Emperor! Type at six francs a pound—masterpieces bought five years ago. Some sorts are as bright as when they left the foundry. Look!” He pounced on packets of unused sorts and held them out.
 
-After Mariette left for London, Philippe returned home, grappling with despair over his financial situation. He confided in Joseph about his suicidal thoughts stemming from his embezzlement. Alarmed, Joseph urged him to reconsider, suggesting repayment could avert disgrace. Philippe fled, leaving his family distressed. Agathe and Madame Descoings were devastated, fearing for his life.
+David saw there was no bridging the gap; he must either accept or decline. The ropes across the ceiling and every small item were included in the inventory; jobbing chases, wetting-boards, paste-pots, rinsing-troughs, lye-brushes—all valued with miserly exactitude. The total came to thirty thousand francs, including the license and goodwill. David asked himself if it was feasible.
 
-Philippe visited a gambling house, initially winning but ultimately losing everything. He returned home, feigning distress, and Agathe begged him not to harm himself. In the following days, Agathe aged visibly from worry, realizing their dire financial situation. Madame Descoings suggested consulting a lawyer, Desroches, to manage the fallout from Philippe's actions. Desroches devised a plan to protect Philippe’s reputation, framing his theft as a result of misplaced trust.
+Old Séchard, uneasy at his son’s silence, preferred stormy argument to wordless acceptance. He believed chaffering indicated someone who knew how to look after his interests: “A man who will pay anything you ask will pay nothing,” he thought. He extolled hot-presses and cutting-presses and the virtues of old tools. “Old tools are always the best tools,” he said; “in our line they ought to fetch more than the new, like goldbeaters’ tools.” Hideous vignettes, masks for theatrical posters, and other old ornaments became treasures in the old man’s vinous eloquence. “Paris is Paris; the provinces are the provinces. If a man came from L’Houmeau asking for wedding cards, he’d want a Cupid and garlands, not a plain M after the Didots’ style. Your inventions won’t take in the provinces for another hundred years.”
 
-Philippe resumed a life of leisure, while Joseph focused on his art, gaining recognition. Agathe remained preoccupied with Philippe, oscillating between hope and fear. Desroches assured them Philippe would soon be reinstated in the army, but warned that his gambling habits could jeopardize this opportunity. As Philippe continued his reckless lifestyle, Joseph suspected him of stealing, and they resolved to confront him. Despite their efforts, Philippe's charm allowed him to evade accountability, deepening their struggles and leaving Joseph worried about their future.
+David was sensitive and affectionate, disliking dispute, and his loftiness left him at a disadvantage in bargaining with his father, who appeared sincere and credited with good intentions; David took his covetousness for attachment to familiar tools. Still, Jérôme-Nicolas had bought the place from Rouzeau’s widow for ten thousand francs in assignats; thirty thousand in coin seemed exorbitant.
 
-Despite Philippe's cautious gambling, he occasionally found himself "cleaned out." Desperate for his nightly stake of ten francs, he resorted to stealing from his family, including Agathe and Madame Descoings. Agathe, heartbroken, recognized that his thefts indicated a deeper moral failing. After a troubling dream where Philippe robbed her, she urged him to ask for money instead of stealing. However, within two weeks, Agathe was left with nothing and considered finding work to support herself.
+“Father, you are cutting my throat!” exclaimed David.
 
-As Agathe's health deteriorated from worry, Philippe continued his reckless lifestyle, neglecting his appearance and becoming increasingly debauched. Madame Descoings urged him to buy new clothes, but Philippe dismissed her concerns, claiming he had no money. He had even mortgaged his military pension to pay off gambling debts.
+“I,” cried the old toper, pointing to the ceiling ropes, “I who gave you life? Do you know what the license is worth? The sheet of advertisements alone at fivepence a line brought in five hundred francs last month. Turn up the books and see what we make by placards, the prefecture registers, the mayor’s work, and the bishop’s. You are a do-nothing who won’t get on. You haggle over the horse that will carry you to Marsac.”
 
-On Christmas Eve, Philippe planned to steal from Madame Descoings, who had saved money for lottery tickets. He broke into her apartment while she was out, found twenty napoleons hidden in her mattress, and left without raising suspicion. With this money, he gambled and experienced a lucky streak, winning substantial amounts at the gaming house. However, his greed led him to ignore his own gambling rules, and he ultimately lost everything.
+Attached to the valuation was a deed of partnership. The father would let house and premises to the new firm for twelve hundred francs per annum, reserving one of the garret rooms for himself. Until David paid the purchase money in full, profits were to be divided equally; once paid off, David would be sole proprietor.
 
-Meanwhile, Agathe and Madame Descoings awaited Philippe's return for Christmas dinner. When he finally arrived, he was drunk, and tensions escalated as Agathe confronted him about his behavior. Philippe, in a fit of rage, dismissed their concerns, even as Madame Descoings suffered from the shock of losing her savings.
+David mentally calculated the value of the license, goodwill, and paper stock, leaving plant out. He thought it possible to clear the debt and accepted the conditions. The old man, used to peasants’ bargaining, wondered whether David had hidden money or planned to default. He tried to get some payment on account; David kept his purse closed.
 
-The next day, Madame Descoings learned that her lottery ticket had won three million francs, but she was devastated to discover that Philippe had stolen her money before she could pay for her stake. This revelation caused her to suffer a stroke, leaving her incapacitated. Agathe and Joseph were left to deal with the fallout of Philippe's actions, which had brought ruin upon their family.
+Next day the old man had the apprentice move household stuff to the attic until an empty market cart could take it back to the country. David entered on the day he was installed into the printing-house—three bare unfurnished rooms—without a sou to pay his men. When he asked his father, as partner, to contribute to working expenses, the old man pretended not to understand: he’d found the printing-house but wasn’t bound to find money too. Pressed, he answered that when he paid Rouzeau’s widow he had had not a penny left. If he, a poor ignorant working man, had made his way, Didot’s apprentice should do still better. Had not David earned money thanks to an education paid for by his father’s sweat? Now the education should be useful.
 
-As Madame Descoings lay ill, Philippe returned home, oblivious to the chaos he had caused. Agathe confronted him about his theft and the pain inflicted on their family. Philippe, however, remained indifferent, believing he was justified. The confrontation escalated into violence, leading to Philippe being restrained due to his delirium.
+“What have you done with your ‘polls?’” he demanded, meaning David’s savings.
 
-In the aftermath, Madame Descoings passed away, leaving Agathe with a meager annuity. Philippe, now estranged from his family, continued his reckless lifestyle, showing no remorse. Agathe, heartbroken and defeated, prayed for her son, realizing that her motherhood had become a source of deep sorrow.
+“Why, had I not to live? and books to buy besides?” David answered indignantly.
 
-By February 1822, Agathe had moved into a modest attic room above her former apartment, where Joseph aimed to make her comfortable after Philippe's departure. Joseph decorated the room and took Agathe to dine daily at a table-d’hote, costing nearly a hundred francs a month. Concerned about costs, Agathe secured a job as an assistant in a lottery office, earning seven hundred francs a year, which required long hours.
+“Oh! you bought books? You’ll make a poor man of business. A man who buys books is hardly fit to print them,” retorted the “bear.”
 
-Despite her new routine, Agathe found solace in its stability. She prepared breakfast for Joseph and kept his studio tidy, though she struggled with the artistic discussions around her. Their bond deepened through small acts of care, even as they remained distant regarding art. One day, Agathe expressed concern for Philippe, prompting Joseph to visit him. Philippe, now a cashier for a newspaper, invited Joseph to dinner, but Joseph declined, prioritizing his mother.
+David endured the humiliating shame of a parent’s contempt and niggardly explanations. He saw he was alone and that his father was trying to make money out of him; with a philosophical curiosity he tested how far the old man would go. He asked about his mother’s fortune; perhaps it might pay working expenses.
 
-As Philippe posed for a portrait, Agathe secretly observed, filled with hope for their family. However, Philippe's behavior raised Joseph's suspicions, particularly regarding his finances. After a lavish dinner, Agathe's joy turned to worry when Philippe's reckless spending became evident. During another sitting, Philippe boasted of his ambitions but was evasive about his finances.
+“Your mother’s fortune?” echoed old Séchard. “Why, it was her beauty and intelligence!”
 
-One evening, Philippe stole a valuable painting from Joseph's studio, believing it to be a copy. When Joseph discovered the theft, he was devastated, and Agathe was heartbroken, realizing the extent of Philippe's betrayal. Her despair deepened upon learning of Philippe's deteriorating condition and need for medical care. Despite Giroudeau's pleas for financial assistance, Agathe refused to help Philippe, feeling betrayed and exhausted.
+David understood at once. Any legal claim would be long, expensive, and disgraceful. He accepted the heavy burden of his engagements, resolved to work. “After all, if I have a rough time of it, so had the old man; besides, I shall be working for myself, shall I not?”
 
-Months later, Agathe encountered Philippe on the street, now a shadow of his former self, recently released from a hospital. Overcome with maternal instinct, she gave him money, despite knowing it would likely be squandered. Her health declined as she grappled with the pain of her son's choices.
+“I am leaving you a treasure,” said Séchard, uneasy at his son’s silence.
 
-When news broke of Philippe's involvement in a conspiracy, Agathe fainted, fearing for his life. Joseph sought legal advice from Desroches, who advised them to secure their family's inheritance from Philippe's influence over their wealthy uncle, Jean-Jacques Rouget. Agathe wrote to her godmother, Madame Hochon, seeking help, but learned that Rouget was unlikely to assist. Desroches urged Agathe to travel to Issoudun to protect her family's interests, prompting her to reflect on the changes in Issoudun and her estrangement from her brother.
+“What treasure?” asked David.
 
-Issoudun, one of France's oldest cities, has a rich history and significant commerce, highlighted by archaeological finds like a fifth-century basilica on a Roman temple site. Its name, derived from "Dun," suggests Celtic origins and a long-standing settlement. Historically a wool trade center, Issoudun had a population of around 16,000 in the fourteenth century, but this has declined to about 12,000 today, including vine-growers from surrounding areas.
+“Marion!” said his father.
 
-This decline is largely due to residents' resistance to change, particularly in viticulture, where outdated practices hinder quality wine production. The local bourgeoisie, clinging to medieval traditions, resisted military presence that could have revitalized the economy, reflecting broader regional trends seen in towns like Bourges.
+Marion, a big country girl, was indispensable—damping paper, cutting it, cooking, washing, marketing, unloading paper carts, collecting accounts, cleaning ink-balls. Had she known how to read, she might have set up type.
 
-Issoudun's topography features a canal and fertile meadows, but the social fabric has deteriorated, lacking the class distinctions that once enriched community life. The absence of nobility and military presence has led to a homogenous society, with a local government of familiar faces becoming ineffective, further entrenching the town's inertia.
+Old Séchard set out on foot for the country. Delighted by the sale, he was not at ease about payment. A vendor’s agony of uncertain completion succeeded his pleasure. Passion, says the narrator, is Jesuitical; the miser, believing in honor and education, mortgaged thirty thousand francs on the expectation that his son’s training and fine feelings would make him pay. By the time he reached Marsac, he was persuaded David would pay. The old man had bought a little property there in 1809, added bits of land, and given up the press for vineyard labor; he had been in the line so long that he ought to know something about it.
 
-In the early 19th century, young men in Issoudun formed the "Knights of Idleness," led by Maxence Gilet, a charismatic figure with a tumultuous past. The group engaged in mischievous pranks that terrorized the town, with Max, rumored to be the illegitimate son of a local official, endearing himself to the common folk despite bourgeois contempt. Under Max's leadership, the Knights executed elaborate pranks, often involving townspeople in humorous chaos, leading to the resignation of the sub-prefect due to relentless harassment. This chapter illustrates the interplay between social stagnation, youthful rebellion, and the decline of a once-thriving community, highlighting how the past influences Issoudun's present dynamics.
+In his first year of rural retirement, Séchard senior paced his vine props with a careful countenance. The thought of thirty thousand francs intoxicated him; he fingered the coin in imagination. The less one’s claim looks solid, the keener the appetite for it grows. He hurried from Marsac to Angoulême to see how matters went. There stood the presses; the apprentice in a paper cap cleaned the ink-balls; a press creaked over a trade circular; the type remained unchanged; in the dens he saw his son and the foreman reading books, which he took for proof-sheets. He would join David at dinner and return to Marsac, chewing the cud of uneasy reflection.
+
+Avarice, like love, has second sight and clings to presentiments. Far from the shop, the old man felt disquieting symptoms of inactivity in his son. The name of Cointet Brothers haunted him; he feared Séchard & Son dropping into second place. His fears were justified: disaster hovered.
+
+Indifferent to political reactions, David tried to remain neutral on burning issues. But in the provinces men of business professed politics to secure patronage; the Cointet Brothers deliberately cultivated monarchical opinion. They fasted on Fridays, kept Lent, haunted the cathedral, cultivated the clergy. When devotional books came back into demand, the Cointets profited handsomely. They slandered David as a Liberal and as immoral because of his father’s reputation; they argued they needed the business for their families and urged customers away.
+
+These tales worked. The monopoly of prefectorial and diocesan work gradually passed to the Cointet Brothers; David’s remaining circulation fell by half as rivals started a second local sheet of announcements. The Cointets grew richer from their devotional books and offered to buy Séchard’s printing-paper and the departmental announcements.
+
+The news sent David’s father rushing from Marsac. “Leave me to manage the Cointets,” he said; “don’t you meddle.” He saw what the Cointets meant and took alarm. If David gave up the paper, the connection would be lost; all depended on the paper. The Cointets had tried to ruin the Séchards by accusing them of Liberalism, giving them a plank to cling to—the Liberal customers should keep the Séchards. “Sell the paper! Why, you might as well sell the stock-in-trade and the license!”
+
+Old Séchard, fond of his son, now sided with him—at least in appearance—bringing his son to the front as a peasant brings in his wife. He asked the Cointets sixty thousand francs for the printing business so as not to ruin his son. David was unwilling; offers were wrung from the Cointets until, after effort, they offered twenty-two thousand francs for the Charente Chronicle. But David had to pledge thenceforward to print no newspaper under penalty of thirty thousand francs damages.
+
+That deal was the deathblow to the Séchard establishment; but the old vinegrower cared little. To pocket the ready money he consented to abandon his share of the business but not the premises; the rent remained at the famous twelve hundred francs per annum.
+
+After the sale, he came into town rarely, pleading age, though he still loved his stock-in-trade. The old foreman, who had gone to the rival establishment, knew exactly how much this fatherly generosity was worth; the old fox meant to reserve a right to interfere and had arranged to appear in the bankruptcy as a privileged creditor for arrears of rent.
+
+The causes of David’s heedlessness illustrate his character. A few days after taking over the paternal office he met an old school friend in dire poverty. Lucien Chardon, about twenty-one, son of a surgeon-major, had been brought up in scientific habits. His father, a chemist by bent, had run a retail druggist business and died having worked on a gout specific; the great discovery that should have brought wealth was lost with him. The father had married a beautiful woman of the Rubempré family, who had been saved from the guillotine in 1793 by the claim she was pregnant. The marriage had been made in straitened circumstances; their children inherited the mother’s beauty but were left almost destitute when the father died.
+
+M. Chardon’s devotion to science might have led him to give his children a good education. The family had been accustomed to a comfortable income; now poor, the mother and daughter accepted humble employments. Mme. Chardon sold the druggist’s shop and, on small capital income of three hundred francs invested, earned seven francs a week as a monthly nurse, taking the name Madame Charlotte to spare Lucien embarrassment. Lucien’s sister Eve worked for a laundress and earned modest wages. The combined incomes—Mme. Chardon’s rentes of three hundred and the women’s scant earnings—amounted to about eight hundred francs a year for three persons, barely adequate.
+
+Lucien, once a brilliant pupil at Angoulême grammar school and in the third form when David left, had been trained by a father’s passion for natural science. Worn out by penury and impatient at twenty, he accepted David’s generous offer of forty francs a month to come and learn the printer’s reader’s work—David had no real need of a reader but saved Lucien from despair. Their school friendship renewed, their bond deepened through shared hopes and misfortune. Both possessed intelligence and literary taste; Lucien aimed at speculative natural science and literary fame; David, meditative and poetic, was drawn to natural science too. They soon became almost brothers in devotion. David glimpsed Eve’s fair face and loved, and, seeing the mother and sister’s blind devotion to Lucien, was moved to add his support; he believed in Lucien’s genius with exaggerated confidence.
+
+In a moment of urgent need the two ruminated on ways to make a fortune. Lucien recalled two of his father’s ideas: a chemical method to refine sugar and an American vegetable fibre for making paper à la chinoise, promising huge savings in raw material. David seized on the paper-fibre idea, seeing a fortune and treating Lucien as benefactor.
+
+Their ruling thoughts and inner lives unfitted them for the practical running of a printing-house. Instead of making fifteen to twenty thousand francs as the Cointets did, Séchard & Son made barely three hundred francs per month, from which the foreman’s salary, Marion’s wages, rent and taxes had to be paid; David himself scarcely made twelve hundred francs a year. Active businesspeople would have bought new type and machinery and sought cheap Paris orders; but master and foreman, absorbed in intellectual pursuits, were content with whatever business trickled in.
+
+The Cointets, understanding David’s habits, did not anathematize him now; policy required letting the business flicker on so it wouldn’t be taken over by a stronger rival. They sent prospectuses and job-printing work to the Séchards, a practice akin to mail-coach owners setting up sham opposition coaches to keep rivals out. Unwittingly, David owed his commercial existence to their cunning. They behaved fairly in appearance but were tactically clever.
+
+Both inside and out, the condition of the Séchard establishment testified to the old “bear’s” sordid avarice, who never spent a sou on repairs. The old house had weathered sun and rain until it resembled a venerable tree trunk, seamed and cracked. The front, brick and stone, bent beneath a worm-eaten roof of curved pantiles. Decrepit casements, heavy shutters, iron cross bars—there was no more dilapidated house in Angoulême. Picture the workshop: lit at either end and dark in the middle; walls plastered with handbills and begrimed by thirty years of handling; a cobweb of cordage across the ceiling; stacks of paper, old-fashioned presses, slabs for weighting damp sheets, rows of cases, and two dens in the corners where the master printer and foreman sat—and you will have some idea of the life lived by the two friends.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-As Joseph and Madame Bridau traveled from Orleans to Issoudun, the Knights of Idleness played a prank on Pere Fario, hoisting his cart onto an embankment. They returned to Mere Cognette’s for food and laughter, eager to see Fario's reaction.
+One day early in May, 1821, David and Lucien stood by the window looking into the yard. It was nearly two o’clock and a few men were going out to dinner. David waited until the apprentice had shut the street door with the bell fastened; then, as if the smells of paper, ink and presses had grown intolerable, he led Lucien into the yard and they sat under the vines, keeping the office and door in view. Sunbeams played among the trellised shoots, making an aureole about their heads and heightening the contrast between their faces and characters as if placed in relief by some great painter.
 
-The Knights enjoyed leisure activities, with Max particularly admired by Madame Hochon's grandsons, Francois and Baruch, who relied on him for financial support. During a gathering, Baruch warned Max about the arrival of Madame Bridau and her son, which could threaten Max's interests in the property of Jean-Jacques Rouget, an old bachelor connected to Flore Brazier, Rouget's servant-mistress. Although Max initially dismissed the concern, he felt uneasy, knowing Rouget's wealth was tied to Flore, and the legitimate heirs could jeopardize his plans.
+David’s frame belonged to the fighter: broad shoulders, a full chest, thick black hair, and a high-colored swarthy face on a thick neck that at first suggested rough solidity. On closer view the lines about his lips, the dimple in his chin, the square nostrils and broad irregular cleft, and above all his steady eyes—lit by an absorbing love—revealed the real character: a thoughtful, strenuous melancholy. He was a spirit who discerned horizons on either side and saw to the end of winding ways, quick to analyze joys still only ideas and quick to turn from them in disgust. One expected flashes of genius and saw the ashes of an extinguished volcano—hopes quenched beneath the sense of social annihilation to which low birth and lack of fortune condemn so many loftier minds. Near this poor printer, who loathed a handicraft so allied to intellectual work, stood Lucien, graceful as a sculptured Bacchus.
 
-Francois speculated that if Rouget revoked his will in favor of Flore, it could impact Max's future. However, Max expressed confidence in his relationship with Flore and proposed that the Knights assist him in dealing with the Bridaus, clarifying he did not intend to harm them but wanted to secure his position. The Knights pledged their loyalty, toasting to Flore and dismissing the Bridaus, reflecting their relaxed morals. Max aimed to cultivate their loyalty for future support in reclaiming his status.
+Lucien’s face had antique distinction: a Greek profile, velvet-white skin, blue eyes that looked dark against their pearly setting, dewy and fresh as a child’s. Those eyes shone beneath long chestnut lashes and penciled brows. Silken down on his cheeks and bright curling hair gleamed golden in the sunlight. A divine graciousness transfigured his white temples; a matchless nobleness set its seal on a short, raised chin. The smile about his coral lips—a sorrowing angel’s smile—contrasted with even teeth. His shapely hands, slender figure, and feminine hips might make one think him a girl in disguise, a trait common to keen-witted men. Yet his restless mind often stood on the lower ground of diplomatists who hold that success justifies any means. One misfortune of great intellects is that they comprehend both good and evil.
 
-As the night ended, Max contemplated the implications of the Bridaus' arrival. He realized Flore had not informed him about her family, which could threaten their financial future. His affection for Flore was intertwined with her potential inheritance from Rouget, prompting him to act before the Bridaus could secure their claim.
+Both judged society by a lofty standard because their social position lay at the lowest end of the scale; unrecognized power avenged lowly station by viewing the world from on high. Still, such flights left them more bitter and hopeless. Lucien had read much and compared; David had thought much and deeply. Despite David’s robust, country-bred look, his mind was melancholic and somewhat morbid—he lacked confidence; but Lucien, despite an almost effeminate figure, possessed a high degree of Gascon temperament—rash, brave, adventurous, inclined to see the bright side and shrink from the dark. He would stoop at no crime if anything could be gained, and laugh at vice that served as a stepping-stone. For the moment these tendencies were checked partly by the fair illusions of youth and partly by the enthusiasm that leads every man in love with glory to prefer nobler methods at first. Lucien struggled with himself and his desires, not with the baseness of others; he was at strife with his own power. The brilliancy of his intellect attracted David keenly. David admired his friend yet kept him out of scrapes into which the furie française might lead him.
 
-Flore's backstory reveals that she was discovered by Doctor Rouget as a child and taken in due to her beauty and innocence. Under Rouget's care, Flore enjoyed education and luxuries that distinguished her from other girls in Issoudun. Despite gossip surrounding their relationship, Flore thrived, though townspeople misinterpreted Rouget's intentions. Her life changed when Rouget, nearing death, refused to leave her any inheritance, believing her beauty would ensure her future wealth.
+David, with a well-balanced mind and timid nature at variance with a strong constitution, had the persistence of the Northern temper; though he saw all difficulties, he vowed to conquer and never give way. In him apostolic unswerving virtue was softened by pity springing from inexhaustible indulgence. In the old friendship one was the worshiper—David; Lucien ruled him like a woman sure of love, and David loved to give way. He felt that his friend’s physical beauty implied real superiority; he accepted himself as coarser clay. “The ox for patient labor in the fields, the free life for the bird,” he thought. “I will be the ox, and Lucien shall be the eagle.”
 
-Jean-Jacques Rouget, at thirty-seven, was timid and socially awkward, particularly around women. He did not mourn his father as Flore did, having gained materially from him. His father had hoped to marry him off but hesitated, fearing a wife's influence. Instead, he instilled avarice in Jean-Jacques, who secretly loved Flore, the only woman in his life.
+For three years they had shared destinies bright with promise. Together they read great recent works—Schiller, Goethe, Byron, Scott, Jean-Paul, Berzelius, Davy, Cuvier, Lamartine and others—warming themselves at these fires; tried their powers in abortive creations, work laid aside and taken up again with renewed enthusiasm. Incessantly they worked with youthful vitality; comrades in poverty, comrades in consuming love of art and science, they forgot the hard present, minds bent on laying foundations of future fame.
 
-Flore began to see Jean-Jacques differently after noticing his silence. Their relationship evolved, culminating in a conversation where he expressed his desire for her to stay. Intrigued by his affection, Flore found him less unattractive. As time passed, Flore took charge of the household, surpassing Jean-Jacques in management and influence. However, her beauty attracted attention, and she eventually fell for Maxence Gilet, straining her relationship with Jean-Jacques.
+“Lucien,” said David, “do you know what I have just received from Paris?” He drew a tiny volume from his pocket. “Listen!” David read André de Chénier’s Idyll Néere, then Le Malade, the Elegy on a Suicide, another elegy in the classic taste, and the last two Iambes.
 
-Flore's passion for Max led to tension, as she expressed frustrations with Jean-Jacques's perceived stinginess. Despite his reluctance, Jean-Jacques agreed to let Max move in, hoping to maintain her affection. Once Max moved in, dynamics shifted again, complicating the interplay of love, power, and dependency among the three.
+“So that is André de Chénier!” Lucien exclaimed. “It fills one with despair!” he cried when David surrendered the book, overcome. “A poet rediscovered by a poet!” he added, reading the prefatory signature. “After Chénier had written those poems, he thought he had written nothing worth publishing,” David told him.
 
-When Madame Bridau returned to Issoudun to safeguard her inheritance, Jean-Jacques Rouget had lapsed into a semi-vegetative state, motivated solely by his affection for Flore. One morning, Flore found Max asleep after a late night and learned that Rouget's family was coming to claim their inheritance. Concerned, Max advised Flore to act as if she hadn’t heard the news.
+Lucien read aloud the fragment L’Aveugle and two Elegies; on meeting the line, “If they know not bliss, is there happiness on earth?” he pressed the book to his lips and both men shed tears, for the two friends were lovers and fellow-worshipers.
 
-A commotion erupted when Fario reported his cart missing. Max feigned indifference but gathered a crowd, humorously suggesting the cart had magically ascended the tower, leading to laughter at Fario's expense. Eventually, Max and his friends destroyed the cart, further complicating his situation with Flore.
+The vine-stems were changing with spring; they covered the rifted walls of the old house, with fluted columns, knots, bas-reliefs and little grotesques—fairy-work in a gloomy yard. Fancy had scattered flowers and crimson gems over the place, and Chénier’s Camille became for David an Eve to worship, for Lucien a great lady to whom he paid homage. Poetry had shaken out her starry robe above the workshop where “monkeys” and “bears” were grotesquely busy among types and presses. Five o’clock struck, but the friends felt neither hunger nor thirst; life had turned to a golden dream, and all the treasures of the world lay at their feet. Far on the horizon lay the blue streak to which Hope points in storm and stress; a siren voice sounded, calling, “Come, spread your wings; through that streak of gold or azure lies the way of escape from evil fortune!”
 
-As tensions rose, Francois informed Max of the Bridaus' imminent arrival. Max opted for manipulation rather than open opposition. Meanwhile, Flore, upset by the news, took her frustration out on Rouget, withholding affection. Max advised Rouget to welcome his family to avoid scandal, emphasizing the importance of appearances.
+Just then the low glass door of the workshop opened, and out came Cérizet, an apprentice David had brought from Paris. He introduced a stranger who saluted politely and spoke to David.
 
-After breakfast, Max and Flore discussed financial strategies to secure Rouget's wealth, plotting to ensure the Bridaus would not interfere with their plans. Meanwhile, the Hochon household prepared for the Bridaus' arrival, with Madame Hochon urging her husband to treat the visitors kindly, while Hochon remained skeptical about their intentions. As the day progressed, news of the Bridaus' arrival divided the town, escalating tensions over Rouget's inheritance and shifting power dynamics within the community.
+“This, sir, is a monograph I desire to print,” he said, producing a huge package of manuscript. “Will you oblige me with an estimate?”
 
-Agathe and Joseph arrived at the Messageries-Royales in Issoudun, where Agathe felt nostalgic. Madame Hochon welcomed her warmly, having developed a maternal affection for Agathe. The family gathered in the salon, scrutinizing Joseph, whose appearance led to unflattering comments about his health and character.
+“We do not undertake work on such a scale, sir,” David answered without looking at the manuscript. “You had better see the Messieurs Cointet about it.”
 
-Joseph noted the stark contrast between his artistic life in Paris and the austere provincial lifestyle. Dinner revealed the Hochons' frugality, which disheartened him, though Madame Hochon expressed her hopes for his success. The evening was filled with gossip about local elites, particularly Maxence Gilet and the influence of the Rabouilleuse over Joseph's uncle, Jean-Jacques Rouget.
+“Still we have a very pretty type which might suit it,” Lucien put in, taking up the roll. “Leave your commission and call again to-morrow, and we will give an estimate.”
 
-After dinner, the Hochons and the Bridau family discussed reclaiming the Rouget property from Max and Flore. Joseph expressed skepticism about their chances against such formidable opposition. The conversation shifted to the upcoming visit to Rouget, where Joseph was encouraged to make a good impression.
+“Have I the pleasure of addressing M. Lucien Chardon?”
 
-The next morning, Joseph saw his uncle, now unrecognizable under Flore's influence. Agathe was distressed, while Joseph noted Flore's beauty despite her role in their family's troubles. The Hochons advised Joseph to visit Rouget alone to discuss family matters without Flore's interference.
+“Yes, sir,” said the foreman.
 
-A letter from Rouget invited Joseph to dinner, raising suspicions among the Hochons about Flore's manipulations. They crafted a response emphasizing Agathe's struggles and Joseph's artistic aspirations to secure a favorable position in the family dynamics.
+“I am fortunate to meet a young poet destined to such greatness,” returned the author. “Mme. de Bargeton sent me here.”
 
-As dinner preparations unfolded, Gritte, the servant, reported on Flore's extravagant display. The Hochons recognized the need for caution, understanding the complexities of the situation. Joseph was urged to remain observant during his visit, as the stakes were high.
+Lucien flushed at the name and stammered gratitude for Mme. de Bargeton’s interest. David noticed his friend’s embarrassed flush and left him in conversation with the country gentleman, the author of a monograph on silk-culture, prompted by vanity to print the effort for fellow-members of the local agricultural society.
 
-At four o’clock, Joseph arrived at Rouget's house, meeting Kouski, Flore, and Gilet. Joseph admired Flore, which pleased Rouget. Flore suggested a walk to see the tower of Issoudun, and Joseph eagerly agreed. He explored Rouget's home, discovering significant paintings. Flore encouraged Rouget to pay Joseph four thousand francs for copies, much to his surprise.
+When the author had gone, David spoke.
 
-News of Joseph's acquisition spread quickly, enhancing Flore's status. Dinner was lavish, attended by local dignitaries, and Joseph left feeling satisfied. Meanwhile, Rouget indulged heavily in wine.
+“Lucien, are you in love with Mme. de Bargeton?”
 
-Max and Flore strategized to keep the Bridaus at bay while benefiting from Rouget's wealth. The next day, Joseph found the paintings had been moved, and Agathe visited Rouget to express gratitude for Flore's care. Old Hochon advised Agathe to cultivate a relationship with Flore, but she struggled to speak privately with her brother.
+“Passionately.”
 
-As the Bridaus struggled for Rouget's favor, Joseph received letters from painter Schinner and lawyer Desroches. Frustrated, he decided to return to Paris, bidding farewell to Rouget, who seemed oblivious to the value of his paintings. Insulted by Flore and Max's manipulation, Joseph returned the paintings, asserting his independence.
+“But social prejudices set you as far apart as if she were in Pekin and you in Greenland.”
 
-The incident became gossip in Issoudun, with exaggerated tales about Joseph's departure. Old Hochon warned Agathe that Joseph's actions might jeopardize their inheritance chances, leaving the Bridaus' future uncertain amid growing tension with Maxence and Flore.
+“The will of two lovers can rise victorious over all things,” said Lucien, lowering his eyes.
+
+“You will forget us,” returned the alarmed lover, as Eve’s fair face rose before his mind.
+
+“On the contrary, I have perhaps sacrificed my love to you,” cried Lucien.
+
+“What do you mean?”
+
+“In spite of my love, and motives that might secure a footing in her house, I have told her I will never go thither again unless another is made welcome too, a man whose gifts are greater than mine—David Séchard, my brother, my friend. I shall find an answer waiting when I go home. All the aristocrats may have been asked to hear me read this evening, but I shall not go if the answer is negative, and I will never set foot in Mme. de Bargeton’s house again.”
+
+David brushed tears from his eyes and wrung Lucien’s hand. The clock struck six.
+
+“Eve must be anxious; good-bye,” Lucien added abruptly and hurried away. David stood overcome by an emotion deep for his age and position—the friends were like two young swans with wings unclipped by provincial experience.
+
+“Heart of gold!” David exclaimed as his eyes followed Lucien across the workshop.
+
+Lucien went down to L’Houmeau along the broad Promenade de Beaulieu, the Rue du Minage, and Saint-Peter’s Gate. It was the longest way round, so of course Mme. de Bargeton’s house lay on the route. So delicious it was to pass under her windows, though she knew nothing of his presence, that for two months he had gone round daily by the Palet Gate into L’Houmeau.
+
+Under the trees of Beaulieu he saw how far the suburb lay from the city. Custom had raised barriers harder to surmount than the steep steps Lucien descended. Youth and ambition had thrown a flying-bridge of glory across the gulf between the city and suburb, yet Lucien was uneasy over his lady’s answer like any favorite who fears to fall. This must be clear to those unfamiliar with the manners of a city divided into upper and lower town; therefore it is necessary to enter upon topographical details, for comprehension of Mme. de Bargeton’s position.
+
+The old city of Angoulême perches aloft on a crag like a sugar-loaf, overlooking the plain where the Charente winds through meadows. The crag is an outlying spur on the Périgord side of a long ridge, ending abruptly above the road from Paris to Bordeaux; the Rock of Angoulême marks three picturesque valleys. The ramparts, great gateways and ruined fortress on the summit still witness to the stronghold’s importance during the Religious Wars. But this old strength is a source of modern weakness: Angoulême could not spread down to the Charente, and shut in between ramparts and steep crag, the old town was condemned to stagnation.
+
+Government attempts to extend the town by building a Prefecture, a Naval School, and barracks opened roads, but private enterprise had been beforehand. The suburb of L’Houmeau sprang up at the foot of the crag and along the riverside where the road from Paris to Bordeaux runs. The great paper-mills of Angoulême, established centuries ago on the Charente and its branches, and other water-based industries clustered there where the river’s fall served their needs. The largest state factory of marine ordnance was at Ruelle some six miles away. Carriers, wheelwrights, posthouses, inns, and every trade that lives by road or river crowded Lower Angoulême to avoid the ascent. Naturally tanneries, laundries, and waterside trades stood within reach of the Charente; along the banks lay stores of brandy and warehouses full of water-borne raw material; the carrying trade lined the quays with buildings.
+
+Thus the Faubourg of L’Houmeau grew into a busy, prosperous city—a second Angoulême rivaling the upper town, the residence of powers that be—though L’Houmeau remained an appendage of the city above. The noblesse and officialdom dwelt on the crag; trade and wealth remained below. No love is lost between these two sections anywhere, and in Angoulême it was hard to say which detested the other more. Under the Empire the machinery worked fairly smoothly, but the Restoration intensified the feud.
+
+Nearly every house in the upper town is inhabited by noble or old burgher families who live on incomes—an autochthonous nation that suffers no aliens. After two hundred years of residence, a family from another district may be adopted, but in the eyes of the aboriginal race they are newcomers of yesterday. Prefects, receivers-general, and various administrations had tried to tame the ancient families perched aloft like wary ravens; the families were always willing to accept invitations to dinners and dances, but as to admitting strangers to their houses they were inexorable. Ready to scoff and disparage, jealous and niggardly, marrying only among themselves, they formed a serried phalanx to keep out intruders. Of modern luxury they had no notion; as for sending a boy to Paris, they thought it certain ruin. Such sagacity measures their old-world manners—thick-headed Royalism infected with bigotry rather than zeal, all stagnating together, motionless as their town on a rock. Yet Angoulême enjoyed a great regional reputation for educational advantages, and neighbors sent daughters to its boarding schools and convents.
+
+It is easy to imagine the influence of class sentiment holding Angoulême aloof from L’Houmeau. The merchant classes were rich, the noblesse usually poor. Each side took revenge in scorn. “He is a man of L’Houmeau!” a shopkeeper of the upper town would say of a lower-suburb merchant with an accent words cannot describe. When the Restoration defined the noblesse’s position, holding out hopes realizable only by complete topsy-turvydom, the distance between Angoulême and L’Houmeau, already more marked than that between hill and plain, widened further. The better families, all devoted to the Government, grew more exclusive here than elsewhere. “The man of L’Houmeau” became little better than a pariah. Hence the deep, smothered hatred that broke out ugly in the insurrection of 1830 and destroyed durable social elements in France. As the Court nobles’ overweening haughtiness detached the provincial noblesse from the throne, so did these last alienate the bourgeoisie from the royal cause by behavior that galled their vanity.
+
+So “a man of L’Houmeau,” a druggist’s son, in Mme. de Bargeton’s house was nothing less than a little revolution. Who was responsible? Lamartine and Victor Hugo, Casimir Delavigne and Canalis, Béranger and Chateaubriand—old and young names in literature, Liberals and Royalists alike—must share the blame, for Mme. de Bargeton loved art and letters—an eccentric taste much deplored in Angoulême. In justice to the lady it is necessary to sketch the previous history of a woman born to shine, left by unlucky circumstances in the shade, a woman whose influence decided Lucien’s career.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Between midnight and one o’clock, the Knights of Idleness distributed food to the town's dogs, concluding their escapade around three in the morning. Max was attacked by Fario, who stabbed him before fleeing. Max cried out, prompting Lousteau-Prangin and Goddet to rush to his aid, but the townspeople, accustomed to false alarms, remained indifferent. After fainting, Max claimed to recognize Fario, leading Lousteau-Prangin to inform his father, the judge.
+M. de Bargeton descended from Mirault, an alderman of Bordeaux ennobled under Louis XIII for long service. His son, Mirault de Bargeton, became an officer in Louis XIV’s household and married a very large fortune; by Louis XV’s reign his son had dropped the Mirault and was known simply as M. de Bargeton. That descendant dissipated the family wealth. Two of his brothers returned to trade, so the Mirault name still appears among Bordeaux merchants. The Bargeton lands in Angoumois, in the barony of Rochefoucauld, and the town house in Angoulême, the Hôtel Bargeton, were entailed and thus passed to the grandson of the prodigal. The Revolution stripped him of seignorial rights, leaving rents of about ten thousand francs a year. Had his ancestor followed the prudent course of earlier generations, the family might have risen to marquisate, marriage into great houses, and possibly a dukedom and peerage; instead, by 1805 the present M. de Bargeton thought himself fortunate to marry Mlle. Marie-Louise-Anaïs de Nègrepelisse, daughter of a noble who had been reduced to the quiet life of a manor-house. The Nègrepelisses traced their blood to an old southern family; a Nègrepelisse had once been among St. Louis’s hostages, and the elder branch became d’Espard by marriage in the time of Henri Quatre. M. de Nègrepelisse, a younger son of a younger son, lived off his wife’s property near Barbezieux, farming shrewdly, distilling brandy, and accumulating silver crowns.
 
-Max was taken home, where Goddet found the knife wound serious but not fatal. Seizing the moment, Max plotted to frame Joseph Bridau, the painter, for the attack. He instructed Flore to spread rumors of his impending death, hoping this would lead to Joseph's arrest and prompt his mother to flee to Paris.
+In that remote countryside unusual events shaped Mme. de Bargeton’s taste for music and reading. During the Revolution Abbé Niollant, the Abbé Roze’s best pupil, took refuge at the manor-house of Escarbas and brought his compositions. The hospitable gentleman was rewarded: the Abbé undertook the education of his host’s daughter. Without him she might have been left to herself or to an ignorant servant. The Abbé, a musician and man of letters fluent in Italian and German, taught Naïs those languages, counterpoint, and explained masterpieces of French, German, and Italian literature. In enforced seclusion he also taught her Latin and Greek and touched on natural science. A mother might have moderated the effects of such an education on a spirited girl; the Abbé’s artistic temperament, however admirable, inclined him to liberty of judgment and breadth of view that, while pardoned in society for depth and originality, could lead private minds astray. He was both good-hearted and an enthusiast, and his pride in his pupil—like an author’s pride—flattered her vanity. Isolated from peers, she learned fearless criticism and ready judgment, qualities useful in men but ill-suited to a woman destined for the domestic life. Although the Abbé counseled modesty and graciousness, Naïs formed a high opinion of herself and a robust contempt for ordinary people. With no social intercourse to enforce self-restraint, her bold ideas showed in manner and expression; there was a cavalier air about her more fit to adventurous lives than to provincial society.
 
-Flore, feigning tears, accused Joseph of wanting Max dead to inherit from his uncle. The townspeople, stirred by her claims, began searching for Joseph, who had left Hochon’s house at dawn after a restless night. Alarmed by the crowd's anger, Hochon bolted his door, fearing for his gold. Meanwhile, Agathe, Joseph's mother, fainted upon hearing the news.
+M. de Nègrepelisse was miserly; he would have given his daughter’s books to save a sick bullock and would not give her two farthings beyond her allowance for an educational need. The Abbé died in 1802 before her marriage—he likely would not have approved of it—leaving her father anxious about managing her. Naïs had strong opinions about marriage and little inclination toward submitting to the commonplace men she knew. She wished to rule rather than obey and preferred the freedom of a lover who pleased her to the obedience marriage entailed.
 
-As the crowd grew, the police struggled to maintain order. Gendarmes arrived just in time to protect Joseph from the mob, who were convinced of his guilt. Despite his protests of innocence, Joseph was taken to the Palais for his safety. He recounted his whereabouts that morning, providing an alibi that could be verified by witnesses.
+M. de Nègrepelisse feared a mésalliance and resolved to marry his daughter for his own peace. He wanted a noble or country gentleman: not too clever, not fond of meddling with trustees’ accounts, sufficiently dull to let Naïs have her way, and able to take her without a dowry. For father and daughter alike such a son-in-law was hard to find. M. de Bargeton appeared the only fit man: forty, much worn by amorous dissipations, regarded as of feeble intellect, but possessing commonsense enough to manage his affairs and breeding enough to avoid social blunders in Angoulême. Naïs was shown how to govern such a husband and was delighted at the prospect of liberty under the guise of a conventional marriage, with the hope of using her wit and beauty to gain connections in Paris. M. de Bargeton saw the match as brilliant, expecting to profit from the Nègrepelisse estates; but to a dispassionate observer the elder M. de Nègrepelisse seemed likely to outlive his son-in-law.
 
-Initially skeptical, the magistrates agreed to investigate further but decided to detain Joseph for protection. He wrote a reassuring letter to his mother, calming her fears. Meanwhile, Max, recovering from his wound, plotted to keep Joseph imprisoned, believing it would rid them of the Parisians.
+Mme. de Bargeton was thirty-six; her husband fifty-eight and looked much older. She still appeared young, could wear rose-colored dresses, and had loose hair. Their income, about twelve thousand francs, placed them among the half-dozen great fortunes in Angoulême excluding merchants and officials. They had to remain in Angoulême until Mme. de Nègrepelisse’s inheritance came to hand and they could go to Paris. Meanwhile they were attentive to the elder M. de Nègrepelisse, who kept them waiting so long that the son-in-law predeceased him. Naïs’s intellectual gifts and inner riches profited her little in provincial life; isolated from stimulating society, her strong faculties hardened into absurdities. Pride, enthusiasm, and other admirable qualities, when untempered by exposure to greater minds, turned into affectation, exaggeration, and petty pretensions. Knowledge stagnated, taste corrupted, and noble natures were stifled by provincial meanness.
 
-As the investigation progressed, Max's deception unraveled. Witnesses confirmed Joseph's alibi, and Max's own letter to the judge, detailing the assailant's shoes, further implicated him. Eventually, Joseph was released, warmly greeted by his relieved mother.
+Mme. de Bargeton began to overstate every feeling, to make spectacles of her emotions; she used inflated language and neologisms, and she indulged in ceaseless admiration and dramatic reactions to trifles. Her enthusiasm was boundless and indiscriminate: she wept and rhapsodized over every sensation, took giant proportions for minor events, and exhausted her energies on chronic admiration or dislike. She fancied herself heroic and picturesque, envied dramatic lives, and longed for any destiny more striking than the clear, simple life she led. She adored Byron and Rousseau and any life that seemed romantic or grand. Many called her a harmless lunatic; a shrewder observer might discern these extravagances as fragments of a grandeur that had broken off before fulfillment—love without a lover.
 
-In the aftermath, the townspeople celebrated the departure of the Parisians as a victory. Joseph and Agathe returned to Paris, where Joseph's spirits lifted despite his brother Philippe's ongoing trial for actions during the political upheaval. Desroches, a lawyer, sought to help Philippe by arranging for his release and advising caution with Max, who was clever and dangerous. Ultimately, Philippe was released and prepared to confront Max and reclaim his family's legacy.
+The first eighteen years of her marriage can be summarized: she lived on herself and distant hopes. Finding the income too narrow for a promised Paris life, she faced the prospect of spending her days among men who could inspire neither passion nor intellectual companionship. She had no chance encounters to relieve this fate; when the Empire reached its height and Napoleon’s troops marched, her curiosity and hopes revived. At a military ridotto she fell in love with an officer, a sub-lieutenant of good family, who, with dreams of glory, received a token of affection from her: a portrait he wore at Wagram. On that battlefield a shell destroyed the object that recorded her young beauty and the soldier was killed, a grief that left a lasting veil of sadness. This pain deepened the sense of having missed youth’s joys and reinforced her inner austerity. Pride saved her from degrading provincial intrigues; she would have perished of grief had she been debased by the petty men of her town. She lived by poetry and by the great foreign books and essayists that reached France after 1815: they delighted but could not soften or broaden her mind. She became rigid, her dignity turning into a stilted manner and affectation; she ruled her circle with foibles that courtiers adored.
 
-On November 2nd, All-Souls’ Day, Philippe Bridau returned to Issoudun, registering with the local police and lodging on rue l’Avenier. His return as a banished officer linked to a military conspiracy stirred excitement, especially since he was the brother of a wrongfully accused painter. Maxence Gilet, now recovered, had converted Pere Rouget’s mortgages into cash, raising concerns in town. Monsieur Hochon sought information from notary Monsieur Heron about Gilet's actions, worried for the Bridau family.
+Into this setting came Lucien, introduced by a newcomer who stirred Mme. de Bargeton’s monotony. The job of controller of excise fell vacant, and M. de Barante appointed a man whose adventurous life opened the door to Mme. de Bargeton’s salon: M. de Châtelet. Born Sixte Châtelet, he had taken the particle after 1806 and was one of those agreeable young men who skirted conscription by proximity to the Imperial court. He had been private secretary to an Imperial Highness—an office for which he possessed many outward qualifications: handsome, adept at billiards and dance, passable as an amateur actor, ready with a ballad or a quatrain, and superficial in many arts. He could accompany a singer at the piano, improvise verse, sketch, copy landscapes, and color costumes. His talents were precisely those useful where women exercised influence. He claimed diplomacy as his strong point; it suited men who could say little and keep mystery. He was made a Baron and sent to Cassel as envoy-extraordinary, and Napoleon used him as a courier in a European crisis. Promised a ministerial post in Westphalia, he lost it when the Empire fell and, discouraged, went to Egypt with General de Montriveau. A chain of accidents separated them; Châtelet wandered among Arab tribes and was even sold and resold as a captive, his talents useless among nomads. Eventually he reached Muscat’s territory, boarded an English vessel, and returned to Paris before his former companion. His misfortunes and connections recommended him to the President of the Council, who placed him in M. de Barante’s department until a controllership appeared, and so he came to Angoulême.
 
-Gilet and Flore Brazier felt secure with Philippe's arrival, knowing they could manipulate old Rouget for his wealth. Philippe visited his uncle in worn clothing, reflecting his hardships, yet he maintained dignity, refusing financial help from Rouget due to past grievances. Flore, sensing Philippe's hostility, advised Rouget to avoid him.
+Baron Sixte du Châtelet learned the manners of the town and took his cue. He affected the air of a world-weary man, habitually raising his hand to his forehead to suggest chronic pain and interesting travels. Socially, he was on good terms with the authorities—the general, prefect, receiver-general, and bishop—but he remained frigid, polite, and slightly supercilious in every house, like a man out of place awaiting favors. When curiosity about him rose, he studied men and women: he found the men nought and saw Mme. de Bargeton as the person to cultivate. He judged music the key to her house—a place where strangers were rarely received—so he procured a Mass by Miroir and learned it on the piano. One Sunday, while Angoulême attended cathedral, he played the organ and sent the ignorant into ecstasies; Mme. de Bargeton, impressed, lamented the lack of opportunity for duets with such a musician and sought him out. By this artifice the adroit baron obtained entrée he could not have secured by direct request.
 
-Philippe later visited the Hochons, introducing himself and expressing his intent to live modestly on his limited income. He engaged in polite conversation, winning over Madame Hochon by discussing her nephew, journalist Lousteau. Aware of the town's gossip, Philippe suggested a private discussion with Hochon to avoid suspicion, aiming to connect with other officers of the old army who opposed Gilet.
+Thus Châtelet entered the queen of Angoulême’s circle and paid her marked attention. At forty-five he saw her dormant youth ready to revive and treasures to be turned to account: perhaps a rich widow, perhaps a political connection through the Nègrepelisse family, perhaps marriage. High-born Angoulême gasped at this intrusion: Mme. de Bargeton’s salon was a sacred space in a society that prided itself on purity. The only outsider usually intimate there was the bishop; the prefect was received only rarely; the receiver-general never dined at the Hôtel de Bargeton—she went to his concerts but did not accept his hospitality. For such genteel minds the appearance of a mere controller of excise in her circle shocked precedence and propriety.
 
-Philippe soon acquired a new wardrobe on credit and befriended Mignonnet and Carpentier, fellow officers disapproving of Gilet. He shared insights about the failed conspiracy to overthrow the Bourbons, earning respect among the officers while plotting to undermine Gilet and secure his uncle's fortune.
-
-As Philippe ingratiated himself with the local elite, he maintained a facade of respectability, contrasting with Gilet's dubious reputation. He frequently dined with Mignonnet and Carpentier, solidifying his community position. Meanwhile, Gilet viewed Philippe as a rival.
-
-Philippe discovered that Gilet's associates, including Rouget's grandsons, were involved in dubious activities, which he reported to Hochon. This revelation heightened tensions, as Gilet and Flore plotted to secure Rouget's wealth. Philippe confronted his uncle about Flore's influence, insisting on a private discussion.
-
-After a tense exchange, Philippe met Hochon, who informed him that Rouget had not signed any power of attorney, preventing Gilet from accessing his funds. Philippe planned to monitor his uncle and Gilet closely, determined to protect his family's interests. Alarmed by Philippe's boldness, Flore relayed the details to Gilet, who proposed a risky plan to manipulate Rouget into signing a power of attorney.
-
-As Philippe walked with Rouget along the boulevard Baron, he contemplated the impending clash between Colonel Bridau and Captain Gilet, both vying for Rouget's affections and fortune. Philippe expressed disdain for Gilet, revealing his plan to eliminate him to ensure Rouget's happiness with Flore. Despite Rouget's infatuation with Flore, Philippe urged him not to sign a power of attorney that would grant Gilet access to his wealth.
-
-Rouget, easily swayed by Flore's charms, proved difficult for Philippe to convince. Philippe insisted he would deal with Gilet if necessary, promising to make Flore obedient to Rouget. Their conversation shifted when they encountered Mignonnet and Carpentier, who were aware of Rouget's precarious situation. Philippe concluded that either Gilet must die or he would have to kill Gilet himself to save his uncle.
-
-Meanwhile, Gilet recognized the growing animosity against him in Issoudun due to his reckless behavior. He met with Captain Potel, who urged him to confront Bridau to restore his honor. However, Gilet was preoccupied with securing Rouget's wealth for himself and Flore.
-
-At Rouget's home, Kouski, under Gilet's orders, feigned sorrow to inform Rouget that Flore had left with Vedie. This devastated Rouget, who searched for Flore in vain. Gilet attempted to maintain his reputation while plotting to keep Rouget under his control.
-
-As rumors of Gilet's misdeeds spread, the townspeople began to turn against him. Potel expressed dismay over the division within the Imperial Guard, now pitted against itself due to Gilet's actions. Feeling cornered, Gilet resolved to confront Bridau, believing he could outmaneuver him in a duel.
-
-Philippe, anticipating Gilet's next move, prepared to counteract his plans, suspecting Gilet would further manipulate Flore and Rouget. When Rouget returned home, he began drafting a letter to Flore, threatening to revoke his will if she did not return immediately.
-
-Seeing an opportunity, Philippe convinced Rouget to send the letter with Carpentier for personal delivery to Flore, believing this would bring her back and restore Rouget's authority.
-
-As evening approached, Philippe strategized to ensure Flore's compliance and Rouget's happiness. He planned to take Gilet's place in Rouget's life, promising to keep Flore in line. When Flore returned, Philippe confronted her, asserting his dominance and warning her of the consequences if she did not comply with Rouget's needs.
-
-The next day, gossip about the impending duel between Philippe and Gilet spread throughout Issoudun, with many speculating on the outcome. Flore, realizing the stakes, began to act more affectionately towards Rouget to secure her position. However, Gilet remained defiant, unwilling to back down from the challenge posed by Philippe. As tensions escalated, the townspeople rallied around Philippe, hoping for a resolution that would restore order and honor to the Imperial Guard, setting the stage for a dramatic confrontation that would determine their fates.
+Those who understand petty vanities across social levels will appreciate how the bourgeoisie revered the Hôtel de Bargeton: from afar it looked like a miniature Louvre, the glory of Angoumois’ Hôtel de Rambouillet; yet inside it gathered the intellectual poverty and decayed gentility of the surrounding countryside.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-The day after the coronation banquet, officers of the old army gathered at Lacroix's restaurant in Issoudun to discuss Max Gilet's dismissal from old Rouget's house. Tensions rose when Max arrived, receiving a cold reception compared to Colonel Philippe Bridau. During the banquet, Philippe and Max exchanged insults, aware of their duel scheduled for the next morning. Philippe was visited by Monsieur and Madame Hochon, who urged him to pray and offered a relic for protection, which he accepted despite his skepticism.
+Political opinion in the provinces was expounded in loud commonplaces; the Quotidienne was tepidly loyal, and Louis XVIII branded a Jacobin. The women were largely awkward, silly, ill-dressed, lacking completeness in toilette, talk, flesh, or spirit. Châtelet could hardly have tolerated this society but for his designs on Mme. de Bargeton. Yet the ruined nobility, with its old manners and knowledge of tradition, masked many shortcomings. Nobility of feeling seemed more real in the country than in Paris. These provincial Royalists resembled tarnished old silver: antiquated but weighty; their fixed political opinions were a kind of fidelity, their exclusiveness elevating their social value. Each noble had a sort of market price to townsmen, a token of status.
 
-At the duel, both men appeared calm, but Philippe quickly disarmed Max. In a desperate move, Max attacked, resulting in serious injuries for both, with Philippe ultimately delivering a fatal blow, ending Max's ambitions and the influence of the Order of Idleness in Issoudun.
+Some women, flattered by M. du Châtelet, saw in him what their men lacked and were soothed. They hoped to succeed to “Imperial Highness.” Purists thought du Châtelet might be seen at Mme. de Bargeton’s but nowhere else. He tolerated much insolence but cultivated the clergy and the queen of Angoulême, bringing her the newest books and reading poetry aloud. Together they pretended ecstasy over Romantics; he endured them with patience unusual in a man of the Imperial school, though he hardly understood them. Mme. de Bargeton herself welcomed the literary renaissance, rejoiced in the Bourbon restoration, and was pleased by M. de Chateaubriand’s calling Victor Hugo “a sublime child.” She pined for Paris and its great men. Du Châtelet, seeing his chance, told her that in Angoulême there was “another sublime child,” a brilliant young poet from L’Houmeau—Lucien—whose verses surpassed the Parisian galaxy, though he knew it not. The headmaster had shown the Baron some admirable lines. Mme. de Bargeton, starved for genius in her provincial circle of dilettantes, was ecstatic and demanded to see the lad; du Châtelet negotiated Lucien’s appearance.
 
-As Philippe recovered, he planned to marry Flore Brazier, Max's former lover, to secure his inheritance after she fell ill following Max's death. He convinced his mother, Agathe, to support this union to restore Flore's respectability. Flore agreed to marry Rouget, influenced by Philippe, and the marriage contract was signed, ensuring her a substantial dowry.
+For poor provincials the social distances were vast; Lucien’s heart leapt when his headmaster announced that the gates of the Hôtel de Bargeton would open for him. Only his sister knew. Eve, thrifty housekeeper and laundress, devoted savings to procure thin shoes and a new suit, made a frill for his shirt, and cautioned him about manners—no elbows on tables in aristocratic precincts. She accompanied him to St. Peter’s Gate and watched until he reached the Promenade where du Châtelet waited. For Eve, Lucien in Mme. de Bargeton’s house meant the dawn of success; she did not foresee that where ambition begins ingenuous feeling ends.
 
-Philippe returned to Paris with his aunt and the ailing Rouget, facilitating Rouget's income transfer to himself. After indulging them, Rouget died from indigestion. By October 1823, Philippe settled his uncle's estate, netting 1.6 million francs, which he invested. He married Madame Rouget by March 1824, securing her fortune and rising to favor under Charles X.
+The Hôtel was less grand than imagined: mellow country stone, dismal from the street, plain inside with a neat provincial courtyard and sober, convent-like rooms in good repair. Lucien mounted the old staircase, crossed an antechamber, and entered a wainscoted drawing-room beyond a dim salon. The carved eighteenth-century woodwork was painted gray, monochrome friezes and crimson damask trimmed the walls; old-fashioned furniture crouched under covers. Mme. de Bargeton sat on a sofa, lit by two wax candles.
 
-By January 1827, Philippe had joined the Royal Guard, distancing himself from his past, while Joseph Bridau struggled as an artist. After Agathe's death, Joseph learned of Philippe's indifference and Flore's suffering. Philippe faced scrutiny during the July Revolution of 1830, returning to military service, where he met a tragic end in battle in 1839. Joseph, having married well, inherited Philippe's estate and continued to paint, gaining recognition but never achieving the fame he desired.
+She did not rise but twisted gracefully, smiling on the new poet. He found her dignified; she found him poetry incarnate—his diffidence and beauty enchanted her. She wore a coif of slashed black velvet, a medieval head-dress that heightened her dignity; red-gold curls escaped to frame a white throat and an oval, ardent face. Her refined fingers summoned him to sit close; M. du Châtelet ensconced himself in an easy-chair, and Lucien realized he was alone with Mme. de Bargeton.
+
+Those three hours passed to Lucien like a dream he wished prolonged. He adored her feminine exaltation and energy, and was blind to faded cheeks or hard patches of paint; his imagination clung to dazzling particulars. He had brought no verses; she did not ask for them because she meant him to come again to read them. M. Sixte du Châtelet, however, perceived a rival and, mortified at the discovery, tried to assert himself. He walked with Lucien down to Beaulieu and, with a flourish of self-importance, offered advice and tales of his conquests, speaking as one who would destroy a rival. Yet his bluster barely intimidated the young poet.
+
+Lucien returned often enough to grow used to condescension. When nobles called on Naïs and found him present, they greeted him with the patronizing graciousness of the well-bred toward inferiors; Lucien mistook civilities for kindness until their tone stirred his gall and a bitter Republicanism—a phase of many aspirants—began to ferment. Nevertheless, he would endure anything for Naïs.
+
+Naïs prophesied boundless fame for him. She flattered and exalted him, held him near as reader and secretary, and cared more for him than she expected. Her conduct mixed familiarity and capricious pride: sometimes a lofty patroness, sometimes tender. The oscillation of dread and hope tormented Lucien, the torture of first love. After two months as benefactress, confidences came: she softened terms of address to “dear,” and he, bolder, called her Naïs; she rebuked him, and he then called her Louise—privileged intimacy that delighted him.
+
+One evening she hid a portrait, telling Lucien the sad tale of Cante-Croix’s stainless but cut-short love, provoking his jealousy and despair. When she raised scruples of duty or appearances he could not analyze; he was too boyish and vowed to live for her rather than die for her. Louise then demanded verses for her album—pretext for quarrel in case of tardiness—but when she read his stanzas she was moved and changed. The verses she praised seemed to her evidence of genius, and she kissed him on the forehead. She spoke of perfecting him—teaching languages, refining manners—reasons to keep him perpetually in her orbit. She resumed music for his sake, played Beethoven to send him into ecstasy, and questioned whether such happiness was not enough; he answered “Yes.”
+
+Townsfolk buzzed. The week before, she had asked Lucien to dine with the Bargetons as a third, and the town reacted with outrage. Some cried moral decay attributable to Liberal doctrines. Du Châtelet, haughty, joked about Lucien’s mother being Madame Charlotte the monthly nurse—an apparent slur on the poet’s origins. Mme. de Chandour hurried to remonstrate with Mme. de Bargeton. The latter met gossip with composure: genius is often born of humble stock; if they had no money, what would they do? She turned misfortune into virtue, her wit and persistence disarming critics.
+
+That evening she used caustic wit before a crowded salon, arguing that because nobles could not themselves produce Molières or Voltaires, they must accept that great men might be upholsterers’ or clockmakers’ sons; genius was not the preserve of birth. Her eccentricity and defense quelled the storm. When Lucien appeared before the whist-tables he was brought forward like a prince she meant to protect, and he faced the cold hostility of those who vowed to expel him with insolence.
+
+Naïs had won a victory but weakened her supremacy. Rumor spread; Amélie de Chandour, following du Châtelet’s counsel, set a rival salon on Wednesdays. The habitués were wedded to routine and the mistress of the staircase. The president of the agricultural society saved face by remarking that pre-Revolution nobles admitted men like Dulcos and Grimm—nobodies—but they never received tax-collectors; Châtelet, a tax-collector, remained unacceptable. Du Châtelet, affronted by the slur and envious of Lucien, declared he would possess Mme. de Bargeton; yet in a twist of tactics he sided with her and declared himself Lucien’s friend, feting the poet with a grand dinner. He invited officials—the prefect, receiver-general, colonel, head of the Naval School, president of the Court—and had Lucien recite “The Dying Sardanapalus.” Applause was plentiful; the headmaster extolled the lines as superior to Jean-Baptiste Rousseau. Sixte, du Châtelet, thinking a hothouse of adulation might ruin the poet, watched with the calculating interest of a rake waiting to strike.
+
+From then on vague reports of a great man in Angoumois circulated. Mme. de Bargeton was praised for her patronage, and she sought general sanction by arranging a soirée with ices, tea, and cakes—novelties in a town where tea was sold mostly as medicine. She summoned the flower of aristocracy to hear Lucien read. She warned him of the social cabal and counselled that only the strong could survive these obstacles. She proposed he abandon his patronymic for the noble name Rubempré, offering to secure royal sanction through her relation, the Marquise d’Espard. The words “King” and “Marquise” dazzled Lucien; baptism into a noble name seemed requisite.
+
+Mme. de Bargeton traversed social strata to show him that such a change would elevate him. She urged Lucien to renounce the equality rhetoric of ’89, fed his taste for social distinction, and tamed David’s commonsense. The once-rabid Liberal turned into a secret Monarchist: he longed for rank, luxury, and fame and swore to win laurels to lay at his lady’s feet, even if blood must be spilled. He would conquer at all costs. To prove his courage he confessed his present hardships, the shackles of poverty borne with pride, his long days of work for David, nights of study. His ardor recalled the colonel of twenty-six; Louise’s eyes softened; Lucien seized a hand and kissed it with the frenzy of lover and poet; she allowed him to press his lips to her forehead.
+
+Mme. de Bargeton’s arguments—men of genius must sacrifice family and law to grow—fell on Lucien’s worst inclinations and spread corruption in his heart. She invoked Bernard Palissy, Louis XI, Fox, Napoleon, Columbus, Caesar—talking up the right of genius to set itself above law and to take what it needed. For Lucien, with desires hot, all means seemed admissible. Unconsciously he stood between genius’s promise and a shameful end in the hulks; on one hand the prop of prophetic Sinai, on the other the hideous shame of Gomorrah.
+
+Louise loosened his provincial bonds so effectively that he resolved on an experiment to secure her love without risk of rebuff. The forthcoming soirée offered a chance. Ambition and love intertwined: he loved and meant to rise. Society’s banquet early aroused ambition, robbing youth of its original charm and corrupting generous thoughts into mercenary scheming. Lucien persuaded himself his plotting was for David’s sake.
+
+He wrote a long, impassioned letter to Louise—copied thrice—detailing his father’s thwarted genius, his own grinding poverty, praising his sister as an angel and David as a future Cuvier, friend, and father-figure. He implored her to do for David what she had done for him, to lift David into his deserved place. The letter was a blend of boyish casuistry, naive eloquence, and romantic pleading—the kind of revelation women love for its unconscious display of the writer’s heart.
+
+Lucien left the letter with the housemaid and spent the day at the office reading proofs, supervising orders, and attending to the printing-house, saying nothing to David. Youth retains its reticence; perhaps he feared David’s clear eyes. But when he later read Chénier’s poems with David, the secret rose in his heart under the sting of reproach, like an unhealed wound probed.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+And now try to understand Lucien’s troubled thoughts as he left Angoulême. Was the great lady angry with him? Would she receive David? Had he, in his ambition, plunged back into the depths of L’Houmeau? Before he kissed Louise’s forehead he had time to measure the distance between a queen and her favorite; he knew how far he had climbed in five months, and although David might cover the same ground at a bound, Lucien did not yet grasp how completely the lower orders were excluded from that upper world. A second indiscretion would ruin Mme. de Bargeton: once accused of liking canaille, Louise would be shunned like a leper. Naïs might have broken moral law and been defended by clergy and aristocracy, but admitting humble people to her house was an unforgivable sin. The powerful are forgiven their faults; once they abdicate, they pay. And what was it but abdication to receive David?
+
+Lucien’s aristocratic instinct found other obstacles. Fine manners can be acquired—Racine had a noble air, Corneille looked like a cattle-dealer—and David lacked the trifles Nature had given Lucien: a graceful figure, distinguished features, a certain ring in the voice. Lucien, of gentle blood on his mother’s side and with a high-arched foot, could imagine Mme. de Bargeton’s repressed smile at David’s appearance. Not ashamed of his friend, he resolved to be prudent and risk no repeat of such experiments.
+
+Thus, after the hour of poetry and self-sacrifice came the hour of worldly wisdom and scheming. Back in L’Houmeau he wished he had not written the letter; he would have taken it back if he could. Down the vista of the future he glimpsed the inexorable law that nothing succeeds like success, and it cost him to step down from the first rung of the ladder he meant to climb. Pictures of his simple life rose before him—David, generous and self-sacrificing; his mother proud in her lowly lot; his sister submissive and gracious; his own unspoiled conscience—and the past bloomed.
+
+He told himself it was nobler to hew his way through hostile society by repeated strokes than to reach the goal through a woman’s favor. Sooner or later genius would shine; others had tamed society; women would love him when that day came. He flung his schemes to the wind and blamed himself. Lucien was easily moved between extremes.
+
+He had none of the scholar’s love of retreat; for a month he had felt shame at seeing POSTEL (LATE CHARDON), PHARMACEUTICAL CHEMIST, in yellow letters on green over the shop. It offended him that his father’s name should be posted where every carriage passed. Every evening, after closing the ugly iron gate and going up to Beaulieu to give his arm to Mme. de Bargeton among the dandies, he chafed at the disparity between his lodging and his fortune.
+
+“I love Mme. de Bargeton; perhaps soon she will be mine, yet here I live in this rat-hole!” he thought as he descended into the little yard behind the shop. Bundles of boiled herbs lay along the wall, an apprentice scoured a caldron, and M. Postel, in a laboratory apron, inspected some chemical product while watching the door.
+
+A strong scent of camomile and peppermint pervaded the yard and the poor dwelling reached by a short ladder with ropes for handrails. Lucien’s room was an attic under the roof.
+
+“Good-day, sonny,” said M. Postel, the provincial tradesman. “Are you pretty middling? I have been experimenting on treacle, but it would take a man like your father to find what I am looking for. Ah! he was a famous chemist, he was! If I had only known his gout specific, you and I should be rolling along in our carriage this day.”
+
+Postel, thick-headed but kind, never failed to allude to Chardon senior’s unlucky secrecy—words that stabbed Lucien. He began to find Postel vulgar, though he blessed him for his kindness; honest Postel had helped the widow and children more than once.
+
+“Is there a letter for me?”
+
+“Yes, a letter that smells like balm! It is lying on the corner near my desk.”
+
+Mme. de Bargeton’s letter among physic bottles in a druggist’s shop! Lucien sprang to rescue it.
+
+“Be quick, Lucien! your dinner has been waiting an hour!” a sweet voice called through a half-opened window; but Lucien did not hear.
+
+“That brother of yours has gone crazy, mademoiselle,” said Postel, lifting his face.
+
+The old bachelor, a miniature brandy-cask of a man with a ruddy, pitted face, became ceremonious and amiable at the sight of Eve, showing thoughts of espousing his predecessor’s daughter. “Your sister is uncommonly pretty, and you are not so bad looking neither! Your father did everything well,” he often said.
+
+Eve was tall, dark-haired, blue-eyed; though showing signs of vigour, she was gentle, tender, and devoted. Her frank innocence, simplicity, and spotless character won David’s heart; since they first met a repressed, single-hearted love had grown between them in the German fashion—quietly, without fervid protestations. In secret they thought of each other as if barred by something jealous; they hid feelings as if it wronged Lucien. David, lacking confidence, could not believe Eve could care for him; Eve, penniless and proud, was shy. Rumors said Marsac was worth more than eighty thousand francs; old Séchard had savings and bought bits of land, but perhaps David alone knew nothing of his father’s means—he cared little for the estate, seeing Marsac only at vintage time when his father boasted.
+
+David was a solitary student; his timid love sought encouragement. He stood in awe of Eve and was awkward, eager to hurry away. He repressed his passion; often he would reach the green iron railings of L’Houmeau and turn back. Eve read the little he showed and was proud of his reverence, but it was his faith in Lucien that drew her most. Their love’s mute delights were like wildflowers: glances like water-flowers, words vanishing like briar scents—tender blossoms of two rare natures. Eve saw strength beneath David’s weakness; a single word might bind them closer.
+
+Eve opened the door, and Lucien sat at the little X-shaped trestle table. There was no tablecloth; the household owned three silver spoons and forks, and Eve laid them all for her dearly loved brother.
+
+“What have you there?” she asked when she set a dish and put the extinguisher on the portable stove.
+
+Lucien did not answer. Eve garnished a little plate with vine-leaves and set a jug of cream.
+
+“There, Lucien, I have had strawberries for you.”
+
+But Lucien was absorbed in his letter. Eve sat beside him without murmur; in a sister’s love there is pleasure to serve without ceremony.
+
+“Oh! what is it?” she cried as she saw tears in his eyes.
+
+“Nothing, nothing, Eve,” he said, and putting his arm about her, drew her close and kissed her forehead and throat with surprising warmth.
+
+“You are keeping something from me.”
+
+“Well, then—she loves me.”
+
+“I knew very well that you kissed me for somebody else,” Eve pouted, flushing.
+
+“We shall all be happy,” cried Lucien, swallowing great spoonfuls of soup.
+
+“We?” echoed Eve, with the presentiment that had crossed David’s mind. “You will not care so much about us now.”
+
+“How can you think that, if you know me?”
+
+Eve clasped his hand, carried off the empty plate and brought the dish she had made. Lucien read his letter again instead of eating; Eve discreetly respected his silence. Here is the letter:—
+
+“MY FRIEND,—Why should I refuse to your brother in science the help that I have lent you? All merits have equal rights in my eyes; but you do not know the prejudices of those among whom I live. We shall never make an aristocracy of ignorance understand that intellect ennobles. If I have not sufficient influence to compel them to accept M. David Séchard, I am quite willing to sacrifice the worthless creatures to you. It would be a perfect hecatomb in the antique manner. But, dear friend, you would not, of course, ask me to leave them all in exchange for the society of a person whose character and manner might not please me. I know from your flatteries how easily friendship can be blinded. Will you think the worse of me if I attach a condition to my consent? In the interests of your future I should like to see your friend, and know and decide for myself whether you are not mistaken. What is this but the mother’s anxious care of my dear poet, which I am in duty bound to take?
+
+LOUISE DE NEGREPELISSE.”
+
+Lucien had no suspicion of the arts by which polite society frames a “Yes” on the way to a “No.” He took the note for victory. David should go to Mme. de Bargeton’s house! David would shine in the majesty of his genius! He raised his head proudly; his face radiated hope, and Eve told him he looked handsome.
+
+“If that woman has any sense, she must love you! And if so, to-night she will be vexed, for all the ladies will try all sorts of coquetries on you. How handsome you will look when you read your Saint John in Patmos! If only I were a mouse, and could just slip in and see it! Come, I have put your clothes out in mother’s room.”
+
+The mother’s room testified to self-respecting poverty: white curtains, a strip of cheap green carpet, a chest of drawers, a looking-glass, a few walnut chairs. A clock on the chimney-piece told of vanished prosperity. Eve’s adjoining closet held a narrow bed, a low chair, and a work-table; the door always stood open for air. Though poor, the atmosphere was sedate and studious.
+
+Lucien was tying his cravat when David’s step sounded in the little yard. The young printer appeared in a hurry.
+
+“Well, David!” cried Lucien, “we have gained the day! She loves me! You shall come too.”
+
+“No,” David said with confusion. “I came to thank you, but I have been thinking seriously. My life is cut out for me, Lucien. I am David Séchard, printer to His Majesty in Angoulême, my name on bills posted on every wall. For people of that class, I am an artisan, a craftsman who lives over a shop in the Rue de Beaulieu at the corner of the Place du Mûrier. I have not the wealth of a Keller nor the name of a Desplein—powers the nobles ignore. How can I prove my claim to this sudden elevation? I should only make myself a laughing-stock for nobles and bourgeoisie alike. As for you, your position is different. A foreman is not committed. You are gaining knowledge indispensable for later; you can explain your present work by your future. You can leave your place tomorrow and begin something else; nobody has pigeon-holed you. Take advantage of your social maiden fame to walk alone and grasp honors. Enjoy all pleasures. I wish you luck; I shall enjoy your success; you will be like a second self. Yes, in my mind I shall live your life. You shall have the holiday life; I will lead the tradesman’s life of sober toil, patient scientific research.
+
+“You shall be our aristocracy,” he continued, looking at Eve. “If you totter, I will steady you. If you suffer treachery, find refuge in our hearts; love there will never change. Influence and favor might fail us if we were two; we should stand in each other’s way; go forward, you can tow me after you if it comes to that. I shall dedicate my life to yours. The thing you did—risked losing your benefactress, your love perhaps, rather than forsake me—that little thing was so great—ah, well, Lucien, that alone would bind me to you forever if we were not brothers already. Have no remorse; be not concerned about seeming to take the larger share. This one-sided bargain is exactly to my taste. Suppose you give me a pang now and again, who knows that I shall not be your debtor all my life?”
+
+He glanced timidly at Eve; her eyes were full of tears; she saw all beneath the surface.
+
+“In fact,” he added, “you are well made, you have a graceful figure, you wear your clothes with an air, you look like a gentleman in that blue coat with yellow buttons and plain nankeen trousers; I should look like a workingman among those people, awkward and out of my element, or say foolish things—or say nothing. But you can take your mother’s name; call yourself Lucien de Rubempré; I am and shall be David Séchard. Everything tells for you there and against me. Women will worship that angel face of yours; won’t they, Eve?”
+
+Lucien sprang up and flung his arms about David. David’s humility had dispelled many doubts. It was one of those rare moments when forces in us are sweetly strung and every chord gives full resonance.
+
+Yet this noble goodness increased Lucien’s human tendency to take himself as the center. He had all the faults of a spoiled eldest son: his mother and sister concentrated tenderness on him, David was devoted; Mme. de Bargeton was doing her best to foster the same tendency by inducing him to forget his family and friend. He was far from doing so yet; but there was reason to fear that as his sphere widened his thought would be how to maintain himself in it.
+
+When emotion subsided, David suggested Lucien’s Saint John in Patmos might be too biblical for such an audience. For his first appearance before the exacting Charente public, Lucien seemed nervous. David advised taking André de Chénier and substituting certain pleasure for dubious delight. Lucien was a perfect reader; listeners would enjoy him, and his modesty would serve him. Like most young people, they endowed the world with their own intelligence and virtues; youth not yet gone astray is pitiless for others’ sins and magnanimous in faith.
+
+The two lovers were left alone. David, embarrassed and timid, half wished, half feared Eve’s praise; he longed to run away, for modesty is not exempt from coquetry. He was afraid to utter a word that might seem to beg for thanks; everything put him in a false position, so he held his tongue and looked guilty. Eve guessed his agony and enjoyed the pause; when David wrung his hat as if to go, she smiled.
+
+“Monsieur David,” she said, “if you are not going to Mme. de Bargeton’s, we can spend the time together. It is fine; shall we take a walk along the Charente? We will have a talk about Lucien.”
+
+David longed to fling himself at her feet. Eve’s tone solved his difficulties: her suggestion was better than praise; it was the first grace offered by love.
+
+“But give me time to dress!” she said as David made to go.
+
+David went out; he, who had never known one tune from another, hummed. Honest Postel heard him and suspected Eve’s feelings for the printer.
+
+Small things that evening made a great impression on Lucien; his character was peculiarly susceptible to first impressions. Like all inexperienced lovers, he arrived so early that Louise was not in the drawing-room; M. de Bargeton was there alone. Lucien had begun to practice the small deceits lovers pay for married happiness—deceits through which a woman learns her power—but he had not met the lady’s husband.
+
+M. de Bargeton’s intellect was limited, poised between harmless vacancy and excessive stupidity. To be agreeable he adopted an opera-dancer’s smile as his sole expression. Satisfied, he smiled; dissatisfied, he smiled again. He smiled at good and evil alike; when obliged to express approval a complacent laugh reinforced the smile; otherwise he hardly spoke. A tête-à-tête embarrassed him, and he rescued himself by returning to the artless ways of childhood—thinking aloud about the smallest personal sensations. He never talked weather or commonplaces; he plunged you into intimate trivialities—“I took veal this morning to please Mme. de Bargeton, and my stomach has been uneasy since.” Such remarks permitted no discussion; a “Yes” or “No” and conversation fell dead. Then he implored help with a gaze that said, “You were saying?” He loved bores who talked about themselves and listened with delicate interest, so twaddlers credited him with more understanding than he showed. When others could find nobody to listen they went to him, sure of his eulogistic smile. Mme. de Bargeton’s rooms were always crowded, and generally her husband felt at ease. He watched arrivals, helped his wife bring guests, laid in wait for departures to take them to the door with that eternal smile. When conversation grew lively, he stood happy and mute, planted like a swan, listening to political talk or watching card-players without notion of the game; or he walked about taking snuff to promote digestion. Anaïs was the bright side of his life; she made it unspeakably pleasant. Stretched in his armchair he watched admiringly while she played hostess. He tried to see the point in her remarks, and often succeeded only after delay; his smiles appeared like a delayed explosion. His respect for his wife almost amounted to adoration. She had drilled him into military subordination; he yielded passive obedience. “Go and call on Monsieur So-and-So,” she would say, and he went forthwith, like a soldier at command. He stood at attention in her presence and waited motionless for orders.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+There was talk of nominating the mute gentleman for a deputy. Lucien had scarcely begun to fathom this inscrutable man; he had not frequented the house long. M. de Bargeton, stretched full-length in his great chair, seemed to see and understand everything; his silence increased his dignity, and his figure filled Lucien with awe. Imaginative natures magnify; Lucien took him for a formidable sphinx rather than a mere sentinel and thought it necessary to conciliate him.
+
+“I am the first comer,” he said, bowing with more respect than was usual.
+
+“That is natural enough,” replied M. de Bargeton.
+
+Lucien took the remark for an epigram; he imagined the lady’s husband jealous and reddened, striving to compose himself.
+
+“You live in L’Houmeau,” M. de Bargeton observed, “and people who live a long way off always come earlier than those who live near by.”
+
+“What is the reason of that?” asked Lucien politely.
+
+“I don’t know,” M. de Bargeton answered, relapsing into immobility.
+
+“You have not cared to find out,” Lucien continued; “one who could observe might discover the cause.”
+
+“Ah!” said M. de Bargeton—“final causes! Eh! eh!...”
+
+The conversation died; Lucien racked his brains to revive it.
+
+“Mme. de Bargeton is dressing, no doubt,” he began, shuddering at the silliness.
+
+“Yes, she is dressing,” the husband naturally answered.
+
+Lucien looked at the ceiling, at the little chandelier stripped of gauze and filled with wax candles, covers removed from furniture revealing faded damask—preparations that meant something. He glanced at his boots, misgave about his costume, and fixed on a Japanese jar, seeking some hobby of M. de Bargeton’s to humor him.
+
+“You seldom leave the city, monsieur?” he ventured.
+
+“Very seldom.”
+
+Silence again. M. de Bargeton watched Lucien’s slightest movements like a suspicious cat; the young man’s presence disturbed him. Each was afraid of the other.
+
+“Can he feel suspicious of my attentions?” thought Lucien; “he seems anything but friendly.”
+
+His unease eased when the old man-servant announced “M. du Châtelet.” The Baron entered at ease, greeted Bargeton, and favored Lucien with the fashionable slight nod the poet called purse-proud impertinence.
+
+Sixte du Châtelet wore dazzling white trousers, pumps, thread stockings, an eyeglass with a black ribbon over a white waistcoat and a fashionable black coat. He was the faded beau his antecedents suggested: dye hiding grizzled hair, a travel tan, and the retained air of an Imperial Highness’ charming private secretary. He inspected Lucien’s clothes from head to foot, then coolly returned his eyeglass to his pocket with a look that said, “I am satisfied.” Lucien, eclipsed by the inland-revenue elegance, hoped to shine later with poetic airs; but M. de Bargeton’s imagined hostility stung him. The Baron seemed to bring the weight of fortune to humiliate his poverty.
+
+M. de Bargeton, having little to say, kept a question in reserve.
+
+“Well, monsieur,” he asked Châtelet, “is there anything fresh? anything people are talking about?”
+
+“The latest thing is M. Chardon,” Châtelet said maliciously. “Ask him. Have you brought some charming poet for us?” he added, adjusting his side curl.
+
+“I should have asked you whether I had succeeded,” Lucien answered; “you have been before me in the field of verse.”
+
+“Pshaw!” said the Baron. “A few vaudevilles, lines for music, and my long Epistle to a Sister of Bonaparte will not hand down my name to posterity.”
+
+At that moment Mme. de Bargeton appeared in full toilette: a Jewess’ turban with an Eastern clasp, cameos gleaming through gauze at her shoulders, short sleeves displaying bracelets. Lucien was charmed by the theatrical dress. M. du Châtelet lavished fulsome compliments that pleased her; she was glad to be praised in Lucien’s hearing but scarcely glanced at him, meeting Châtelet with a civility that kept him at a distance.
+
+Guests began to arrive. First the Bishop and his Vicar-General, dignified and reverend though unlike—one tall and attenuated, the other short and fat. Both were impassive; their silence and reserve were supposed to hide great intellects.
+
+Close after them came Mme. de Chandour and her husband, Stanislas, a ci-devant young man slim at forty-five with a sieve-like countenance. His cravat presented two menacing points, his coat-tails were awry, a cut-away waistcoat showed a swelling starched shirt fastened with massive gold studs. Exaggerated dress and talk made him almost a living caricature: he admired himself, verified buttons, checked his hair, surveyed the women with happy flinging airs—a king of the poultry-yard—pleasant to the aristocratic circle. His eighteenth-century grossness procured success with women; his coxcomb superciliousness intrigued them and challenged M. du Châtelet.
+
+Amélie de Chandour, short, plump, fair and dark-haired, was a poor actress; her loud voice matched her restless head, feathered or flowered. She talked without depth and had asthma to wheeze away her efforts.
+
+M. de Saintot, Astolphe, President of the Agricultural Society, tall, stout, high-colored, usually appeared with his wife Élisa, called Lili—a lady with a withered-fern face, solemn, pious, and trying at cards. Astolphe was supposed to be a scientific man; in truth he was ignorant but had compiled articles on sugar and brandy for a Dictionary of Agriculture by pillage of others’ work. It was believed he was writing on modern husbandry; though he locked himself in his study mornings, he had not produced much of late. If callers arrived, he contrived to be found rummaging papers, yet spent time on puerilities—reading newspapers, cutting corks, drawing on blotting-paper. He’d turn to Cicero to find anything applicable to current events and drag a quotation into conversation, prompting the remark, “Astolphe is a well of learning.” The belief in his abilities sustained itself by rumor.
+
+After this pair came M. de Bartas, Adrien, who boomed his song in a bass voice and made prodigious musical claims. His self-conceit rested on solfeggi; he admired his singing and talked music to the point of monomania. Animated only by that subject, he was miserable until begged to sing. After bellowing an air he strutted and accepted praise, moving from group to group for more; when compliments ceased, he returned to the song’s difficulties or extolled the composer.
+
+M. Alexandre de Brébian produced heroic sepia sketches, disfiguring friends’ walls and spoiling albums. He and M. de Bartas arrived together, each with the other’s wife on his arm in a cross-cornered arrangement that gossip said they carried to extremes. Mesdames Charlotte de Brébian and Joséphine de Bartas—Lolotte and Fifine—cared as much for a scarf or color reconciliation as for any serious matter, aiming to look like Parisiennes while neglecting their homes. Their husbands availed an artist’s privilege to dress as they pleased; provincial dowdiness on them contrasted with their wives’ doll-like finery, making them like stage supernumeraries at third-rate theatre weddings.
+
+One of the queerest figures was M. le Comte de Senonches, Jacques, a mighty hunter, lean and sunburned, haughty as a boar, suspicious as a Venetian, jealous as a Moor, yet intimate with M. du Hautoy—Francis, the friend of the house.
+
+Madame de Senonches, Zéphirine, was tall and fine-looking though her complexion showed pimples of liver complaint, making her exacting. Slender and delicate, she affected languid manners but revealed passion and the consciousness that every caprice would be gratified.
+
+Francis had forsaken a consulship in Valence and sacrificed diplomatic prospects to live near Zéphirine in Angoulême. He managed the household, educations, languages, and fortunes of M. and Mme. de Senonches with complete devotion. Noble, administrative, and bourgeois Angoulême had long looked askance at this perfect union of three persons, but the conjugal trinity became so pleasing that had M. du Hautoy suggested marriage he would have seemed monstrously immoral. Mme. de Senonches had a lady companion and goddaughter, Mlle. de la Haye; her excessive attachment to Françoise de la Haye raised surmises of disquieting mysteries, and despite discrepancies in dates, people thought Françoise bore a striking likeness to Francis du Hautoy.
+
+When “Jacques” was shooting nearby, people asked after Francis, and Jacques would discourse on his steward’s ailments and speak of his wife in the second place. Such blindness in a jealous man amused friends who drew him out on the topic. M. du Hautoy was a finical dandy whose minute self-care degenerated into mincing affectation: he fussed about coughs, appetite, digestion, and sleep. Zéphirine made a valetudinarian of him; she doctored and coddled him, fed him delicacies, embroidered his waistcoats and handkerchiefs until he became a kind of Japanese idol. Their understanding was perfect: Zizine consulted Francis with a look; he took his ideas from her eyes. They frowned and smiled together, seeming to take counsel even before making the simplest remark.
+
+The largest landowner was the Marquis de Pimentel; between him and his wife they had forty thousand livres and spent winters in Paris. This evening they arrived in their calèche with neighbors, the Baron and Baroness de Rastignac, their party, the Baroness’ aunt and two charming, penniless daughters carefully brought up and simply dressed to show natural loveliness.
+
+These first families met a reception of chilling silence; respect paid them was tinged with jealousy, especially since Mme. de Bargeton paid marked attention to these guests. The two families kept aloof from provincial gossip, belonged to no clique, lived quietly, and maintained dignified reserve. M. de Pimentel and M. de Rastignac were addressed by full names, and no length of acquaintance had brought their wives and daughters into Angoulême’s select coterie; both families were too near the Court to risk provincial follies.
+
+The Prefect and the General in command arrived last, with a country gentleman who had brought a treatise on silkworms to David that morning. Evidently a mayor or canton gentleman, his fine estate sufficed for gentility; but he was unused to polite society, uneasy in his clothes, at a loss with his hands, shifting from foot to foot, half rising and sitting as people spoke to him. He seemed ready to perform menial service: obsequious, nervous, grave by turns, laughing eagerly at every joke, listening with servility, then assuming a knowing air when imagining others laughed at him. His treatise weighed on his mind; he tried repeatedly to talk silkworms but met M. de Bartas, who talked music, and M. de Saintot, who quoted Cicero, until late in the evening Mme. and Mlle. du Brossard showed sympathy.
+
+Mme. and Mlle. du Brossard were interesting yet pitiable: as poor as they were noble, their dress betrayed carefully hidden penury. The daughter, a big, heavy seven-and-twenty, was lauded as a good pianist by her mother in the clumsiest way. Mme. du Brossard, anxious to marry off Camille, declared her child liked everything desirable—roving life, then country farmhouses—adapting to any suitor’s taste. Mother and daughter bore a pinched dignity learned from experience; they had been objects of benevolent egoism and had sounded the void beneath consoling formulas the world offers the unfortunate.
+
+M. de Séverac, fifty-nine and a childless widower, spoke of his silkworm nurseries; Mme. du Brossard enthused, “My daughter has always been fond of animals... she will grasp anything in a moment. Did she not understand one day the inverse ratio of the squares of distances!” This remark brought the conversation between Mme. du Brossard and M. de Séverac to a glorious close after Lucien’s reading that night.
+
+A few habitués slipped in, as did one or two eldest sons: shy, mute young men tricked out in jewelry, highly honored by an invitation to the literary solemnity; the boldest chatted with Mlle. de la Haye. The women arranged themselves in a circle, the men stood behind them. It was a quaint assemblage of wrinkled faces and heterogeneous costumes but very alarming to Lucien; his heart beat fast under everyone’s look. Mme. de Bargeton welcomed illustrious Angoulême personages with ostentatious courtesy, but the uncomfortable feeling was aggravated by a trifling matter that would shock a young man unused to the world. Lucien noticed that no one except Louise, M. de Bargeton, the Bishop, and some few who wished to please the hostess called him M. de Rubempré; to the formidable audience he was M. Chardon. Lucien’s courage sank under inquisitive lips; he read his plebeian name in their movements and heard anticipatory criticisms in blunt provincial fashion. He had not expected such pin-pricks; it put him more out of humor with himself. Impatient to begin the reading, he hoped to assume an attitude to end his mental torment; but Jacques told Mme. de Pimentel of his sport, Adrien expounded Rossini to Mlle. Laure de Rastignac, and Astolphe, with a newspaper paragraph on a patent plow, lectured the Baron. Lucien, luckless poet, did not know there was scarce a soul in the room besides Mme. de Bargeton who could understand poetry. The matter-of-fact assembly was there by misapprehension; for the most part they did not know why they had come. Certain words—“beauty,” “glory,” “poetry”—bewitch even the coarsest intellect.
+
+When everyone had arrived and the buzz faded after M. de Bargeton, obedient to his wife, made the circuit like a beadle tapping the pavement with his wand, securing silence at last, Lucien went to the round table near Mme. de Bargeton. A fierce thrill ran through him. He announced in an uncertain voice that, to prevent disappointment, he would read the masterpieces of a great poet discovered only recently (although André de Chénier’s poems had appeared in 1819, no one in Angoulême had heard of him). Everybody took the announcement one way—it was a shift of Mme. de Bargeton’s to save the poet’s self-love and put the audience at ease.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+Lucien began with Le Malade, and the poem was met with a murmur of applause; but when he followed with L’Aveugle the strain proved too great for the average intellect. Only artists or those with an artistic temperament can follow such a reading; to render poetry by voice so that listeners grasp it requires devout attention and an intimate alliance between reader and audience. Here that close sympathy was lacking, and Lucien seemed like an angel trying to sing of heaven amid the chucklings of hell. A man in a field that stimulates him can be acutely aware of everything, like a snail sensing its surroundings; a musician or poet knows at once whether his audience listens and feels it as a plant revives or droops under favorable or unfavorable conditions. The men who had come with their wives were discussing their own affairs; by the laws of acoustics every murmur rang in Lucien’s ear; he noticed the gaps made by spasmodic jaw-work and teeth that seemed to grin defiance at him.
+
+Searching, like the dove in the deluge, for any spot to rest on, he saw nothing but rows of impatient faces. Their owners had clearly come together to discuss practical matters; except for Laure de Rastignac, the Bishop, and two or three young men, they all looked bored. Those who understand poetry strive to develop the seeds of another poetry quickened by the poet’s; this glacial audience, so far from attaining the spirit, did not even listen to the letter.
+
+Lucien felt discouraged; damp with chill perspiration, he was steadied by a glowing glance from Louise, but his poet’s heart bled. “Do you find this very amusing, Fifine?” inquired the wizened Lili. “Don’t ask me; I cannot keep my eyes open when anyone reads aloud,” she answered. “I hope Naïs will not give us poetry often in the evenings,” said Francis. “If I am obliged to attend while somebody reads aloud after dinner, it upsets my digestion.” “Poor dearie,” whispered Zéphirine, “take a glass of eau sucrée.” “It was very well declaimed,” said Alexandre, “but I like whist better.” After that quip, some card-players decided the reader’s voice needed a rest, and a couple of couples slipped away into the card-room. But Louise, the Bishop, and pretty Laure besought Lucien to continue, and he caught his audience again with Chénier’s spirited reactionary iambes. Several, borne away by his impassioned delivery, applauded without understanding the sense; people of that sort mistake vociferation for meaning, as a coarse palate is tickled by strong spirits.
+
+During the interval, while they had ices, Zéphirine sent Francis to examine the volume and told Amélie that the poetry was in print. Amélie brightened. “Why, that is easily explained,” she said. “M. de Rubempré works for a printer. It is as if a pretty woman should make her own dresses,” she added, looking at Lolotte. “He printed his poetry himself!” the women murmured. “Then why does he call himself M. de Rubempré?” inquired Jacques. “If a noble takes a handicraft, he ought to lay his name aside.” “So he did,” said Zizine, “but his name was plebeian; he took his mother’s, which is noble.” “Well, if his verses are printed, we can read them for ourselves,” said Astolphe.
+
+This stupidity complicated matters until Sixte du Châtelet condescended to inform these unlettered folk that the prefatory announcement was not oratorical flourish but fact: the poems had been written by a Royalist brother of Marie-Joseph Chénier, the Revolutionary leader. All Angoulême, except Mme. de Rastignac, her two daughters, and the Bishop — who had genuinely felt the grandeur of the poetry — were mystified and took offense at the hoax. There was a smothered murmur, but Lucien did not heed it. The intoxication of the poetry had seized him; he was far from the hateful world, striving to render in speech the music that filled his soul, seeing the faces about him through a cloudy haze. He read the sombre Elegy on the Suicide, lines in the taste of a bygone day, pervaded by sublime melancholy; then he turned to the page where the line occurs, “Thy songs are sweet, I love to say them over,” and ended with the delicate idyll Néere.
+
+Mme. de Bargeton sat with one hand buried in her curls, heedless of the havoc she wrought among them, gazing with unseeing eyes, alone in her drawing-room, lost in delicious dreaming; for the first time in her life she had been transported to the sphere that was hers by nature. Judge, therefore, how unpleasantly she was disturbed by Amélie, who took it upon herself to express the general wish. “Naïs,” she broke in, “we came to hear M. Chardon’s poetry, and you are giving us poetry out of a book. The extracts are very nice, but the ladies feel a patriotic preference for the wine of the country; they would rather have it.” Astolphe added lightly to Châtelet, “The French language does not lend itself very readily to poetry, does it? Cicero’s prose is a thousand times more poetical to my way of thinking.” “The true poetry of France is song, lyric verse,” Châtelet answered. “Which proves that our language is eminently adapted for music,” said Adrien.
+
+“I should very much like to hear the poetry that has cost Naïs her reputation,” said Zéphirine; “but after receiving Amélie’s request in such a way, it is not very likely that she will give us a specimen.” “She ought to have them recited in justice to herself,” said Francis. “The little fellow’s genius is his sole justification.” “You have been in the diplomatic service,” said Amélie to M. du Châtelet, “go and manage it somehow.” “Nothing easier,” said the Baron.
+
+The Princess’ private secretary, used to such petty manoeuvres, went to the Bishop and contrived to bring him to the fore. At the Bishop’s entreaty, Naïs had no choice but to ask Lucien to recite his own verses for them, and the Baron received a languishing smile from Amélie as the reward of his prompt success. “Decidedly, the Baron is a very clever man,” she observed to Lolotte. But Amélie’s previous acid remark about women who made their own dresses rankled in Lolotte’s mind. “Since when have you begun to recognize the Emperor’s barons?” she asked, smiling.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+Lucien had attempted to deify his beloved in an ode entitled “TO HER!” He delivered it proudly, secure under Mme. de Bargeton’s protection. But Mme. de Bargeton, who watched company life from an intellectual height, looked anxious as he recited stanza after stanza.
+
+The poem pictured an angel visiting earth to bring solace, Love blinded by excess light, and a luminous pathway in heaven marking the angelic flight.
+
+Amélie coquetted; the Baron, arbiter of taste, sneered that the verse was a Christianized Ossian, full of “immense, infinite, solitude, intelligence” and strained rhymes. Zéphirine called the ode obscure though the dedication was plain; Francis likened the archangel’s armor to thin gauze. The women, eager for poets to flatter them as angels, professed polite delight while remaining inwardly cold.
+
+Lolotte ordered Adrien not to congratulate the poet, and Adrien complied. Zéphirine told Francis that love was a poem to be lived, not written; Stanislas agreed, flattering himself. Amélie, wishing Naïs humbled, attacked Lucien’s origins—mocking his family’s humble trades—and the company joined to humiliate him. Francis, seeing an opportunity for a public blow, contrived a subtler attack through the Bishop.
+
+He had told the Bishop that Lucien’s mother, a modest woman of uncommon powers, supplied subjects for her son’s verses and that Lucien idolized her. Having planted this idea, Francis left the Bishop to make the intended allusion in conversation.
+
+When Francis and the Bishop rejoined the group, the circle watched with renewed interest. Lucien, shy and unused to their manners, was embarrassed by questions and being called alternately M. Chardon and M. de Rubempré. He mistakenly addressed M. de Senonches as M. Lili, provoking rude laughter and Mme. de Bargeton’s crimsoned shame. Senonches muttered his displeasure. Zéphirine compared Lucien to M. de Cante-Croix. Mme. de Bargeton, addressing the Marquise de Pimentel, philosophized on glory’s attraction and on women drawn to greatness. The Marquise laughed and sided with Naïs.
+
+The Marquise and Marquis spoke lightly to Lucien; Lolotte asked if he worked quickly, as one would ask a joiner about a box. Stung, Lucien found courage in Mme. de Bargeton’s reply: poetry did not grow in his head like grass in their courtyards. The Bishop, sanctifying poetry, laid a hand on Lucien’s head and declared him a poet marked by Fate.
+
+Glad for the championing, Lucien thanked the Bishop with a grateful look, unaware that the prelate’s next comment would wound him. Mme. de Bargeton’s penetrating glances increased her rivals’ fury.
+
+Lucien spoke of the poet’s suffering, the difficulty of making ideas clear, the need for experience and deep feeling to create true characters—he named great literary creations as the fruit of such throes. When Châtelet asked what Lucien would create, Lucien replied that to proclaim it would be vanity and that such works required long experience. He hinted bitterly that he had made only a beginning; the Bishop’s joke—“Your excellent mother might assist you”—elicited delighted smiles of caste and M. de Bargeton’s familiar laugh.
+
+Mme. de Bargeton retorted that a poet who looked to the Bible for inspiration indeed had a mother in the Church, and challenged Lucien to recite Saint John in Patmos or Belshazzar’s Feast, mockingly invoking Rome’s role. The women smiled at the Latin.
+
+Lucien faltered under the blows, sank, then rose resolved to conquer this world. He prepared to declaim Saint John in Patmos; but the card-tables called the company back to amusement, and they showed contempt by returning to their games, leaving Lucien and Mme. de Bargeton alone. The social world of Angoulême, conscious of its ignorance of poetry, clustered about the Pimentels and Rastignacs to hear their verdict; the Marquis and Marquise’s approval—“not bad for provincial poetry”—spread and grew malign.
+
+Music followed: Châtelet mangled du Bartas and Figaro; Châtelet sang a Chateaubriand ballad; duets and schoolroom songs filled the evening. Hurt by the company’s contempt for her poet, Mme. de Bargeton withdrew to her boudoir, followed by the Bishop and Mlle. de Rastignac, who was entranced by the poetry.
+
+There, with no one to watch, Mme. de Bargeton murmured to Lucien that they had not understood him; she loved to repeat his songs. Lucien took comfort; she urged him to endure his troubles, asserting that suffering is the price of immortality and that struggle gives eagle wings room to spread. She begged him to remember, when he reached greatness, the minds disinherited by fate and to sing of lives choked and unblossomed—of a daughter of the desert dying for her sun—allegories of the spirit that remembers Heaven. The Bishop compared such a theme to the Song of Songs; Laure de Rastignac suggested it as a subject. The Vicar-General declared the sacred poem of France unwritten and prophesied success for the man who should write for religion. Mme. de Bargeton claimed the task for Lucien, seeing a dawn of vision in his eyes.
+
+During this quieter talk, Amélie, Fifine, Adrien, and Francis reentered with Mme. de Rastignac to draw Naïs back for music. They gleefully told the drawing-room that M. de Rubempré was to recite Saint John in Patmos; the word “biblical” became mockery, and Lucien excused himself for a lapse of memory. When he reappeared, no one noticed him; the poet’s halo had been plucked away. The landowners and pretentious set had no use for him; the women, jealous of Mme. de Bargeton, looked on him with icy scorn.
+
+“So this is society!” Lucien thought as he took the long way home to L’Houmeau, walking to ease his anger and muse on answers that had come too late. Far from disheartened, his ambition burned: like many who reach a higher sphere before they can belong there, he vowed any sacrifice to remain. As he paced toward the Bordeaux road, he fancied Eve and David by the river and hurried to meet them.
+
+Eve had dressed simply but becomingly; David, shy at her beauty, had resolved to speak of himself and their future. They walked in silence across the Bridge of Saint Anne along the Charente until Eve broke the pause with small talk about the beautiful evening. David, thinking of Lucien, expressed anxiety: he feared Mme. de Bargeton was spoiling Lucien for hard work and would either make him her plaything or, if indifferent, ruin him. Lucien loved pleasure and would not endure the privations required for great literary work; society would stimulate desires beyond his means.
+
+Eve, undismayed, promised to work with her mother to support Lucien until success came. David then proposed: to marry Eve, give up his present life, and devote himself and any future fortune to Lucien’s support. He argued Lucien should not be a foreman nor live in L’Houmeau; together they could keep Lucien until he made his way to Paris. He pledged that love and the desire to help Lucien would give him the perseverance to pursue a profitable invention he had been researching—something in paper-making—if Eve would marry him and keep his confidence while he worked.
+
+Moved, Eve confessed she had never thought of any other man. David admitted his faults and modest means, and disclosed a secret plan based on his knowledge of chemistry and the paper trade. He explained the economic problem: since the Empire’s fall, calico had grown common and linen rags—used for paper—were scarce and dear. Paper-makers used a mix of linen and cotton rags; cotton paper is soft, easily creased, and dissolves in water, whereas linen makes durable paper. If cheap, durable paper could be made from a common vegetable fiber—like Chinese paper from bamboo—the cost and weight of books could be drastically reduced, advancing literature and printing. David had been studying earlier attempts and recent discoveries. He told Eve how the Chinese used bamboo, how European experiments had been gradual, and how the transition from rag-based to machine-made paper had been slow. He mentioned web-paper and inventions by Robert d’Essonne and Didot-Saint-Léger and that the press industry longed for a substitute for linen rags, since cotton predominated in England. If they could replace linen with local vegetable fiber processed by machinery, books would be cheaper and lighter—Voltaire’s set would weigh far less—allowing a wider diffusion of knowledge.
+
+David sketched the paper-making process concisely: rag-pickers gather rags; merchants sort and stock them; mills wash and reduce rags to pulp; the pulp is strained through a mould to set sheet size, then pressed and dried. He recounted his employment with the Didots and conversations about Chinese paper, and how research pointed to bamboo. The insight that the Chinese used a native vegetable fiber led David to consider French reeds and other local plants. He acknowledged the difficulty of imitating Chinese handwork mechanically—Chinese labor was cheap and their handwork gave surface quality—but argued that an industrial replacement could revolutionize European paper-making.
+
+As David explained, Lucien arrived, distraught. He related his humiliation: the company’s sneers, the Bishop’s epigram, the ridicule of his origins, and his fear that Mme. de Bargeton would be both his consolation and his ruin. He believed she loved him as he loved her, that she comforted him and would never give him up. David and Eve, absorbed in their own joyous news—their engagement and David’s plans to support Lucien—at first did not notice Lucien’s shock that Mme. de Bargeton’s attachment might make his sister’s marriage to David impossible in his imagined future. Lucien’s ambition had pictured Mme. de Bargeton as his path to elevation; the prospect of her becoming Mme. de Rubempré jarred him. But David’s warm description of the planned household—first floor for his wife, second for Lucien, rooms above the shed for Mme. Chardon—reassured Lucien. The brother’s taste for the burgher life returned; the glow of the aristocratic world faded. They walked back together, reconciled, Lucien joining in the lovers’ joy.
+
+They returned late; Postel, uneasy, saw light in Eve’s room and asked Lucien if anything was wrong. Lucien told him that his mother had consented to Eve’s engagement, and Postel slammed his window in despair that he had not earlier asked for Mlle. Chardon.
+
+David did not go back to Angoulême to sleep; he walked through the night to his father’s house at Marsac. At sunrise he found his father among the vines. After a brief domestic exchange, David declared his purpose: he was to marry Eve Chardon, and he sought his father’s consent and permission to build a second floor and rooms above the shed to house their projected household.
+
+The father, a practical vine-grower, was at once interested in prospects of money but skeptical. He grumbled about taxes, boasted of making more puncheons per acre, and scoffed at book-learning. He consented to the marriage but had no money to give. He assumed Eve must be rich and hoped for funds to pay back his rent, but when David revealed Eve had as much as his mother—i.e., nothing—his father suggested other, wealthier matches and railed at David’s education which had led him away from practical advantage. He offered to find a miller’s widow with land or arrange other profitable unions, but refused to expend anything on building. Though David urged his father to build, the old man refused, saying he had no cash and that such expenditure would be wasted. He would, however, consent to the marriage and not press the rent, leaving David to fund any improvements himself.
+
+David left Marsac disappointed; he perceived he could not count on his father for help and that his plans must be achieved by his own means.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+In Angoulême that day everybody spoke of the Bishop’s epigram and Mme. de Bargeton’s reply. By evening the details had been exaggerated into a triumph for the poet. A few drops of the storm fell among the bourgeoisie; young men glanced after Lucien as he passed through Beaulieu, and he overheard phrases that fed his vanity.
+
+“There is a lucky young fellow!” said Petit-Claud, an attorney’s clerk who had been at school with Lucien and treated him with patronizing airs.
+
+“Yes, he certainly is,” answered one who had been present at the reading; “he is good-looking, has some brains, and Mme. de Bargeton is quite wild about him.”
+
+Lucien waited impatiently for a chance to see Louise. He had news of his sister’s marriage to tell, and he wanted to seek the mistress of his destiny. After the previous evening’s soirée, he hoped for more kindness from Louise, and he was not mistaken. Mme. de Bargeton met him with a vehemence that struck the novice in love as passionate. She yielded to his kisses, wiped the pearls of sweat from his brow, and called him a poet crowned.
+
+“If only you could have seen your face while you were reading,” she cried, using the tu since yesterday. “There were sparks in your eyes! From your lips fell the golden chains that bind men’s hearts. You shall read Chénier to me; he is the lover’s poet. You shall not be unhappy; I will not have it. Yes, dear angel, I will make an oasis for you—sometimes busy, sometimes languid, indolent, full of work, and musing by turns. But never forget you owe your laurels to me; let that thought be my guerdon for the sufferings I must endure. The world will not spare me any more than it has spared you; it avenges itself on all happiness it cannot share. I shall always be a mark for envy—did you not see that last night? The bloodthirsty insects are quick to drain every wound they pierce. But I was happy; I lived. It is so long since all my heartstrings vibrated.”
+
+Tears flowed and Lucien kissed her hand. His mother, sister, David, and Louise all soothed and caressed his vanity; each helped raise the imaginary pedestal on which he had set himself. His friends’ praise and his enemies’ fury fixed him more firmly in an unreal world. A handsome young man full of promise readily accepts flattering estimates; only sharp lessons teach him his ordinariness.
+
+“My beautiful Louise, do you mean in very truth to be my Beatrice, a Beatrice who condescends to be loved?”
+
+Louise raised her eyes. “If you show yourself worthy—one day!” she said with an angelic smile that belied the reserve. “Are you not happy? To be the sole possessor of a heart, to speak freely at all times, with the certainty of being understood—that is happiness.”
+
+“Yes,” he answered.
+
+“Child!” she laughed. “You have something to tell me, have you not? You came in absorbed in thought, my Lucien.”
+
+He told her, trembling, that David loved his sister Eve, that Eve loved David, and that they were to be married. “Poor Lucien!” said Louise. “Were you afraid you’d be blamed, as if you were to be married! What is your family to me? Lovers are for each other their whole family. Suppose my father married his cook—would that trouble you? Be great, find a way to win fame—that is our affair!”
+
+This selfish reply made Lucien the happiest of mortals. While Louise convinced him by fantastic reasoning that they two were alone in the world, M. de Bargeton came in. Lucien frowned but Louise signaled him to stay for dinner and to read André de Chénier until people arrived for their evening cards.
+
+“You will give her pleasure,” said M. de Bargeton, “and me also. Nothing suits me better than listening to reading aloud after dinner.”
+
+Cajoled by Louise and M. de Bargeton and waited on with the respect shown a favored guest, Lucien lingered at the Hôtel de Bargeton. He began to think of the luxuries he now enjoyed as rightful accessories of Lucien de Rubempré. He felt secure because of Louise’s love and M. de Bargeton’s weakness, and as the rooms filled, he assumed a lordly air which Louise encouraged. He tasted the delights of despotic sway and liked to play the lion of the little town. Some who noticed his airs concluded, as the old saying ran, that he had come to the last term with the lady. Amélie, who came with M. du Châtelet, was sure of the deplorable fact, in a corner of the drawing-room where the jealous and envious gathered.
+
+“Do not call Naïs to account for the vanity of a youngster who thinks he has set foot in society,” said Châtelet. “He does not know the difference between the silence of real passion and the patronizing graciousness due to his good looks and talent. It would be too bad if women were blamed for the desires they inspire. He certainly is in love, but Naïs—”
+
+“Oh! Naïs,” echoed the perfidious Amélie, “Naïs is well enough pleased. A young man’s love makes a woman young again; she acts a girl’s hesitation and manners, not dreaming she is ridiculous. Just look! Think of a druggist’s son giving himself conqueror’s airs with Mme. de Bargeton.”
+
+“Love knows naught of high or low degree,” hummed Adrien.
+
+The next day every house in Angoulême discussed the intimacy between M. Chardon (alias de Rubempré) and Mme. de Bargeton. Though the actual guilt amounted to a few kisses, the world chose to believe the worst. Mme. de Bargeton paid for her sovereignty: society’s erratic judgments set different standards for different people. So one glance between Mme. de Bargeton and Lucien outweighed twelve years of Zizine’s connection with Francis; a squeeze of the hand drew down all the thunders of the Charente upon the lovers.
+
+David had brought a small hoard from Paris and set it aside for his marriage and to build a second floor in his father’s house. He built a timbered second story for Lucien to avoid straining the old walls, taking pleasure in making the rooms where Eve would live as brave as might be.
+
+It was a time of blithe happiness for the friends. Lucien was tired of provincial shabbiness and treated a five-franc piece as a fortune, but he bore hardships without complaint. His moody looks were succeeded by radiant hope. He saw a star above his head, dreamed of a great future, and built it on M. de Bargeton’s tomb. M. de Bargeton, troubled by indigestion now and then, cherished the delusion that such discomfort was cured by hearty supper.
+
+By September Lucien had ceased to be a printer’s foreman; he was M. de Rubempré, housed sumptuously compared with the tumbledown attic in L’Houmeau where “young Chardon” had lived; he dined four times a week with Mme. de Bargeton. A friendship had grown between him and the Bishop; he went to the palace. His occupations put him on a level with the highest rank; his name would one day be among the great names of France; and as he moved in his pretty sitting-room, charming bedroom, and tastefully furnished study, he consoled himself for drawing thirty francs a month from his mother’s and sister’s earnings by thinking that An Archer of Charles IX., the historical romance he had written for two years, and a volume of verse titled Marguerites would spread his fame and repay them. Grown great in his own eyes and hearing echoes of his future name, he accepted present sacrifices with noble assurance; he smiled at his poverty and relished these last days of penury.
+
+Eve and David had set Lucien’s happiness before their own. They delayed their wedding to paper and paint their rooms and buy furniture; Lucien’s affairs came first. He was so engaging, had winning ways, and such gracious impatience that his cause was always won before he spoke. This unlucky gift of fortune ruins many: the world is predisposed toward youth and good looks and protects those who please it with a selfish good-nature that flings alms to any appealing beggar. Many a grown child basks instead of using favor profitably; they imagine deceptive smiles will always meet them, and the world finally strips them bare, like an elderly coquette or a stray rag in the gutter.
+
+Eve had wished for the delay; she meant to establish a household on a strict budget. But who could refuse a brother who said, “How I wish I could sew!” David, sober and observant, shared the devotion. Since Lucien’s triumph David had watched him with misgivings, fearing he would change and look down on homely ways. Once David tried him, and Lucien chose home pleasures over the great world, and David exclaimed, “They will not spoil him for us!” They arranged country picnics in provincial fashion—a walk along the Charente, dinner on the grass; on big occasions they dined at a compromise restaurant and sometimes spent five francs. David gave his brother infinite credit for forsaking Mme. de Bargeton and grand dinners for these days; the whole party made much of the great man of Angoulême.
+
+Matters had gone so far that the new home was nearly ready, and David had gone to Marsac to persuade his father to come to the wedding, hoping the old man might relent at sight of his daughter-in-law and contribute toward expenses, when an event occurred that changed things in the small town.
+
+Lucien and Louise had a spy in Châtelet, a man who watched with hatred and avarice for a chance to make scandal. Sixte wanted Mme. de Bargeton compromised so she should be “lost”; he posed as her humble confidant, admired Lucien in the Rue du Minage, and disparaged him elsewhere. Naïs had gradually given him les petites entrées, for she no longer mistrusted her elderly admirer; but Châtelet had taken too much for granted—love was still platonic, to the despair of Louise and Lucien.
+
+Love affairs often start badly. Two creatures launch into tactics; they talk instead of acting, skirmish instead of besieging. They grow tired and expend longing in empty space. Provincial life keeps desire unsatisfied and maintains lovers’ arguments on the intellectual plane. A system of minute espionage underlies provincial life; every house is transparent and outrageously scandalous constructions are put on innocent intercourse. The world, which blames superficially, often contributes to the scandals it decries; many a woman takes extreme steps only after unjust accusation, and Mme. de Bargeton was now on the verge of this position.
+
+The obstacles of such passion were like Lilliput’s bonds—trifles that made movement impossible. Mme. de Bargeton must always be visible. If she had denied herself to visitors when Lucien was with her, it would have been all over with her; she might as well have run away with him at once. They sat in the boudoir, now so familiar to Lucien that he felt a right to be there; but the doors stood open, and everything was arranged with the utmost propriety. M. de Bargeton pervaded the house like a cockchafer; it never entered his head that his wife could wish to be alone with Lucien. If he had been the only person in the way Naïs could have got rid of him—or given him something to do—but he was not the only one; visitors flocked as curiosity increased. The servants came and went promiscuously; any change in household ways was tantamount to a confession, and Angoulême still hung in doubt.
+
+Mme. de Bargeton could not set foot outside her house without the whole town knowing whither she went. To take a walk alone with Lucien would have been a decided measure; it would have been less dangerous to shut herself up with him. There would have been comments if Lucien had stayed till midnight; within and without she lived in public.
+
+Like many women newly carried away by passion, Louise discovered her difficulties one by one. They frightened her, and her terror reacted on the fond talk that fills lovers’ hours. Weary of living in public and pushed to extremities by a tyranny that afforded no pleasures sweet enough to compensate, she thought of Escarbas and of seeing her aged father.
+
+Châtelet did not believe in innocence. He lay in wait, watched Lucien into the house, and followed a few minutes later with M. de Chandour, the most indiscreet of the clique; putting that gentleman first, he hoped to find a surprise. His part required appearing neutral to prompt the actors in his drama. To give himself countenance he attached himself to the jealous Amélie, better to lull suspicion in Lucien and Mme. de Bargeton, who was not without perspicacity. To spy he contrived an old controversy with M. de Chandour; Amélie goaded them to argument because she longed to know the truth. Some intimate friends of the house dropped in during the argument. Stanislas and Châtelet vied in backing up their opinions with observations, each trying to enlist partisans. “What do you think?” they asked each neighbor. These polemics kept Mme. de Bargeton and Lucien well in sight.
+
+At length Châtelet remarked that when he went with M. de Chandour and found Lucien there, there was nothing suspicious; the boudoir door stood open, the servants came and went. Stanislas vowed he would cross the room on tiptoe the next day, and perfidious Amélie held him to his bargain.
+
+For Lucien that morrow was the day he resolved to be extravagant. The poet who had once sat bashfully in the boudoir-sanctuary had been transformed into an urgent lover. Six months had brought him level with Louise; now he would fain be her lord and master. He left home determined to be vehement, to cry that he had lost his head and could not write. The horror some women feel for premeditation does honor to their delicacy; they prefer surrender on impulse.
+
+Mme. de Bargeton read fixed purpose in Lucien and resolved to baffle him, urged partly by contradiction and partly by an exalted conception of love. She valued herself as a sovereign lady, a Beatrice; she enthroned herself and meant that Lucien should win her by prowess—eclipse Lamartine, Scott, and Byron. She regarded her love as a stimulating power; the desire she had kindled should give him energy to win glory. Like many provincials, she desired to give herself as the reward of prolonged service—a trial of constancy to judge her lover.
+
+Lucien began with vehement petulance, and Louise took a lofty tone and delivered a long oration:
+
+“Was that your promise to me, Lucien? Do not sow regrets in the present to poison my after life. Do not spoil the future, and do not spoil the present! Is not my whole heart yours? What more must you have? Can it be your love is influenced by the clamor of the senses, when it is the noblest privilege of the beloved to silence them? For whom do you take me? Am I not your Beatrice? If I am not more than a woman for you, I am less than a woman.”
+
+“That is just what you might say to a man if you cared nothing at all for him,” cried Lucien, frantic.
+
+“If you cannot feel all the sincere love underlying my ideas, you will never be worthy of me.”
+
+“You are throwing doubts on my love to escape responding,” cried Lucien, and he flung himself weeping at her feet.
+
+The poor boy cried in earnest at the prospect of remaining at paradise’s gate. “You have never loved me!” he cried.
+
+“You do not believe what you say,” she answered, flattered by his violence.
+
+“Then give me proof that you are mine,” said the disheveled poet.
+
+Just then Stanislas came up unheard. He beheld Lucien in tears, half reclining on the floor with his head on Louise’s knee. The attitude was suspicious enough; he turned sharply on Châtelet, who stood at the salon door. Mme. de Bargeton sprang up, but the spies beat a precipitate retreat like intruders; she was not quick enough for them.
+
+“Who came just now?” she asked the servants.
+
+“M. de Chandour and M. du Châtelet,” said Gentil, her old footman.
+
+Mme. de Bargeton went back, pale and trembling, to her boudoir. “If they saw you just now, I am lost,” she told Lucien.
+
+“So much the better!” exclaimed the poet, and she smiled to hear the cry, so full of selfish love.
+
+In the provinces a story is aggravated by the way it is told. Everyone knew in a moment that Lucien had been detected at Naïs’s feet. M. de Chandour, elated by the part he played, first told the great news at the club, then from house to house; Châtelet, hastening to say he had seen nothing, egged Stanislas on to talk. Stanislas, thinking himself witty, added a little each time. Everyone flocked to Amélie’s that evening, for exaggerated versions were circulating among the Angoulême nobility. Women and men eagerly sought the truth; the loudest hands before faces were Mesdames Amélie, Zéphirine, Fifine, and Lolotte, each with heavy indictments. There were variations in every key.
+
+“Well, well,” said one lady, “poor Naïs! have you heard about it? I do not believe it myself; she is far too proud to be anything but a patroness to M. Chardon. Still, if it is true, I pity her.”
+
+“She makes herself frightfully ridiculous; she is old enough to be M. Lulu’s mother. The little poet is twenty-two at most; and Naïs, between ourselves, is quite forty.”
+
+“For my part,” said M. du Châtelet, “I think M. de Rubempré’s position in itself proves Naïs’ innocence. A man does not go down on his knees to ask for what he has already.”
+
+“That is as may be!” said Francis, with levity that brought Zéphirine’s disapproving glance.
+
+“Do just tell us how it really was,” they besought Stanislas and formed a small secret committee.
+
+Stanislas had concocted a facetious story with pantomime that made matters worse. “It is incredible! At midday? Naïs was the last person I would have suspected! What will she do now?”
+
+Châtelet took Mme. de Bargeton’s part, but defended her so ill that he stirred gossip instead of quelling it.
+
+Lili, disconsolate over the fall of the fairest angel in the Angoumoisin hierarchy, went in tears to the palace. When Châtelet was convinced the whole town was agog, he went to Mme. de Bargeton’s where there was one whist game that night, and asked Naïs for a little talk in the boudoir. They sat on the sofa, and Châtelet began in an undertone—
+
+“You know what Angoulême is talking about, of course?”
+
+“No.”
+
+“I am your friend and bound to put you in a position to silence slanders, invented no doubt by Amélie, who regards herself as your rival. I came to your door this morning with that monkey of a Stanislas; he was ahead and came so far” (pointing to the boudoir door); “he says he saw you and M. de Rubempré in such a position that he could not enter; he turned on me bewildered and hurried me away before I had time to think. If I had known, I would not have stirred till I had cleared up the matter and exonerated you, but it would have proved nothing to go back then.
+
+“Whether Stanislas’ eyes deceived him or he is right, he must have made a mistake. Dear Naïs, do not let that dolt trifle with your life, your honor, your future; stop his mouth at once. You know my position here. I have need of all these people, but still I am entirely yours. Dispose of a life that belongs to you. I have said everywhere that I was at the door and saw nothing. If you are asked for the name of the person who told you this gossip, pray use me. I should be proud to be your champion; but, between ourselves, M. de Bargeton is proper to ask Stanislas for an explanation.... Suppose young Rubempré behaved foolishly, a woman’s character ought not to be at the mercy of the first hare-brained boy who flings himself at her feet. That is what I have been saying.”
+
+Naïs bowed and looked thoughtful. She was weary of provincial life, and Châtelet’s words turned her mind to Paris. “Dispose of me, I repeat,” he added.
+
+“Thank you,” she answered.
+
+“What do you think of doing?”
+
+“I shall see.”
+
+A prolonged pause. “Are you so fond of that young Rubempré?”
+
+A proud smile stole over her lips; she folded her arms and fixed her gaze on the curtains. Châtelet went out; he could not read that high heart.
+
+Later, when Lucien and the four old gentlemen who came for whist had left without troubling themselves about tittle-tattle, M. de Bargeton prepared for bed and opened his mouth to bid his wife good-night, when she stopped him.
+
+“Come here, dear, I have something to say to you,” she said solemnly.
+
+He followed her into the boudoir.
+
+“Perhaps I have done wrongly,” she said, “to show a warm interest in M. de Rubempré, which he, as well as the stupid people here, has misinterpreted. This morning Lucien threw himself at my feet with a declaration, and Stanislas happened to come in just as I told the boy to get up. A woman, under any circumstances, has claims which courtesy prescribes to a gentleman; but in contempt of these, Stanislas has been saying he came unexpectedly and found us in an equivocal position. I was treating the boy as he deserved. If the young scatterbrain knew of the scandal caused by his folly, he would go to insult Stanislas and compel him to fight. That would simply be a public proclamation of his love. I need not tell you that your wife is pure; but if you think, you will see it is dishonoring for both you and me if M. de Rubempré defends her. Go at once to Stanislas and ask him to give you satisfaction for his insulting language; mind, you must not accept any explanation short of a full and public retraction in the presence of witnesses of credit. In this way you will win back the respect of right-minded people; you will behave like a man of spirit and a gentleman, and you will have a right to my esteem. I shall send Gentil on horseback to Escarbas; my father must be your second; old as he is, I know he will trample this puppet under foot who has smirched the reputation of Nègrepelisse. You have the choice of weapons, choose pistols; you are an admirable shot.”
+
+“I am going,” said M. de Bargeton, and he took his hat and cane.
+
+“Good, that is how I like a man to behave, dear; you are a gentleman,” she said, touched, and made the old man happy and proud by putting up her forehead for a kiss. When the carriage gateway shut with a clang behind him, tears came into her eyes despite herself.
+
+“How he loves me!” she thought. “He clings to life, poor dear man, and yet he would give his life for me.”
+
+M. de Bargeton was not troubled by the prospect of facing a man the next day and looking into the muzzle of a pistol; only one thing made him uncomfortable on the way to M. de Chandour’s—he quaked inwardly.
+
+“What shall I say?” he thought; “Naïs really ought to have told me what to say,” and he racked his brains to compose a speech.
+
+But people like M. de Bargeton, often silent for lack of scope, behave at great crises with ready solemnity. If they say little, they usually say little foolish; their lack of confidence makes them ponder words to the point of being concise and unexpectedly apt. So M. de Bargeton bore himself like a man of uncommon sense and spirit, and justified those who held he was a philosopher.
+
+He reached Stanislas’ house at nine, bowed silently to Amélie before a room full of people, and greeted others with that simple smile which under the circumstances seemed profoundly ironical. There followed a great silence, like the pause before a storm. Châtelet had returned and looked significantly from M. de Bargeton to Stanislas, whom the injured gentleman accosted politely.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+Châtelet knew what a visit at that hour meant: old M. de Bargeton was invariably in bed. Clearly Naïs had set the feeble arm in motion. Intimate in the house, Châtelet took M. de Bargeton aside.
+
+“Do you wish to speak to Stanislas?”
+
+“Yes,” said the old gentleman, pleased to find a go‑between.
+
+“Very well; go into Amélie’s bedroom,” said the controller of excise, pleased at the prospect of a duel that might make Mme. de Bargeton a widow and put a barrier between her and Lucien. Châtelet then went to M. de Chandour.
+
+“Stanislas,” he said, “here comes Bargeton to call you to account, no doubt, for the things you have been saying about Naïs. Go into your wife’s room, and behave, both of you, like gentlemen. Keep it quiet and make a great show of politeness—behave with phlegmatic British dignity.”
+
+A minute later Stanislas and Châtelet went to Bargeton.
+
+“Sir,” said the injured husband, “do you say that you discovered Mme. de Bargeton and M. de Rubempré in an equivocal position?”
+
+“M. Chardon,” corrected Stanislas with ironic emphasis; he did not take Bargeton seriously.
+
+“So be it,” answered the other. “If you do not withdraw your assertions at once before the company now in your house, I must ask you to look for a second. My father‑in‑law, M. de Nègrepelisse, will wait upon you at four o’clock tomorrow morning. Both of us may as well make our final arrangements, for the only way out is the one I have indicated. I choose pistols, as the insulted party.”
+
+The speech, long rehearsed, was delivered without excitement. Stanislas turned pale. “After all, what did I see?” he wondered.
+
+Put between the shame of recanting and the mute terror Bargeton inspired, Stanislas chose the remote peril.
+
+“All right. Tomorrow morning,” he said, thinking it might be arranged somehow.
+
+They rejoined the room. Everybody scanned their faces; Châtelet smiled, M. de Bargeton looked in his element, and Stanislas looked ghastly. Some women guessed the conference’s nature, and the whisper, “They are going to fight!” circulated. Half the room thought Stanislas in the wrong—his pallor and manner convicted him of falsehood; the other half admired Bargeton. Châtelet maintained a solemn, mysterious air. Bargeton stayed a few minutes, scrutinized faces, then retired.
+
+“Have you pistols?” Châtelet asked Stanislas in a whisper; Stanislas shook violently.
+
+Amélie, understanding, felt ill, and the women took her into her bedroom. There was sensation; everybody talked at once. The men stopped in the drawing‑room, declaring with one voice that M. de Bargeton was within his rights.
+
+“Would you have thought the old fogy capable of acting like this?” asked M. de Saintot.
+
+“But he was a crack shot when young,” said the pitiless Jacques. “My father often told me of Bargeton’s exploits.”
+
+“Pooh! Put them at twenty paces, and they will miss each other if you give them cavalry pistols,” said Francis, addressing Châtelet.
+
+Châtelet stayed after the rest had gone to reassure Stanislas and his wife, and to explain that all would go off well. In a duel between a man of sixty and one of thirty‑five, the advantage lay with the younger.
+
+Early next morning, as Lucien sat at breakfast with David, who had come back alone from Marsac, Mme. Chardon entered with a scared face.
+
+“Well, Lucien,” she said, “have you heard? Everyone is talking, even the market. M. de Bargeton nearly killed M. de Chandour this morning in M. Tulloy’s meadow; people are making puns on the name. It seems M. de Chandour said he found you with Mme. de Bargeton yesterday.”
+
+“It is a lie! Mme. de Bargeton is innocent,” cried Lucien.
+
+“I heard about the duel from a countryman who saw it from his cart. M. de Nègrepelisse came at three to be Bargeton’s second; he told Chandour that if anything happened to his son‑in‑law he would avenge him. A cavalry officer lent the pistols and tried them repeatedly. Du Châtelet tried to prevent practice, but they referred to the officer; he said that unless they meant to behave like children, they ought to have serviceable pistols. The seconds put them at twenty‑five paces. Bargeton looked as if out for a walk. He fired first; the ball lodged in Chandour’s neck, and he dropped before he could return the shot. The house‑surgeon says Chandour will have a wry neck for the rest of his days. I came to tell you how it ended, lest you go to Mme. de Bargeton’s or show yourself in Angoulême, for some of Chandour’s friends might call you out.”
+
+As she spoke, the apprentice brought in Gentil, Bargeton’s footman, with a note for Lucien from Louise.
+
+“You have doubtless heard,” she wrote, “of the duel between Chandour and my husband. We shall not be at home today. Be careful; do not show yourself. I ask this in the name of the affection you bear me. Would it not be best to spend this melancholy day listening to your Beatrice, whose whole life has been changed by this event, who has a thousand things to say to you?”
+
+“Luckily, my marriage is fixed for the day after tomorrow,” said David, “and you will have an excuse for not going to Mme. de Bargeton’s so often.”
+
+“Dear David,” returned Lucien, “she asks me to go today; I ought to do as she wishes; she knows better than we do how I should act now.”
+
+“Then is everything ready here?” asked Mme. Chardon.
+
+“Come and see,” cried David, delighted to show the transformation of the first floor. Everything was new and fresh, pervaded by the sweet influences of early married days, crowned by the wreath of orange blossoms and the bridal veil; days when love’s springtide finds expression in material things, and everything is white and spotless.
+
+“Eve’s home will be fit for a princess,” said the mother, “but you have spent too much, you have been reckless.”
+
+David smiled, but Mme. Chardon had touched a sore spot. The cost far exceeded his estimates; he could not afford to build beyond the shed. His mother‑in‑law must wait for the home he meant. Nothing is more painful to a generous nature than failing to keep such promises; it mortified the little vanities of affection. David hid his embarrassment to spare Lucien; he feared Lucien might be overwhelmed by the sacrifices made for his sake.
+
+“Eve and her girl friends have been working hard,” said Mme. Chardon. “The wedding clothes and house linen are ready. The girls, without letting her know, covered the mattresses with white twill and rose‑colored piping. So pretty! It makes one wish one were going to be married.”
+
+Mother and daughter had spent all their savings to furnish David’s home with things a young bachelor never thinks of. They knew he was furnishing splendidly; something had been said about ordering a Limoges dinner‑service, and the two women strove to make Eve’s contributions worthy of David. This emulation in love and generosity would bring husband and wife into difficulties at the outset, yet everything looked homely and comfortable—luxury in a town as behind the times as Angoulême then was.
+
+As soon as Lucien saw his mother and David enter the bedroom with blue‑and‑white draperies and neat furniture, he slipped away to Mme. de Bargeton. He found Naïs at table with her husband; Bargeton’s early walk had sharpened his appetite, and he breakfasted quite unconcernedly after all that had passed. Lucien saw the dignified face of M. de Nègrepelisse, the old provincial noble, a relic of the old French nobility, sitting beside Naïs.
+
+When Gentil announced M. de Rubempré, the white‑haired old man gave him a keen, curious glance; the father was anxious to form an opinion of the man his daughter had singled out. Lucien’s beauty impressed him; he could not repress an approving look, but seemed to regard the affair as a flirtation, a passing fancy. Breakfast over, Louise left her father and Bargeton together; she beckoned Lucien to follow.
+
+“Dear,” she said, half glad, half melancholy, “I am going to Paris, and my father is taking Bargeton back with him to the Escarbas, where he will stay during my absence. Mme. d’Espard (a Blamont‑Chauvry) has great influence and influential relations. The d’Espards are connections of ours; if she acknowledges the relationship, I shall cultivate her; she may procure a place for Bargeton. At my solicitation, it might be desired at Court that he represent the Charente, a step toward his election here. If he were a deputy, it would further other steps I wish to take in Paris. You, my darling, have brought about this change in my life. After this morning’s duel, I must shut up my house for some time; people will side with the Chandours against us. In our position, in a small town, absence is the only way to soften bad feeling. But I shall either succeed and never see Angoulême again, or I shall not succeed and then wait in Paris until I can spend summers at the Escarbas and winters in Paris. It is the only life for a woman of quality; I have waited too long. One day will suffice for our preparations; tomorrow night I set out. You are coming with me, are you not? You shall start first. I will overtake you between Mansle and Ruffec, and we shall soon be in Paris. There is the life for a man with anything in him. We are only at our ease among equals; we are uncomfortable in other society. Paris, besides, is the capital of the intellectual world, the stage on which you will succeed; overleap the gulf that separates us quickly. You must not let your ideas grow rancid in the provinces; put yourself into communication at once with the great men of the nineteenth century. Try to stand well with the Court and those in power. No honor, no distinction, comes to talent that perishes for lack of light in a little town; tell me any great work executed in the provinces! See how Jean‑Jacques, sublime in his poverty, felt the irresistible attraction of that sun of the intellectual world which produces ever‑new glories and stimulates intellect—Paris, where men rub against one another. What is it but your duty to take your place in the succession of pléiades that rise generation after generation? You have no idea how much being brought into a high social light helps a clever young man. I will introduce you to Mme. d’Espard; it’s not easy to get into her set; but you meet all the greatest people at her house—cabinet ministers and ambassadors, great orators, peers and men of influence, wealthy or famous people. A young man with looks and more than sufficient genius could fail to excite interest only by very bad management.
+
+“There is no pettiness about those who are truly great; they will support you; and when you have a high position, your work will rise in public opinion. The great problem for the artist is putting himself in evidence. There will be hundreds of chances of making your way, sinecures, a pension from the civil list. The Bourbons are fond of encouraging letters and the arts; you must be a religious poet and a Royalist poet at the same time. Not only is it the right course, but it is the way to get on. Do the Liberals give places and rewards and make the fortunes of men of letters? Take the right road and reach the goal of genius. You have my secret; do not breathe it, and prepare to follow me. Would you rather not go?”
+
+To Lucien, listening to these alluring words and bewildered by that rapid bird’s‑eye view of Paris, it seemed as if he had been using only half his brain and suddenly found the other half; his ideas widened. He saw himself stagnating in Angoulême like a frog under a stone. Paris and her splendors rose before him: the Eldorado of provincial imaginings, with golden robes and the royal diadem, arms outstretched to talent. Great men would greet him there. Everything smiled upon genius. There were no jealous booby‑squires to invent gibes and humiliate a man of letters; no stupid indifference to poetry. Paris was the fountain‑head; there the poet was brought into the light and paid. Publishers should no sooner read An Archer of Charles IX than open their cash‑boxes with “How much do you want?” And besides all this, he understood that this journey with Mme. de Bargeton would virtually give her to him; that they should live together.
+
+At “Would you rather not go?” tears came to his eyes; he flung his arms about Louise, held her tightly, and kissed her passionately. Suddenly he checked himself, as if memory had struck.
+
+“Great heavens!” he cried, “my sister is to be married the day after tomorrow!”
+
+That exclamation was the last expiring cry of noble and single‑hearted boyhood. The strong ties that bind young hearts to home and early friendship were to be severed.
+
+“Well,” cried the haughty Nègrepelisse, “and what has your sister’s marriage to do with the progress of our love? Have you set your mind so much on being best man at a wedding of tradespeople and workingmen that you cannot give up these exalted joys for my sake? A great sacrifice, indeed!” she went on, scornfully. “This morning I sent my husband out to fight in your quarrel. There, sir, go; I am mistaken in you.”
+
+She sank fainting upon the sofa. Lucien went to her, entreating pardon, cursing his family, his sister, and David.
+
+“I had such faith in you!” she said. “M. de Cante‑Croix had an adored mother; but to win a letter from me, and the words, ‘I am satisfied,’ he fell in the thick of the fight. And now, when I ask you to take a journey with me, you cannot think of giving up a wedding dinner for my sake.”
+
+Lucien was ready to kill himself; his desperation was so genuine that Louise forgave him, though she made him feel he must redeem his mistake.
+
+“Come, come,” she said, “be discreet, and to‑morrow at midnight be upon the road, a hundred paces out of Mansle.”
+
+Lucien felt the globe shrink; he went back to David’s house, hopes pursuing him like Furies, for he had glimmerings of endless difficulties, summed up in the appalling words, “Where is the money to come from?”
+
+He stood in such terror of David’s perspicacity that he locked himself into his pretty new study until he could recover; his head swam in this new position. So he must leave the rooms just furnished at such cost, and all the sacrifices had been made in vain. Then it occurred to him his mother might take the rooms and save David the heavy expense of building at the yard’s end; his departure would be a convenience. He found many urgent reasons for sudden flight; there is no such Jesuit as the desire of your heart. He hurried to tell his sister in L’Houmeau and take counsel. As he reached Postel’s shop, he bethought himself that if all else failed he could borrow enough to live on for a year from his father’s successor.
+
+“Three francs per day will be abundance if I live with Louise,” he thought; “it is only a thousand francs for a year. And in six months’ time I shall have plenty of money.”
+
+Under seal and promise of secrecy, Eve and her mother heard Lucien’s confidences. Both women began to cry as they heard his ambitious plans; when he asked why they were troubled, they said every penny had been spent on table‑linen, house‑linen, Eve’s wedding clothes, and many things David overlooked. They had been glad to do it, for David had made a marriage‑settlement of ten thousand francs on Eve. Lucien then spoke of a loan; Mme. Chardon undertook to ask M. Postel to lend a thousand francs for a year.
+
+“But, Lucien,” said Eve, a thought clutching her heart, “you will not be here at my wedding! Oh! come back; I will put it off a few days. Surely she will give you leave to come back in a fortnight if you go now? Surely she would spare you a week when we brought you up for her? We shall have no luck if you are not at the wedding.... But will a thousand francs be enough?” she asked, interrupting. “Your coat suits you divinely, but you have only that one! Only two fine shirts; the other six are coarse; three of your white ties are common muslin, only two lawn cravats, your handkerchiefs not good. Where will you find a sister in Paris to get up your linen in one day? You will want much more. You have just one pair of new nankeen trousers; last year’s are tight; you will be obliged to have clothes made in Paris, and Paris prices are not Angoulême’s. You have only two presentable white waistcoats; I have mended the others already. Come, I advise you to take two thousand francs.”
+
+David came in as she spoke and apparently heard the last two words; he looked at the brother and sister and said nothing.
+
+“Do not keep anything from me,” he said at last.
+
+“Well,” exclaimed Eve, “he is going away with her.”
+
+Mme. Chardon came in again, and, not seeing David, began at once:
+
+“Postel is willing to lend you the thousand francs, Lucien,” she said, “but only for six months; and he wants a bill endorsed by your brother‑in‑law, for he says you give him no security.”
+
+She turned and saw David; there was a deep silence. The Chardons felt ashamed for having abused David’s goodness. Tears stood in the young printer’s eyes.
+
+“Then you will not be here at our wedding,” he began. “You are not going to live with us! And here have I been squandering all that I had! Oh, Lucien, as I came along, bringing Eve her little bits of wedding jewelry, I did not think I should be sorry I spent the money on them.” He brushed his hand over his eyes as he drew the tiny morocco‑covered boxes from his pocket and set them on the table.
+
+“Oh! why do you think so much for me?” protested Eve, giving him a divinely sweet smile that belied her words.
+
+“Mamma, dear,” said David, “just tell M. Postel I will put my name to the bill, for I can tell from your face, Lucien, that you have quite made up your mind.”
+
+Lucien’s head sank dejectedly; there was a pause, then he said, “Do not think hardly of me, my dear, good angels.”
+
+He put his arms about Eve and David, drew them close, and held them tightly as he added, “Wait and see what comes of it, and you shall know how much I love you. What is the good of our high thinking, David, if it does not enable us to disregard petty ceremonial in which the law entangles our affections? Shall I not be with you in spirit despite distance? Shall we not be united in thought? Have I not a destiny to fulfil? Will publishers come here to seek my Archer of Charles IX and the Marguerites? A little sooner or later I shall be obliged to do as I am doing to‑day, should I not? And shall I ever find a better opportunity? Does not my success depend upon my entrance into life in Paris through the Marquise d’Espard’s salon?”
+
+“He is right,” said Eve; “you yourself said he ought to go to Paris at once.”
+
+David took Eve’s hand and led her into the narrow little room where she had slept for seven years.
+
+“Love, you were saying just now that he would want two thousand francs?” he murmured in her ear. “Postel is only lending one thousand.”
+
+Eve looked anguish at him; he read her meaning.
+
+“Listen, my adored Eve, we are making a bad start. Yes, my expenses have taken all my capital; I have just two thousand francs left, and half will be needed to carry on the business. If we give your brother the thousand francs, it will mean giving away our bread; we shall live in anxiety. If I were alone, I know what I should do; but we are two. Decide for us.”
+
+Eve, distraught, sprang to his arms and kissed him tenderly through tears: “Do as you would if you were alone; I will work to earn the money.”
+
+Despite the most impassioned kiss ever given and taken by betrothed lovers, David left Eve overcome, and went out to Lucien.
+
+“Do not worry,” he said; “you shall have your two thousand francs.”
+
+“Go see Postel,” said Mme. Chardon, “for you must both sign the bill.”
+
+When Lucien and David returned unexpectedly, they found Eve and her mother on their knees in prayer. The women felt sure Lucien’s departure would bring realization of many hopes; at the moment they only felt how much they lost in his parting, and the coming days would be filled with fears for Lucien.
+
+“If you could ever forget this sight,” David said in Lucien’s ear, “you would be the basest of men.”
+
+David, no doubt, thought these brave words needed; Mme. de Bargeton’s influence seemed less to be feared than Lucien’s unlucky instability—he was so easily led. Eve soon packed Lucien’s clothes; the Fernando Cortez of literature carried but little baggage. He wore his best overcoat, his best waistcoat, and one of the two fine shirts. The whole of his linen, the celebrated coat, and his manuscript made a small package. To hide it from Mme. de Bargeton, David proposed to send it by coach to a paper merchant he dealt with and wrote asking him to keep the parcel until Lucien sent for it.
+
+Despite Mme. de Bargeton’s precautions, Châtelet learned she was leaving Angoulême; to discover whether she traveled alone or with Lucien, he sent his man to Ruffec to watch every carriage changing horses there.
+
+“If she is taking her poet with her,” he thought, “I have her now.”
+
+Lucien set out before daybreak the next morning. David went with him. David had hired a cabriolet, pretending he was going to Marsac on business, a deception that seemed probable. The two friends went to Marsac and spent part of the day with the old “bear.” As evening came they set out again, and at dawn waited on the road beyond Mansle for Mme. de Bargeton. When the seventy‑year‑old traveling carriage he had often seen in the coach‑house appeared, Lucien felt more deeply moved than ever; he sprang into David’s arms.
+
+“God grant that this may be for your good!” said David; he climbed into the shabby cabriolet and drove away with dread clutching his heart; he had terrible presentiments of Lucien’s fate in Paris.
+
+ADDENDUM
+
+Note: Two Poets is part one of a trilogy. The second part is A Distinguished Provincial at Paris and details Lucien’s further adventures. Part three is titled Eve and David and continues their story. In other addendum references parts one and three are combined under the title Lost Illusions.
+
+The following personages appear in other stories of the Human Comedy.
+
+Bargeton, Madame de (see Châtelet, Baronne du)
+Cérizet — Eve and David; A Man of Business; Scenes from a Courtesan’s Life; The Middle Classes
+Chardon, Madame (née Rubempré) — Eve and David; Scenes from a Courtesan’s Life
+Châtelet, Sixte, Baron du — A Distinguished Provincial at Paris; Scenes from a Courtesan’s Life; The Thirteen
+Châtelet, Marie‑Louise‑Anaïs de Nègrepelisse, Baronne du — A Distinguished Provincial at Paris; The Government Clerks
+Cointet, Boniface — Eve and David; The Firm of Nucingen; The Member for Arcis
+Cointet, Jean — Eve and David
+Courtois — Eve and David
+Courtois, Madame — Eve and David
+Desplein — The Atheist’s Mass; Cousin Pons; The Thirteen; The Government Clerks; Pierrette; A Bachelor’s Establishment; The Seamy Side of History; Modeste Mignon; Scenes from a Courtesan’s Life; Honorine
+Gentil — A Distinguished Provincial at Paris
+Grozier, Abbé — The Commission in Lunacy
+Hautoy, Francis du — Eve and David
+Maucombe, Comte de — Letters of Two Brides
+Montriveau, General Marquis Armand de — The Thirteen; Father Goriot; A Distinguished Provincial at Paris; Another Study of Woman; Pierrette; The Member for Arcis
+Nègrepelisse, De — The Commission in Lunacy; A Distinguished Provincial at Paris
+Petit‑Claud — Eve and David
+Pimentel, Marquis and Marquise de — Eve and David
+Postel — Eve and David
+Prieur, Madame — Eve and David
+Rastignac, Baron and Baronne de (Eugene’s parents) — Father Goriot
+Rastignac, Laure‑Rose and Agathe de — Father Goriot; The Member for Arcis
+Rubempré, Lucien‑Chardon de — Eve and David; A Distinguished Provincial at Paris; The Government Clerks; Ursule Mirouet; Scenes from a Courtesan’s Life
+Séchard, Jérôme‑Nicolas — Eve and David
+Séchard, David — Eve and David; A Distinguished Provincial at Paris; Scenes from a Courtesan’s Life
+Séchard, Madame David — Eve and David; A Distinguished Provincial at Paris; Scenes from a Courtesan’s Life
+Senonches, Jacques de — Eve and David
+Senonches, Madame Jacques de — Eve and David
+Stanhope, Lady Esther — The Lily of the Valley
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+### MIDDLE OF THE STORY.
+################################################
+############# MIDDLE OF THE STORY. #############
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################

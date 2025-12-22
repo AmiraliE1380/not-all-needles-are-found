@@ -1,51 +1,819 @@
-The French often show a reluctance to travel, unlike the English, who embrace it. This aversion arises from the belief that while other countries may be beautiful, France's unique charm—its wit, conversation, and cultural nuances—is irreplaceable, making emigration unappealing.
+Produced by John Bickers, and Dagny
 
-In 1836, two Parisians visited a palazzo in Genoa, where they still sensed Paris's essence. Among the dinner guests hosted by the French Consul-General were Mademoiselle des Touches (Camille Maupin), painter Léon de Lora, and critic Claude Vignon. Camille had traveled to Florence for business, bringing Léon to experience Italy, with their Genoa stop honoring the Consul-General.
+PIERRETTE
 
-The Consul-General, reminiscent of Lord Byron, was married to Onorina Pedrotti, a wealthy heiress. Their affectionate union was complicated by his melancholic demeanor, raising questions about his happiness.
+By Honore De Balzac
 
-As the evening unfolded, discussions turned to literature and women's morality. The Consul shared a personal story about his youth, detailing his journey from innocence to adulthood, guided by his uncle, the Abbe Loraux, into a career with Comte Octave, a prominent yet sorrowful statesman.
+Translated by Katharine Prescott Wormeley
 
-The Consul observed the Count's struggles, noting the contrast between his public success and private anguish. As he grew closer to the Count, he recognized the complexity of a revered man tormented by unexpressed passions, illustrating the tension between public duty and private longing in the pursuit of happiness.
+DEDICATION
 
-On a Monday, M. le President de Grandville and M. de Serizy met at Comte Octave’s house to discuss political matters, with me as the secretary. The Count had secured my position as Auditor to the Council of State, and we were tasked with examining important documents. As the meeting extended late into the evening, a servant informed us that two priests had been waiting for two hours.
+To Mademoiselle Anna Hanska:
 
-Despite initial hesitations, we decided to dine with them. The dinner was enjoyable, filled with engaging stories from the politicians present. My uncle, a priest, provided witty commentary, while Abbe Gaudron, a simple man of faith, added innocent curiosity. They discussed the societal issue of adultery, highlighting the disparity between civil and religious laws. My uncle criticized the Code for treating adultery lightly, suggesting it should be addressed more seriously, akin to historical practices where guilty parties faced severe consequences.
+Dear Child,—You, the joy of the household, whose pink or white pelerine flutters in summer among the groves of Wierzschovnia, followed by the tender eyes of your father and mother,—how can I dedicate to you a melancholy story? And yet sorrows should be spoken of to a young girl idolized as you are, for the day may come when your sweet hands will be called to minister to them. It is difficult, Anna, to find in our manners and morals a subject worthy of your eyes; no choice has been left me; but perhaps you will feel how fortunate your fate is when you read the story sent to you by
+                                                    Your old friend,
+                                                         De Balzac.
 
-The discussion turned to marriage and the role of women in society. Comte Octave argued that the Church's high regard for women necessitated strict penalties for adultery but noted that societal practices had evolved, leading to a disconnect between law and morality. He lamented the dual standards of morality, where hypocrisy was often punished more harshly than the law.
+PIERRETTE
 
-As the conversation progressed, the three men shared personal experiences with marriage, revealing their struggles. Comte Octave's reaction to a comment about divorce indicated deep emotional pain, hinting at his troubled marriage. After the priests left, Octave confided in me about his wife’s departure three years prior, revealing its profound impact on him. He described her letter announcing her flight, which he found dignified despite the betrayal.
+I. THE LORRAINS
 
-Octave had lived alone since then, and I sensed a complex drama behind his situation. His suffering was evident, and I felt deep admiration for him. Days passed, and I observed Octave's melancholy, realizing that his pain reflected broader societal issues regarding marriage and happiness. One evening, he finally asked me to stay, signaling a readiness to share more about his struggles.
+At dawn of an October day in 1827 a sixteen-year-old youth, dressed in what modern parlance calls proletarian, stood in a small square of Lower Provins. At that hour the mills along the river already whirred; their wheels, echoing from the Upper Town, intensified the silence so that even a distant diligence could be heard. The two long sides of the square, separated by an avenue of lindens, were built in a simple bourgeois style. No commerce presented itself; the porte-cochères were few and seldom used, except that of Monsieur Martener, a physician with a cabriolet. Fronts were shaded by vines or roses climbing to second-story windows, scenting the air. One end of the square opened on the main street, the gardens reaching the river bank; the other opened onto a street parallel to the main road.
 
-This is the story of Count Octave and his wife, Honorine. Upon returning home from college, Octave found Honorine, his father's ward, a beautiful and innocent girl of sixteen, raised by his mother. Their relationship was pure and brotherly until Octave proposed marriage when she turned seventeen. After a brief delay imposed by Octave's mother, they married when he was twenty-six and she was nineteen.
+At that quieter end the youth recognized the house he sought: a front of white stone grooved like courses, closed gray blinds, slender iron balconies with yellow-painted rosettes. Above the ground and first floors rose three dormer windows in a slate roof; atop the central one rested a new weather-vane of a hunter shooting a hare. Three stone steps led to the door. A leaden pipe discharged sink-water into a gutter one side, indicating the kitchen; on the other were two shuttered windows with heart-shaped openings to admit light—the dining-room windows. Vent-holes to the cellar were closed by painted iron shutters cut in open-work. Everything was new. This restored house, fresh against older facades, suggested the small taste and self-satisfaction of a retired petty shopkeeper.
 
-Initially, their marriage adhered to parental traditions, but as Octave introduced Honorine to society, he became more of a teacher than a husband. This dynamic gradually eroded their love, as Octave's authoritative approach stifled Honorine's youthful spirit. Eighteen months after Octave's father died, Honorine left him, driven by an unknown passion or misfortune, leaving behind a farewell letter that shattered Octave.
+The young man inspected these details with a pleasure tinged with sadness; his eyes roved from kitchen to roof. The rosy glow of the rising sun fell on a calico curtain at one garret window; the others lacked that luxury, and his face brightened. He stepped back, leaned against a linden, and sang in the drawling tone of western France a Breton ditty often sung to newly married couples:
 
-Despite the pain of her departure, Octave continued to love Honorine deeply, living in her memory and struggling with his feelings. He felt no anger towards her, viewing her as a child who had made a mistake. He recognized that his overwhelming love may have suffocated her, blaming himself for not understanding her needs. Octave's love transformed into desperate longing, and he dedicated himself to finding and protecting Honorine, even as she fell into poverty after being abandoned by her lover.
+“We’ve come to wish you happiness in marriage,
+  To m’sieur your husband
+  As well as to you:
+You have just been bound, madam’ la mariée,
+  With bonds of gold
+  That only death unbinds:
+You will go no more to balls or gay assemblies;
+  You must stay at home
+  While we shall go.
+Have you thought how you are pledged to be
+  True to your spouse,
+  And love him like yourself?
+Receive these flowers our hands do now present you;—
+  Alas! your fleeting honors
+  Will fade as they.”
 
-Octave orchestrated a plan to care for Honorine from a distance, ensuring she had the means to survive while remaining unaware of his involvement. He arranged for her to live modestly, believing she was earning her living as an artificial flower maker. For years, he watched over her, maintaining a façade of indifference while secretly longing for her return.
+This native air, tender and melancholy, would awaken a Breton maiden’s memories. As he finished the first couplet, the singer, never taking his eyes from the attic curtain, saw no sign of life. While he sang the second, the curtain stirred. At “Receive these flowers,” a face appeared; a white hand cautiously opened the casement, and a girl made a sign with her head as he closed with the melancholy thought, “Alas! your fleeting honors will fade as they.”
 
-As time passed, Octave's obsession with Honorine grew, and he became increasingly desperate to reconnect with her. He attempted to write her a letter, but she rejected it without reading it, deepening his despair. Octave's life became a constant struggle between his duties as a lawyer and his unyielding love for Honorine, which consumed him.
+To her the young workman suddenly produced a yellow flower, common in Brittany and sometimes found in La Brie—the furze, or broom.
 
-In a twist of fate, Octave enlisted the help of a young man, Maurice, to act as a liaison between him and Honorine. Maurice moved into the gardener's cottage next to Honorine's home, posing as a simple florist. This arrangement allowed Octave to gather information about Honorine's life while maintaining his distance.
+“Is it really you, Brigaut?” she said in a low voice.
 
-As Maurice spent time with Honorine, he became enchanted by her beauty and grace. Despite his initial role as a spy, he found himself drawn to her, and their interactions blossomed into friendship. Honorine, believing Maurice to be a harmless eccentric, welcomed him into her life, unaware of his true connection to her past.
+“Yes, Pierrette, yes. I am in Paris. I have started to make my way; but I’m ready to settle here, near you.”
 
-Their conversations revealed Honorine's struggles and her determination to maintain independence despite hardships. She expressed a desire for freedom and a rejection of societal expectations, which resonated with Maurice. As they grew closer, Maurice grappled with his feelings for Honorine, torn between loyalty to Octave and his burgeoning affection for her.
+A window on the first floor beneath Pierrette’s attic creaked. The girl showed terror and whispered: “Run away!”
 
-The story unfolds against the backdrop of Parisian society, where love, betrayal, and the quest for happiness intertwine. Octave's relentless pursuit of Honorine's heart, coupled with Maurice's growing attachment to her, sets the stage for a complex emotional drama. The narrative explores themes of love, sacrifice, and the consequences of choices made in the name of passion. Ultimately, Octave's unwavering devotion to Honorine and his desire to protect her from the world's cruelties drive the plot forward, revealing the complexities of love and the lengths one will go to for those they cherish.
+The lad leaped like a frightened frog to a bend in the street where a mill projected as the square opens into the main thoroughfare; but despite his agility his hob-nailed shoes echoed on the stones, easily distinguished from the mill’s music, and no doubt heard by the person who had opened the window.
 
-The narrative unfolds on the eve of a significant battle, focusing on Octave and Honorine, who are anxious about their fates. The protagonist meets the Countess, who reveals that her husband, Count Octave, has orchestrated her seclusion under the guise of another's ownership, ensuring her comfort while she believes herself independent.
+That person was a woman—an old maid. No man would have torn himself from a morning nap to listen to a minstrel in a jacket; only a maid wakes to songs of love. She opened her blinds with the furtive motion of a bat, looked about, saw nothing, and only heard the flying footfalls. Few sights are more dreadful than the matutinal apparition of an ugly old maid at her window. This keen-eared spinster lacked her usual embellishments; her false front and collarette were absent; she wore a little black silk bag to cover her skull, revealed beneath a pushed-aside night-cap. Rumpled and harsh, her head had a menacing look; wrinkles marked temples, ears, and nape; the gaping bed-gown revealed a bony breast. The fleshless arm hung like a stick. At her window she seemed tall from the length and angularity of her face, recalling exaggerated Swiss heads. Her countenance, lacking harmony, expressed an unfeeling spirit. Usually such features are softened by a commercial smile—a bourgeois smirk that mimics good humor; in public she might pass as kindly. She owned the house with her brother. He slept so soundly that the orchestra of the Opera-house could not have awakened him.
 
-As their conversation deepens, the Countess expresses her desire to escape her marriage, feeling trapped. She confesses her past love for another man, complicating her feelings toward Octave. Despite his kindness, she cannot love him again, believing her past actions have irrevocably changed her identity. The protagonist offers to help her find a way out, but she insists that a convent is her only refuge, fearing Octave's influence could follow her even there.
+The old maid stretched her neck from the window, raised cold pale-blue eyes with short lashes toward the attic, tried to see Pierrette, and, finding it useless, drew back like a tortoise hiding its head. The blinds were then closed, and the street resumed its silence, broken only by peasants coming in or other early risers.
 
-The Countess grapples with her emotions and societal expectations of marriage. She acknowledges the burden of her conscience and the religious implications of her situation, feeling that returning to Octave would mean sacrificing her true self. The protagonist urges her to consider Octave's unwavering devotion and the possibility of reconciliation, but she remains resolute, believing she cannot return without losing her dignity.
+When there is an old maid in a house, watch-dogs are unnecessary; not the slightest event escapes her observation or comment. This trifling incident was therefore destined to excite grave suppositions and to open the way for one of those obscure family dramas—none the less terrible because secret.
 
-In a poignant letter to the protagonist, the Countess articulates her turmoil, recognizing societal and religious pressures to return to her husband while rejecting a life devoid of love. She reflects on her past, the child she lost, and the emotional scars that prevent her from embracing a future with Octave. Her words convey deep sorrow as she contemplates the impossibility of rekindling love after betrayal.
+Pierrette did not go back to bed. To her Brigaut’s arrival was an immense event. During the night—Eden of the wretched—she escaped the vexations and fault-findings that weighed on her by day. Like the hero of a ballad, her sleep seemed her only happy life; waking hours were a bad dream. She had her only pleasurable waking in three years. The memories of her childhood sang their melodious ditties in her soul. The first couplet had come in a dream; the second made her spring from bed; at the third she doubted her ears; but when the fourth was sung, standing in her night-gown with bare feet at the window, she recognized Brigaut, the companion of her childhood. Ah, yes! it was truly the well-known square jacket with bobtails, pockets sticking out at the hips—the blue cloth jacket of Brittany; there, too, the printed cotton waistcoat, the linen shirt fastened by a gold heart, the large rolling collar, the earrings, stout shoes, and trousers of blue-gray drilling unevenly colored—those humble durable things of Breton peasantry. The big white-horn buttons that fastened the jacket made the girl’s heart beat. When she saw the bunch of broom her eyes filled with tears; then a dreadful fear drove back the budding happiness. She thought her cousin sleeping in the room below might have heard the noise she made in jumping to the window. The fear was just; the old maid had appeared, and Pierrette made Brigaut the terrified sign which he obeyed without understanding it. Such instinctive submission to a girl’s bidding reveals one of those innocent and absolute affections that blossom now and then in life. Whoever had seen the lad as he ran away would have loved the ingenuous chivalry of his feeling.
 
-Unaware of his wife's suffering, the Count is filled with hope upon receiving her letter, believing their reunion is possible. However, the protagonist warns him of the delicate nature of the situation. The Countess ultimately reads Octave's response, which reveals his understanding and compassion, offering her a life of freedom and respect rather than obligation.
+Jacques Brigaut was worthy of Pierrette Lorrain, who was just fifteen. Two children! Pierrette could not help crying as she watched his flight in the terror her gesture had conveyed. Then she sat in a shabby armchair before a small table topped by a mirror. Resting her elbows, head in hands, she thought for an hour, calling to memory the Marais, the village of Pen-Hoel, perilous pond voyages in a boat untied from an old willow by little Jacques; the faces of her grandfather and grandmother, her mother’s sufferings, Major Brigaut’s handsome face—in short her careless childhood. It was a dream, a luminous joy on the gloomy present.
 
-As the story progresses, the Countess grapples with her identity and societal expectations. She acknowledges her love for Octave but insists it cannot manifest as he desires. The tension between duty and desire culminates in her decision to remain in her current state, despite the Count's willingness to accept her back.
+Her beautiful chestnut hair escaped in disorder from her cap, rumpled in sleep—a cambric cap she had made. Little ringlets escaped from gray curl-papers at each side of her forehead. From the back hung a heavy braid half unplaited. Her whiteness betrayed the malady of girlhood, chlorosis, which deprives the body of color, destroys appetite, and disorders the organism. Waxy tones marked her flesh. The neck and shoulders betrayed wasted arms, flung forward and crossed upon the table. Her feet seemed enervated, the night-gown barely reached her knees, showing flaccid muscles, blue veins, and impoverished legs. The cold, which she heeded not, turned her lips violet; a sad smile drew up the corners of a sensitive mouth that showed small, ivory-white teeth. Her ears were dainty, and despite the roundness of her face she was lovely. All animation was in the eyes: the iris brown like Spanish tobacco with black flecks and golden reflections round brilliant pupils. Pierrette was made to be gay but was sad. Her lost gaiety still showed in the vivacious eye, the ingenuous grace of her brow, the smooth curve of her chin. The long eyelashes lay upon cheek-bones made prominent by suffering. Paleness rendered the lines and details purely distinct. The ear alone was a little masterpiece of modeling.
 
-The narrative concludes with the Countess's tragic fate as she succumbs to illness, reflecting on her life and sacrifices. Her letters reveal a profound struggle with memory and identity as she confronts the consequences of her choices. The Count, now burdened with guilt, reflects on the complexities of love and the sacrifices made for societal expectations. Ultimately, the story explores themes of love, sacrifice, and the struggle for personal autonomy within societal norms, prompting readers to ponder the true nature of virtue and the cost of happiness.
+Perhaps you would like to know her history, and this is it.
+
+Pierrette’s mother was a Demoiselle Auffray of Provins, half-sister by the father to Madame Rogron, mother of the present owners of the house.
+
+Monsieur Auffray had married at eighteen and again near sixty-nine. By his first marriage he had an only, plain daughter, who married at sixteen to innkeeper Rogron; by his second he had a charming daughter, so that Madame Rogron was fifty when the half-sister was born and already had two grown children.
+
+The youngest daughter married at eighteen a man of her choice, a Breton officer named Lorrain, captain in the Imperial Guard. The captain, anxious to rise to a colonelcy, exchanged into a line regiment. While he, then a major, and his wife enjoyed themselves in Paris on the allowance of Monsieur and Madame Auffray, or scoured Germany, old Auffray (formerly a grocer) died at eighty-eight without making a will. His property was administered by his daughter, Madame Rogron, and her husband so completely in their interests that nothing remained for the widow beyond the house she lived in on the little square and a few acres. This widow, the mother of Madame Lorrain, was thirty-eight at her husband’s death. Like many widows, she unwisely remarried. She sold the house and land to her step-daughter, Madame Rogron, and married a young physician named Neraud, who wasted her fortune. She died two years later of grief and misery.
+
+Thus the share of her father’s property that should have come to Madame Lorrain almost entirely disappeared, reduced to a small sum of eight thousand francs. Major Lorrain was killed at the battle of Montereau, leaving his wife, then twenty-one, with a little daughter of fourteen months and only a pension and an eventual inheritance from his parents, Monsieur and Madame Lorrain, retail shopkeepers at Pen-Hoel in the Marais. These Lorrains, Pierrette’s grandparents, sold wood, slates, tiles, pipes. Their business, from incapacity or ill-luck, did poorly and gave them scarcely enough. The failure of Collinet at Nantes, caused by 1814 events and a fall in colonial products, deprived them of twenty-four thousand francs they had deposited with that house.
+
+The arrival of their daughter-in-law was welcome. Her pension of eight hundred francs was a handsome income at Pen-Hoel. The eight thousand francs which the widow’s half-brother and sister Rogron sent her from her father’s estate were placed in the Lorrains’ business; they gave her a mortgage on a little house they owned in Nantes, let for three hundred francs and barely worth ten thousand.
+
+Madame Lorrain the younger, Pierrette’s mother, died in 1819. The child was small, delicate, and weakly; the damp climate of the Marais did not agree with her. But the husband’s family persuaded her, to keep her with them, that in no other place could she find a healthier region. She was so petted that her death brought nothing but honor to the old Lorrains.
+
+Some declared that Brigaut, an old Vendeen who had served under Charette and other leaders in the wars against the Republic, counted for much in the younger Madame Lorrain’s willingness to remain in the Marais. All Pen-Hoel saw him—called respectfully Major Brigaut—spending his days and evenings in the Lorrains’ parlor beside the window of the imperial major. Toward the last, the curate of Pen-Hoel urged old Madame Lorrain to have her daughter-in-law marry Brigaut, promising to have the major appointed justice of the peace through the Vicomte de Kergarouet’s influence. The young woman’s death ended the matter.
+
+Pierrette was left with her grandparents, who owed her four hundred francs a year, interest on the little property placed in their hands. This small sum supported her. Growing less fit, they soon faced an active competitor who ruined them. With his connivance, the Lorrains borrowed on notes they could not meet, driving them into bankruptcy. Pierrette’s claim on the house in Nantes was superseded by her grandmother’s legal rights, enforced to secure daily bread. The house sold for nine thousand five hundred francs, of which one thousand five hundred went for costs. The remaining eight thousand came to Madame Lorrain, who lived on their income in a humble place at Nantes called Saint-Jacques, where the two old people had bed and board for a small payment.
+
+As it was impossible to keep Pierrette with them, the old Lorrains wrote to her uncle and aunt Rogron in Provins. These Rogrons were dead. The letter might easily have been lost, but the post persistently traced it to Monsieur Rogron, son of the deceased, a mercer in the rue Saint-Denis in Paris; curiosity about a possible inheritance ensured its transmission, and the Treasury its fee.
+
+These Rogrons, toward whom the old Lorrains, though dreading to part with their dear granddaughter, stretched their supplicating hands, became unexpectedly the masters of Pierrette’s destiny. It is therefore indispensable to explain both their antecedents and their character.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+Pere Rogron, the innkeeper of Provins who had married old Auffray’s daughter by his first wife, had an inflamed face, a veiny nose, and cheeks marked by Bacchic redness. Short, fat, pot-bellied, with stout legs and thick hands, he had the shrewdness of a Swiss innkeeper. He was not handsome, and his wife resembled him—never was a couple better matched. Rogron liked good living and to be waited on by pretty girls. He belonged to the class of egoists whose behavior is brutal; he gave way to his vices openly. Grasping, selfish, indecent, and always gratifying his whims, he spent his earnings until his teeth failed. Selfishness remained. In his old days he sold his inn, collected as much as he could of his late father-in-law’s property, and went to live in the little house in the square of Provins, bought for a trifle from the widow of old Auffray, Pierrette’s grandmother.
+
+Rogron and his wife had about two thousand francs a year from twenty-seven local lots, and twenty thousand from selling their inn. Old Auffray’s house, though dilapidated, was inhabited as it was by the Rogrons—old rats in wrack and ruin. Rogron took to horticulture and spent savings enlarging the garden; he carried it to the river’s edge between two walls and built a stone embankment at the end, where nature showed its aquatic flora.
+
+Early in their marriage the Rogrons had a son and a daughter, both hideous; for such human beings degenerate. Put out to nurse cheaply, these children returned after a coarse village upbringing—left to cry for hours while wet-nurses worked in the fields, shut up in damp, dark rooms. Treated thus, their features coarsened; voices grew harsh; they mortified their mother’s vanity, which she tried to correct sternly; their father’s severity made that sternness seem kindness by comparison. Generally left to run loose about stables, courtyards, or the streets, sometimes whipped, sometimes sent to their grandfather Auffray, who disliked them, the children suffered. The Rogrons justified taking the bulk of “the old scoundrel’s” property by accusing him of injustice to the children. Nevertheless Rogron sent his son to school and bought him a man, one of his cartmen, to save him from conscription. As soon as his daughter Sylvie was thirteen he sent her to Paris as an apprentice in a shop, with six hundred francs for her board; two years later he sent his son Jérôme-Denis the same way. Asked by his friends what he meant to do with his children, Pere Rogron was blunt.
+
+“When they are old enough to understand me I shall give ’em a kick and say: ‘Go and make your own way in the world!’” he replied, emptying his glass and wiping his lips. Then, with a wink: “My father gave me three kicks; I shall only give them one; he put one louis into my hand, I shall put ten in theirs, therefore they’ll be better off. After I’m gone, what’s left will be theirs. The notaries can find them and give it to them. What nonsense to bother about children. Mine owe me their life. I’ve fed them, and I don’t ask anything from them,—I call that quits. I began as a cartman, but that didn’t prevent me marrying the daughter of that old scoundrel Auffray.”
+
+Sylvie Rogron, apprenticed in the rue Saint-Denis to shopkeepers from Provins, was “at par” in two years; she earned her living and cost her parents nothing. By nineteen she had a salary of four hundred francs. At twenty she was second demoiselle in the Maison Julliard, wholesale silk dealers at the “Chinese Worm” rue Saint-Denis. Jérôme-Denis entered the Maison Guepin, a large wholesale mercer at the “Three Distaffs.” When Sylvie was twenty-one and forewoman at a thousand francs a year, Jérôme-Denis at eighteen was head-clerk with a salary of twelve hundred francs.
+
+Brother and sister met Sundays and feast-days for cheap amusements; they dined out and visited Saint-Cloud, Meudon, Belleville, or Vincennes. Around the end of 1815 they pooled about twenty thousand francs in savings and bought, from Madame Guenée, the property and good-will of the “Family Sister,” a large retail establishment in the quarter. Sylvie kept the books and did the writing; Jérôme-Denis was master and head-clerk. By 1821, after five years, competition was fierce and it cost them all they had to maintain the business and its reputation.
+
+Though Sylvie was scarcely forty, her natural ugliness, hard work, and a crabbed look made her seem fifty. At thirty-eight Jérôme presented the silliest face to customers: a retreating forehead with three folds, close-cut grizzled hair, and a dull, lifeless expression. His bluish eyes had neither flame nor thought. Short and fat like his father, his figure showed a ridiculous debility rather than brute obesity. His father’s high color had become livid flabbiness peculiar to those confined to back-shops or counting-rooms, forever tying bundles, making change, snarling at clerks, and repeating old phrases to customers.
+
+The small amount of brains the siblings possessed had been wholly absorbed in maintaining their business, getting and keeping money, and learning the market’s laws and usages. Thread, needles, ribbons, pins, buttons, and tailors’ furnishings had taken all their capacity. Outside business they knew nothing; they were ignorant of Paris beyond the Rue Saint-Denis. Their narrow natures saw no field except the shop. They were clever at nagging clerks and young women and proving them to blame. Their happiness lay in busy counters—the glib gabble of clerks using consecrated phrases made their day fine; on really fine days when Parisians strolled caring for no goods, the day was overcast to the Rogrons. “Bad weather for sales,” they said.
+
+Rogron’s skill at tying parcels made him admired by apprentices: he could fold, tie, and see all that happened in the street and the farthest recesses of the shop before handing a parcel back with “Here it is, madame; nothing else today?” But he would have been ruined without his sister. Sylvie had common sense and a genius for trade. She advised purchases and would send him to remote parts of France to save a trifle. Her shrewdness, not employed in the heart’s service, drifted into speculation. The necessity of a business to pay for—this thought kept the machine going and gave it infernal activity.
+
+Rogron was really only head-clerk; he understood nothing of the business as a whole. Self-interest—the great motor of the mind—had failed to instruct him. He was often aghast when his sister ordered some article to be sold below cost to clear out the end of its fashion; later he admired her idiotically. He reasoned neither ill nor well; he was simply incapable of reasoning; but he subordinated himself to his sister because “she is my elder.” Perhaps an existence always solitary, reduced to mere needs, deprived of money and pleasures in youth, explains to physiologists the clownish face, feebleness of mind, and vacant silliness. His sister had steadily prevented him from marrying—afraid to lose her power and seeing only expense and injury in a younger, likely prettier woman.
+
+Silliness behaves by talking or being silent. Silent silliness can be borne; Rogron’s was loquacious. He chattered to his clerks, explaining minutiae and ornamenting his talk with flat jokes—the “chaff” of shopkeeping—and had come to possess a phraseology of his own. This chatterer believed himself an orator. The necessity of explaining to customers, guessing their desires, and even giving them desires, exercises the tongues of retail shopkeepers. The petty dealer acquires the faculty of uttering words and sentences with no meaning but marked success. He explains matters of manufacture customers know nothing of; that alone gives a passing superiority; take him away from his thousand explanations and he is, relatively to thought, like a fish out of water.
+
+Rogron and Sylvie, two mechanisms baptized by mistake, lacked the feelings that give life to the heart. Their natures were shriveled and harsh, hardened by toil, privation, and the memory of suffering during a long apprenticeship to life. Neither complained. They were not implacable so much as impracticable toward others in misfortune. To them, virtue, honor, and loyalty consisted solely in the payment of bills. Irritable and irritating, sordid in economy, they bore a dreadful reputation among the merchants of the rue Saint-Denis. Had it not been for their connection with Provins, where they went three or four times a year and could close the shop for a day or two, they would have had no clerks or young women. But old Rogron sent them all the unfortunate young people of his neighborhood, whose parents hoped to start them in Paris. He obtained these apprentices by boasting of his son’s success. Parents, attracted by the prospect of close training and perhaps eventual succession to the business, sent whichever child was most in the way. But when clerks or young women found a way to escape, they fled with rejoicing that increased the Rogrons’ bad name. New victims were supplied yearly by the indefatigable old father.
+
+From fifteen Sylvie had two faces—the amiable seller and the sour spinster. Her acquired countenance was marvellous mimicry: all smiles and a soft, wheedling voice giving a commercial charm to business. Her real face, projecting from half-opened blinds, would have frightened the most resolute. When the Lorrains’ letter reached them they were in mourning for their father, from whom they inherited the house that had been as good as stolen from Pierrette’s grandmother, also certain lands bought by their father, and moneys acquired by usurious loans and mortgages to the peasantry. The yearly taking of stock was over. The price of the “Family Sister” had, at last, been paid in full. The Rogrons owned about sixty thousand francs’ worth of merchandise, forty thousand in bank or cash, and the value of their business. Sitting on a bench covered with striped-green Utrecht velvet behind their private counter, the siblings consulted what they should do.
+
+All retail shopkeepers aspire to become bourgeois. By selling the good-will of their business they would have over a hundred and fifty thousand francs, not counting their father’s inheritance. By placing their available property in the public Funds they would each obtain about four thousand francs a year, and by taking the proceeds of their business when sold they could repair and improve the house they inherited, making it a good investment. They could then live in Provins. Their forewoman was the daughter of a rich farmer at Donnemarie, burdened with nine children; in five years the farmer had lost seven children, which made the forewoman interesting. Rogron had tried, unsuccessfully, to make her marry him; she showed aversion which baffled him. Mademoiselle Sylvie opposed the match; she sought instead to make the shrewd young woman their successor.
+
+No passing observer can form an idea of the cryptic existence of a certain class of shopkeepers; one wonders on what and why they live. To discover the thin subsoil beneath their lives one must dig. The Parisian shopkeeper nurtures his soul on hope: one dreams of managing a theatre, honors of mayoralty, a country-house ten miles from Paris with a “park,” statues of tinted plaster, fountains that squirt threads of water—on which he will spend a mint; others dream of distinction in the National Guard. Provins filled the Rogrons with fanatical longings. Let it be said to La Champagne’s credit: this love is warranted. Provins rivals Frangistan and the valley of Cashmere; not only does it contain the poesy of Saadi, but it offers medicinal springs. The Provins roses are world-famous. Provins was the promised land that appeared to the two shopkeepers amid the muck of Saint-Denis.
+
+Crossing the gray plains between La Ferté-Gaucher and Provins—a productive desert of wheat—you reach a hill. Suddenly a town watered by two rivers appears; at the rock’s feet stretches a verdant valley of enchanting lines and fugitive horizons. From Paris you pass through Provins along the highroad encumbered with beggars and blind men who follow you with pitiful voices. From Troyes you approach on the valley side. The château, old town, and ramparts terrace the hillside; the new town lies below. Upper and Lower Provins differ: the upper is airy, steep, solemn, with imposing ruins; the lower is a town of mills watered by the Voulzie and the Durtain, a town of inns, shops, retired merchants, diligences, travelling-carriages, and waggons. Its historical memories, melancholy ruins, ravines, gardens, and rivers banked with gardens excite the love of all its children, who, like Auvergnats or Savoyards, leave to make fortunes and always return. “Die in one’s form,” the proverb for hares and faithful souls, seems Provins’ motto.
+
+Thus Jérôme and Sylvie thought constantly of their dear Provins. While Jérôme sold thread he saw the upper town; as he piled button cards he contemplated the valley; when he rolled ribbons he followed the shining rivers. Looking up at shelves he saw ravines where he had escaped his father’s anger and gathered blackberries. The little square in the lower town was his chief object: he imagined improving his house, dreaming of a new front, bedrooms, a salon, billiard-room, dining-room, and a kitchen garden turned into an English pleasure-ground with lawns, grottos, fountains, and statuary. The bedrooms they occupied in Paris were furnished with the merest necessaries, yet in fancy no one had finer furniture. Jérôme, walking, admired upholsterers’ windows and draperies he coveted for his house, and at home would tell his sister he’d found pieces “that will just do.” He bought and soon rejected each thing in favor of the next. The Budget itself could not have paid for his schemes. He wanted everything he saw, but abandoned each for the last. New balconies and ornaments he thought out of place in Paris: “Ah!” he said, “those fine things would look much better at Provins.” Leaning on his doorstep with a vacant eye, he visualized his gilded house, garden, fountain, billiard-table, and flowers.
+
+Sylvie thought deeply, pen in hand, receiving the bourgeoisie of Provins, looking at herself in salon mirrors, admiring a cap. The siblings began to find the rue Saint-Denis atmosphere unhealthy; the market mud made them long for the fragrance of Provins roses. They were victims of genuine nostalgia and monomania, frustrated for now by the need to sell tapes and bobbins before leaving Paris. The promised land of the valley attracted them because they had really suffered crossing the sandy wastes of mercer’s business.
+
+The Lorrains’ letter reached them amid meditations inspired by this future. They knew scarcely anything about their cousin Pierrette Lorrain. Their father had got possession of the Auffray property after they left home and said little of his affairs. They hardly remembered Aunt Lorrain. An hour of genealogical discussion was needed to make her out as the younger sister of their own mother by their grandfather Auffray’s second marriage. It struck them that this second marriage had harmed their interests by dividing the Auffray property between two daughters. In times past their father had sneered about it.
+
+The Rogrons considered the Lorrains’ application through these recollections, which were not favorable to Pierrette. To take charge of an orphan cousin who might become their legal heir if neither married was a matter for debate. They had never seen Pierrette; what trouble would a young girl be? Wouldn’t it commit them to obligations? Could they send her away if they disliked her? Wouldn’t they have to marry her? If Jérôme found a yoke-mate among Provins heiresses they ought to preserve property for his children. A yoke-mate, according to Sylvie, meant a stupid, rich, ugly girl who would let herself be governed. They decided to refuse the Lorrain request. Sylvie agreed to write the answer. Business being urgent, she delayed, and when the forewoman offered to buy the stock and good-will of the “Family Sister,” which the Rogrons accepted, the matter left the old maid’s mind.
+
+Sylvie Rogron and her brother departed for Provins four years before the arrival of Brigaut stirred Pierrette’s life. But the doings of the pair after reaching Provins are as necessary to relate as their life in Paris; for Provins was destined to be not less fatal to Pierrette than the commercial antecedents of her cousins.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+When the petty shopkeeper returns from Paris to the provinces, he brings back traces of Parisian ideas that soon fade, leaving only superficial scratches where the capital touched the town. The transition from perpetual bustle and chatter to provincial silence acts like an illness on the ex-shopkeeper. Those who have saved property spend part of it on some long-nursed impulse: travel, municipal posts, hunting, usury, speculation. The Rogrons, brother and sister, were seized by the desire to remodel their old house into something charming.
+
+Their fixed idea produced, under constant consultation with the contractor, the façade and interior that Brigaut examined: handsome furnishings, elaborate plans signed at every stage, and a parade of choicer objects allegedly belonging to Provins notables. The Rogrons wanted to possess what the rich bourgeois possessed. “If Monsieur Garceland has it, put it in,” Mademoiselle Rogron declared. They fretted over architectural terms (“ovolos”), balked at extra costs yet yielded to comparisons—“The Lesourds had theirs painted last year”—and aimed to be as good as the town’s leading families.
+
+For a year they spent their days watching workmen, answering townspeople’s questions, and attempting to insinuate themselves into Provins society. Having known no one in Paris, they thirsted for social life. In Provins their former masters had returned from Paris: Monsieur and Madame Julliard of the “Chinese Worm,” the Guepin clan now keeping the “Three Distaffs,” Madame Guenee from whom they had bought the “Family Sister.” These families had spread through the town—Garceland the mayor was a Guepin son-in-law; Abbé Peroux, the curate, was brother to Madame Julliard; Monsieur Tiphaine junior, a judge, was brother to Madame Guenee.
+
+The queen of Provins was the beautiful, clever, and ambitious Madame Mélanie Tiphaine junior, daughter of Madame Roguin. Taken from a convent to marry in the provinces to please her mother, she managed skillfully, hosting twice-weekly salons and cultivating every vanity to promote her husband’s career. Her aim was to have Monsieur Tiphaine elected deputy and then a judge in Paris; she gratified every elector and became the pride of Provins. Madame Guenee married her daughters into leading families and married Monsieur Garceland the collector herself; together with the Julliards they formed a court round Madame Tiphaine. Julliard junior, secretly enamored of her, became her Egeria and launched the “Bee-hive,” a journal filled with contributions from the family and local advertisements. Madame Tiphaine’s salon naturally became the first in town; the few aristocrats held their own salon at the Comtesse de Breautey’s.
+
+The Rogrons were received, after study, first by Madame Julliard the elder and Madame Garceland, then—after difficulty—by Madame Tiphaine. Society winnows people by wealth, education, manners, accomplishments, and character; the Guepins, Guenees, and Julliards stood higher than the Rogrons, whose father had been held in contempt over the Auffray property—a fact known to notary Auffray.
+
+In Madame Tiphaine’s dignified salon everyone understood one another; the Rogrons fancied admission by the mayor would suffice. Sylvie practiced boston; Rogron, unable to play, twirled his thumbs and could talk only of his new house. He choked on words and made a comic show of embarrassment. Sylvie betrayed herself at cards—sharp, irritable, whining when she lost, insolent when she won; nagging and quarrelsome, she became a scourge. Yet the pair possessed a silly, open ambition and, having spent thirty thousand francs on their restoration and possessing at least ten thousand francs a year, believed themselves wealthy and sought to impose themselves on Provins, which quickly measured their vulgarity, ignorance, and envy.
+
+At their presentation Madame Tiphaine had already noticed them and remarked to Julliard junior that they would not fit her select salon. “I wish my society to be select; and it certainly will not be if I admit those Rogrons,” she said. Monsieur Tiphaine sneered at their shopkeeper origins, and Julliard called them impudent, wanting to crush other houses though “they have hardly enough to live on.” They agreed the sister’s harsh voice and thick hands made her intolerable. Madame Tiphaine’s comment—“my salon is not an inn”—was much admired and circulated in the town. A month passed before she returned Sylvie’s visit; provincial insolence and measured neglect were memorably felt.
+
+Sylvie had an awkward evening at Madame Tiphaine’s, provoking a scene with old Madame Julliard over boston. Subsequently the card-tables were set before Sylvie arrived so she would be shunted to an onlooker’s role; at Madame Julliard senior’s they played whist, which Sylvie did not know. Invitations stopped. Satirical townspeople teased the Rogrons about the eggs in their cornice and their wine cellar; the pair tried to parry by giving sumptuous dinners to return civilities and display luxury.
+
+Their first dinner, for town leaders, became a test. Madame Tiphaine, who had introduced the Parisian custom of leaving after coffee, was anxious to go; the Rogrons accompanied her to the door in the provincial way, but when she departed not staying for the full evening, the rest quickly imitated her, leaving the Rogrons disconcerted. The Rogrons had hoped to surprise their guests with their “palace,” and Madame Tiphaine later described the house to the salon in terms that ridiculed their taste: a long corridor, portico, a painted statue, a black-marble painted staircase, white calico curtains with red borders fastened by brass lion-paws, lamps like restaurant lights, a bit of ostentation everywhere. The dining-room had five cheap engraved heroics in gilt frames; the salon was all red—curtains, furniture, mantelpiece—heavy common candelabra and clock mounted on Roman standards, a chandelier wrapped in green muslin, walls papered in red flock to imitate velvet, chromo-lithographs in stucco frames, and uniform cashmere and elm furniture; an Aubusson carpet in the most vulgar pattern completed a room that looked as if no one lived there: no books, knick-knacks, or flowers. Madame Tiphaine preferred Madame Julliard’s pastels and old provincial silver; “The provinces are provinces; they are only ridiculous when they mimic Paris,” she concluded. The sketch revealed the absurdities a clever builder had foisted on the Rogrons—novelties and ornaments that made the house expensive and gratified bourgeois taste.
+
+Their social plans failed. Invitations were refused—“already engaged” to Madame Garceland and others. The Rogrons had supposed a few dinners would secure position; only young men who would mock them and habitués who dined everywhere accepted. Frightened by the loss of forty thousand francs on her “dear house,” Sylvie began economizing: she dismissed the cook, took a country-girl, and did her own cooking “for pleasure.”
+
+Fourteen months after returning, they had fallen into solitude and idleness. Banished from society, Sylvie developed a strong hatred for the Tiphaines, Julliards, and the rest of the “clique” and wanted a rival circle. But the lesser bourgeoisie comprised only small shopkeepers free only on Sundays and men like Vinet and the Bonapartist Baron Gouraud, whom Rogron carelessly befriended despite warnings.
+
+The siblings sat by the stove, recalling former customers and old resentments, weighed down by ennui. Their days lengthened into lazy habits: lingering in bed, shaving as an event, quarreling about hot water, wandering to inspect garden shrubs or a sick hen, tapping the barometer like a friend. They read the “Bee-hive” and the “Constitutionnel,” the cost shared by Vinet and Gouraud; Rogron delivered the paper to Gouraud and enjoyed long yarns and puzzling warnings about the clique—warnings he foolishly repeated. His walks yielded scraps of gossip; he learned, bewildered, of archaeological projects and learned talks about Provins’ catacombs and springs. These bits became topics for evenings, but evenings at home were desert-like; they creaked at one another like rusty wheels. Rogron spoke of marrying, which frightened him; Sylvie sought a third person and remembered a distant cousin, Pierrette Lorrain, scarcely inquired about and possibly presumed dead.
+
+Sylvie, too careful to lose opportunity, pretended to have found a Lorrain letter to raise the prospect of Pierrette’s arrival. She answered Madame Lorrain’s letter half-affectionately, half commercially, blaming delay on change of abode and hinting Pierrette might inherit twelve thousand francs a year if Jérôme did not marry. The Rogrons awaited the cousin like caged beasts. Sylvie even went to Madame Tiphaine to mention Pierrette, deploring the girl’s misfortune and posing as eager to assist—only to be met by sarcasm. During cards, Madame Garceland recalled the Rogrons’ shameful conduct over the Auffray property; the notary explained events. Monsieur Tiphaine asked where the little girl was.
+
+“In Brittany,” said Rogron.
+
+“Brittany is a large place,” Monsieur Lesourd remarked.
+
+Sylvie clumsily answered questions about when they had replied and where the girl might be sent. Rogron blundered, claiming to have written to the Institution of Saint-Jacques, only to be told that was an almshouse for the elderly. Desfondrilles recalled a Nantes house sold under court order swallowing up Mademoiselle Lorrain’s claim, leaving the girl unprovided for. The Rogrons retreated, blaming malicious gossip. Sylvie saw her benevolence had missed its effect; she had lost ground. Thereafter the Rogrons no longer concealed their hatred of that class.
+
+The brother recounted to his sister the scandals Colonel Gouraud and lawyer Vinet had hinted about the Tiphaines, Guenees, Garcelands, and Julliards—accusations that Madame Tiphaine’s family’s fortune was stolen. Once they began to declaim against “the clique,” they unwittingly set out to gather a society of their own: their house would become a rendezvous for the floating elements of the liberal party. Colonel Gouraud and the lawyer Vinet, ostracized and eager for consequence, had watched the Rogrons’ launch with curiosity. Both professed patriotism partly to become important. The Liberals in Provins were thinly scattered—an old soldier at a café, an innkeeper, Monsieur Cournant the notary, Doctor Neraud, and a few farmers. The colonel and the lawyer, delighted to find a foolish man with money to back schemes and a house to host meetings, exploited the Rogrons’ ill-will toward the Upper-town bourgeois aristocracy.
+
+Pierrette’s expected arrival hastened their plans. Gouraud, a veteran accustomed to horrors, felt little repelled by a poor cousin and began eyeing Sylvie’s fortune; he saw a house and the chance of living off someone else. The colonel was short, fat, decorated, with sparse whiskers, a red face discolored by campaigns, a cavalry-built stomach and a sabre-cut on his nose; he wore the Legion of Honor and lived on some three thousand francs a year of emoluments and retired pay. He was jolly, lawless, contemptuous of convention, and ready to exploit opportunities.
+
+The lawyer Vinet, tall and thin, had liberal opinions in place of talent and earned little. Disfavored by the court for his opinions and resented for marrying a Chargeboeuf heiress, he had been repulsed by the influential family. His poverty and thwarted hopes made him eager for opposition triumphs to elevate him. He lived miserably in the Upper town; his wife rarely left. Vinet’s face, pale and jaundiced with ambition frustrated, his slit mouth and viperish head, his quick, rasping speech and shrewdness made him formidable. Accustomed to viewing everything for personal advantage and shrinking from nothing legal, he was well-fitted for politics; his strength lay in his willingness to do whatever the law permitted.
+
+Vinet had a terrible influence on Pierrette’s fate. He aimed to found a newspaper at Provins and, after studying the Rogrons from a distance with the colonel’s aid, concluded the brother could be made useful. He was right: Vinet’s days of poverty seemed about to end. When Gouraud told him the Rogrons had quarreled with the Upper-town bourgeois aristocracy, Vinet winked and proposed a plan.
+
+“One woman or another—handsome or ugly—you don’t care; marry Mademoiselle Rogron and we can organize something at once,” he said.
+
+Gouraud had thought of it, but they had sent for Colonel Lorrain’s daughter; she was the next of kin. Vinet suggested getting them to make a will in his favor. “You’d get a very comfortable house,” he said. As for the little girl—Gouraud leered, showing the scant respect he felt for any girl, and promised to see her, calculating how far he could profit.
+
+Thus the Rogrons, cast out of the elite they hoped to join, became the center of a new, unscrupulous circle: a veteran with a taste for plunder and a lawyer eager to exploit both politics and private advantage. Their hatred of the clique and their vanity, together with the colonel’s coarse designs and Vinet’s legal opportunism, set in motion schemes that would determine Pierrette’s fate and the Rogrons’ future.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+After her grandparents were placed in the hospital where they expected to die, young Pierrette, proud and unused to charity, was relieved when she learned she had well-to-do relations. Brigaut, the son of her mother’s friend and her childhood companion, apprenticed as a cabinet-maker in Nantes, offered the sixty francs of his apprentice tips to send her to Paris by diligence; she accepted with the indifference of true affection.
+
+Brigaut spent Sundays consoling Pierrette at Saint-Jacques, delighting in protecting the girl he loved. They had embroidered youthful plans together—he, with his plane, would scour the world to make their fortune while Pierrette waited. In October 1824, just after her eleventh birthday, the sorrowful grandparents and Brigaut entrusted her to the conductor of the Nantes-Paris diligence, begging him to see her safely onto the Provins coach. Brigaut ran after the coach until out of breath; both cried as she disappeared.
+
+The Lorrains and Brigaut knew so little of city life that Pierrette arrived in Paris penniless. The conductor, told about her rich cousins, paid her hotel expenses and made the Provins conductor promise to look after the child and have the family pay. Four days out, about nine on a Monday night, a kind old conductor of the Messageries-royales led Pierrette—whose only luggage was a small bundle with two dresses, two chemises, and two pairs of stockings—to Mademoiselle Rogron’s house, pointed out at the coach office.
+
+“I’ve brought you a cousin,” he announced to Sylvie and her brother, and demanded forty-seven francs, sixty centimes, for expenses. The Rogrons, astonished, paid forty-seven francs, twelve sous. The conductor refused the small gratitude Sylvie offered for himself and his comrade, saying they had cared for the child as if she were their own. Sylvie, Rogron, and their maid Adele received Pierrette with stolid surprise; she was tossed to them like a parcel, with no transition between the wretched chamber at Saint-Jacques and their dining-room, which seemed a palace to her. Shy and speechless, she might have charmed others in her simple Breton clothes: coarse blue petticoat, cambric apron, thick shoes, blue stockings, white kerchief, red worsted mittens, and a washed Breton cap forming a halo around her rosy, artless face.
+
+“Are you not going to say anything? I am your cousin Sylvie, and that is your cousin Rogron,” they said. They fussed over her, inspected her bundle, and decided she must sleep; then, with a mixture of economy and officiousness, they tucked her into a modest little room with threadbare furnishings. Pierrette, amazed at the fineness of cotton sheets and the warmth of the house, quietly praised it. Meanwhile Sylvie and Rogron fretted, counting the cost of clothing and equipment: “You won’t get off under three hundred francs,” Rogron declared. Sylvie, shocked at the sum, lay awake thinking of the expense.
+
+Pierrette had been reared on affection and freedom at Pen-Hoel, petted by everyone and wandering the fields with Brigaut. At Saint-Jacques she had known hardship but lived on the love of her grandparents; now she missed the kindly looks and casual tenderness she had always known. The cold greeting of her cousins baffled her and wounded a heart delicate as a fawn’s. Still, tired, she slept.
+
+Next morning she rose early, explored the staircase and the garden, marvelled at the kiosk and the river, and was punished for noise and dirt at breakfast. “You must be very good and quiet,” Sylvie scolded; Rogron called her dirty and ignorant; Adele sniffed at her coarse chemises. Their remarks hurt Pierrette though she scarcely understood why. The Rogrons, proud of their house and furniture, had turned care for their possessions into worship. Sylvie kept a closet of dusting tools and took petty delight in maintaining and glorifying their household goods; her ardor for cleanliness hardened into a principle and a pleasure.
+
+Sylvie and Rogron set about remaking Pierrette, determined she should fit their standards. Sewing and fittings filled the first week: chemises and petticoats, boots, a corset, a blue reps dress, a silk-lined cape, and a drawn bonnet of blue velvet—fashionable items Sylvie hoped would stand up to the scrutiny of Provins society. She engaged Mademoiselle Borain, the town’s best seamstress, to make Pierrette’s outfit, scolding the child for ignorance when Pierrette confessed she had only played in Brittany and been loved by her grandparents.
+
+Pierrette preferred the watching, warm company of the sewing women to her relations’ pedantry. The seamstresses liked her, while Sylvie fretted the expense: “That child will make us pay through the nose!” she complained. Yet she pushed on, buying quality underclothes and fashion-conscious bits to rival other mothers. After the transformation, Pierrette became the most enchanting child in Provins; Sunday after Sunday, the ladies of the town embraced her. Their admiration inflated Sylvie’s self-regard—she believed the praise reflected her benevolence—yet she also grew resentful when Pierrette was invited out and the guests did not visit her salon. The child’s success, which might have delighted a maternal heart, enraged the Rogrons’ selfishness.
+
+Pierrette’s new finery was the beginning of trouble. Used to running and rough play, she wore out shoes and tore delicate garments. A mother would have corrected gently, but the Rogrons calculated loss rather than pity. The constant admonitions about propriety, economy, and decency all flowed from one theme—“Pierrette will ruin us.” In these fault-finding lectures, Sylvie and Rogron reverted to the petty, shopkeeping habits they'd abandoned in moving to Provins; deprived of human subjects to rule, they exercised petty despotism on the helpless child. Narrow natures expand by persecuting; for them self-interest fused with a thirst for control and petty vindication.
+
+Pierrette became central to their lives: first in the expense of her wardrobe, then as a presence to be governed and displayed. Sylvie’s initial terms of endearment hardened into cold “Pierrette.” Reprimands grew sharper, and the cousins descended into a habitual severity they convinced themselves was beneficial. Pierrette, too sensitive and straightforward for such hardness, dreaded scoldings; tears rose at the slightest reproof. She learned to repress her natural sprightliness, showing it only in the homes of friends. Within a month she had learned passive compliance; when Rogron asked if she were ill, she ran to the garden and wept by the river.
+
+One day, despite the care taken with her wardrobe, she tore her best reps frock at Madame Tiphaine’s, where she’d been happy. Terrified of home punishment, she confided in friends; Madame Tiphaine happened to have matching material and discreetly repaired the frock. When Sylvie discovered this “trick,” she forbade Pierrette further visits to Tiphaine’s, cutting off one of the few joyful outlets she had. This refusal, and the beginning of formal education, marked the end of the first three-month phase of Pierrette’s life in Provins—the only period that had held genuine pleasure.
+
+Meanwhile colonel and Vinet watched events at the Rogrons with foxlike caution, making occasional calls and infiltrating Rogron’s confidence with polite reserve. On the night Sylvie forbade Madame Tiphaine’s visits, the colonel and a lawyer friend—who used gossip and partisan spite to inflame Sylvie—suggested the Rogrons form an opposition salon against the “ministerialists” of Provins. Vinet exploited social slander to rouse Sylvie’s resentment; the lawyer painted Tiphaine’s speech as insult, provoking the Rogrons’ vanity and readying them for petty political posturing.
+
+Vinet soon introduced his wife to Sylvie—a gentle, timid, well-bred woman who bore Sylvie’s airs with deference. Madame Vinet’s meekness pleased Sylvie, and the colonel, displaying affected courtliness, flattered her. These new allies encouraged the rogues’ snug social ambitions and fed Sylvie’s self-importance; their influences would further isolate Pierrette.
+
+Under their watchful, acquisitive eyes the child’s life narrowed. Shut indoors and only allowed out under strict supervision, she lived beneath an incessant “Don’t touch that, child, let that alone!” She was drilled in carriage and behavior; Sylvie, rigid and prideful, ordered her to hold herself erect and sometimes enforced compliance with slaps to the back. The free, joyous Breton girl learned, little by little, to curb every liveliness and to become as best she could an automaton—quiet, obedient, and constrained to match the Rogrons’ house and their appetite for domination and display.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+One evening early in Pierrette’s second stay at her cousins’ house, the child, unseen all evening by the three guests, came in to kiss them good-night. Sylvie turned her cheek coldly to avoid kissing her; the motion was so cruel that Pierrette burst into tears.
+
+“Did you prick yourself, little girl?” said the atrocious Vinet.
+
+“What is the matter?” asked Sylvie, severely.
+
+“Nothing,” said the child, going up to Rogron.
+
+“Nothing? That’s nonsense; nobody cries for nothing,” Sylvie snapped.
+
+“What is it, my little darling?” Madame Vinet asked.
+
+“My rich cousin isn’t as kind to me as my poor grandmother was,” sobbed Pierrette.
+
+“Your grandmother took your money,” Sylvie retorted, “and your cousin will leave you hers.”
+
+The colonel and the lawyer exchanged glances.
+
+“I would rather be robbed and loved,” said Pierrette.
+
+“Then you shall be sent back whence you came.”
+
+“What has the dear little thing done?” Madame Vinet asked.
+
+Vinet gave his wife the stern look with which men enforce dominion. The hapless child, repeatedly punished for lacking that which was wanted of her—a fortune—took up her cards. Sylvie, throwing up her head so violently that the yellow wall-flowers in her cap nodded, declared, “She is always looking about to annoy us. She opened my watch to see the inside, meddled with the wheel and broke the mainspring. Mademoiselle pays no heed to what is said to her. I am all day long telling her to take care of things, and I might just as well talk to that lamp.”
+
+Ashamed before strangers, Pierrette crept from the room.
+
+“I am thinking all the time how to subdue that child,” Rogron said.
+
+“Isn’t she old enough to go to school?” Madame Vinet suggested, but was silenced by a look from her husband, who had concealed his own and the colonel’s schemes.
+
+“This is what comes of taking charge of other people’s children!” cried the colonel. “You may yet have some of your own. Why don’t you both marry?”
+
+Sylvie smiled at the colonel; for the first time in her life she met a man for whom the idea she might marry did not seem absurd.
+
+“Madame Vinet is right,” Rogron said; “perhaps teaching would keep Pierrette quiet. A master wouldn’t cost much.”
+
+“If you will be security for that opposition journal I mentioned,” Vinet said, “you will find an excellent master in the managing editor; we intend to engage that poor schoolmaster deprived by the clergy’s encroachments. My wife is right; Pierrette is a rough diamond needing polishing.”
+
+While Vinet explained how the paper would benefit them all, Pierrette dissolved in tears. She blamed her cousin and believed charity should be whole. She hated her handsome frocks and their cost, and resolved to behave so no fault could be found. She recalled Brigaut’s gift of his savings, thought her troubles could not worsen, unaware further misfortunes were being planned in the salon.
+
+Soon Pierrette had a writing-master to teach reading, writing, and ciphering. This was said to bring enormous injury to the Rogrons’ house: ink-spots on tables, furniture, and her clothes; copy-books and pens abandoned; sand scattered; torn books. She was told to earn her living and not be a burden; such remarks choked her. She restrained tears or was scolded for weeping as an insult to her cousins’ kindness. Rogron found his mode—he scolded her as he scolded clerks, summoned her from play to study, made her repeat lessons, becoming almost savage. Sylvie taught her the little she knew of women’s work. Neither had softness. Their narrow minds, finding pleasure in worrying the child, passed from outward kindness into severity, justified by what they called Pierrette’s self-will. They could not adapt instruction to the pupil’s intelligence—a difference between public and private education. Pierrette took an age to learn the rudiments and was called stupid, clumsy, awkward for trifles. Abused incessantly in words and by harsh looks, she acquired the submissive habits of a sheep, daring nothing of her own impulse, awaiting her cousins’ orders and sheltering her mind in passive obedience. Her brilliant colors faded. At times she complained of feeling ill; when asked “Where?” she answered, “Everywhere.”
+
+“Nonsense! who ever heard of suffering everywhere?” Sylvie scoffed. Rogron lectured that “everywhere” meant nowhere—“you’re complaining for complaining’s sake.”
+
+Pierrette fell silent, for her girlish remarks were met with ignorant commonplaces she knew were ridiculous.
+
+“You complain,” Rogron said, “but you’ve got the appetite of a monk.”
+
+Only Adele, the fat servant, did not bruise the little flower. She warmed Pierrette’s bed on the sly after Sylvie scolded her. Sylvie’s belief was firm: children should be hardened—they had been. “You’ll make Pierrette a peakling,” she said, using their word for a puny, suffering being.
+
+The child’s natural affection was treated as dissimulation. Her fresh devotion was pitilessly crushed. If she tried to soften their ferocity, they accused her of ulterior motives. “Tell me at once what you want?” Rogron would say, “you are not coaxing me for nothing.” Neither brother nor sister believed in affection; Pierrette’s whole being was affection. Colonel Gouraud, anxious to please Sylvie, approved all she did. Vinet encouraged them, attributing her so-called misdeeds to Breton obstinacy as incurable. Flattered, Rogron agreed to go security for the “Courrier de Provins,” and Sylvie invested five thousand francs.
+
+The colonel and lawyer then took the field. They got a hundred shares of five hundred francs among farmers and the “independents” and buyers of national-domain lands—whose fears they exploited. Each shareholder subscribed to the paper; the judicial advertisements were split between the “Bee-hive” and the “Courrier.” The paper’s first issue contained a pompous eulogy of Rogron, presenting him as Provins’ Laffitte. The public, nudged thus, expected contested elections. Madame Tiphaine, dreaming of taking her husband to Paris as deputy, despaired when an article in the new paper attacked her and Julliard junior: “There is always a scoundrel close to a dupe,” she said.
+
+As the “Courrier” spread, Vinet bought new clothes and adopted the gray slouch hat of liberals; his wife took a servant and appeared as the wife of a prominent man. Vinet proved grateful out of policy. He and his ally Cournant, a liberal notary opposed to the ministerial Auffray, became close advisers to the Rogrons, performing services: leases made by old Rogron in 1815 were expiring, and horticulture and gardening had developed near Provins. The lawyer and notary worked to increase the Rogrons’ rentals. Vinet won two suits involving planting trees and five hundred poplars; the proceeds, with the Rogrons’ savings—who for three years had set aside six thousand francs a year at high interest—were invested in improved lands. Vinet also carried out the ejectment of peasants who had defaulted on debts secured by the elder Rogron. The cost of the fine house was thus partly recouped. Their lands, chosen by their father’s innkeeper’s eye, were divided into small holdings, the largest not exceeding five acres, rented to safe tenants whose other holdings secured leases. By 1826 these investments brought in five thousand francs a year; taxes charged to tenants, no buildings needed insurance or repairs.
+
+By the end of Pierrette’s second period in Provins, life had become so harsh—cold indifference, silly fault-finding, total absence of affection—that she felt a chill like a grave creeping round her. She thought of escaping on foot to Brittany to her grandparents. Two events prevented it: old Lorrain died, and Rogron was appointed her guardian. Had the grandmother died first, Rogron, advised by Vinet, would have claimed Pierrette’s eight thousand francs and reduced the old man to penury.
+
+“You may, perhaps, inherit from Pierrette,” Vinet said with a horrid smile. “Who knows who may live and who may die?”
+
+Illuminated by that remark, Rogron pressured Madame Lorrain until she secured for Pierrette the reversion of the eight thousand francs at her death.
+
+Deeply shocked and on the point of making her first communion—a reason to abandon escape—Pierrette’s ceremony led to changes at the Rogrons’. Sylvie learned that Monsieur le curé Peroux taught the Julliards, Lesourds, Garcelands; so she insisted Pierrette be instructed by the vicar, Monsieur Habert, a priest thought to belong to the Congregation—zealous, feared, austere, ambitious. His sister, an unmarried woman about thirty, kept a school for young ladies; both siblings were thin, yellow, black-haired.
+
+Like a true Breton girl, rooted in Catholic practice and poetry, Pierrette opened to the priest’s words. Suffering predisposes to devotion; many young girls are inclined to mysticism, and the priest found good soil. He changed the current of her thoughts: Pierrette loved Jesus as taught at first communion—as a celestial bridegroom—giving meaning to her sufferings; she saw God’s finger in events. Her soul, hurt though she could not accuse her cousins of outright wrong, took refuge in Faith, Hope, Charity. She abandoned thoughts of escape. Surprised by the priest’s effect on Pierrette, Sylvie too became pious under his influence. Jerome Rogron, however, who could not be gripped by this so-called Jesuit (then the late Constitutionnel was a stronger influence), remained faithful to Colonel Gouraud, Vinet, and Liberalism.
+
+Mademoiselle Rogron befriended Mademoiselle Habert; the two spinsters loved each other as sisters. Mademoiselle Habert offered to take Pierrette to her school to spare Sylvie the annoyance of education, but the Rogrons declared the house would be too lonely without Pierrette; their attachment seemed excessive.
+
+When Gouraud and Vinet learned of Mademoiselle Habert’s appearance, they feared the priest had matrimonial designs for his sister like the colonel’s plans for Sylvie. “Your sister wants to get you married,” Vinet told Rogron. “With whom?” Rogron asked. “With that old sorceress of a schoolmistress,” the colonel sneered. Rogron naively replied that she hadn’t spoken of it. Sylvie was certain an old maid like Mademoiselle Habert would make good progress toward salvation, increasing the priest’s influence, potentially converting Rogron and sending Pierrette to a convent. The two liberals, alarmed, saw in the priest and his sister adversaries as strong as themselves. Monsieur and Mademoiselle Habert visited the Rogrons nightly and could play whist and boston; their assiduity matched that of the colonel and Vinet. Each side suspected the other, and the salon turned into a battlefield, each wanting the whole prey.
+
+The liberals made the first move. Vinet, pursuing self-interest, contacted Mademoiselle de Chargeboeuf and her mother, living in poverty in Troyes on two thousand francs a year. Bathilde de Chargeboeuf, who believed in love-based marriage until twenty-five, was persuaded by Vinet’s promise that, joining means with his, she could live in Provins and marry the fool Rogron, taking her place in the best society.
+
+Their arrival was a great reinforcement for the liberal party and a shock to Provins’ aristocrats and the Tiphaine clique. Madame de Breautey, horrified that two women of rank should be misled, begged them to come to her and railed against the selfishness degrading France—the consequence, she said, of materialism and the laws’ emphasis on money: nobility and beauty no longer mattered. Such creatures as the Rogrons, Vinets, could now contend with the King of France.
+
+Bathilde de Chargeboeuf had not only beauty but dress; she was dazzlingly fair. At twenty-five her figure was developed; her throat, hair, smile, carriage, features, eyes, and motions were noble and high-bred. Her hands and feet were beautiful; health gave her perhaps too much the look of a handsome barmaid—“but that can’t be a defect in the eyes of a Rogron,” Madame Tiphaine sighed. Bathilde’s dress on first appearing at the Rogrons was simple: a brown merino gown edged with green embroidery, low-necked, with a tulle fichu carefully drawn down though opening a little in front, caught with a sevigne. She removed her velvet bonnet and shawl to reveal gold ear-drops and wore a black velvet ribbon with a heart—tricks of a girl seeking marriage. She entreated Rogron to fasten a cuff-button to show him her wrist; the dazzled fool refused, masking his emotions with indifference. Sylvie and Celeste Habert were deceived by his manner; Vinet was not.
+
+The colonel, courting Sylvie as Bathilde courted Rogron, put on a clean shirt each evening, velvet stocks, a new blue surtout, a red rosette, even refrained from smoking. He adopted the air of a party leader preparing to drive out the Bourbons.
+
+Vinet and the colonel played a crueler trick: they insinuated the priest sympathized with their ideas; soon Provins called him a liberal ecclesiastic. When the bishop heard, Monsieur Habert was summoned and admonished to stop visiting the Rogrons; his sister persisted. Thus the Rogron salon became established and powerful.
+
+Before the year ended political intrigues matched the matrimonial plots. The Villele ministry fell in 1826; Vinet, the Liberal candidate who had borrowed money to buy a domain to qualify, nearly defeated Monsieur Tiphaine, who saved the election by two votes. The Rogrons’ salon was Liberal headquarters; habitués included notary Cournant and Doctor Neraud, whose stormy youth gave way to study and, Liberals claimed, more capability than the aristocratic Martener. The Rogrons themselves hardly understood their present triumph.
+
+Bathilde, to whom Vinet had portrayed Pierrette as an enemy, was disdainful of the girl. It seemed everyone’s schemes demanded humiliation of that poor victim. Madame Vinet could do little for Pierrette, crushed as she was by her husband’s will. Pierrette often pressed against Madame Vinet as if divining her thoughts, asking to be shown a stitch or taught embroidery. Treated gently, she could learn and succeed marvellously. But after the arrival of Madame and Mademoiselle de Chargeboeuf, Madame Vinet ceased to visit the Rogrons.
+
+Sylvie, now thinking of marrying, considered Pierrette an obstacle. Nearly fourteen, the pallid whiteness of her skin—symptomatic of illness overlooked by the ignorant old maid—made her exquisitely lovely. Sylvie thought to balance Pierrette’s cost by making her a servant. The habitués advised sending away Adele: why not have Pierrette keep the house and cook? If needed, Sylvie could employ the colonel’s woman-of-all-work. The lawyer counseled every girl should learn to keep house and know prices. Pierrette, generous and self-devoted, offered willingly, pleased to earn the bitter bread she ate. Adele was sent away, and Pierrette lost the only protector she had.
+
+Crushed physically and mentally, she was treated with less consideration than a servant—she belonged to them. She was scolded for the smallest dust on a glass globe or mantelpiece. The ornaments she once admired became odious. No matter how she strove to do right, her cousins always found cause to reproach her. In two years she received no praise or kindly word; happiness was simply not being scolded. She bore with angelic patience the morose ill-humor of two celibates to whom tenderness was unknown and who daily made her feel her dependence.
+
+Such life, pressed between two vise-like jaws, worsened her health. She began to feel violent internal distresses, secret pangs undermining her strength and arresting development. Slowly, through dreadful hidden sufferings, the poor child came to the state in which the companion of her childhood had found her when he sang the Breton ditty at dawn on that October day.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+Before relating the domestic drama Jacques Brigaut’s coming provoked in the Rogron family, it is best to explain how the lad came to be in Provins; he is a relatively mute personage on the scene.
+
+When he ran from the house Brigaut was not only frightened by Pierrette’s gesture, he was horrified by the change he saw in his little friend. He could scarcely recognize the voice, the eyes, the gestures that had once been lively, gay, and tender. Once at a distance his legs trembled; hot flushes ran down his back. He had seen Pierrette’s shadow, but not herself. Climbing to the Upper town, he found a spot from which he could see the square and the house where Pierrette lived. He gazed at it mournfully, lost in thoughts that rent his heart, revealing to himself the extent of his love for his little adopted sister.
+
+Passion between two children of opposite sexes is rare. Still, Pierrette and he had often protected each other; he had blissfully given her money for her journey and had almost killed himself running after the diligence when she left. Pierrette had known nothing of this; for him, the recollection warmed his hard life. For her sake he had struggled to improve himself; he had learned his trade for her and come to Paris to make his fortune. After a fortnight in the city he could not resist seeing her, and he had walked from Saturday night to Monday morning. He had intended to return to Paris, but the sight of his little friend nailed him to Provins. An unconscious magnetism held him. Tears rolled from his eyes when they rose in hers. If to her he was Brittany and childhood, to him she was life itself.
+
+At sixteen Brigaut had not yet learned to draw or model a cornice; ignorant of much, he had nevertheless earned by piece-work during his apprenticeship some four or five francs a day. On this he could live in Provins and be near Pierrette; he chose the best cabinet-maker in town and meant to learn the rest by working for him, thus keeping watch over his darling.
+
+Brigaut’s mind was made up. He went back to Paris, fetched his certificate, tools, and baggage, and three days later was a journeyman in the establishment of Monsieur Frappier, the best cabinet-maker in Provins. Active, steady workmen, not given to junketing, are rare, and masters hold to young men like Brigaut. By the end of the month he was made foreman and was fed and lodged by Frappier, who taught him arithmetic and line drawing. The house and shop were in the Grand’Rue, not a hundred feet from the little square where Pierrette lived.
+
+Brigaut buried his love and committed no imprudence. He made Madame Frappier tell him all she knew about the Rogrons, including how their father had laid hands on the property of old Auffray, Pierrette’s grandfather. He obtained other information about the brother and sister. He met Pierrette sometimes in the market with her cousin and shuddered to see the heavy basket she carried. On Sundays he went to church to look for her, dressed in his best clothes. There, for the first time, he became aware that Pierrette was Mademoiselle Lorrain. Pierrette saw him and made a hasty sign to keep out of sight. To him there was a world in that little gesture, as there had been earlier in the sign from her window telling him to run away. Ah! what a fortune he must make in the coming ten years to marry his little friend, to whom, he was told, the Rogrons were to leave their house, a hundred acres of land, and twelve thousand francs a year, not counting their savings!
+
+The persevering Breton set about thoroughly educating himself in his trade; for principles of the craft he could learn in Provins as well as Paris and thus remain near Pierrette, to whom he became anxious to explain his projects and the protection he could offer. He was determined to know the reason for her pallor and the debility beginning to show in the eyes; he would also discover the cause of the sufferings that made her look as if death might take her at any moment. The two signs—the gestures not denying friendship but imploring caution—alarmed him. Evidently Pierrette wished him to wait; otherwise there was danger. As she left the church she gave him one look, and he saw her eyes full of tears. But he could as soon have squared the circle as have guessed what had happened in the Rogrons’ house during the fortnight since his arrival.
+
+It was not without keen apprehension that Pierrette came downstairs the morning after Brigaut had invaded her dreams. She thought Sylvie must have heard the song, or she would not have risen and opened her window; but Pierrette was ignorant of the powerful reasons that made the old maid so alert. For the last eight days strange events and bitter feelings had agitated the minds of the Rogron salon’s chief personages. These hidden matters, carefully concealed by all concerned, were destined to fall like an avalanche on Pierrette. Such secret schemes and calculations lie at the base of great revolutions, whether political, social, or domestic; their subtle significance cannot be rendered by a simple narrative. To set down all circumlocutions, oratorical precautions, protracted conversations, and honeyed words that gloss venom would make as long a book as Clarissa Harlowe.
+
+Mademoiselle Habert and Mademoiselle Sylvie were equally desirous of marrying, but Céleste Habert was ten years older and could hope her children would inherit all the Rogron property. Sylvie was forty-two, an age at which marriage is perilous. Celeste, instigated by her vindictive brother the priest, enlightened Sylvie as to the risks. Sylvie trembled; she was terribly afraid of death, an idea that shakes all celibates. But with the change of ministry the Liberals came to power and their party in Provins took heart. The colonel would be made mayor; the thought of such ascendancy appealed to Sylvie; she determined to consult a doctor, though it would cover her with ridicule. Consulting Monsieur Neraud, the Liberal physician and rival of Martener, would be a blunder. Céleste offered to hide Sylvie in her dressing-room while she herself consulted Monsieur Martener on this delicate matter. Whether Martener was Céleste’s accomplice need not be discovered; at any rate he told Céleste that even at thirty the danger, though slight, did exist. “But,” he added, “with your constitution, you need fear nothing.”
+
+“But how about a woman over forty?” asked Céleste.
+
+“A married woman who has had children has nothing to fear.”
+
+“But I mean an unmarried woman, like Mademoiselle Rogron, for instance?”
+
+“Oh, that’s another thing,” said Martener. “Successful childbirth is then one of those miracles God sometimes allows, but rarely.”
+
+Céleste pressed him, and the doctor gave a terrifying pathological account: the elasticity of youthful muscles and bones does not exist later, especially in sedentary women. “So you think an unmarried woman ought not to marry after forty?”
+
+“Not unless she waits some years,” replied the doctor. “But then, of course, it is not marriage; it is only an association of interests.”
+
+The interview’s clinical result was clear: an unmarried woman would make a great mistake marrying after forty. When the doctor departed Céleste found Sylvie in a frightful state, green and yellow, pupils dilated.
+
+“Then you really love the colonel?” asked Céleste.
+
+“I still hoped,” replied Sylvie.
+
+“Well, then, wait!” cried Mademoiselle Habert, Jesuitically, aware that time would rid her of the colonel.
+
+Sylvie’s new devotion to the church warned her that the morality of such a marriage might be doubtful. She sounded her conscience in the confessional. The stern priest explained Church opinions, which see marriage primarily as propagation and rebuke second marriages and all passion without social purpose. Sylvie’s perplexities were great. These internal struggles gave extraordinary force to her passion, investing it with the attraction that forbidden desire often holds. Mademoiselle Rogron’s perturbation did not escape the lynx-eyed lawyer.
+
+One evening, after the game had ended, Vinet approached Sylvie, took her hand, and led her to a sofa.
+
+“Something troubles you,” he said.
+
+She nodded sadly. He let the others depart; Rogron walked home with the Chargeboeufs, and when Vinet was alone with the old maid he wormed the truth from her.
+
+“Cleverly played, abbé!” he thought. “But you’ve played into my hands.”
+
+The foxy lawyer, more decided even than the doctor, advised marriage in ten years. Inwardly he vowed the whole Rogron fortune should go to Bathilde. He rubbed his hands and hurried home. The influence exercised by Monsieur Habert, physician of the soul, and by Vinet, doctor of the purse, balanced each other. Rogron had little piety; the black-robed pair were fairly matched.
+
+On discovering Céleste’s victory in her anxiety to marry Rogron over Sylvie, the lawyer saw his chance to drive the colonel from the field. He knew Rogron well enough to be certain he could marry him to Bathilde; Jérôme had already inwardly succumbed to her charms, and Vinet knew the first time the pair were alone the marriage would be settled. Rogron had reached the point of keeping his eyes fixed on Céleste to avoid looking at Bathilde. Vinet had now learned Sylvie’s secrets and saw the force of her love for the colonel. He fully understood the struggle of such passion in an old maid gripped by religion and saw a way to rid himself of Pierrette and the colonel alike by making each the cause of the other’s overthrow.
+
+The next day, after court, Vinet met the colonel and Rogron walking their daily walk. Whenever the three men were seen in company the town talked. This triumvirate was a pride to the Liberals. Vinet, sole editor of the “Courrier,” was head of the party; the colonel, its arm; Rogron, by his purse, its nerves. When Rogron turned to go home, Vinet stopped the colonel by taking Gouraud’s arm.
+
+“Well, colonel,” he said, “I am going to take a fearful load off your shoulders; you can do better than marry Sylvie; if you play your cards properly you can marry that little Pierrette in two years’ time.”
+
+He then related the Jesuit’s manoeuvre and its effect on Sylvie.
+
+“What a skulking trick!” cried the colonel; “and spreading over years, too!”
+
+“Colonel,” said Vinet gravely, “Pierrette is a charming creature; with her you can be happy for the rest of your life; your health is so sound that the difference in ages won’t seem disproportionate. But you mustn’t think it easy to change a dreadful fate to a pleasant one. To turn a woman who loves you into a friend and confidant is as perilous as crossing a river under fire. You must study the position and manoeuvre your forces with the same wisdom you have displayed and which has won us our present position. If I get to be attorney-general you shall command the department. Oh! if you had been an elector we should be further advanced; I would have bought votes by threatening men with the loss of their places, and we should have had a majority.”
+
+The colonel had long thought about Pierrette but concealed his feelings with utmost dissimulation. His roughness to the child was only a mask. She could not understand why the man who claimed to be her father’s old comrade usually treated her so ill when sometimes, if alone with her, he would chuck her under the chin and give a friendly kiss. After Vinet’s conversation about Sylvie’s fears, Gouraud began to seek opportunities to find Pierrette alone; the rough colonel made himself as soft as a cat. He told her how brave her father was and what a misfortune it had been that she lost him.
+
+A few days before Brigaut’s arrival Sylvie had suddenly come upon Gouraud and Pierrette talking together. Jealousy rushed into her heart with monastic violence. Jealousy, credulous and suspicious, gives fancy freedom but not intelligence; it filled her with fantastic ideas. When she heard Brigaut’s ditty a few mornings later she jumped to the conclusion that the man who had used the words “Madam’ le mariée,” addressing them to Pierrette, must be the colonel. She was certain, for she had noticed a change in his manners for a week. He was the only man who, in her solitary life, had ever paid her attention. Consequently she watched him with all her eyes and mind; by hope and despair she brought the matter to enormous proportions and saw all things in a mental mirage. By dint of staring she saw nothing. Alternately she repelled, admitted, and conquered the idea of rivalry. She compared herself with Pierrette: forty-two with gray hair, versus Pierrette delicately fair with soft eyes. She had heard men of fifty apt to love young girls of that kind. Before the colonel came to the house Sylvie had heard in the Tiphaines’ salon strange stories of his life and morals. Old maids preserve exaggerated Platonic sentiments; they hold to fixed doctrines like those with little experience of life. The mere thought of being jilted by the colonel was torture to Sylvie. She lay in bed going over her desires, Pierrette’s conduct, and the song that had awakened her with the word “marriage.” Foolishly, instead of looking through the blinds to see the lover, she opened her window without reflecting that Pierrette would hear her. If she had had the instinct of a spy she would have seen Brigaut, and the fatal drama begun would never have taken place.
+
+It was Pierrette’s duty, weak as she was, to unbar and open the wooden shutters of the kitchen, then the glass door from corridor to garden. She fetched various brooms and utensils with a care and particularity no servant, not even a Dutchwoman, gives her work. She hated reproof. Happiness for her was seeing her cousin’s cold blue eyes—not satisfied but calm—after glancing about with the look of an owner. Pierrette’s skin was moist with labor when she returned to put the kitchen in order and light the stove so she might carry up hot water to her two cousins (a luxury she never had), and to prepare the dining-room fire. For these she fetched wood from the cellar, leaving warm rooms for damp air; such sudden transitions, made quickly to escape harsh words, aggravated her condition. She did not know she was ill, yet she suffered. She began to have strange cravings; she liked raw vegetables and salads and ate them secretly. The innocent child was unaware her condition was serious and required utmost care. If Neraud, the Rogrons’ doctor, had told this to Pierrette before Brigaut’s coming she would have only smiled; life was so bitter she could smile at death. But now her feelings changed; the child, whose physical suffering was increased by Breton homesickness, was suddenly content to be in Provins. The sight of that yellow flower, the song, the presence of her friend revived her like rain on a parched plant. Unconsciously she wanted to live and even thought she did not suffer.
+
+Pierrette slipped timidly into her cousin’s bedroom, made the fire, left the hot water, said a few words, and went to wake Rogron and do the same for him. Then she went down to take in the milk, bread, and other provisions. She stood some time on the door-sill hoping Brigaut would come; by then he was already on his way to Paris.
+
+She had finished arranging the dining-room and was busy in the kitchen when she heard Sylvie coming down. Mademoiselle Rogron appeared in a brown silk dressing-gown with a cap, false front awry, night-gown showing above the silk, slippers down at heel. She cast an eye about and came straight to Pierrette, who awaited orders.
+
+“Ha! here you are, lovesick young lady!” said Sylvie mockingly.
+
+“What is it, cousin?”
+
+“You came into my room like a sly cat and crept out the same way, though you knew I had something to say to you.”
+
+“To me?”
+
+“You had a serenade this morning, as if you were a princess.”
+
+“A serenade!” exclaimed Pierrette.
+
+“A serenade!” mimicked Sylvie. “And you’ve a lover, too.”
+
+“What is a lover, cousin?”
+
+Sylvie avoided answering. “Do you dare tell me a man did not come under your window and talk to you of marriage?”
+
+Persecution had taught Pierrette the wariness of slaves; she answered bravely: “I don’t know what you mean—”
+
+“Who means?—your dog?” said Sylvie sharply.
+
+“I should have said ‘cousin,’” replied the girl humbly.
+
+“And didn’t you get up and go in your bare feet to the window?—which will give you an illness; and perhaps you didn’t talk to your lover, either?”
+
+“No, cousin.”
+
+“You have many faults, but I did not think you told lies. You will have to explain this affair to your cousin and to me, or I shall take severe measures.”
+
+The old maid, exasperated with jealousy and curiosity, meant to frighten the girl. Pierrette, who endured more than she had strength for, kept silence. Silence is the weapon by which such victims sometimes conquer; it baffles envy’s charges and suspicion’s skirmishings and is absolute. Sylvie watched Pierrette narrowly. The girl colored, but the color came out in patches on her cheekbones—burning and significant spots. A mother would have changed tone at once, taken the child on her lap, and questioned her; she would have seen the signs of weakness and known that digestive disturbance and other infirmities threatened the lungs. But an old maid who never awakened family instincts or knew the precautions required for adolescence had neither indulgence nor the compassionate intelligence of a mother; Pierrette’s sufferings only hardened her.
+
+“She blushes, she is guilty!” thought Sylvie.
+
+Pierrette’s silence thus was turned to her injury.
+
+“Pierrette,” Sylvie continued, “before your cousin comes down we must have some talk together. Come,” she said softer, “shut the street door; if any one comes they will ring and we shall hear them.”
+
+In spite of the damp mist rising from the river, Sylvie took Pierrette along the winding gravel path across the lawn to the rock terrace—an ornamental quay covered with iris and aquatic plants. She changed tactics, thinking firmness might catch Pierrette tripping; the hyena became a cat.
+
+“Pierrette,” she said, “you are no longer a child; you are nearly fifteen; it is not surprising you should have a lover.”
+
+“But, cousin,” said Pierrette, raising her eyes with angelic sweetness to Sylvie’s cold face, “what is a lover?”
+
+It would have been impossible for Sylvie to define a lover truthfully and decently. Instead of seeing adorable innocence, she considered the question insincere.
+
+“A lover, Pierrette, is a man who loves us and wishes to marry us.”
+
+“Ah,” said Pierrette, “when that happens in Brittany we call the young man a suitor.”
+
+“Well, remember that in owning your feelings for a man you do no wrong, my dear. The wrong is in hiding them. Have you pleased some of the men who visit here?”
+
+“No.”
+
+“Do you love any of them?”
+
+“No.”
+
+“Certain?”
+
+“Quite certain.”
+
+“Look at me, Pierrette.”
+
+Pierrette looked.
+
+“A man called to you this morning in the square.”
+
+Pierrette lowered her eyes.
+
+“You went to your window, you opened it, and you spoke to him.”
+
+“No cousin, I went to look out and I saw a peasant.”
+
+“Pierrette, you have much improved since your first communion; you have become pious and obedient, you love God and your relations; I am satisfied with you. I don’t say this to puff you up with pride.”
+
+The horrible creature had mistaken submission and the silence of wretchedness for virtues.
+
+Pierrette raised grateful eyes to her cousin, feeling she could almost forgive the suffering she had caused.
+
+“But if it is all hypocrisy, if I find you a serpent that I have warmed in my bosom, you will be a wicked girl, an infamous creature!”
+
+“I think I have nothing to reproach myself with,” said Pierrette, painfully shocked by the sudden change from praise to hyena tones.
+
+“You know that to lie is a mortal sin?”
+
+“Yes, cousin.”
+
+“Well, you are now under the eye of God,” said the old maid, with a solemn gesture to the sky; “swear to me that you did not know that peasant.”
+
+“I will not swear,” said Pierrette.
+
+“Ha! he was no peasant, you little viper.”
+
+Pierrette rushed away like a frightened fawn. Sylvie called her in a dreadful voice.
+
+“The bell is ringing,” she answered.
+
+“Artful wretch!” thought Sylvie. “She is depraved in mind; now I am certain the little adder has wound herself round the colonel. She has heard us say he was a baron. To be a baroness! little fool! Ah! I’ll get rid of her; I’ll apprentice her out, and soon too!”
+
+Sylvie was so lost in thought she did not notice her brother coming down the path lamenting the frost’s injury to his dahlias.
+
+“Sylvie! what are you thinking about? I thought you were looking at the fish; sometimes they jump out of the water.”
+
+“No,” said Sylvie.
+
+“How did you sleep?” he began to tell his dreams. “Don’t you think my skin is getting tabid?”—a Rogron word.
+
+Ever since Rogron had desired to marry Mademoiselle de Chargeboeuf he had been uneasy about himself and his health. At this moment Pierrette came down and called that breakfast was ready. At sight of her, Sylvie’s skin turned green and yellow; her bile was in commotion. She looked at the corridor floor and declared Pierrette ought to rub it.
+
+“I will rub it now if you wish,” said the little angel, unaware of the injury such work may do a girl.
+
+The dining-room was irreproachably in order. Sylvie pretended through breakfast to want this and that—which she would never have thought to ask in a quieter mood—only to make Pierrette rise again and again just as she began to eat. But mere teasing was not enough; she wanted fault and was angry with herself for not finding one. She scarcely answered her brother’s remarks yet kept her eyes on him and avoided Pierrette. Pierrette, deeply conscious, brought milk mixed with cream in a large silver goblet after heating it in a bain-marie. The cousins poured coffee. When Sylvie carefully prepared hers she saw an atom of coffee-grounds floating on the surface. On this the storm broke.
+
+“What is the matter?” asked Rogron.
+
+“The matter is that mademoiselle has put dust in my milk. Do you suppose I am going to drink coffee with ashes in it? Well, I am not surprised; no one can do two things at once. She wasn’t thinking of the milk! a blackbird might have flown through the kitchen today and she wouldn’t have seen it! and then it was my coffee, ha! that didn’t signify!”
+
+As she spoke she laid aside the coffee-grounds that had run through the filter.
+
+“But, cousin, that is coffee,” said Pierrette.
+
+“Oh! then it is I who tell lies, is it?” cried Sylvie, blasting her with a fearful flash from her eyes.
+
+Organizations not exhausted by emotion often have much vital fluid at their service. This extreme clearness of eye in anger was marked in Mademoiselle Rogron because she often exercised it in her shop to inspire dependents with fear.
+
+“You had better dare to give me the lie!” continued Sylvie; “you deserve to be sent from the table to eat by yourself in the kitchen.”
+
+“What’s the matter with you two?” cried Rogron, “you are as cross as bears this morning.”
+
+“Mademoiselle knows what I have against her,” said Sylvie. “I leave her to make up her mind before speaking to you; for I mean to show her more kindness than she deserves.”
+
+Pierrette looked out the window to avoid her cousin’s eyes, which frightened her. “Look at her! she pays no attention to what I am saying than if I were that sugar-basin! And yet mademoiselle has a sharp ear; she can hear and answer from the top of the house when some one talks to her from below. She is perversity itself,—perversity, I say; and you needn’t expect any good of her; do you hear me, Jérôme?”
+
+“What has she done wrong?” asked Rogron.
+
+“At her age, too! to begin so young!” screamed Sylvie.
+
+Pierrette rose to clear the table to give herself something to do; she could hardly bear the scene. Though such language was not new, she had never grown used to it. Her cousin’s rage seemed to accuse her of a crime. She imagined what fury would be if they knew about Brigaut; perhaps they would send him away and she would lose him. All the rapid thoughts of a slave came to her, and she resolved to keep absolute silence about a circumstance her conscience told her was innocent. But the cruel words and wounding suspicion so shocked her that as she reached the kitchen she was taken with a convulsion of the stomach and turned deadly sick. She dared not complain; she was not sure anyone would help her. When she returned to the dining-room she was white as a sheet and, saying she was not well, went to bed, dragging herself up step by step by the baluster and thinking she was going to die. “Poor Brigaut!” she thought.
+
+“The girl is ill,” said Rogron.
+
+“She ill! That’s only shamming,” replied Sylvie loudly that Pierrette might hear. “She was well enough this morning, I can tell you.”
+
+This last blow struck Pierrette to the earth; she went to bed weeping and praying to God to take her out of this world.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+For a month Rogron had stopped bringing the “Constitutionnel” to Gouraud; the colonel came promptly to fetch his paper, gossip a little, and, if the weather favored, take Rogron for a walk. Sylvie dressed as coquettishly as she could, sure of seeing the colonel and able to question him. She fancied herself attractive in a green gown, a yellow shawl with a red border, and a white bonnet with straggling gray feathers. About the hour when the colonel usually came Sylvie stationed herself in the salon with her brother, whom she kept at home in dressing-gown and slippers.
+
+“It is a fine day, colonel,” said Rogron when Gouraud, with his heavy step, entered. “But I’m not dressed; my sister wanted to go out, and I was going to keep the house. Wait for me; I’ll be ready soon.”
+
+So saying, Rogron left Sylvie alone with the colonel.
+
+“Where were you going? you are dressed divinely,” said Gouraud, noticing a certain solemnity on the pock-marked face of the old maid.
+
+“I wanted very much to go out, but my little cousin is ill, and I cannot leave her.”
+
+“What is the matter with her?”
+
+“I don’t know; she had to go to bed.”
+
+Gouraud’s distrust was constantly excited by the results of his alliance with Vinet. Vinet controlled the paper, reigned as master, and took the revenues; the colonel, the responsible editor, earned little. Vinet and Cournant had done the Rogrons great services; Gouraud, a half-pay colonel, could do nothing. Who was to be deputy, chief authority, or consulted by the liberals? Vinet. Moreover, the colonel knew as well as Vinet the extent of Rogron’s passion for the beautiful Bathilde de Chargeboeuf; Rogron’s desire was intense; Bathilde’s voice made him tremble. Absorbed, Rogron hid his hopes. When the colonel hinted he might ask for her hand, Rogron turned pale and since then had shown coldness and even hatred to Gouraud.
+
+Thus Vinet reigned supreme in the Rogron household while the colonel had no hold there except by the hypothetical tie of his mendacious affection for Sylvie, whose feelings were unclear. When the lawyer told him of the priest’s manoeuvre and advised breaking with Sylvie to marry Pierrette, he flattered Gouraud’s foible; but after analyzing the advice, the colonel suspected his ally intended to separate him from Sylvie and, by exploiting her fears, throw the Rogron property into Mademoiselle de Chargeboeuf’s hands.
+
+Therefore, when left alone with Sylvie the colonel’s perspicacity immediately caught signs of her uneasiness. He saw she was on guard and had planned to see him alone. Suspecting Vinet of a trick, he attributed the conference to the lawyer and went instantly on guard, like in enemy territory—alert, listening, hand ready. The colonel never believed a woman’s word; when Sylvie said Pierrette had gone to bed before midday, he concluded Sylvie had locked her up in jealousy.
+
+“She is getting to be quite pretty, that little thing,” he said with an easy air.
+
+“She will be pretty,” replied Mademoiselle Rogron.
+
+“You ought to send her to Paris and put her in a shop,” continued the colonel. “She would make her fortune. The milliners all want pretty girls.”
+
+“Is that really your advice?” asked Sylvie in a troubled voice.
+
+“Good!” thought the colonel. “I was right. Vinet advised me to marry Pierrette just to spoil my chance with the old harridan. But,” he said aloud, “what else can you do with her? There’s that beautiful girl Bathilde de Chargeboeuf, noble and well-connected, reduced to single-blessedness—nobody will have her. Pierrette has nothing, and she’ll never marry. As for beauty, what is it? To me, for example, youth and beauty are nothing; haven’t I been a captain of cavalry in the imperial guard, carried my spurs into all the capitals of Europe, and known all the handsomest women of those cities? Don’t talk to me; youth and beauty are common and silly. At forty-eight,” he added a few years to match Sylvie’s, “after surviving the retreat from Moscow and that terrible campaign of France, a man is broken down; I’m nothing but an old fellow now. A woman like you would pet me and care for me, and her money, joined to my poor pension, would give me ease in my old days. I should prefer such a woman to a little minx who would worry me, thirty when I should be sixty with rheumatism. At my age a man calculates. Between ourselves, I should not wish to have children.”
+
+Sylvie’s face was an open book to the colonel during this tirade, and her next question proved Vinet’s perfidy.
+
+“Then you don’t love Pierrette?” she said.
+
+“Heavens! are you out of your mind, my dear Sylvie?” he cried. “Can those who have no teeth crack nuts? Thank God I’ve got some common-sense and know what I’m about.”
+
+Sylvie thus reassured resolved not to show her own hand, and thought herself very shrewd in putting her own ideas into her brother’s mouth.
+
+“Jerome,” she said, “thought of the match.”
+
+“How could your brother take up such an incongruous idea? Why, it is only a few days ago that, in order to find out his secrets, I told him I loved Bathilde. He turned as white as your collar.”
+
+“My brother! does he love Bathilde?” asked Sylvie.
+
+“Madly,—and yet Bathilde is only after his money.” (“One for you, Vinet!” thought the colonel.) “I can’t understand why he should have told you that about Pierrette. No, Sylvie,” he said, taking her hand and pressing it in a certain way, “since you have opened this matter” (he drew nearer to her), “well” (he kissed her hand), “let me tell you that I desire no wife but you. Though such a marriage may look like one of convenience, I feel, on my side, a sincere affection for you.”
+
+“But if I wish you to marry Pierrette? if I leave her my fortune—eh, colonel?”
+
+“But I don’t want to be miserable in my home, and in less than ten years see a popinjay like Julliard hovering round my wife and addressing verses to her in the newspapers. I’m too much of a man to stand that. No, I will never make a marriage that is disproportionate in age.”
+
+“Well, colonel, we will talk seriously of this another time,” said Sylvie, casting a glance upon him which she supposed to be full of love, though, in fact, it was a good deal like that of an ogress. Her cold, blue lips of a violet tinge drew back from the yellow teeth, and she thought she smiled.
+
+“I’m ready,” said Rogron, coming in and carrying off the colonel, who bowed in a lover-like way to the old maid.
+
+Gouraud determined to press on his marriage with Sylvie, and make himself master of the house; resolving to rid himself, through his influence over Sylvie during the honeymoon, of Bathilde and Céleste Habert. So, during their walk, he told Rogron he had been joking the other day; that he had no real intention of aspiring to Bathilde; that he was not rich enough to marry a woman without fortune; and then he confided to him his real wishes, declaring that he had long chosen Sylvie for her good qualities—in short, he aspired to be Rogron’s brother-in-law.
+
+“Ah, colonel, my dear baron! if nothing is wanting but my consent you have it with no further delay than the law requires,” cried Rogron, delighted to be rid of his formidable rival.
+
+Sylvie spent the morning in her room considering how the new household might be arranged: to build a second storey for her brother and furnish the rest for herself and her husband; but, true to old-maid suspicion, she resolved to test the colonel’s heart and morals and ensure Pierrette had no private intercourse with him. She was still suspicious and wanted to make sure that Pierrette had no private intercourse with the colonel.
+
+Pierrette came down before dinner to lay the table. Sylvie, forced to cook the dinner, had sworn at that “cursed Pierrette” for a spot she had made on her gown—wasn’t it plain that if Pierrette had done her own work Sylvie wouldn’t have got that grease-spot on her silk dress?
+
+“Oh, here you are, peekling? You are like the dog of the marshal who woke up as soon as the saucepans rattled. Ha! you want us to think you are ill, you little liar!”
+
+That idea—“You did not tell the truth about what happened in the square this morning, therefore you lie in everything”—was a hammer with which Sylvie battered the head and heart of the poor girl incessantly.
+
+To Pierrette’s astonishment Sylvie sent her to dress in her best clothes after dinner. Suspicion can make an old maid invent endlessly; Sylvie determined to consult Vinet after searching for evidence, and kept Pierrette near to judge by her face whether the colonel had told the truth.
+
+On this evening the Chargeboeuf ladies were the first to arrive. At Vinet’s advice Bathilde dressed more elaborately in blue velveteen, a transparent fichu, garnet pendants, ringlets, a coquettish jeannette at her throat, black satin slippers, gray silk stockings, and suede gloves, with queenly manners and girlish coquetry aimed at Rogron. Her mother, calm and dignified, shared an aristocratic insolence that preserved their caste spirit. Bathilde was intelligent, a fact Vinet had discovered during the ladies’ two-month stay at his house. When he had fathomed the mind of the girl, wounded by the fruitlessness of her beauty and youth and contemptuous of an age that worshipped money, Vinet exclaimed—
+
+“If I could only have married you, Bathilde, I should to-day be Keeper of the Seals. I should call myself Vinet de Chargeboeuf, and take my seat as deputy of the Right.”
+
+Bathilde had no vulgar idea in her marriage intentions. She did not marry to be a mother or merely to possess a husband; she married for freedom, to gain a responsible position, to be called “madame,” and to act as men act. Rogron was nothing but a name to her; she expected to make something of the fool—a voting deputy whom she would instigate; moreover, she longed to avenge herself on her family, who had taken no notice of a girl without money. Vinet had enlarged and strengthened her ideas by admiring and approving them.
+
+“My dear Bathilde,” he said, explaining women’s influence and the sphere in which she ought to work, “do you suppose that Tiphaine, a man of the most ordinary capacity, could ever get to be a judge of the Royal court in Paris by himself? No, it is Madame Tiphaine who has got him elected deputy, and it is she who will push him when they get to Paris. Her mother, Madame Roguin, is a shrewd woman, who does what she likes with the famous banker du Tillet, a crony of Nucingen, and both of them allies of the Kellers. The administration is on the best of terms with those lynxes of the bank. There is no reason why Tiphaine should not be judge, through his wife, of a Royal court. Marry Rogron; we’ll have him elected deputy from Provins as soon as I gain another precinct in the Seine-et-Marne. You can then get him a place as receiver-general, where he’ll have nothing to do but sign his name. We shall belong to the opposition if the Liberals triumph, but if the Bourbons remain—ah! then we shall lean gently, gently towards the centre. Besides, you must remember Rogron can’t live forever, and then you can marry a titled man. In short, put yourself in a good position, and the Chargeboeufs will be ready enough to serve us. Your poverty has no doubt taught you, as mine did me, to know what men are worth. We must make use of them as we do of post-horses. A man, or a woman, will take us along to such or such a distance.”
+
+Vinet ended by making Bathilde a small edition of Catherine de Medicis. He left his wife at home and every night visited the Rogrons with Madame and Mademoiselle de Chargeboeuf, arriving in the trappings of success: gold spectacles, a silk waistcoat, a white cravat, black coat, thin boots, and a gold watch. In place of the former pale, snarling Vinet, the present Vinet bore himself with the air and manner of a man of importance, certain of success, with the peculiar show of security belonging to lawyers who know the hidden places of the law. His sly little head was well-brushed, his chin well-shaved, giving him a mincing though frigid look that made him agreeable in a style akin to Robespierre. The bitterness and hatred that formerly actuated him had now turned into soft-spoken perfidy; the poison was transformed into anodyne.
+
+“Good-evening, my dear; how are you?” said Madame de Chargeboeuf, greeting Sylvie.
+
+Bathilde went straight to the fireplace, took off her bonnet, looked at herself in the glass, and placed her pretty foot on the fender that Rogron might admire it.
+
+“What is the matter with you?” she said to him, looking directly in his face. “You have not bowed to me. Pray why should we put on our best velvet gowns to please you?”
+
+She pushed past Pierrette to lay down her hat, which the latter took from her hand and held exactly as though she were a servant. No beast equals the gentle cruelty and disdain of a young woman who thinks herself superior in birth or fortune. The “Thank you, mademoiselle,” which Bathilde said to Pierrette was a poem in many strophes. She was named Bathilde, the other Pierrette. She was a Chargeboeuf, the other a Lorrain. Pierrette was small and weak, Bathilde tall and full of life. Pierrette lived on charity, Bathilde on her means. Pierrette wore a stuff gown with a chemisette, Bathilde made velvet undulate. Pierrette had skin and bone shoulders, Bathilde the finest shoulders in the department. Pierrette was Cinderella, Bathilde the fairy. Pierrette was to die a maid, Bathilde to be adored. The proud little Breton girl understood this tragic poem.
+
+“Good-evening, little girl,” said Madame de Chargeboeuf, in the tone of condescending grandeur which her pinched nose gave her.
+
+Vinet put the last touch to this sort of insult by looking fixedly at Pierrette and saying, in three keys, “Oh! oh! oh! how fine we are to-night, Pierrette!”
+
+“Fine!” said the poor child; “you should say that to Mademoiselle de Chargeboeuf, not to me.”
+
+“Oh! she is always beautifully dressed,” replied the lawyer. “Isn’t she, Rogron?” he added, turning to the master of the house, and grasping his hand.
+
+“Yes,” said Rogron.
+
+“Why do you force him to say what he does not think?” said Bathilde; “nothing about me pleases him. Isn’t that true?” she added, going up to Rogron and standing before him. “Look at me, and say if it isn’t true.”
+
+Rogron looked at her from head to foot, and gently closed his eyes like a cat whose head is being scratched.
+
+“You are too beautiful,” he said; “too dangerous.”
+
+“Why?”
+
+Rogron looked at the fire and was silent. Just then Mademoiselle Habert entered the room, followed by the colonel.
+
+Céleste Habert, now the common enemy, could only reckon Sylvie on her side; nevertheless, everybody present showed her the more civility and amiable attention because each was undermining her. Her brother, though no longer able to be on the scene of action, was well aware of what was going on, and as soon as he perceived that his sister’s hopes were killed he became an implacable and terrible antagonist to the Rogrons.
+
+Everyone will immediately picture Mademoiselle Habert when they know that if she had not kept an institution for young ladies she would still have had the air of a school-mistress. School-mistresses have a way of their own in putting on their caps. Just as old Englishwomen have acquired a monopoly in turbans, school-mistresses have a monopoly of these caps. Flowers nod above the framework, flowers that are more than artificial; lying by in closets for years the cap is both new and old, even on the day it is first worn. These spinsters make it a point of honor to resemble the lay figures of a painter; they sit on their hips, never on their chairs. When any one speaks to them they turn their whole busts instead of simply turning their heads; and when their gowns creak one is tempted to believe that the mechanism of these beings is out of order. Mademoiselle Habert, an ideal of her species, had a stern eye, a grim mouth, and beneath her wrinkled chin the strings of her cap, always limp and faded, floated as she moved. Two moles, rather large and brown, adorned that chin, and from them sprouted hairs which she allowed to grow rampant like clematis. And finally, to complete her portrait, she took snuff, and took it ungracefully.
+
+The company went to work at their boston. Mademoiselle Habert sat opposite Sylvie, with the colonel at her side opposite Madame de Chargeboeuf. Bathilde was near her mother and Rogron. Sylvie placed Pierrette between herself and the colonel; Rogron had set out a second card-table, in case other company arrived. Two lamps were on the chimney-piece between the candelabra and the clock, and the tables were lighted by candles at forty sous a pound, paid for by the price of the cards.
+
+“Come, Pierrette, take your work, my dear,” said Sylvie, with treacherous softness, noticing that the girl was watching the colonel’s game.
+
+She usually affected to treat Pierrette well before company. This deception irritated the honest Breton girl, and made her despise her cousin. She took her embroidery, but as she drew her stitches she still watched Gouraud’s play. Gouraud behaved as if he did not know the girl was near him. Sylvie noticed this apparent indifference and thought it extremely suspicious. Presently she undertook a grande misere in hearts, the pool being full of counters, besides containing twenty-seven sous. The rest of the company had now arrived; among them the deputy-judge Desfondrilles, who for the last two months had abandoned the Tiphaine party and connected himself more or less with the Vinets. He was standing before the chimney-piece, with his back to the fire and the tails of his coat over his arms, looking round the fine salon of which Mademoiselle de Chargeboeuf was the shining ornament; for it really seemed as if all the reds of its decoration had been made expressly to enhance her style of beauty. Silence reigned; Pierrette was watching the game, Sylvie’s attention was distracted from her by the interest of the grande misere.
+
+“Play that,” said Pierrette to the colonel, pointing to a heart in his hand.
+
+The colonel began a sequence in hearts; the hearts all lay between himself and Sylvie; the colonel won her ace, though it was protected by five small hearts.
+
+“That’s not fair!” she cried. “Pierrette saw my hand, and the colonel took her advice.”
+
+“But, mademoiselle,” said Céleste, “it was the colonel’s game to play hearts after you began them.”
+
+The scene made Monsieur Desfondrilles smile; his was a keen mind, which found much amusement in watching the play of all the self-interests in Provins.
+
+“Yes, it was certainly the colonel’s game,” said Cournant the notary, not knowing what the question was.
+
+Sylvie threw a look at Mademoiselle Habert—one of those glances which pass from old maid to old maid, feline and cruel.
+
+“Pierrette, you did see my hand,” said Sylvie, fixing her eyes on the girl.
+
+“No, cousin.”
+
+“I was looking at you all,” said the deputy-judge, “and I can swear that Pierrette saw no one’s hand but the colonel’s.”
+
+“Pooh!” said Gouraud, alarmed, “little girls know how to slide their eyes into everything.”
+
+“Ah!” exclaimed Sylvie.
+
+“Yes,” continued Gouraud. “I dare say she looked into your hand to play you a trick. Didn’t you, little one?”
+
+“No,” said the truthful Breton, “I wouldn’t do such a thing; if I had, it would have been in my cousin’s interests.”
+
+“You know you are a story-teller and a little fool,” cried Sylvie. “After what happened this morning do you suppose I can believe a word you say? You are a—”
+
+Pierrette did not wait for Sylvie to finish her sentence; foreseeing a torrent of insults, she rushed away without a light and ran to her room. Sylvie turned white with anger and muttered between her teeth, “She shall pay for this!”
+
+“Shall you pay for the misere?” said Madame de Chargeboeuf.
+
+As she spoke Pierrette struck her head against the door of the passage which some one had left open.
+
+“Good! I’m glad of it,” cried Sylvie, as they heard the blow.
+
+“She must be hurt,” said Desfondrilles.
+
+“She deserves it,” replied Sylvie.
+
+“It was a bad blow,” said Mademoiselle Habert.
+
+Sylvie thought she might escape paying her misere if she went to see after Pierrette, but Madame de Chargeboeuf stopped her.
+
+“Pay us first,” she said, laughing; “you will forget it when you come back.”
+
+The remark, based on the old maid’s trickery and her bad faith in paying her debts at cards, was approved by the others. Sylvie sat down and thought no more of Pierrette—an indifference which surprised no one. When the game was over, about half past nine o’clock, she flung herself into an easy chair at the corner of the fireplace and did not even rise as her guests departed. The colonel was torturing her; she did not know what to think of him.
+
+“Men are so false!” she cried as she went to bed.
+
+Pierrette had given herself a frightful blow on the head, just above the ear, at the spot where young girls part their hair when they put their “front hair” in curlpapers. The next day there was a large swelling.
+
+“God has punished you,” said Sylvie at the breakfast table. “You disobeyed me; you treated me with disrespect in leaving the room before I had finished my sentence; you got what you deserved.”
+
+“Nevertheless,” said Rogron, “she ought to put on a compress of salt and water.”
+
+“Oh, it is nothing at all, cousin,” said Pierrette.
+
+The poor child had reached a point where even such a remark seemed to her a proof of kindness.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+The week ended as it had begun: continual torment. Sylvie grew more inventive in her cruelty. Pierrette, too proud and stubborn to complain, bore vague and acute pains alone, thinking always of Brigaut — fearing for him if discovered, comforted that he was nearby in Provins. The single glimpse she had caught of him lingered like the exile’s look at his country or the martyr’s look to heaven.
+
+Brigaut, moved by the same hunger to communicate, contrived a simple plan: Pierrette should lower letters on a string from her window at a set hour. In the market one morning he managed, with coolness belying the excitement in his blood, to slip a note to her while pretending to buy fruit. Pierrette hid it in her apron, cheeks aflame. These two children, scarcely aware of the depth of their feelings, carried more emotion between them than many adult lovers. Sylvie, who did not notice Brigaut’s Breton accent, paid him no heed.
+
+That night Pierrette read Brigaut’s letter, in which he begged her to let down a string at midnight so they could exchange notes, called her the victim of “monsters,” invoked their Breton past, vowed to earn enough to take her back home, said he had 150 francs and could send money by the string, and begged her to pray with him in church. The letter filled Pierrette with hope; it was a balm in her misery.
+
+After much courage she went to the dining-room to steal pen, paper, and ink, and wrote to him in return. Her letter was a simple outpouring: she declared him and her grandmother the only people she loved, described the brutal treatment she suffered — made to scrub pots, to do work that marred her hands, scolded and treated like a dog — and begged him to rescue her and return her to Pen-Hoël, to the only happy memories of sliding on the pond and the “big pong.” She confessed bad pains in her head and body, hid her tears, and asked if he would love her always. She weighted her note with a crust of bread and lowered it at midnight. Brigaut broke the string to take her letter and then lingered beneath her window; they signaled to one another in the candlelight for over an hour before parting.
+
+Next day Pierrette rose transformed — light, joyful — a change Sylvie observed with the sharp jealousy of an old maid. At dinner she accused the girl of feigning illness or having a lover, ordered her to sit in the dining-room with a candle, and watched her closely. Pierrette endured; Brigaut’s promised nightly visits kept her alive. One midnight Brigaut left a new note explaining a signal — an owl-cry he had learned from his father — and said he would return in a few days with good news, even hinting at measures to liberate her. Brigaut also wrote secretly to Madame Lorrain in Nantes, begging her to come for her granddaughter and to justify herself against the rumor that she had taken Pierrette’s money; Brigaut feared the grandmother might be dead.
+
+Pierrette clung to Brigaut’s assurances as to a desert traveler seeing a palm-tree at last. But Sylvie had grown suspicious. She had seen a figure under the window and then, alarmed, discovered Pierrette’s cord and began spying as relentlessly as any customs officer. Pierrette, foreseeing danger, sewed the letters into her corset and covered them. That seemed to end the lovers’ nightly meetings.
+
+Sylvie spent three nights awake, then sent Pierrette to confession and searched the garret, finding nothing; and her resentment hardened into a cruel watchfulness. Pierrette’s pains grew worse; she developed a regular fever. One Sunday evening, midst a salon game, Pierrette fainted. The colonel caught and carried her to a sofa. Sylvie sneered that it was a trick, and in front of guests forced Pierrette to unfasten her gown; when Sylvie felt papers in the corset she pretended outrage, calling the girl a hypocrite. Afterwards she detained Vinet, a lawyer and an ally, and revealed through him her determination never to marry the colonel. Vinet, pragmatic and selfish, advised Sylvie to secure power and property by other means: find a rich wife for Rogron, or force bargains that would leave Pierrette with nothing. He hinted that the colonel was a gambler whose recklessness would ruin him unless he married a fortune. This conversation planted schemes of revenge and deprivation in Sylvie’s mind.
+
+That night, three owl-like cries echoed in the square. Pierrette, feverish, opened her window at the signal and lowered a ball of silk. Sylvie, awake and frantic, heard the noise, raced upstairs, and surprised Pierrette unfastening the cord. A violent struggle followed. Pierrette clenched the letter in her hand; Sylvie grabbed and twisted the child’s arm, dug her nails in, and— in a frenzy — even bit the wrist, trying to force the hand open. Pierrette screamed, “Help! help! they are murdering me!” The scene was a grotesque contest between stoic innocence and savage jealousy; Pierrette’s firm resistance was like a martyr’s. Exhausted and bleeding, she cried aloud.
+
+At that instant loud knocks sounded at the front door. Rogron, alarmed, opened; Brigaut rushed in, followed by a tall gray woman — Pierrette’s grandmother — whose sudden appearance changed everything. Seeing the corset Sylvie had already torn, and the bloody hand, the old woman carried Pierrette away in her arms to Frappier’s cabinet-maker’s house nearby, where Brigaut and the Frappiers improvised a bed. Pierrette fainted; the letter fell from her loosened fingers.
+
+The grandmother’s presence cowed Sylvie. She had come from Pen-Hoël, having received Brigaut’s urgent letter. The old Breton woman — solemn, with a spare, parchment face and glittering old eyes — felt in an instant what Pierrette had endured. She swore, knelt upon the bricks in a vow, and demanded that Brigaut fetch the best doctor in Paris. Producing banknotes — forty-two thousand francs recently given her by a repentant creditor, Monsieur Collinet, to reimburse past losses — she offered funds for immediate care. Brigaut rode off by diligence for Bianchon in Paris, as Martener, the local doctor, suggested.
+
+Madame Lorrain’s story must be briefly told. Living in Saint-Jacques in Nantes after heavy family losses, she had lately received a sudden reparation from Monsieur Collinet, who, after making his fortune in America, restored both principal and interest totalling about forty-two thousand francs to her late husband’s creditors and added to pay some remaining debts. She planned to fetch Pierrette and marry her to Brigaut. It was upon reading Pierrette’s letter enclosed with Brigaut’s that she set out at once.
+
+Back at Frappier’s, Martener examined Pierrette and found an abscess above the left ear; the bruised hand could not have been self-inflicted. He urged full disclosure of the maltreatment and awaited the Paris physician’s arrival while prescribing a quieting draught: Pierrette needed sleep. Left to her grandmother, the child told everything — the endless scolding, the heavy labor, the insults, the scalded and injured hands, the hunger for the Breton home — all the details that would later serve in a judicial inquiry. The grandmother’s knowledge of Pierrette’s suffering and her promises of security soothed the girl.
+
+Meanwhile Sylvie, stunned and perplexed by the grandmother’s sudden might and by Brigaut’s letters which she had read after ripping open the corset, slept in uneasy bewilderment, not foreseeing where her spite would lead. The colonel, meanwhile, intercepted by Vinet’s schemes and threatened by the prospect of political and marital entanglements, found himself at odds with those around him. Vinet and Sylvie plotted to secure property and influence; the colonel, warned and enraged, demanded a rich wife before elections or threatened consequences.
+
+At Frappier’s Pierrette lay half-dead, her fingers unbent and bloodied, while those who loved her — Brigaut, Madame Lorrain, the Frappiers — stood silent. The grandmother, who had fetched the money that would make rescue possible, clasped her hands and resolved to complain to the authorities and to secure proper care. Monsieur Martener, convinced this was no mere youthful pretence, prepared to consult with the best surgeon available. Brigaut had already left for Paris to fetch Bianchon.
+
+Thus the little drama — love, spying, cruelty, and rescue — reached a decisive moment. Pierrette, exhausted by the physical consequences of her courage, sank into a sleep made safe by her grandmother’s presence and a soothing draught. The old woman watched her with a reverent tenderness, kissing the forehead, hair, and hands of the child she had come to reclaim, while the others, stunned and ashamed, anticipated the legal and moral reckonings to come.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+At nine that morning Monsieur Martener went to Monsieur Tiphaine and recounted the scene between Pierrette and Sylvie, the moral and physical tortures the Rogrons had inflicted, and the two alarming illnesses their cruelty had produced. Tiphaine summoned Auffray the notary, one of Pierrette’s maternal relatives.
+
+At this moment the feud between the Vinet and Tiphaine parties was intense. The Rogrons’ followers had been spreading scandalous stories about Madame Tiphaine’s mother’s liaison with the banker du Tillet and her father’s bankruptcy; such wounds cut deep. In Provins, private grudges were seized and magnified into public, often partisan, debates.
+
+Tiphaine saw in Pierrette’s case a chance to humiliate the Rogrons, hosts of the salon where anti-monarchist plans and an opposition journal were born. The public prosecutor was notified; together with Auffray and Martener a secret consultation decided to have Auffray appointed guardian so he could convene a Family Council and, backed by three doctors’ testimony, demand Pierrette’s release from the Rogrons. The public prosecutor, Lesourd, would push the matter toward a criminal inquiry.
+
+By midday the town buzzed with the news. Pierrette’s faint cries from the night before became horror. A crowd gathered at Frappier’s shop as he told how Pierrette had been brought to him with broken fingers and a bloody hand. Doctor Bianchon’s post-chaise arrived about one; Martener and the hospital surgeon were summoned. The Rogrons were accused of deliberate ill-treatment and nearly killing their cousin.
+
+Vinet, at the law courts, rushed to the Rogrons. Sylvie, evasive about the night, admitted nothing until pressed. Vinet warned that they might face criminal charges depending on Pierrette’s injuries. Under questioning Sylvie confessed jealousy and, painfully, that her suspicions were baseless. Vinet used their terror to his advantage, insisting he needed a strong motive to represent them publicly; they contrived Rogron’s immediate marriage to Mademoiselle de Chargeboeuf, to be announced that day and with banns posted Sunday. Sylvie agreed to appear in the marriage contract as assigning her capital to her brother, retaining the income. Vinet urged antedating the contract to bind the Chargeboeufs publicly and preserve their visits. He promised to take their defense if they signed.
+
+By noon the lawyer had full authority to draw the contract and defend the Rogrons. At twelve a petition was made to Monsieur Tiphaine, sitting in chambers, against Brigaut and the widow Lorrain for abducting the minor Pierrette from her guardian’s house—turning the defenders into complainants. The judge postponed the hearing till four; Tiphaine wanted Auffray at the hearing with the doctors’ report.
+
+The marriage announcement and Sylvie’s sacrifices alienated two supporters, Mademoiselle Habert and the colonel, who ostentatiously remained with the Rogrons but intended to hurt them. When Martener mentioned Pierrette’s head injury, Celeste and the colonel told of a blow Pierrette had given herself the evening she was forced to leave the salon and related Mademoiselle Rogron’s heartless remarks. Vinet had foreseen this opposition, but he had secured the Rogrons’ fortune for Mademoiselle de Chargeboeuf and planned to use that alliance to dominate Provins socially and politically.
+
+From midday to four the Tiphaine circle checked on Pierrette. She, suffering, was unaware of the tumult; she found consolation in being reunited with her grandmother and Brigaut. Bianchon protested vehemently at such barbarity and insisted all town physicians examine the case; Dr. Neraud, friend of the Rogrons, was present. The unanimous report explained Pierrette’s malady—a sadly common but horrifying condition—and attributed it to ill-treatment.
+
+At four, President Tiphaine took his seat. Madame Lorrain, Auffray, Brigaut and others entered the court; Vinet alone faced them. He claimed two strangers had forced entry into the Rogron home and abducted the minor. Auffray, as surrogate guardian, presented the physicians’ report—signed by a Paris authority and all Provins doctors—asserting that Pierrette’s near-fatal condition resulted from ill-treatment by Rogron and his sister. Auffray asked that Pierrette not be returned to the guardian’s household but remain with a family member designated by the judge and proposed convening a Family Council to consider deposing the guardian.
+
+Vinet objected that he had not seen the report to rebut it. The judge replied that the report might have been submitted to the procureur du roi; the case was heard. Tiphaine’s order forbade returning Pierrette to her guardian until the Family Council met, commissioned the attending physician and the hospital surgeon to inspect her, and stipulated that if her injuries became alarming the criminal courts would take up the matter, without prejudice to Auffray’s civil suit.
+
+Vinet scoffed, calling it fuss over a girl supposedly in an intrigue with an apprentice. He left to rally his party, arguing the Tiphaines made an unjust spectacle of Rogron. To his supporters, Sylvie’s intervention to seize letters and her supposed severity were natural; Rogron bore limited responsibility. Vinet added political color, casting the dispute as partisan.
+
+Frappier’s house was later judged unsuitable for Pierrette; she was moved to Auffray’s with care and ostentation. Laid on a stretcher, accompanied by a Gray Sister and her grandmother, she passed under many windows, her pallor advantaging the Auffrays’ case. Installed on the second floor, with Martener and the hospital surgeon attending, Pierrette was tenderly cared for.
+
+That evening exaggerations grew on both sides. The Rogron salon was crowded; Vinet had rallied the Liberals, the Chargeboeuf ladies dined with the Rogrons to sign the contract. He downplayed the Pierrette episode, confident the Royal courts would vindicate them; to some the Chargeboeuf alliance wiped the Rogrons’ slate clean and painted Pierrette as depraved. In Madame Tiphaine’s salon, vengeance for past slanders was taken out on the Rogrons, now monsters to be tried. Journalists offered opposing accounts: one skilled article suggested no case existed; the Rogron paper hesitated lest it slander, advising patience for the law.
+
+The Family Council, selected by the juge de paix, included Rogron and the two Auffrays as nearest relatives, Monsieur Ciprey (maternal nephew), Mademoiselle Habert, Pierrette’s confessor, and Colonel Gouraud, a friend of her father. The judge’s choice seemed impartial, Habert and Gouraud being considered Rogron friends. Rogron requested Vinet for the council, thereby postponing it until late December when Tiphaine would be in Paris, a tactic by Vinet to delay and influence the outcome.
+
+Vinet spoke three hours before the council, trying to prove an alleged intrigue between Pierrette and Brigaut to justify Sylvie’s severity, and portraying the guardian’s delegation of duties as natural. Despite his efforts the Council unanimously removed Rogron’s guardianship; Auffray became guardian and Ciprey surrogate. Testimony included Adele the servant against her former masters, Mademoiselle Habert recounting Mademoiselle Rogron’s cruel remarks, and Brigaut’s letter from Pierrette describing her ill-treatment. The council concluded Pierrette’s illness resulted from neglect by the guardian, and the case would proceed publicly. Rogron, advised by Vinet, opposed the council’s report being accepted by the court. Authorities intervened as Pierrette’s condition worsened; the trial, placed on the docket, was postponed until March 1828.
+
+Meanwhile Rogron married Mademoiselle de Chargeboeuf; Sylvie moved to the second floor to share with her. Madame Rogron supplanted Madame Tiphaine socially. Tiphaine, backed by Nucingen and du Tillet, advanced to civil judge and moved to Paris; his son inherited and sold the Provins house—evidence, in Vinet’s narrative, of Tiphaine’s contempt for the town. The promotion had little benefit to the Vinet faction, but Vinet exploited the events politically. Thus the brutal martyrdom Pierrette endured—leading to the trepanning performed by Martener under Bianchon’s advice—was mired in legal delay by an unscrupulous lawyer while Pierrette languished in agonizing pain.
+
+Martener and the Auffrays grew fond of Pierrette and her grandmother, whose Roman steadiness impressed them. Martener, who had begun his career in Paris but returned to provincial life, devoted himself to curing her, treating her as a poem of suffering. His dedication influenced the Auffrays’ household to be reverent and quiet; even the children kept silence for her sake. The Auffray house, on a terrace beneath the chateau ruins overlooking the valley, became her refuge. Pierrette’s room above Auffray’s study allowed her to see the valley, a landscape she had rarely known.
+
+Brigaut, unable to work, visited thrice daily, sorrowful and faithful. The grandmother, concealing her despair to comfort Pierrette, made her a Breton cap that recalled the girl’s earlier, happier life. Pierrette’s delicate features, pale skin and serious expression rendered her an embodiment of melancholy; all served her with devotion. Madame Martener sent a piano to amuse her; music transfixed her as she listened, resigned yet touching. Her religious comforters admired her saintly resignation, the kind of serene departure that convinces even skeptics.
+
+Martener corresponded with Bianchon and sought to drain the abscess; periodic improvements—a better appetite, some color—cheered them, but the head disease remained grave. Bianchon came from Paris with the celebrated Desplein, who warned Martener that only a miracle could save the child: caries of the bone had begun and, at her age, bones were fragile. The operation was performed in early March 1828 by the great surgeon, but Desplein cautioned the odds. Martener had even proposed a daring procedure akin to lithotrity—passing a hollow instrument into the head—that Desplein refused. Returning from Paris, Martener announced to the Auffrays, Madame Lorrain, the priests and Brigaut that science could do no more; recovery was in God’s hands. They responded with masses and vows.
+
+While Pierrette lay dying, Vinet calumniated her in court. The judge accepted the Family Council’s report; Vinet appealed. The procureur du roi required further evidence, including testimony from Pierrette. When Desfondrilles came to the Auffrays to receive it, Pierrette was dying, with her confessor near for extreme unction. She begged forgiveness for her cousins, saying judgment belonged to God; she told her grandmother to leave all to Brigaut and to give Adele a thousand francs, insisting if Adele had stayed with the Rogrons she would not be dying.
+
+At three o’clock on the Tuesday of Easter week, on a bright day, Pierrette died. Her grandmother kept vigil through the night and sewed her shroud with stiff fingers. Brigaut went to Frappier’s to make the coffin. Frappier watched as Brigaut planed, his plane cutting ribbons of wood wet with tears. He fashioned the coffin alone and lined it with lead; by chance the lead cost exactly the sum Pierrette had given Brigaut for her journey—the coincidence overwhelmed him. He burned his tools, settled his accounts, and bid farewell, his grief making him a participant in the awful finale of the Rogrons’ tyranny.
+
+At the Auffray home, the room where Pierrette lay was crowded. Rogron’s emissaries stood near the body, and the surgeon in a dissecting apron prepared instruments. Madame Lorrain, on her knees, cried out; she believed they intended to open the body and cut into her head as they had when she was alive. Brigaut, who had just brought the coffin, seized a chisel, threatened the men, and swore he would kill any who touched her. Auffray and the curate tried to restrain him; the lawyers and doctors left. The plumber soldered the lead to make the coffin less likely to be opened. With Pierrette dead, the guardianship suit collapsed; Rogron did not dare attend her funeral.
+
+Brigaut left Provins and walked to Paris, petitioned the Dauphiness to join the Royal guard and was admitted. When the Algerian expedition opened he sought service and rose: he became sub-lieutenant, then advanced; he distinguished himself and rose to major, later receiving a commission as an officer—always taciturn, solitary, trusted, and never wounded. He inherited forty-six thousand francs from old Madame Lorrain, who died in Paris in 1829.
+
+In public life, Vinet rose: elected deputy in 1830, later procureur-general; his influence secure, he remained in power. Rogron became receiver-general in the same town where Vinet held legal functions; Tiphaine, after aligning with the July dynasty, became president of the Royal court there. The ex-beautiful Madame Tiphaine and Madame Rogron lived amicably; Vinet was close with Tiphaine. Rogron, declining in health and witless, made absurd remarks; Sylvie managed his property, lent money at high interest, and lived frugally.
+
+General Baron Gouraud married Mademoiselle Matifat, daughter of a druggist, as Vinet had arranged; he became a departmental commander and was later made peer of France for his conduct during the riots under Casimir Perier, rewarded for seizing Saint-Merry. None of those involved in Pierrette’s death showed remorse. Desfondrilles, to further his prospects, was installed as president of the Provins court through Vinet’s efforts. Sylvie maintained a small circle.
+
+Over time locals would downplay the scandal. Travelers returning from Paris, who had visited Mademoiselle Rogron, heard laments of a supposed slanderous story about a ward; officials like Desfondrilles would dismiss it as prejudice and tell softened versions that blamed poor constitution or an imprudent liaison. Frappier was mocked as given to his wine; Habert’s motives were dismissed as personal.
+
+Two men remembered Pierrette daily: Doctor Martener and Major Brigaut; they alone knew the hideous truth. To give full scale to that truth one thinks of Beatrice Cenci—another young woman condemned by intrigues like those that destroyed Pierrette. As in those cases, legality serves scoundrelism unless one believes in a higher justice.
+
+ADDENDUM
+
+The following personages appear in other stories of the Human Comedy:
+
+Bianchon, Horace — appears in many works including Father Goriot, Lost Illusions, Cesar Birotteau, and others.
+Brigaut, Major — The Chouans.
+Desplein — appears in The Atheist’s Mass, Cousin Pons, Lost Illusions, and others.
+Gouraud, General, Baron — Cousin Pons.
+Keller, Adolphe — The Middle Classes; Cesar Birotteau.
+Matifat, Mademoiselle — Cesar Birotteau; The Firm of Nucingen.
+Montriveau, General Marquis Armand de — appears in several works including The Thirteen and Father Goriot.
+Nucingen, Baron Frederic de — appears in The Firm of Nucingen, Father Goriot, Lost Illusions, and others.
+Roguin — appears in Cesar Birotteau; Eugenie Grandet; others.
+Roguin, Madame — appears in Cesar Birotteau and other tales.
+Tillet, Ferdinand du — appears in Cesar Birotteau, The Firm of Nucingen, and others.
+Tiphaine, Madame — The Vendetta.
+Vinet — appears in The Member for Arcis; The Middle Classes; Cousin Pons.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
+###### MIDDLE OF THE STORY. ######
+############# MIDDLE OF THE STORY. #############
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################

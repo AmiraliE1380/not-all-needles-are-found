@@ -111,7 +111,7 @@ def take_quizes_diff_lengths():
     
     # for i in range(10):
     # for i in range(8,10):
-    for i in [0]:
+    for i in [1,2,3,8,9]:
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
         # grades.append([])
         # for j in [9]:
