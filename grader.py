@@ -51,17 +51,17 @@ def grade_quiz_distributed_facts(
 if __name__ == "__main__":
     model = 'claude-haiku-4-5'
     context_length = 200
-    for i in range(10):
-        for j in range(10):
-            for hallucination_version in [
-                                      "",
-                                      "_no_hallucination"
-                                      ]: 
-                addr = f"logs/quiz_responses_{context_length}k_length_{(i+1)*10}%_factloc_{5+j*10}_{model}"
-                addr += hallucination_version
-                print(f'Grading {addr}')
-                print(grade(addr))
+    # for i in range(10):
+    #     for j in range(10):
+    #         for hallucination_version in [
+    #                                   "",
+    #                                   "_no_hallucination"
+    #                                   ]: 
+    #             addr = f"logs/quiz_responses_{context_length}k_length_{(i+1)*10}%_factloc_{5+j*10}_{model}"
+    #             addr += hallucination_version + ".txt"
+    #             print(f'Grading {addr}')
+    #             print(grade(addr))
     
-    # grade_quiz_distributed_facts(
-    #     model=model
-    # )
+    grade_quiz_distributed_facts(
+        model=model
+    )

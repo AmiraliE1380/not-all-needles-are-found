@@ -180,9 +180,13 @@ def take_distributed_facts_quizzes():
 
         # take both versions of the quiz: with and without hallucination instruction
         for hallucination_version in [
-                                      "",
+                                    #   "",
                                       "_no_hallucination"
                                       ]:
+            if "200k_distributed_arcsine" not in id:
+                continue
+
+
             cached_quiz_addr = cached_quiz_dir + f"/{id}{hallucination_version}.txt"
 
             if os.path.exists(cached_quiz_addr):
