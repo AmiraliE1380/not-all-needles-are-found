@@ -6,9 +6,9 @@ import os
 import time
 
 # model = "gpt-5"  # default model to use for chat_with_model
-model = "claude-haiku-4-5"  # default model to use for chat_with_model
+model = "gemini-2.5-flash"  # default model to use for chat_with_model
 grading_model = "gpt-5-mini"  # model to use for grading
-max_context_length = 200 # number of thousands of tokens
+max_context_length = 1000 # number of thousands of tokens
 
 
 MIDDLE_OF_STORY = (
@@ -109,10 +109,9 @@ def take_quizes_diff_lengths():
     from 0.1 to 0.9 with step 0.1.
     """
     
-    # for i in [6]:
     # for i in range(10):
     # for i in range(8,10):
-    for i in [9]:
+    for i in [0]:
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
         # grades.append([])
         # for j in [9]:
@@ -219,5 +218,5 @@ def take_distributed_facts_quizzes():
         
 
 if __name__ == "__main__":
-    # take_quizes_diff_lengths()
-    take_distributed_facts_quizzes()
+    take_quizes_diff_lengths()
+    # take_distributed_facts_quizzes()

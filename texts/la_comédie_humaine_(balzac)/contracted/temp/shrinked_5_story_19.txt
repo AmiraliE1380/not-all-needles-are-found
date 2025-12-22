@@ -1,877 +1,158 @@
-GOBSECK
+Produced by Dagny
+
+THE ATHEIST'S MASS
 
 By Honore De Balzac
 
-Translated By Ellen Marriage
+Translated by Clara Bell
 
+This is dedicated to Auguste Borget by his friend De Balzac
 
-DEDICATION
+THE ATHEIST'S MASS
 
-To M. le Baron Barchou de Penhoen.
+Bianchon, a physician who contributed a notable theoretical physiology and early made a name at the Paris medical school, practised surgery long before taking up medicine. His earliest studies were guided by one of France’s greatest surgeons, the illustrious Desplein, who shone across science like a meteor. By common consent, he carried with him an incommunicable method. Like many geniuses, he left no heirs; his talent made no permanent trace. The glory of surgeons resembles that of actors: both are heroes of a moment, living only so long as they are alive.
 
-Among all the pupils of the Oratorian school at Vendome, we are, I think, the only two who have afterwards met in mid‑career of a life of letters—we who once were cultivating Philosophy when by rights we should have been minding our De viris. When we met, you were engaged upon your noble works on German philosophy, and I upon this study. So neither of us has missed his vocation; and you, when you see your name here, will feel, no doubt, as much pleasure as he who inscribes his work to you.—Your old schoolfellow,
+Desplein illustrates how such transient genius fades outside its field. His name, once famous, will survive chiefly within his specialty. To reach general historical stature requires circumstances that lift a professor from scientific history to the broader human narrative. Did Desplein possess the universal command of knowledge that makes a man the living word, the great figure of an age? He had a godlike eye; by intuition—whether natural or acquired—he discerned the sufferer and the malady, determining the precise time to operate while accounting for atmospheric conditions and temperament. Whether he deduced this from studying assimilation of atmospheric elements or by analogy like Cuvier, he seemed to understand the human frame in past and future, emphasizing the present.
 
-1840                                            De Balzac.
+But he did not epitomize all science as Hippocrates, Galen, or Aristotle did, nor guide a whole school to new worlds. Though a persistent observer of human chemistry, acquainted with elements in fusion and causes of life, everything in him was personal. Isolated by egoism in life, that trait now harms his glory; on his tomb there is no proclaiming statue to imprint his discoveries on posterity.
 
+Perhaps Desplein’s genius accounted for his beliefs, and thus mortal. He saw the terrestrial atmosphere as a generative envelope and the earth as an egg within its shell; unable to decide whether egg or hen came first, he rejected both the antecedent animal and a surviving spirit. He had no doubts; he was positive. His bold atheism was like that of many scientific men—good men yet invincible atheists, the kind religious people deem impossible. Accustomed from youth to dissect humans before, during, and after life, he hunted through organs without finding the individual soul essential to religious theory. Finding cerebral and nervous centres and a centre for aerating the blood—the first two so complementary that in later years he came to think hearing and sight could be supplied by the solar plexus—he concluded, from detecting two "souls" in man, that atheism was confirmed, though that does not disprove God. He died impenitent, as many noble geniuses do.
 
-GOBSECK
+Desplein’s greatness was marred by many smaller contradictions, which enemies labeled meannesses. Envious fools, ignorant of the motives of superior spirits, seize superficial inconsistencies to condemn. If the actions succeed, showing correlation between preliminaries and results, some charges still linger. In our day, Napoleon was condemned for spreading his wings toward England; only later events explained earlier actions.
 
-It was one o’clock in the morning, during the winter of 1829–30, but in the Vicomtesse de Grandlieu’s salon two persons stayed on who did not belong to her family circle. A young and good‑looking man heard the clock strike and took his leave. When the carriage sounded in the courtyard, the Vicomtesse looked up, saw that only her brother and a family friend were finishing a game of piquet, and went to her daughter. The girl, standing by the chimney, apparently examining a transparent fire‑screen, was listening to the sounds with a look that justified maternal fears.
+Because Desplein’s glory and science were invulnerable, critics attacked his odd moods and temper; in truth he was eccentric. Sometimes handsomely dressed, sometimes indifferent to attire; sometimes in a carriage, sometimes on foot; by turns rough and kind, harsh and covetous on the surface yet capable of offering his whole fortune to exiled patrons—he provoked contradictory judgments. Though he would drop a prayer-book at Court to win a black ribbon, in his heart he mocked everything; after studying humanity from every angle, he held a deep contempt for men, seeing their genuine expression in both solemn and mean acts.
 
-“Camille,” said the Vicomtesse, “if you continue to behave to young Comte de Restaud as you have done this evening, you will oblige me to see no more of him here. Listen, child, and if you have any confidence in my love, let me guide you in life. At seventeen one cannot judge past or future, nor certain social considerations. I have only one thing to say. M. de Restaud has a mother, a mother who would waste millions of francs; a woman of no birth, a Mlle. Goriot; people talked a good deal about her at one time. She behaved so badly to her own father, that she certainly does not deserve to have so good a son. The young Count adores her, and maintains her in her position with dutifulness worthy of all praise, and he is extremely good to his brother and sister.—But however admirable his behavior may be,” the Vicomtesse added with a shrewd expression, “so long as his mother lives, any family would take alarm at the idea of intrusting a daughter’s fortune and future to young Restaud.”
+The qualities of a great man are often federative. Even if one has more talent than wit, his wit surpasses that of someone merely called "witty." Genius presupposes moral insight; who can see a flower can see the sun. A man who, on hearing a diplomat he saved ask, "How is the Emperor?" replies, "The courtier is alive; the man will follow!" shows not only medical skill but prodigious wit. Hence a student of human nature will accept Desplein’s exorbitant pretensions and believe—as Desplein believed—that he might have been as great a minister as a surgeon.
 
-“I overheard a word now and again in your talk with Mlle. de Grandlieu,” cried the family friend, “and it made me anxious to put in a word of my own.—I have won, M. le Comte,” he added, turning to his opponent. “I shall throw you over and go to your niece’s assistance.”
+Among the riddles of Desplein’s life we choose one whose answer appears at the end and will vindicate him against foolish charges.
 
-“See what it is to have an attorney’s ears!” exclaimed the Vicomtesse. “My dear Derville, how could you know what I was saying to Camille in a whisper?”
+Of all Desplein’s students, Horace Bianchon was among those the surgeon most warmly attached to. Before becoming a house surgeon at the Hôtel-Dieu, Bianchon had been a medical student lodging in the squalid Maison Vauquer in the Quartier Latin. He knew the gnawing of poverty, a crucible from which great talents emerge as pure as diamonds, able to endure shocks. In the fire of unbridled passions they acquire impeccable honesty and the habit of constant work to meet life’s battles.
 
-“I knew it from your looks,” answered Derville, seating himself in a low chair by the fire.
+Horace was upright, incapable of tergiversation on honor, direct, ready to pledge his cloak for a friend and give his time or nights. He was the kind of friend who expects nothing in return yet trusts that in time he will receive more than he gives. His friends respected him for unostentatious virtue and feared his censure. He made no pedantic display; neither puritan nor preacher, he could swear with grace while giving advice, and was always ready for a jollification. A jolly companion, frank and open as an honest man with nothing to hide, he walked with head erect and a content mind. In a word, Horace was the Pylades of more than one Orestes—creditors being modern Furies.
 
-Camille’s uncle went to her side, and Mme. de Grandlieu took up her position on a hearth stool between her daughter and Derville.
+He carried poverty cheerfully, an attribute of courage, and because he had nothing, he incurred few debts. Sober as a camel, active as a stag, he was steadfast in ideas and conduct.
 
-“The time has come for telling a story, which should modify your judgment as to Ernest de Restaud’s prospects.”
+His fortunate turn began when Desplein noticed both his qualities and his faults, which made Bianchon dear to friends. When a leading clinician takes a young man to his bosom, the young man gets his foot in the stirrup. Desplein did not fail to take Bianchon as assistant to wealthy houses where complimentary fees reached the student’s pocket and where Parisian life’s mysteries unfolded. He kept him at consultations, gave him occupation, and sometimes sent him with a rich patient to a watering-place; he was effectively building a practice for him. Over time the tyrant of surgery had a devoted ally. The two men—one at the summit of honor and fortune, the other a humble Omega without fortune or fame—became intimate friends.
 
-“A story?” cried Camille. “Do begin at once, monsieur.”
+Desplein confided in his house surgeon. Bianchon knew whether such or such a woman had sat near the master or on the famous couch in Desplein’s surgery, on which he slept. Bianchon knew the temperament, a mix of lion and bull, that swelled beyond measure and eventually caused the man’s death by heart degeneration. He studied the eccentricities of that busy life, the schemes of sordid avarice, and the politician who lurked behind the man of science; he could foresee mortifications awaiting the solitary sentiment hidden within a steeled heart.
 
-The glance that Derville gave the Vicomtesse told her that this tale was meant for her. The Vicomtesse de Grandlieu was one of the greatest ladies in the Faubourg Saint‑Germain, by her fortune and ancient name; and though it may seem improbable that a Paris attorney should speak so familiarly to her or be so much at home in her house, the fact is easily explained.
+Once Bianchon spoke to Desplein of a poor water-carrier of Saint-Jacques who had a horrible disease from fatigue and want; the man had eaten only potatoes during the winter of 1821. Desplein left his rounds and, at the risk of killing his horse, rushed off followed by Bianchon to remove the man to a sick house founded by Dubois in the Faubourg Saint-Denis. After curing him, Desplein gave him money to buy a horse and a water-barrel. The Auvergnat later took a sick friend to Desplein, saying, "I could not have borne to let him go to any one else!" Desplein grasped the man’s hand and said, "Bring them all to me."
 
-When Mme. de Grandlieu returned to France with the Royal family, she came to Paris, and at first lived entirely on the pension allowed her out of the Civil List by Louis XVIII.—an intolerable position. The Hotel de Grandlieu had been sold by the Republic. Derville discovered flaws in the title and thought it ought to return to the Vicomtesse. He instituted proceedings for nullity of contract, and won. Encouraged by this success, he used legal quibbles to such purpose that he compelled some institution to disgorge the Forest of Liceney. Then he won lawsuits against the Canal d’Orleans and recovered a tolerable amount of property the Emperor had endowed public institutions with. So it fell out that, thanks to the young attorney’s skilful management, Mme. de Grandlieu’s income reached some sixty thousand francs, to say nothing of vast sums returned to her by the law of indemnity. And Derville, a man of high character, well informed, modest, and pleasant in company, became the house‑friend of the family.
+Bianchon had noticed his chief’s predilection for Auvergnats and water-carriers, but because Desplein prided himself on cures at the Hôtel-Dieu, the pupil found nothing strange.
 
-By his conduct of Mme. de Grandlieu’s affairs he had fairly earned the esteem of the Faubourg Saint‑Germain, and numbered the best families among his clients; but he did not take advantage of his popularity, as an ambitious man might have. The Vicomtesse would have had him sell his practice and enter the magistracy, in which career advancement would have been swift and certain with such influence at his disposal; but he persistently refused all offers. He only went into society to keep up his connections, and occasionally spent an evening at the Hotel de Grandlieu. It was very lucky for him that his talents had been brought into the light by his devotion to Mme. de Grandlieu, for his practice otherwise might have gone to pieces. Derville had not an attorney’s soul. Since Ernest de Restaud had appeared at the Hotel de Grandlieu, and he had noticed that Camille felt attracted to the young man, Derville had been as assiduous in his visits as any dandy of the Chaussee‑d’Antin newly admitted to the noble Faubourg. At a ball only a few days before, when he happened to stand near Camille, and said, indicating the Count:
+One morning as he crossed the Place Saint-Sulpice, Bianchon saw his master enter the church about nine, on foot, slipping in by the door in Rue du Petit-Lion as if into a suspect house. Bianchon, curious and a devoted Cabaniste himself, stole into the church and was astonished to see the great Desplein—the atheist who had no mercy on angels—kneeling humbly in the Lady Chapel, staying through the mass, giving alms for the service costs and for the poor, looking as serious as a man supervising an operation.
 
-“It is a pity that yonder youngster has not two or three million francs, is it not?”
+"He has certainly not come here to clear up the question of the Virgin's delivery," Bianchon thought. "If he'd been holding a canopy rope on Corpus Christi it would be laughable; but alone at this hour—it's a marvel!"
 
-“Is it a pity? I do not think so,” the girl answered. “M. de Restaud has plenty of ability; he is well educated, and the Minister, his chief, thinks well of him. He will be a remarkable man, I have no doubt. ‘Yonder youngster’ will have as much money as he wishes when he comes into power.”
+Bianchon did not want to seem to be spying, so he left. Desplein asked him that day to dine at a restaurant. At dessert Bianchon steered conversation to the mass, calling it a farce.
 
-“Yes, but suppose that he were rich already?”
+"A farce," Desplein said, "which has cost Christendom more blood than all Napoleon’s battles and all Broussais’ leeches. The mass is a papal invention, not older than the sixth century, based on the Hoc est corpus. What floods of blood were shed to establish the Fête-Dieu, the Festival of Corpus Christi—Rome’s triumph in the question of the Real Presence, a schism which rent the Church for three centuries! The wars of the Count of Toulouse against the Albigenses were the tail end of that dispute. The Vaudois and the Albigenses refused this innovation."
 
-“Rich already?” repeated Camille, flushing. “Why all the girls in the room would be quarrelling for him,” she said, glancing at the quadrilles.
+Desplein thus delighted in atheistical vein, pouring out Voltairean satire or its poor imitation.
 
-“And then,” retorted the attorney, “Mlle. de Grandlieu might not be the one towards whom his eyes are always turned? That is what that red color means! You like him, do you not? Come, speak out.”
+"Hallo! where is my worshiper of this morning?" Bianchon thought.
 
-Camille suddenly rose to go.
+He said nothing; he doubted whether he had really seen Desplein at Saint-Sulpice. Desplein would not have lied; they had discussed systems de natura rerum before, probing them with the knife and scalpel of incredulity.
 
-“She loves him,” Derville thought.
+Three months passed. Bianchon did not pursue the matter though it remained in his memory. One day a physician of the Hôtel-Dieu, in Bianchon’s presence, asked Desplein bluntly, "What were you doing at Saint-Sulpice, my dear master?"
 
-Since that evening, Camille had been unwontedly attentive to the attorney, who approved of her liking for Ernest de Restaud. Hitherto, although she knew well that her family lay under great obligations to Derville, she had felt respect rather than real friendship for him; their relation was more a matter of politeness than of warmth of feeling; and by her manner, and by the tones of her voice, she had always made him sensible of the distance which socially lay between them. Gratitude is a charge upon the inheritance which the second generation is apt to repudiate.
+"I went to see a priest who has a diseased knee-bone, and to whom the Duchesse d'Angoulême did me the honor to recommend me," Desplein answered.
+
+The questioner took this for an answer; not so Bianchon. "Oh, he goes to see damaged knees in church!—He went to mass," he thought.
+
+Bianchon resolved to watch Desplein. He remembered the day and hour he had seen him entering Saint-Sulpice and resolved to be there the following year, same day and hour, to see if the phenomenon recurred. In such a man there should be no direct antagonism of thought and action.
+
+Next year, at that hour, Bianchon—by then no longer Desplein’s house surgeon—saw the surgeon’s cab at the corner of Rue de Tournon and Rue du Petit-Lion; Desplein crept along the wall of Saint-Sulpice and once more attended mass at the Virgin’s altar. The regularity complicated the mystery. After Desplein left, Bianchon went to the sacristan and asked whether the gentleman was a regular worshiper.
+
+"For twenty years that I have been here," the man replied, "M. Desplein has come four times a year to attend this mass. He founded it."
+
+"A mass founded by him!" Bianchon said as he left. "This is as great a mystery as the Immaculate Conception—an article enough to make a physician an unbeliever."
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-“This adventure,” Derville began after a pause, “brings to mind the only romantic affair of my life. You are laughing already; it seems ridiculous for an attorney to speak of romance. But once, at twenty-five, like everyone else, I had my strange experiences. I ought to begin by telling you about a man you could not have known. He was a usurer.
+Some time elapsed before Doctor Bianchon, though so intimate a friend, found an opportunity of speaking to Desplein of this incident of his life. Though they met in consultation or society, it was difficult to find a confidential hour when two men could tell each other their secrets. At last, seven years later, after the Revolution of 1830, when the mob invaded the Archbishop's residence and Republican agitators spurred them on to destroy the gilt crosses flashing like streaks of lightning in the immensity of the city, Bianchon once more detected Desplein going into Saint-Sulpice. The doctor followed him, and knelt down by him without any notice or demonstration of surprise. They both attended the mass he had founded.
 
-“Can you picture that sallow, wan face? I wish the Académie would let me call such faces lunar. It was like silver-gilt with the gilding worn off. His hair was iron-gray, sleek and carefully combed; his features might have been cast in bronze; Talleyrand would not have shown more impassiveness. Two little eyes, ferret-yellow, with scarcely an eyelash, peered from beneath a shabby cap as if afraid of light. His lips were thin, like the alchemists in Rembrandt; his nose so sharp it suggested a gimlet. His voice was low, always suave; he never lost his temper. His age was a puzzle; it was hard to tell whether he had prematurely aged or economized youth into longevity.
+"Will you tell me, my dear fellow," said Bianchon as they left the church, "the reason for your fit of monkishness? I have caught you three times going to mass—You! You must account to me for this mystery; explain such a flagrant disagreement between your opinions and your conduct. You do not believe in God, and yet you attend mass? My dear master, you are bound to give me an answer."
 
-“His room, from the green baize of the bureau to the strip of carpet by the bed, was as clean and threadbare as the chilly cell of an elderly spinster who spends her life rubbing her furniture. In winter the live brands smouldered in a bank of ashes; there was never a flame. He went through his day with pendulum regularity—rising, doing business, then coughing at night—like clockwork. He economized his heartbeats as Fontenelle spoke of saving words; he would stop mid-sentence at the rumble of a cart to save his voice. He concentrated human sensibility in the innermost sanctuary of Self.
+"I am like a great many devout people—men who on the surface are deeply religious, but quite as much atheists as you or I can be."
 
-“His life flowed soundlessly like sand in an hour-glass. His victims sometimes raged and made a noise, which afterward sank into silence; as after a fowl’s neck has been wrung. Toward evening this bill-of-exchange incarnate assumed human shape and his metals seemed to metamorphose into a heart. When satisfied with his day’s work he rubbed his hands; a mute play of muscle expressed a joy like the soundless laughter of Leatherstocking. Even in delight his conversation was monosyllabic; his face remained non-committal.
+He then poured out a torrent of epigrams on certain political personages, of whom the best known gives us, in this century, a new edition of Moliere's Tartufe.
 
-“This was the neighbor Chance set me beside in the Rue de Grès when I was a second clerk finishing my third year. The house was damp and dark, no courtyard; windows faced the street and the building, convent-like, was divided into equal cells opening on a long dim corridor. So gloomy was it that the buoyancy of eldest sons forsook them on the stairs before they reached my neighbor’s door. He and his room resembled each other; so does the oyster resemble its rock.
+"All that has nothing to do with my question," retorted Bianchon. "I want to know why you have just been doing that, and why you founded this mass."
 
-“I was the only person with whom he had social intercourse: he would ask for a light, borrow a book or a newspaper, and at evenings, in good humor, let me come into his cell and chat. These confidences were the fruit of four years’ neighborhood and my sober conduct. For want of pence I lived much as he did. Did he have relations? Was he rich or poor? Nobody answered. I never saw money in his room; doubtless his capital was in the Bank. He collected his bills on foot, running all over Paris on shanks as skinny as a stag’s. Once, when a double napoleon slipped from his fob, a lodger picked it up and returned it; he protested with startled surprise, ‘That isn’t mine! Mine indeed! If I were rich, should I live as I do!’ He made his own coffee on a cast-iron chafing-dish in the black corner of the grate; his dinner came from a cookshop; the porter’s wife tidied his room at an appointed hour. Chance—or providence, as Sterne might read it—had named him Gobseck. When I later did business with him, I learned he was about seventy-six then. Born circa 1740 near Antwerp, of a Dutch father and a Jewish mother, his name was Jean-Esther Van Gobseck. When I mentioned the famous murder case of La Belle Hollandaise, he answered without interest or surprise, ‘She is my grandniece.’
+"Faith! my dear boy," said Desplein, "I am on the verge of the tomb; I may safely tell you about the beginning of my life."
 
-“That was the only remark he made about the death of his last kin, his sister’s granddaughter—Sara Van Gobseck. Asked how she bore his name, he smiled, ‘The women never marry in our family.’ Singularly, he had never sought relatives among four generations of women. The thought of heirs was abhorrent; the idea of his wealth passing after his death inconceivable.
+At this moment Bianchon and the great man were in the Rue des Quatre-Vents, one of the worst streets in Paris. Desplein pointed to the sixth floor of one of the houses looking like obelisks, its narrow door opening into a passage with a winding staircase at the end, with windows appropriately termed 'borrowed lights'—jours de souffrance. It was a greenish structure; the ground floor occupied by a furniture-dealer, while each floor seemed to shelter a different and independent form of misery. Throwing up his arm with a vehement gesture, Desplein exclaimed:
 
-“He had been put aboard a ship at ten as a cabin-boy for the Dutch East Indies, and had knocked about there for twenty years. The inscrutable lines on his sallow brow hid horrors, sudden panics, great luck, neglected love, fortunes risked and recovered, death averted by swift, ruthless decisions made necessary by circumstance. He had known Admiral Simeuse, de Lally, de Kergarouet, d’Estaing, Bailli de Suffren, de Portenduère, Lord Cornwallis, Lord Hastings, Tippoo Sahib and his father. A bully of Mahadaji Sindhia had dealings with Gobseck. Long residence at St. Thomas brought him in touch with Victor Hughes and pirates. He had tried finding treasures in Buenos Aires’s neighborhood. He had personal knowledge of events of the American Revolution. If he spoke of the Indies or America—with me, and very rarely—he seemed to regard it as indiscretion and repented afterward. If humanity is a religion, Gobseck was an infidel; though I studied him, his nature was impenetrable to the end. I sometimes doubted his sex. If all usurers resembled him, they belonged to the neuter.
+"I lived up there for two years."
 
-“Did he keep his mother’s religion? Did he see Gentiles as prey? Had he become Catholic, Lutheran, Mohammedan, Brahmin? I never knew his creed; he seemed indifferent rather than incredulous.
+"I know; Arthez lived there; I went up there almost every day during my first youth; we used to call it then the pickle-jar of great men! What then?"
 
-“One evening I found the man who had turned to gold sitting motionless in his armchair, staring at the mantel-shelf as if reading the figures of his accounts. A lamp burned; his face, in the smoky light, appeared even paler. He pointed to a chair but said nothing.
+"The mass I have just attended is connected with events which took place when I lived in the garret where you say Arthez lived—the one with the window where the clothes-line hangs with linen over a pot of flowers. My early life was so hard, my dear Bianchon, that I may dispute the palm of Paris suffering with any man living. I have endured everything: hunger and thirst, want of money, want of clothes, of shoes, of linen—every cruelty that penury can inflict. I have blown on my frozen fingers in that pickle-jar of great men, which I should like to see again with you. I worked through a whole winter, seeing my head steam and perceiving the atmosphere of my own moisture as we see that of horses on a frosty day. I do not know where a man finds the fulcrum that enables him to hold out against such a life.
 
-“‘What thoughts can inhabit such a being?’ I thought. ‘Does he know God exists, feeling, woman, happiness?’ I pitied him like a diseased creature, while knowing that with millions at his command he possessed the world less in fact than in idea—the world he had explored, ransacked, weighed, appraised, and exploited.
+"I was alone, with no one to help me, no money to buy books or to pay the expenses of my medical training; I had not a friend; my irascible, touchy temper was against me. No one understood that this irritability was the distress and toil of a man at the bottom of the social scale struggling to reach the surface. Still, I had, if I may say so to you, a ground-bed of good feeling and keen sensitiveness which must always be the birthright of any man strong enough to climb to any height after long tramping in the bogs of poverty. I could obtain nothing from my family beyond an inadequate allowance. At that time I breakfasted on a roll the baker sold me cheap because it was left over, which I crumbled into milk; thus my morning meal cost me but two sous. I dined only every other day in a boarding-house where the meal cost sixteen sous. You know what care I took of my clothes and shoes. I hardly know whether in later life we feel grief so deep on detecting the mocking smile of a gaping seam in a shoe, or hearing the armhole of a coat split. I drank nothing but water; a café seemed a promised land where none but the Lucullus of the pays Latin had a right of entry. 'Shall I ever take a cup of coffee there with milk in it?' said I to myself, 'or play a game of dominoes?'
 
-“‘Good day, Daddy Gobseck,’ I began. He turned with a slight contraction of bushy black brows; that shade of expression in him meant more than the brightest smile elsewhere.
+"I threw into my work the fury I felt at my misery. I tried to master positive knowledge so as to acquire the greatest personal value and merit the position I should hold as soon as I could escape from nothingness. I consumed more oil than bread; the light I burned during those endless nights cost me more than food. It was a long duel, obstinate, with no consolation. I found no sympathy anywhere. To have friends, must we not form connections with young men, have a few sous to go tippling with them, and meet where students congregate? And I had nothing! And no one in Paris can understand that nothing means nothing. When I even thought of revealing my beggary, I had that nervous contraction of the throat which makes a sick man believe that a ball rises from the oesophagus into the larynx.
 
-“‘You look as gloomy as on the day that bookseller failed whom you admired so much, though you were one of his victims.’
+"In later life I have met people born to wealth who, never having wanted for anything, had never even heard this problem in the rule of three: A young man is to crime as a five-franc piece is to X.—These gilded idiots say to me, 'Why did you get into debt? Why involve yourself in such onerous obligations?' They remind me of the princess who, on hearing that the people lacked bread, said, 'Why do not they buy cakes?' I should like to see one of these rich men, who complain that I charge too much for an operation—yes, I should like to see him alone in Paris without a sou, without a friend, without credit, and forced to work with his five fingers to live at all! What would he do? Where would he go to satisfy his hunger?
 
-“‘One of his victims?’ he echoed, astonished.
+"Bianchon, if you have sometimes seen me hard and bitter, it was because I added my early sufferings to the insensibility and selfishness I have seen thousands of times in the highest circles; or perhaps I was thinking of the obstacles which hatred, envy, jealousy, and calumny raised up between me and success. In Paris, when certain people see you ready to set your foot in the stirrup, some pull your coat-tails, others loosen the buckle of the strap that you may fall and crack your skull; one wrenches off your horse's shoes, another steals your whip, and the least treacherous of them all is the man whom you see coming to fire his pistol at you point-blank.
 
-“‘Yes. You refused composition at the creditors’ meeting until he privately promised to pay you his debt in full; he gave you bills accepted by the insolvent firm; when he set up again, he paid you your dividend on those bills.’
+"You yourself, my dear boy, will become acquainted with the odious and incessant warfare waged by mediocrity against the superior man. If you should drop twenty-five louis one day, you will be accused of gambling on the next, and your best friends will report that you have lost twenty-five thousand. If you have a headache, you will be considered mad. If you are a little hasty, no one can live with you. If, to make a stand against this armament of pigmies, you collect your best powers, your best friends will cry out that you want everything, that you aim at domineering and tyranny. In short, your good points become your faults, your faults vices, and your virtues crime.
 
-“‘He was a sharp one, but I had it out of him.’
+"If you save a man, you will be said to have killed him; if he reappears, it will be positive that you secured the present at the cost of the future. Stumble, and you fall! Invent anything and claim your rights, you will be called crotchety, cunning, ill-disposed to rising younger men.
 
-“‘Have you bills to protest? Today is the thirtieth, I believe.’
+"So, you see, if I do not believe in God, I believe still less in man. But do you not know in me another Desplein, altogether different from the Desplein whom everyone abuses?—However, we will not stir that mud-heap.
 
-“It was my first speech to him about money. He looked up ironically and, in tones soft as a flute, said, ‘I am amusing myself.’
+"Well, I was living in that house, working hard to pass my first examination, and I had no money at all. I had come to one of those moments of extremity when a man says, 'I will enlist.' I had one hope. I expected from my home a box full of linen, a present from one of those old aunts who, knowing nothing of Paris, think of your shirts while imagining that their nephew with thirty francs a month is eating ortolans. The box arrived while I was at the schools; it had cost forty francs for carriage. The porter, a German shoemaker living in a loft, had paid the money and kept the box. I walked up and down the Rue des Fosses-Saint-Germain-des-Pres and the Rue de l'Ecole de Medecine without hitting on any scheme to release my trunk without payment of the forty francs, which of course I could pay as soon as I should have sold the linen. My stupidity proved to me that surgery was my only vocation. Refined souls, whose powers move in a lofty atmosphere, have none of that spirit of intrigue that is fertile in resource and device; their good genius is chance; they do not invent, things come to them.
 
-“‘So you amuse yourself now and again?’
+"At night I went home just as my fellow lodger also came in—a water-carrier named Bourgeat, a native of Saint-Flour. We knew each other as two lodgers do who have rooms off the same landing, and who hear each other sleeping, coughing, dressing, and so at last become used to one another. My neighbor informed me that the landlord, to whom I owed three quarters' rent, had turned me out; I must clear out next morning. He himself was also turned out on account of his occupation. I spent the most miserable night of my life. Where was I to get a messenger to carry my few chattels and my books? How could I pay him and the porter? Where would I go? I repeated these unanswerable questions in tears. I fell asleep; poverty has for its friends heavenly slumbers full of beautiful dreams.
 
-“‘Do you imagine only printed poets are poets?’ he asked, pitying, shrugging. ‘Poetry in that head!’ I thought, then he surprised me.
+"Next morning, just as I was swallowing my little bowl of bread soaked in milk, Bourgeat came in and said in his vile Auvergne accent:
 
-“‘What life could be as glorious as mine?’ His eyes brightened. ‘You are young and see women’s faces in fire; I see only coals. Keep your illusions, if you can. I will show you life with the discount taken off. Go where you like, or sit by the fireside with your wife—there comes a time when you fall into a groove, and happiness is the exercise of your faculties on realities. My principles changed with every latitude. Things admired in Europe are punishable in Asia; a vice in Paris becomes necessity beyond the Azores. Convictions and moral systems become mere words when a man is plunged from social melting pot to melting pot. The one sure instinct is self-interest. Live as long as I have, you would know the only concrete, invariable reality worth caring for is GOLD. Gold is every form of human power. I found hills or plains everywhere; place matters little. Manners differ little; the struggle between poor and rich is universal; better to exploit than be exploited. Pleasure ends in Vanity; Vanity is the abiding I in us and is satisfied by floods of gold. Dreams need time and means; gold realizes dreams.
+"'Mouchieur l'Etudiant, I am a poor man, a foundling from the hospital at Saint-Flour, without either father or mother, and not rich enough to marry. You are not fertile in relations either, nor well supplied with the ready? Listen, I have a hand-cart downstairs which I have hired for two sous an hour; it will hold all our goods; if you like, we will try to find lodgings together, since we are both turned out of this. It is not the earthly paradise, when all is said and done.'
 
-“‘None but fools find pleasure in shuffling cards for pence. None but driveling idiots spend time prying into Madame Such-an-One’s bedchamber. None but dupes make rules for politics amid unforeseeable events. None but simpletons delight in theatre gossip, dressing, dining, priding themselves on a horse or carriage. That is Parisian life. True happiness lies in strong emotions or methodical occupation—passion or calm—or in a noble curiosity to learn Nature’s secrets, Science and Art. I replace scientific curiosity by insight into the springs of action in man and woman. The world is mine without effort, and it has no hold on me. Listen: I will tell you my morning, and you will see my pleasures.’
+"'I know that, my good Bourgeat,' said I. 'But I am in a great fix. I have a trunk downstairs with a hundred francs' worth of linen in it, out of which I could pay the landlord and the porter, and I have not a hundred sous.'
 
-“He rose, bolted the door, drew a tapestry curtain, then sat again. ‘This morning I had only two amounts to collect; I had given away the rest instead of cash to my customers yesterday—saving my two francs for a hired brougham when I discount a bill. A pretty thing it would be if my clients set me trudging all over Paris for half-a-dozen francs of discount, when no man is my master, and I pay only seven francs in taxes.
+"'Pooh! I have a few dibs,' replied Bourgeat joyfully, and he pulled out a greasy old leather purse. 'Keep your linen.'
 
-“‘The first bill, a thousand francs, came from a smart young buck with a spangled waistcoat, an eyeglass, a tilbury and an English horse. The bill bore the signature of one of the prettiest women in Paris, married to a Count. How came that Countess to put her name to such a bill? They are afraid of scandal; they will pay to avoid a protested bill. I wanted to know if that bill meant stupidity, imprudence, love, or charity.
+"Bourgeat paid our arrears and settled with the porter. Then he put our furniture and my box of linen in his cart, and pulled it along the street, stopping in front of every house where there was a notice board. I went up to see whether the rooms to let would suit us. At midday we were still wandering about the neighborhood without having found anything. The price was the great difficulty. Bourgeat proposed that we should eat at a wine-shop, leaving the cart at the door. Towards evening I discovered, in the Cour de Rohan, Passage du Commerce, at the very top of a house next the roof, two rooms with a staircase between them. Each of us was to pay sixty francs a year. So there we were housed, my humble friend and I. We dined together. Bourgeat, who earned about fifty sous a day, had saved a hundred crowns or so; he would soon be able to gratify his ambition by buying a barrel and a horse. On learning of my situation—for he extracted my secrets with a quiet craftiness and good nature, of which the remembrance touches my heart to this day—he gave up for a time the ambition of his whole life; for twenty-two years he had been carrying water in the street, and he now devoted his hundred crowns to my future prospects."
 
-“‘The second bill, signed “Fanny Malvaut,” came from a linen-draper near bankruptcy. No one with bank credit comes to me; the step to my door means desperation—failure is near; the debtor has been everywhere else first. When I see a man at bay, the pack of creditors are on his track. The Countess lived in the Rue du Helder, my Fanny in the Rue Montmartre. What conjectures I made as I set out! If these two women could not pay, they would show me more respect than their fathers. What tricks would the Countess try for a thousand francs! She would be so coaxing, perhaps beg and pray, and I’—his pale eyes fixed on me—‘and I not to be moved, inexorable!’ He loved that role—the avenger, apparition of Remorse.
+Desplein at these words clutched Bianchon's arm tightly. "He gave me the money for my examination fees! That man, my friend, understood that I had a mission, that the needs of my intellect were greater than his. He looked after me, he called me his boy, he lent me money to buy books, he would come in softly sometimes to watch me at work, and took a mother's care in seeing that I had wholesome and abundant food instead of the bad and insufficient nourishment I had been condemned to. Bourgeat, a man of about forty, had a homely, mediaeval type of face, a prominent forehead, a head a painter might have chosen as Lycurgus'. The poor man's heart was big with affections seeking an object; he had never been loved but by a poodle that had died some time since, of which he would talk to me, asking whether I thought the Church would allow masses for the repose of its soul. His dog, he said, had been a good Christian, who for twelve years had accompanied him to church, never barking, listening to the organ without opening his mouth, crouching beside him in a way that made it seem as though he were praying too.
 
-“‘I reached the house. “Madame la Comtesse is asleep,” said the maid. “When can I see her?” “At twelve.” “Is Madame la Comtesse ill?” “No, sir, she only came home at three this morning from a ball.” “My name is Gobseck; tell her I shall call at twelve,” and I went out, leaving traces of my muddy boots on the carpet covering the paved staircase. I like to leave mud on a rich man’s carpet; not petty spite—just a touch of Necessity’s claws. In the Rue Montmartre I entered a poor house and asked for Mlle. Fanny Malvaut. “She’s gone out; but the money is waiting for you,” said the porter. I would look in again.
+"This man centered all his affections in me; he looked upon me as a forlorn and suffering creature, and he became to me the most thoughtful mother and considerate benefactor, the ideal of the virtue that rejoices in its own work. When I met him in the street, he would throw me a glance of intelligence full of unutterable dignity; he would affect to walk as though he carried no weight and seemed happy in seeing me in good health and well dressed. It was, in fact, the devoted affection of the lower classes, the love of a girl of the people transferred to a loftier level. Bourgeat did all my errands, woke me at night at any fixed hour, trimmed my lamp, cleaned our landing; as good a servant as he was a father, and as clean as an English girl. He did all the housework. Like Philopoemen, he sawed our wood, and gave to all he did the grace of simplicity while preserving his dignity, for he seemed to understand that the end ennobles every act.
 
-“‘As soon as I knew the porter had money for me, I wanted to know what the girl was like; I pictured her pretty. I spent the rest of the morning looking at prints on the boulevard; just at noon I went to the Countess’ ante-chamber. “Madame has just rung for me,” said the maid; “I don’t think she can see you yet.” “I will wait,” said I, and sat. The maid returned: “Come in, sir.” From the sweet tone I knew the mistress was not ready to pay.
+"When I left this good fellow to be house surgeon at the Hotel-Dieu, I felt an indescribable dull pain, knowing that he could no longer live with me; but he comforted himself with the prospect of saving enough for me to take my degree, and he made me promise to go to see him whenever I had a day out: Bourgeat was proud of me. He loved me for my own sake and for his own. If you look up my thesis, you will see that I dedicated it to him.
 
-“‘What a woman she was! An Indian shawl flung over bare shoulders showed the outline beneath. A loose gown with snowy ruffles told that her laundress’ bills ran to some two thousand francs a year. Dark curls escaped from a bright Indian handkerchief knotted Creole fashion. The bed lay in disorder of broken sleep. Under luxurious hangings the eider-down quilt bore the imprint of a crushed head; satin slippers gleamed on a bear-skin rug; a crumpled gown hung over a chair; stockings twisted about an easy-chair; ribbon garters lay on a settee; a half-open fan glittered on the chimney-piece. The room smelled faintly sweet. Yet beneath all luxury and disorder, I saw Misery crouching. The Countess had begun to feel its fangs. Her tired face epitomized the strewn relics of past festival. The scattered gewgaws, pitiable by morning, had charmed the night before.
+"During the last year of my residence as house surgeon I earned enough to repay all I owed to this worthy Auvergnat by buying him a barrel and a horse. He was furious with rage at learning that I had deprived myself of spending my money, and yet delighted to see his wishes fulfilled; he laughed and scolded, looked at his barrel and his horse, and wiped away a tear, saying, 'It is too bad. What a splendid barrel! You really ought not. Why, that horse is as strong as an Auvergnat!'
 
-“‘I read efforts to drink of the Tantalus cup—luxury, extravagance, riot—traces of remorse. Red marks and dark circles showed the strain, yet Nature was vigorous: her beauty survived. She seemed like a da Vinci Herodias—magnificent, full of life and energy; there was something stronger than love in her. I was taken; my heart, long still, throbbed—worth a thousand francs to regain a youth sensation.
+"I never saw a more touching scene. Bourgeat insisted on buying for me the case of instruments mounted in silver which you have seen in my room and which is to me the most precious thing there. Though enchanted with my first success, never did the least sign escape him implying, 'This man owes all to me!' Yet, but for him, I should have died of want; he had eaten bread rubbed with garlic that I might have coffee to enable me to sit up at night.
 
-“‘“Monsieur,” she said, finding me a chair, “will you be so good as to wait?” “Until this time tomorrow, madame,” I answered, folding the bill. “I cannot legally protest this bill sooner.” Inwardly I said, “Pay for your luxury, for your name, for your ease, for your monopoly! The rich invented judges and courts to secure their goods, and the guillotine—that candle in which many lie in silk—there is remorse and grinding of teeth beneath a smile, and those fantastical lions’ jaws gape to sink in their fangs.” “Protest the bill! Can you mean it?” she cried. “Could you have so little consideration for me?” “If the King himself owed money to me and did not pay, I should summon him even sooner than any other debtor.”
+"He fell ill. As you may suppose, I passed my nights by his bedside, and the first time I pulled him through; but two years after he had a relapse; in spite of the utmost care and exertions of science, he succumbed. No king was ever nursed as he was. Yes, Bianchon, to snatch that man from death I tried unheard-of things. I wanted him to live long enough to see his work accomplished, to realize his hopes, to give expression to the only gratitude that ever filled my heart, to quench a fire that burns in me to this day.
 
-“While we spoke someone tapped gently. “I cannot see anyone,” she cried imperiously. “But Anastasie, I particularly wish to speak to you.” “Not now, dear,” came a milder tone. “What nonsense! You are talking to someone,” said a voice—and in came a man who could only be the Count. The Countess glanced at me. I saw how it was. She was in my power. There was a time when, young, I might have been foolish enough not to protest; at Pondicherry in 1763 I let a woman off, and she paid me out later. What call was there to trust her?
+"Bourgeat, my second father, died in my arms," Desplein went on after a pause, visibly moved. "He left me everything he possessed by a will he had had made by a public scrivener, dating from the year when we had gone to live in the Cour de Rohan.
 
-“‘“What does this gentleman want?” asked the Count. She trembled from head to foot; the white satin of her throat was rough with gooseflesh. I laughed inwardly without moving. “This gentleman is one of my tradesmen,” she said. The Count turned his back; I drew the bill half out of my pocket. After that inexorable movement she came to me and put a diamond into my hand. “Take it,” she said, “and be gone.” We exchanged values; I bowed and went. The diamond was worth about twelve hundred francs. Outside, liveried footmen brushed and waxed boots, cleaned sumptuous equipages.
+"This man's faith was perfect; he loved the Holy Virgin as he might have loved his wife. He was an ardent Catholic, but never said a word to me about my want of religion. When he was dying he entreated me to spare no expense that he might have every possible benefit of clergy. I had a mass said for him every day. Often, in the night, he would tell me of his fears as to his future fate; he feared his life had not been saintly enough. Poor man! he was at work from morning till night. For whom, then, is Paradise—if there be a Paradise? He received the last sacrament like the saint that he was, and his death was worthy of his life.
 
-“‘This is what brings these people to me!’ I said to myself. “To keep up such things they steal millions with formalities and betray their country. The great lord and the little man aping him bathe once in mud to save a splash later.” Just then the great gates opened for a cabriolet; it was the young fellow who had brought the bill. “Sir,” I said as he alighted, “here are two hundred francs, which I beg you to return to Mme. la Comtesse, and tell her I hold the pledge she deposited at my disposal for a week.” He took the two hundred with an ironical smile: “Aha! so she has paid it!” I read the Countess’s future in his face. That fair-haired young gambler would ruin himself, her, her husband and children, and wreak more havoc in Parisian salons than a battery.
+"I alone followed him to the grave. When I had laid my only benefactor to rest, I looked about to see how I could pay my debt to him; I found he had neither family nor friends, neither wife nor child. But he believed. He had a religious conviction; had I any right to dispute it? He had spoken to me timidly of masses said for the repose of the dead; he would not impress it on me as a duty, thinking it a form of repayment for his services. As soon as I had money enough I paid to Saint-Sulpice the requisite sum for four masses every year. As the only thing I can do for Bourgeat is thus to satisfy his pious wishes, on the days when that mass is said at the beginning of each season of the year, I go for his sake and say the required prayers; and I say with the good faith of a sceptic—'Great God, if there is a sphere which Thou hast appointed after death for those who have been perfect, remember good Bourgeat; and if he should have anything to suffer, let me suffer it for him, that he may enter all the sooner into what is called Paradise.'
 
-“‘I went to see Mlle. Fanny in Rue Montmartre, climbed a steep narrow staircase to a two-roomed fifth-floor dwelling. Everything in the first room was neat as a new ducat; not a speck of dust. Mlle. Fanny sat there, quietly dressed, a delicate fresh face, winning look; her neatly brushed chestnut hair in a double curve on the forehead gave a refined air to clear blue eyes. Daylight softened her girlish face. A pile of shaped linen showed she was a sempstress. She looked like a spirit of solitude. When I held out the bill, she said she was not at home when I called that morning. “But the money was left with the porter’s wife,” she added. I pretended not to understand. “You go out early, mademoiselle, it seems.” “I very seldom leave my room; but when you work all night you must bathe sometimes.”
+"That, my dear fellow, is as much as a man who holds my opinions can allow himself. But God must be a good fellow; He cannot owe me any grudge. I swear to you, I would give my whole fortune if faith such as Bourgeat's could enter my brain."
 
-“Looking at her told me all about her life: a girl condemned by misfortune to toil, of honest country stock—freckles still hinted at rural birth. There was an indefinable air of goodness; I breathed sincerity and frank innocence. Poor child, she trusted. Above her poor painted wooden bed hung a crucifix and a sprig of box; I felt inclined to be generous—to charge no more than twelve percent and help set her up. But maybe some cousin would raise money on her signature and sponge on her; benevolence ruinous to the receiver often harms him who gives. So I kept my impulses under control. When you came in I was thinking that Fanny Malvaut would make a good little wife; I contrasted her pure lonely life with the Countess’s—who had already sunk to the level of a bill of exchange and would sink lower.
+Bianchon, who was with Desplein all through his last illness, dares not affirm to this day that the great surgeon died an atheist. Will not those who believe like to fancy that the humble Auvergnat came to open the gate of Heaven to his friend, as he did that of the earthly temple on whose pediment are the words—"A grateful country to its great men."
 
-“‘Do you think it nothing to have this power of insight into human hearts, to embrace so many lives, to see naked truth? There are no two dramas alike: hideous sores, deadly chagrins, love scenes, misery soon to lie under the Seine’s ripples, young men’s joys that lead to the scaffold, laughter of despair, sumptuous banquets. Yesterday a tragedy—an honest father drowned himself because he could not support his family. Tomorrow a comedy—some youngster will rehearse M. Dimanche’s scene updated. Preachers have eloquence now and then; I have wasted time hearing them; they altered my opinions but not my conduct. These orators of mine—actors before me—are sublime.
-
-“‘Often it is a girl in love, a bankrupt gray-headed merchant, a mother hiding a son’s fault, a starving artist, or a fallen great man who, for lack of money, nearly loses the fruit of his labor. Their pleading has made me shudder. Sublime actors play for me, for an audience of one, and cannot deceive me. I look into their inmost thoughts and read them as God does. Nothing is hidden from me. Nothing is refused to the holder of purse-strings to loose and bind. I am rich enough to buy the consciences of those who influence ministers, from clerks to mistresses. Is not that power? I can possess fairest women, receive their caresses; is not that Pleasure? Is not your whole social economy summed up in Power and Pleasure?
-
-“‘There are ten of us in Paris, silent unknown kings, the arbiters of destinies. What is life but a machine set in motion by money? Methods are confused with results; you cannot separate soul from senses, spirit from matter. Gold is the spiritual basis of society. The ten of us are bound by common interest; we meet at the Café Thémis near the Pont Neuf, and there in conclave reveal finance mysteries. No fortune deceives us; we hold family secrets everywhere. We keep a Black Book noting important bills, drafts on public credit, or on banks, given and taken. We are the casuists of the Paris Bourse, an Inquisition weighing the actions of every man of fortune; our forecasts are infallible. One watches the judicial world, one the financial, another administrative, another business. I watch eldest sons, artists, high society and gamblers—the sensational side of Paris. Every client lets us into his neighbor’s secrets. Thwarted passion and mortified vanity are great babblers. Vice, disappointment, and vindictiveness are the best detectives. My colleagues and I have enjoyed and grown sated with all things; power and money are loved for their own sakes.
-
-“‘Here,’ indicating his bare, chilly room, ‘here the highest-mettled gallant who elsewhere draws swords for a syllable will entreat with clasped hands. No city merchant so proud, no woman so vain, no soldier so bold but they entreat me here, with tears of rage or anguish. Here kneel the famous artist and the man of letters whose name will go down to posterity. Here all Paris’s inheritances and concerns are weighed. Are you still of the opinion that there are no delights behind the blank mask that amazed you by its impassiveness?’ He stretched out that livid face that seemed to reek of money.
-
-“I went back to my room stupefied. The little wizened man had grown great—metamorphosed into a symbol: gold personified. I shrank from life and my kind. Must everything be resolved into gold? I remember it was long before I slept. Heaped gold filled my thoughts. The Countess consumed me; shamefully, that vision eclipsed the quiet, innocent figure of the other woman—Fanny. But through the clouds of sleep Fanny’s sweet face rose before me next morning, and I thought of nothing else.”
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
-“Will you take a glass of eau sucrée?” asked the Vicomtesse, interrupting Derville.
-
-“I should be glad of it.”
-
-“But I can see nothing in this that can touch our concerns,” said Mme. de Grandlieu, as she rang the bell.
-
-“Sardanapalus!” cried Derville, flinging out his favorite invocation. “Mademoiselle Camille will be wide awake in a moment if I say that her happiness depended not so long ago upon Daddy Gobseck; but as the old gentleman died at the age of ninety, M. de Restaud will soon be in possession of a handsome fortune. This requires some explanation. As for poor Fanny Malvaut, you know her; she is my wife.”
-
-“Poor fellow, he would admit that, with his usual frankness, with a score of people to hear him!” said the Vicomtesse.
-
-“I would proclaim it to the universe,” said the attorney.
-
-“Go on, drink your glass, my poor Derville. You will never be anything but the happiest and the best of men.”
-
-“I left you in the Rue du Helder,” remarked the uncle, raising his face after a gentle doze. “You had gone to see a Countess; what have you done with her?”
-
-“A few days after my conversation with the old Dutchman,” Derville continued, “I sent in my thesis, and became first a licentiate in law, and afterwards an advocate. The old miser’s opinion of me rose considerably. He consulted me (gratis) on the ticklish bits of business he undertook when he had made sure how he stood—business that would have seemed unsafe to an ordinary practitioner. This man, over whom no one seemed to have the slightest influence, listened to my advice with something like respect. It is true that it always turned out very well.
-
-“At length I became head-clerk in the office where I had worked for three years and then I left the Rue des Grès for rooms in my employer’s house. I had my board and lodging and a hundred and fifty francs per month. It was a great day for me!
-
-“When I went to bid the usurer good-bye, he showed no feeling, neither cordial nor sorry to lose me; he did not ask me to come to see him, and only gave me one of those glances which seemed in some sort to reveal a power of second-sight.
-
-“By the end of a week my old neighbor came to see me with a thorny bit of business, an expropriation, and continued to ask for my advice with as much freedom as if he paid for it.
-
-“My principal was a man of pleasure and expensive tastes; before the second year (1818–1819) was out he had got into difficulties, and was obliged to sell his practice. A professional connection in those days did not fetch the present exorbitant prices, and my principal asked a hundred and fifty thousand francs. An active man of competent knowledge might hope to pay off the capital in ten years, paying interest and living respectably in the meantime—if he could command confidence. But I, the seventh child of a small tradesman at Noyon, had not a sou to my name, nor personal acquaintance with any capitalist but Daddy Gobseck. An ambitious idea, and an indefinable glimmer of hope, put heart into me. To Gobseck I betook myself, and slowly one evening I made my way to the Rue des Grès. My heart thumped as I knocked at his door in the gloomy house. I recollected all he used to tell me, at a time when I was far from suspecting the violence of the anguish awaiting those who crossed his threshold. Now it was I who was about to beg and pray like so many others.
-
-“‘Well, no, not that,’ I said to myself; ‘an honest man must keep his self-respect wherever he goes. Success is not worth cringing for; let us show him a front as decided as his own.’
-
-“Daddy Gobseck had taken my room since I left the house, so as to have no neighbor; he had made a little grated window too in his door since then, and did not open until he had taken a look at me and saw who I was.
-
-“‘Well,’ said he, in his thin, flute notes, ‘so your principal is selling his practice?’
-
-“‘How did you know that?’ said I; ‘he has not spoken of it as yet except to me.’
-
-“The old man’s lips were drawn in puckers, like a curtain; a soundless smile bore a hard glance company.
-
-“‘Nothing else would have brought you here,’ he said drily, after a pause, which I spent in confusion.
-
-“‘Listen to me, M. Gobseck,’ I began, with such serenity as I could assume. He gazed at me with steady eyes. There was a clear light burning in them that disconcerted me.
-
-“He made a gesture as if to bid me ‘Go on.’ ‘I know that it is not easy to work on your feelings, so I will not waste my eloquence on the attempt to put my position before you—I am a penniless clerk, with no one to look to but you, and no heart in the world but yours can form a clear idea of my probable future. Let us leave hearts out of the question. Business is business, and business is not carried on with sentimentality like romances. Now to the facts. My principal’s practice is worth in his hands about twenty thousand francs per annum; in my hands, I think it would bring in forty thousand. He is willing to sell it for a hundred and fifty thousand francs. And here,’ I said, striking my forehead, ‘I feel that if you would lend me the purchase-money, I could clear it off in ten years’ time.’
-
-“‘Come, that is plain speaking,’ said Daddy Gobseck, and he held out his hand and grasped mine. ‘Nobody since I have been in business has stated the motives of his visit more clearly. Guarantees?’ asked he, scanning me from head to foot. ‘None to give,’ he added after a pause, ‘How old are you?’
-
-“‘Twenty-five in ten days’ time,’ said I, ‘or I could not open the matter.’
-
-“‘Precisely.’
-
-“‘Well?’
-
-“‘It is possible.’
-
-“‘My word, we must be quick about it, or I shall have some one buying over my head.’
-
-“‘Bring your certificate of birth round to-morrow morning, and we will talk. I will think it over.’
-
-“Next morning, at eight o’clock, I stood in the old man’s room. He took the document, put on his spectacles, coughed, spat, wrapped himself up in his black greatcoat, and read the whole certificate through from beginning to end. Then he turned it over and over, looked at me, coughed again, fidgeted in his chair, and said, ‘We will try to arrange this bit of business.’
-
-“I trembled.
-
-“‘I make fifty per cent on my capital,’ he continued, ‘sometimes I make a hundred, two hundred, five hundred per cent.’
-
-“I turned pale at the words.
-
-“‘But as we are acquaintances, I shall be satisfied to take twelve and a half per cent per—’ (he hesitated)—‘well, yes, from you I would be content to take thirteen per cent per annum. Will that suit you?’
-
-“‘Yes,’ I answered.
-
-“‘But if it is too much, stick up for yourself, Grotius!’ (a name he jokingly gave me). ‘When I ask you for thirteen per cent, it is all in the way of business; look into it, see if you can pay it; I don’t like a man to agree too easily. Is it too much?’
-
-“‘No,’ said I, ‘I will make up for it by working a little harder.’
-
-“‘Gad! your clients will pay for it!’ said he, looking at me wickedly out of the corner of his eyes.
-
-“‘No, by all the devils in hell!’ cried I, ‘it shall be I who will pay. I would sooner cut my hand off than flay people.’
-
-“‘Good-night,’ said Daddy Gobseck.
-
-“‘Why, fees are all according to scale,’ I added.
-
-“‘Not for compromises and settlements out of Court, and cases where litigants come to terms,’ said he. ‘You can send in a bill for thousands of francs, six thousand even at a swoop (it depends on the importance of the case), for conferences with So-and-so, and expenses, and drafts, and memorials, and your jargon. A man must learn to look out for business of this kind. I will recommend you as a most competent, clever attorney. I will send you such a lot of work of this sort that your colleagues will be fit to burst with envy. Werbrust, Palma, and Gigonnet, my cronies, shall hand over their expropriations to you; they have plenty of them, the Lord knows! So you will have two practices—the one you are buying, and the other I will build up for you. You ought almost to pay me fifteen per cent on my loan.’
-
-“‘So be it, but no more,’ said I, with the firmness which means a man is determined not to concede another point.
-
-“Daddy Gobseck’s face relaxed; he looked pleased.
-
-“‘I shall pay the money over to your principal myself,’ said he, ‘so as to establish a lien on the purchase and caution-money.’
-
-“‘Oh, anything you like in the way of guarantees.’
-
-“‘And besides that, you will give me bills for the amount made payable to a third party (name left blank), fifteen bills of ten thousand francs each.’
-
-“‘Well, so long as it is acknowledged in writing that this is a double—’
-
-“‘No!’ Gobseck broke in. ‘No! Why should I trust you any more than you trust me?’
-
-“I kept silence.
-
-“‘And furthermore,’ he continued with a sort of good humor, ‘you will give me your advice without charging fees as long as I live, will you not?’
-
-“‘So be it; so long as there is no outlay.’
-
-“‘Precisely,’ said he. ‘Ah, by the by, you will allow me to go to see you?’ (Plainly the old man found it not so easy to assume the air of good humor.)
-
-“‘I shall always be glad.’
-
-“‘Ah! yes, but it would be very difficult to arrange of a morning. You will have your affairs to attend to, and I have mine.’
-
-“‘Then come in the evening.’
-
-“‘Oh, no!’ he answered briskly, ‘you ought to go into society and see your clients, and I myself have my friends at my cafe.’
-
-“‘His friends!’ thought I to myself. ‘Very well,’ said I, ‘why not come at dinner-time?’
-
-“‘That is the time,’ said Gobseck, ‘after ‘Change, at five o’clock. Good, you will see me Wednesdays and Saturdays. We will talk over business like a pair of friends. Aha! I am gay sometimes. Just give me the wing of a partridge and a glass of champagne, and we will have our chat together. I know a great many things that can be told now at this distance of time; I will teach you to know men, and what is more—women!’
-
-“‘Oh! a partridge and a glass of champagne if you like.’
-
-“‘Don’t do anything foolish, or I shall lose my faith in you. And don’t set up housekeeping in a grand way. Just one old general servant. I will come and see that you keep your health. I have capital invested in your head, he! he! so I am bound to look after you. There, come round in the evening and bring your principal with you!’
-
-“‘Would you mind telling me, if there is no harm in asking, what was the good of my birth certificate in this business?’ I asked, when the little old man and I stood on the doorstep.
-
-“Jean-Esther Van Gobseck shrugged his shoulders, smiled maliciously, and said, ‘What blockheads youngsters are! Learn, master attorney (for learn you must if you don’t mean to be taken in), that integrity and brains in a man under thirty are commodities which can be mortgaged. After that age there is no counting on a man.’
-
-“And with that he shut the door.
-
-“Three months later I was an attorney. Before very long, madame, it was my good fortune to undertake the suit for the recovery of your estates. I won the day, and my name became known. In spite of the exorbitant rate of interest, I paid off Gobseck in less than five years. I married Fanny Malvaut, whom I loved with all my heart. There was a parallel between her life and mine, between our hard work and our luck, which strengthened our feeling. One of her uncles, a well-to-do farmer, died and left her seventy thousand francs, which helped to clear off the loan. From that day my life has been little but happiness and prosperity. Nothing is more utterly uninteresting than a happy man, so let us say no more on that head, and return to the rest of the characters.
-
-“About a year after the purchase of the practice, I was dragged into a bachelor breakfast-party given by one of our number who had lost a bet to a young man greatly in vogue in the fashionable world. M. de Trailles, the flower of the dandyism of that day, enjoyed a prodigious reputation.”
-
-“But he is still enjoying it,” put in the Comte de Born. “No one wears his clothes with a finer air, nor drives a tandem with a better grace. It is Maxime’s gift; he can gamble, eat, and drink more gracefully than any man. He is a judge of horses, hats, and pictures. All the women lose their heads over him. He always spends something like a hundred thousand francs a year, and no creature can discover that he has an acre of land or a single dividend warrant. The typical knight errant of our salons, our boudoirs, our boulevards—an amphibian half-way between a man and a woman—Maxime de Trailles is a singular being, fit for anything, and good for nothing, quite as capable of perpetrating a benefit as of planning a crime; sometimes base, sometimes noble, more often bespattered with mire than besprinkled with blood, knowing more of anxiety than of remorse, more concerned with his digestion than with any mental process, shamming passion, feeling nothing. Maxime de Trailles is a brilliant link between the hulks and the best society; he belongs to the eminently intelligent class from which a Mirabeau, or a Pitt, or a Richelieu springs at times, though it is more wont to produce Counts of Horn, Fouquier-Tinvilles, and Coignards.”
-
-“Well,” pursued Derville, when he had heard the Vicomtesse’s brother to the end, “I had heard a good deal about this individual from poor old Goriot, a client of mine; and I had already been at some pains to avoid the dangerous honor of his acquaintance, for I came across him sometimes in society. Still, my chum was so pressing about this breakfast-party of his that I could not well get out of it, unless I wished to earn a name for squeamishness. Madame, you could hardly imagine what a bachelor’s breakfast-party is like. It means superb display and a studied refinement seldom seen; the luxury of a miser when vanity leads him to be sumptuous for a day.
-
-“You are surprised as you enter the room at the neatness of the table, dazzling by reason of its silver and crystal and linen damask. Life is here in full bloom; the young fellows are graceful to behold; they smile and talk in low, demure voices like so many brides; everything about them looks girlish. Two hours later you might take the room for a battlefield after the fight. Broken glasses, serviettes crumpled and torn to rags lie strewn about among the nauseous-looking remnants of food on the dishes. There is an uproar that stuns you, jesting toasts, a fire of witticisms and bad jokes; faces are empurpled, eyes inflamed and expressionless, unintentional confidences tell you the whole truth. Bottles are smashed, and songs trolled out in the height of a diabolical racket; men call each other out, hang on each other’s necks, or fall to fisticuffs; the room is full of a horrid, close scent made up of a hundred odors, and noise enough for a hundred voices. No one has any notion of what he is eating or drinking or saying. Some are depressed, others babble; one will turn monomaniac, repeating the same word over and over like a bell set jangling; another tries to keep the tumult within bounds; the steadiest will propose an orgy. If any one in possession of his faculties should come in, he would think that he had interrupted a Bacchanalian rite.
-
-“It was in the thick of such chaos that M. de Trailles tried to insinuate himself into my good graces. My head was fairly clear, I was upon my guard. As for him, though he pretended to be decently drunk, he was perfectly cool, and knew very well what he was about. How it was done I do not know, but the upshot was that when we left Grignon’s rooms about nine o’clock in the evening, M. de Trailles had thoroughly bewitched me. I had given him my promise that I would introduce him the next day to our Papa Gobseck. The words ‘honor,’ ‘virtue,’ ‘countess,’ ‘honest woman,’ and ‘ill-luck’ were mingled in his discourse with magical potency, thanks to that golden tongue of his.
-
-“When I awoke next morning, and tried to recollect what I had done the day before, it was with great difficulty that I could make a connected tale from my impressions. At last, it seemed to me that the daughter of one of my clients was in danger of losing her reputation, together with her husband’s love and esteem, if she could not get fifty thousand francs together in the course of the morning. There had been gaming debts, and carriage-builders’ accounts, money lost to Heaven knows whom. My magician of a boon companion had impressed it upon me that she was rich enough to make good these reverses by a few years of economy. Only now did I begin to guess the reasons of his urgency. I confess, to my shame, that I had not the shadow of a doubt but that it was important that Daddy Gobseck should make it up with this dandy. I was dressing when the young gentleman appeared.
-
-“‘M. le Comte,’ said I, after the usual greetings, ‘I fail to see why you should need me to effect an introduction to Van Gobseck, the most civil and smooth-spoken of capitalists. Money will be forthcoming if he has any, or rather, if you can give him adequate security.’
-
-“‘Monsieur,’ said he, ‘it does not enter into my thoughts to force you to do me a service, even though you have passed your word.’
-
-“‘Sardanapalus!’ said I to myself, ‘am I going to let that fellow imagine that I will not keep my word with him?’
-
-“‘I had the honor of telling you yesterday,’ said he, ‘that I had fallen out with Daddy Gobseck most inopportunely; and as there is scarcely another man in Paris who can come down on the nail with a hundred thousand francs, at the end of the month, I begged of you to make my peace with him. But let us say no more about it—’”
-
-M. de Trailles looked at me with civil insult, and made as if to take his leave.
-
-“‘I am ready to go with you,’ said I.
-
-“When we reached the Rue des Grès, my dandy looked about him with a circumspection and uneasiness that set me wondering. His face grew livid, flushed, and yellow, turn and turn about, and by the time Gobseck’s door came in sight the perspiration stood in drops on his forehead. We were just getting out of the cabriolet, when a hackney cab turned into the street. My companion’s hawk eye detected a woman in the depths of the vehicle. His face lighted up with a gleam of almost savage joy; he called to a little boy who was passing, and gave him his horse to hold. Then we went up to the old bill discounter.
-
-“‘M. Gobseck,’ said I, ‘I have brought one of my most intimate friends to see you (whom I trust as I would trust the Devil,’ I added for the old man’s private ear). ‘To oblige me you will do your best for him (at the ordinary rate), and pull him out of his difficulty (if it suits your convenience).’
-
-“M. de Trailles made his bow to Gobseck, took a seat, and listened to us with a courtier-like attitude; its charming humility would have touched your heart to see, but my Gobseck sits in his chair by the fireside without moving a muscle, or changing a feature. He looked very like the statue of Voltaire under the peristyle of the Théâtre-Français; he had partly risen as if to bow, and the skull cap that covered the top of his head, and the narrow strip of sallow forehead exhibited, completed his likeness to the man of marble.
-
-“‘I have no money to spare except for my own clients,’ said he.
-
-“‘So you are cross because I may have tried in other quarters to ruin myself?’ laughed the Count.
-
-“‘Ruin yourself!’ repeated Gobseck ironically.
-
-“‘Were you about to remark that it is impossible to ruin a man who has nothing?’ inquired the dandy. ‘Why, I defy you to find a better stock in Paris!’ he cried, swinging round on his heels.
-
-“This half-earnest buffoonery produced not the slightest effect upon Gobseck.
-
-“‘Am I not on intimate terms with the Ronquerolles, the Marsays, the Franchessinis, the two Vandenesses, the Ajuda-Pintos—all the most fashionable young men in Paris, in short? A prince and an ambassador (you know them both) are my partners at play. I draw my revenues from London and Carlsbad and Baden and Bath. Is not this the most brilliant of all industries!’
-
-“‘True.’
-
-“‘You make a sponge of me, begad! you do. You encourage me to go and swell myself out in society, so that you can squeeze me when I am hard up; but you yourselves are sponges, just as I am, and death will give you a squeeze some day.’
-
-“‘That is possible.’
-
-“‘If there were no spendthrifts, what would become of you? The pair of us are like soul and body.’
-
-“‘Precisely so.’
-
-“‘Come, now, give us your hand, Grandaddy Gobseck, and be magnanimous if this is “true” and “possible” and “precisely so.”’
-
-“‘You come to me,’ the usurer answered coldly, ‘because Girard, Palma, Werbrust, and Gigonnet are full up of your paper; they are offering it at a loss of fifty per cent; and as it is likely they only gave you half the figure on the face of the bills, they are not worth five-and-twenty per cent of their supposed value. I am your most obedient! Can I in common decency lend a stiver to a man who owes thirty thousand francs, and has not one farthing?’ Gobseck continued. ‘The day before yesterday you lost ten thousand francs at a ball at the Baron de Nucingen’s.’
-
-“‘Sir,’ said the Count, with rare impudence, ‘my affairs are no concern of yours,’ and he looked the old man up and down. ‘A man has no debts till payment is due.’
-
-“‘True.’
-
-“‘My bills will be duly met.’
-
-“‘That is possible.’
-
-“‘And at this moment the question between you and me is simply whether the security I am going to offer is sufficient for the sum I have come to borrow.’
-
-“‘Precisely.’
-
-“A cab stopped at the door, and the sound of wheels filled the room.
-
-“‘I will bring something directly which perhaps will satisfy you,’ cried the young man, and he left the room.
-
-“‘Oh! my son,’ exclaimed Gobseck, rising to his feet, and stretching out his arms to me, ‘if he has good security, you have saved my life. It would be the death of me. Werbrust and Gigonnet imagined that they were going to play off a trick on me; and now, thanks to you, I shall have a good laugh at their expense to-night.’
-
-“There was something frightful about the old man’s ecstasy. It was the one occasion when he opened his heart to me; and that flash of joy, swift though it was, will never be effaced from my memory.
-
-“‘Favor me so far as to stay here,’ he added. ‘I am armed, and a sure shot. I have gone tiger-hunting, and fought on the deck when there was nothing for it but to win or die; but I don’t care to trust yonder elegant scoundrel.’
-
-“He sat down again in his armchair before his bureau, and his face grew pale and impassive as before.
-
-“‘Ah!’ he continued, turning to me, ‘you will see that lovely creature I once told you about; I can hear a fine lady’s step in the corridor; it is she, no doubt;’ and, as a matter of fact, the young man came in with a woman on his arm. I recognized the Countess, whose levee Gobseck had described for me, one of old Goriot’s two daughters.
-
-“The Countess did not see me at first; I stayed where I was in the window bay, with my face against the pane; but I saw her give Maxime a suspicious glance as she came into the money-lender’s damp, dark room. So beautiful she was, that in spite of her faults I felt sorry for her. There was a terrible storm of anguish in her heart; her haughty, proud features were drawn and distorted with pain she strove in vain to disguise. The young man had come to be her evil genius. I admired Gobseck, whose perspicacity had foreseen their future four years ago at the first bill she endorsed.
-
-“‘Probably,’ said I to myself, ‘this monster with the angel face controls every possible spring of action in her: rules her through vanity, jealousy, pleasure, and the current of life in the world.’”
-
-The Vicomtesse de Grandlieu broke in on the story.
-
-“Why, the woman’s very virtues have been turned against her,” she exclaimed. “He has made her shed tears of devotion, and then abused her kindness and made her pay very dearly for unhallowed bliss.”
-
-Derville did not understand the signs which Mme. de Grandlieu made to him.
-
-“I confess,” he said, “that I had no inclination to shed tears over the lot of this unhappy creature, so brilliant in society, so repulsive to eyes that could read her heart; I shuddered rather at the sight of her murderer, a young angel with such a clear brow, such red lips and white teeth, such a winning smile. There they stood before their judge, he scrutinizing them much as some fifteenth-century Dominican inquisitor might have peered into the dungeons of the Holy Office while the torture was administered to two Moors.
-
-“The Countess spoke tremulously. ‘Sir,’ she said, ‘is there any way of obtaining the value of these diamonds, and of keeping the right of repurchase?’ She held out a jewel-case.
-
-“‘Yes, madame,’ I put in, and came forwards.
-
-“She looked at me, and a shudder ran through her as she recognized me, and gave me the glance which means, ‘Say nothing of this,’ all the world over.
-
-“‘This,’ said I, ‘constitutes a sale with faculty of redemption, as it is called, a formal agreement to transfer and deliver over a piece of property, either real estate or personalty, for a given time, on the expiry of which the previous owner recovers his title to the property in question, upon payment of a stipulated sum.’
-
-“She breathed more freely. The Count looked black; he had grave doubts whether Gobseck would lend very much on the diamonds after such a fall in their value. Gobseck, impassive as ever, had taken up his magnifying glass, and was quietly scrutinizing the jewels. If I were to live for a hundred years, I should never forget the sight of his face at that moment. There was a flush in his pale cheeks; his eyes seemed to have caught the sparkle of the stones, for there was an unnatural glitter in them. He rose and went to the light, holding the diamonds close to his toothless mouth, as if he meant to devour them; mumbling vague words over them, holding up bracelets, sprays, necklaces, and tiaras one after another, to judge their water, whiteness, and cutting; taking them out of the jewel-case and putting them in again, letting the play of the light bring out all their fires. He was more like a child than an old man; or, rather, childhood and dotage seemed to meet in him.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
-“Fine stones! The set would have fetched three hundred thousand francs before the Revolution. What water! Genuine Asiatic diamonds from Golconda or Visapur. Do you know what they are worth? No, no; no one in Paris but Gobseck can appreciate them. In the time of the Empire such a set would have cost another two hundred thousand francs!”
-
-He shrugged and added:
-
-“But now diamonds are going down in value every day. The Brazilians have swamped the market with them since the Peace; but the Indian stones are a better color. Others wear them now besides court ladies. Does madame go to court?”
-
-As he flung out these words he examined each stone with indescribable delight.
-
-“Flawless!” he cried. “Here is a speck!... here is a flaw!... A fine stone that!”
-
-His haggard face lit up at the jewels, like a dingy inn mirror catching light without reflecting it—an apoplectic image of delight.
-
-“Well?” asked the Count, clapping Gobseck on the shoulder.
-
-The old man trembled, set down the gems, sat, and became once more the hard, polished money-lender.
-
-“How much do you want?”
-
-“One hundred thousand francs for three years,” said the Count.
-
-“That is possible,” said Gobseck, and from a mahogany box drew a pair of faultless scales.
-
-He weighed the diamonds, calculating value and setting at sight—delight and severity warring on his face. The Countess sank into stupor; watching her, I thought she was fathoming the abyss into which she had fallen. Remorse still lived in her; perhaps a hand held out might save her. I would try.
-
-“Are the diamonds your personal property, madame?” I asked clearly.
-
-“Yes, monsieur,” she said proudly.
-
-“Make out the deed of purchase with power of redemption, chatterbox,” Gobseck said to me, yielding his chair at the bureau.
-
-“Madame is without doubt a married woman?” I tried again.
-
-She nodded.
-
-“Then I will not draw up the deed,” said I.
-
-“And why not?” asked Gobseck.
-
-“Because the woman is under her husband’s control; such an agreement would be void. You could not assert ignorance of a fact recorded on the face of the document. You would be compelled to produce the diamonds deposited with you, according to weight, value, and cutting described.”
-
-Gobseck nodded and turned to the guilty couple.
-
-“He is right!” he said. “That puts the whole thing in a different light. Eighty thousand francs down, and you leave the diamonds with me,” he added in his husky voice. “In property, possession is as good as title.”
-
-“But—” objected the young man.
-
-“You can take it or leave it,” Gobseck returned, giving the jewel-case to the lady as he spoke. “I have too many risks to run.”
-
-“It would be better to throw yourself at your husband’s feet,” I whispered to her.
-
-Gobseck must have read my lips. He gave me a cool glance. The Count’s face grew livid. The Countess wavered. Maxime stepped up and, in a low voice I caught: “Adieu, dear Anastasie, may you be happy! As for me, by to-morrow my troubles will be over.”
-
-“Sir!” cried the lady, turning to Gobseck. “I accept your offer.”
-
-“Come, now,” returned Gobseck. “You have been a long time in coming to it, my fair lady.”
-
-He wrote a cheque for fifty thousand francs on the Bank of France and handed it to her.
-
-“Now,” he added with a Voltairean smile, “I will give you the rest in bills, thirty thousand francs’ worth of paper as good as bullion. This gentleman here has just said, ‘My bills will be met when they are due,’” producing drafts bearing the Count’s signature, all protested the day before and probably transferred to him at a discount.
-
-The young man muttered “Old scoundrel!” Gobseck did not move an eyebrow. He drew a pair of pistols from a pigeon-hole, remarking coolly:
-
-“As the insulted man, I fire first.”
-
-“Maxime, you owe this gentleman an explanation,” cried the trembling Countess.
-
-“I had no intention of giving offence,” stammered Maxime.
-
-“I am quite sure of that,” Gobseck answered calmly; “you had no intention of meeting your bills, that was all.”
-
-The Countess rose, bowed, and vanished, dread gnawing her. M. de Trailles was bound to follow, but before he went: “If either of you gentlemen should forget himself, I will have his blood, or he will have mine.”
-
-“Amen!” called Daddy Gobseck, putting his pistols back; “but a man must have blood in his veins before he can risk it, my son, and you have nothing but mud in yours.”
-
-When the door closed and the vehicles left, Gobseck pranced about.
-
-“I have the diamonds! I have the diamonds!” he cried. “The beautiful diamonds! such diamonds! and tolerably cheaply. Aha! Werbrust and Gigonnet, you thought you had old Papa Gobseck! Ego sum papa! I am master of the lot of you! Paid! paid, principal and interest! How silly they will look to-night when I come out with this story between two games of dominoes!”
-
-The dark glee and savage ferocity aroused by possession of a few water-white pebbles put me in dread. I was dumb.
-
-“Aha! There you are, my boy!” he said. “We will dine together. We will have some fun at your place, for I haven’t a home of my own, and these restaurants, with their broths, sauces, and wines, would poison the Devil himself.”
-
-Something in my face brought back his usual cold impassivity.
-
-“You don’t understand it,” he said, and sitting by the hearth put a tin saucepan of milk on the brazier. “Will you breakfast with me?” he continued.
-
-“Thanks,” said I, “I do not breakfast till noon.”
-
-Hurried footsteps sounded in the passage. A stranger rapped in a rage; Gobseck reconnoitred and opened. In came a man of thirty-five or so, harmless in appearance despite his anger, resembling the late Duc de Richelieu—no other than the Count, the Countess’ husband.
-
-“Sir,” he said to Gobseck, “did my wife go out of this house just now?”
-
-“That is possible.”
-
-“Well, sir? do you not take my meaning?”
-
-“I have not the honor of the acquaintance of my lady your wife,” returned Gobseck. “I have had many visitors this morning—women and men, mannish young ladies, and young gentlemen who look like young ladies. I should find it very hard to say—”
-
-“A truce to jesting, sir! I mean the woman who has just gone out from you.”
-
-“How can I know whether she is your wife or not? I never had the pleasure of seeing you before.”
-
-“You are mistaken, M. Gobseck. We have met before, one morning in my wife’s bedroom. You had come to demand payment for a bill—no bill of hers.”
-
-“It was no business of mine to inquire what value she had received for it,” said Gobseck, with a malignant look. “I had come by the bill in the way of business. At the same time, monsieur,” he continued, pouring coffee into his milk, “your right to enter my house and expostulate is far from proven to my mind. I came of age in the sixty-first year of the preceding century.”
-
-“Sir,” said the Count, “you have just bought family diamonds, which do not belong to my wife, for a mere trifle.”
-
-“Without feeling it incumbent upon me to tell you my private affairs, I will say this much, M. le Comte—if Mme. la Comtesse has taken your diamonds, you should have sent a circular to all jewelers, giving notice not to buy them; she might have sold them separately.”
-
-“You know my wife, sir!” roared the Count.
-
-“True.”
-
-“She is in her husband’s power.”
-
-“That is possible.”
-
-“She had no right to dispose of those diamonds—”
-
-“Precisely.”
-
-“Very well, sir?”
-
-“Very well, sir. I knew your wife, and she is in her husband’s power; I am quite willing—she is in the power of a good many people; but—I—do—not—know—your diamonds. If Mme. la Comtesse can put her name to a bill, she can go into business, of course, and buy and sell diamonds on her own account. The thing is plain on the face of it!”
-
-“Good-day, sir!” cried the Count, white with rage. “There are courts of justice.”
-
-“Quite so.”
-
-“This gentleman here,” indicating me, “was a witness of the sale.”
-
-“That is possible.”
-
-The Count turned to go. Feeling the gravity, I interposed.
-
-“M. le Comte,” said I, “you are right, and M. Gobseck is by no means in the wrong. You could not prosecute the purchaser without bringing your wife into court, and the odium would not fall on her alone. I am an attorney, and I owe it to my position to declare that the diamonds you speak of were purchased by M. Gobseck in my presence; but it would be unwise to dispute the legality of the sale, especially as the goods are not readily recognizable. In equity our contention would lie; in law it would collapse. M. Gobseck can plead he bought in good faith; you would be bound to return the purchase money. Consent to an arrangement, with power to redeem at the end of seven or eight months, or a year, or any convenient lapse of time for repayment, unless you prefer to repurchase outright and give security.”
-
-Gobseck dipped his bread into his coffee and ate with indifference; but at the words “come to terms” he looked at me as though to say, ‘A fine fellow that! he has learned something from my lessons!’ I returned a glance he understood. Gobseck could not deny knowledge, for I should appear as a witness. The Count thanked me.
-
-In the debate that followed Gobseck showed greed and skill enough to baffle diplomatists; but I drew up an instrument in which the Count acknowledged receipt of eighty-five thousand francs, interest included, in consideration of which Gobseck undertook to return the diamonds.
-
-“What waste!” exclaimed he as he signed. “How is it possible to bridge such a gulf?”
-
-“Have you many children, sir?” Gobseck asked gravely.
-
-The Count winced; the old usurer had touched the sore spot. The Comtesse’s husband did not reply.
-
-“Well,” said Gobseck, taking the silence for answer, “I know your story by heart. The woman is a fiend, but perhaps you love her still; she made an impression on me. Perhaps, too, you would rather save your fortune and keep it for one or two of your children? Well, fling yourself into the whirlpool of society, lose that fortune at play, come to Gobseck pretty often. The world will say I am a Jew, a Tartar, a usurer, a pirate, will say I have ruined you! I snap my fingers at them! If anybody insults me, I lay my man out; nobody is a surer shot nor handles a rapier better than your servant. And every one knows it. Then, have a friend—if you can find one—and make over your property to him by a fictitious sale. You call that a fidei commissum, don’t you?” he asked, turning to me.
-
-The Count seemed absorbed in thought. “You shall have your money to-morrow,” he said, “have the diamonds in readiness,” and he went.
-
-“There goes one who looks to me to be as stupid as an honest man,” Gobseck said coolly when the Count had gone.
-
-“Say rather stupid as a man of passionate nature.”
-
-“The Count owes you your fee for drawing up the agreement!” Gobseck called after me as I took my leave.
-
-One morning, a few days after that initiation into the terrible depths beneath a woman of fashion’s life, the Count came into my office.
-
-“I have come to consult you on a matter of grave moment,” he said, “and I begin by telling you I have perfect confidence in you, as I hope to prove. Your behavior to Mme. de Grandlieu is above all praise,” he went on.
-
-I bowed and replied that I had done nothing but the duty of an honest man.
-
-“Well,” the Count went on, “I have made many inquiries about the singular personage to whom you owe your position. From all I learn, Gobseck is a philosopher of the Cynic school. What do you think of his probity?”
-
-“M. le Comte,” I replied, “Gobseck is my benefactor—at fifteen per cent,” I added, laughing. “But his avarice does not authorize me to paint him to the life for a stranger.”
-
-“Speak out, sir. Your frankness cannot injure Gobseck or yourself. I do not expect to find an angel in a pawnbroker.”
-
-“Daddy Gobseck is convinced of a principle he makes a rule: money is a commodity you may sell cheap or dear according to circumstances, with a clear conscience. A capitalist, by charging a high rate, becomes a secured partner by anticipation in his eyes. Apart from his peculiar financial views, I am persuaded that, out of his business, he is the most loyal and upright soul in Paris. There are two men in him; he is petty and great—a miser and a philosopher. If I were to die leaving a family, he would be the guardian I should appoint. This was how I came to see Gobseck; I know nothing of his past life. He may have been a pirate, trafficked in diamonds, men, women, or State secrets; but this I affirm—never has human soul been more thoroughly tempered. When I paid off my loan, I asked him why he made me pay such exorbitant interest; and why, seeing I was a friend, he should not have yielded. ‘My son,’ he said, ‘I released you from all need to feel any gratitude by giving you ground for the belief that you owed me nothing.’ So we are the best friends in the world. That answer gives you the man better than description.”
-
-“I have made up my mind once and for all,” said the Count. “Draw up the necessary papers; I am going to transfer my property to Gobseck. I have no one but you to trust in the draft of the counter-deed, which will declare that this transfer is a simulated sale, and that Gobseck as trustee will administer my estate, and undertakes to make over my fortune to my eldest son when he comes of age. Now, sir, this I must tell you: I should be afraid to have that precious document in my own keeping. My boy is so fond of his mother, that I cannot trust him with it. So dare I beg you to keep it for me? In case of death, Gobseck would make you legatee of my property. Every contingency is provided for.”
-
-The Count paused, greatly agitated.
-
-“A thousand pardons,” he said; “I am in great pain and have grave misgivings as to my health. Recent troubles have disturbed me painfully, and forced me to take this great step.”
-
-“Allow me to thank you, monsieur,” said I, “for the trust you place in me. But I must deserve it by pointing out that you are disinheriting your other children. Merely as the children of a once-loved wife, now fallen, they have a claim to an assured existence. I tell you plainly I cannot accept the trust unless their future is secured.”
-
-The Count trembled and tears came into his eyes as he grasped my hand. “I did not know my man thoroughly. You have made me both glad and sorry. We will make provision for the children in the counter-deed.”
-
-I went with him to the door; it seemed there was a glow of satisfaction on his face at the thought of this act of justice.
-
-Now, Camille, this is how a young wife takes the first step to the brink. A quadrille, a ballad, a picnic sometimes cause frightful evils. You are hurried on by vanity and pride, on the faith of a smile, or through giddiness and folly! Shame and misery and remorse are three Furies awaiting every woman who oversteps limits.
-
-“Poor Camille can hardly keep awake,” the Vicomtesse hastily broke in. “Go to bed, child; you have no need of appalling pictures to keep you pure.”
-
-Camille de Grandlieu took the hint and went.
-
-“You were going rather too far, dear M. Derville,” said the Vicomtesse; “an attorney is not a mother of daughters nor yet a preacher.”
-
-“But any newspaper is a thousand times—”
-
-“Poor Derville!” exclaimed the Vicomtesse, “what has come over you? Do you really imagine that I allow a daughter of mine to read the newspapers?—Go on.”
-
-Three months after everything was signed and sealed between the Count and Gobseck—I could call him the Comte de Restaud now that Camille was not there—time went by, and I saw nothing of the counter-deed, which by rights should have been in my hands. An attorney in Paris lives in such a whirl of business that, with certain exceptions, we cannot give each client the interest they take in their affairs. Still, one day when Gobseck dined with me, I asked as we left the table if he knew why I had heard no more of M. de Restaud.
-
-“There are excellent reasons for that,” he said; “the noble Count is at death’s door. He is one of the soft stamp that cannot learn how to put an end to chagrin and allow it to wear them out. Life is a craft, a profession; every man must take the trouble to learn that business. When he has learned what life is by painful experiences, his fibre is toughened; he disciplines himself till his nerves are like steel springs—they bend, but never break; given a sound digestion, a man in such training ought to live as long as the cedars of Lebanon, and famous trees they are.”
-
-“Then is the Count actually dying?” I asked.
-
-“That is possible,” said Gobseck; “the winding up of his estate will be a juicy bit of business for you.”
-
-I looked at him and said, to sound him: “Just explain to me how it is that we, the Count and I, are the only men in whom you take an interest?”
-
-“Because you are the only two who have trusted me without finessing,” he said.
-
-Although this suggested Gobseck would act fairly even if the counter-deed were lost, I resolved to see the Count. I pleaded a business engagement, and we separated.
-
-I went straight to the Rue du Helder and was shown into a room where the Countess sat playing with her children. When she heard my name, she sprang up and pointed to a chair by the fire. Trouble had withered her; nothing of its beauty remained save the marvelous outlines of its charm.
-
-“It is essential, madame, that I should speak to M. le Comte—”
-
-“If so, you would be more favored than I am,” she interrupted. “M. de Restaud will see no one. He will hardly allow his doctor to come, and will not be nursed even by me. When people are ill, they have such strange fancies! They are like children, they do not know what they want.”
-
-“Perhaps, like children, they know very well what they want.”
-
-The Countess reddened. To change the subject I added, “But M. de Restaud cannot possibly lie there alone all day, madame.”
-
-“His oldest boy is with him,” she said.
-
-It was useless to read the Countess; she did not blush this time and resolved more firmly that I should not penetrate her secrets.
-
-“The business which brings me here concerns no one but M. le Comte,” I said firmly.
-
-“The thing which brings me here concerns no one but M. le Comte,” was her tone.
-
-I chatted on about indifferent matters to study her; like all women who have plotted, she could dissimulate with rare perfection; she might do anything. I left.
-
-Now to the final scenes of this adventure, adding a few circumstances brought to light by time and some details guessed by Gobseck’s perspicacity or my own.
-
-When the Comte plunged into dissipation, something passed between husband and wife, an impenetrable secret, and the wife sank lower in his eyes. As soon as he was bedridden he manifested aversion for the Countess and the two youngest children. He forbade them his room; disobedience brought on dangerous attacks; the doctor implored the Countess to submit.
-
-Mme. de Restaud had seen family estates and property, even the mansion, pass into Gobseck’s hands, who played the fantastic ogre regarding their wealth. She partially understood what her husband was doing. M. de Trailles had traveled to England and no one could enlighten the lady that her husband was taking precautions against her at Gobseck’s suggestion. It is said she held out a long while before signing the necessary papers; nevertheless the Count gained his point. The Countess believed her husband was realizing his fortune, that somewhere there would be a bunch of notes representing the amount—perhaps deposited with a notary, or at the bank, or hidden. She reasoned M. de Restaud must have some document by which remaining property could be recovered and handed to his son.
-
-So she kept strict watch over the sick-room. She sat all day in the salon adjoining his room so she could hear every syllable and movement. She had a bed put there, but slept little. The doctor was in her interests. Such wifely devotion seemed praiseworthy. With the subtlety of perfidy, she disguised M. de Restaud’s repugnance and feigned distress so perfectly she gained a sort of celebrity. Always before her eyes she beheld a vision of destitution to follow her husband’s death should her presence fail; thus the wife, repulsed from the bed of pain, had drawn a charmed circle round it. So near, yet kept at a distance; all-powerful, but in disgrace, she lay in wait for death and opportunity; crouching like an ant-lion at the bottom of his pit, ever on the watch, listening to the fall of every grain of sand.
-
-The strictest censor must recognize the Countess pushed maternal sentiment to the last degree. Her father’s death had been a lesson. She worshiped her children. They were so young she could hide her disorders and win their love; she had given them the best education. I cannot help admiring her and feeling sorry. Gobseck joked me about it. She had discovered Maxime’s baseness and was expiating past sins in tears. I was sure of it. Hateful as were the measures she took, were they not the result of a mother’s love and a desire to repair wrongs done her children? Perhaps she only learned the worth of a virtuous life when she reaped the woeful harvest sown by her errors.
-
-Every time little Ernest came out of his father’s room, she examined him for what his father had said. The boy complied and told her more than she asked.
-
-My visit was a ray of light for the Countess. She resolved to see in me the instrument of the Count’s vengeance and barred me from the dying man. I augured ill and earnestly wished for an interview, for I was uneasy about the counter-deed. If it fell into the Countess’ hands she might turn it to her account, beginning interminable lawsuits with Gobseck. I knew the usurer well enough to feel convinced he would never give up the property; there was room for legal quibbling over transfers, and I alone knew the ins and outs. I intended to prevent that tissue of misfortune, so I went to the Countess a second time.
-
-“I have noticed,” said Derville, turning to the Vicomtesse, “certain moral phenomena we do not heed. Two antagonists almost always divine each other’s thoughts. Two enemies sometimes read each other’s minds as lovers read souls. So when we came together, the Countess and I, I understood at once the reason of her antipathy. She knew that if I was her husband’s trusted man, that husband had not as yet given up his fortune.
-
-I will spare you the conversation; it abides in memory as one of the most dangerous encounters in my career. Nature had bestowed on her qualities that made her irresistibly fascinating; she could be pliant and proud, confiding and coaxing; she even tried to subjugate me. It was a failure. As I left, I caught a gleam of hate and rage in her eyes that made me shudder. We parted enemies. She would fain have crushed me; I felt pity, and for some natures pity is the deadliest insult. This feeling pervaded my last representations to her; when I left, I think I left dread in her soul by declaring that ruin lay inevitably before her.
-
-“If I were to see M. le Comte, your children’s property at any rate would—”
-
-“You would be at my mercy,” she said, disgust in her gesture.
-
-Now that we had spoken frankly, I resolved to save the family from impending destitution. I strained the law to gain my ends. I sued the Comte de Restaud for a sum ostensibly due to Gobseck, and gained judgment. The Countess, of course, did not allow him to know, but I had a right to affix seals on his death. I bribed a servant—he undertook to let me know at any hour if his master was at the point of death, so I could intervene at once, scare the Countess with a threat of affixing seals, and secure the counter-deed.
-
-I learned later that the woman studied the Code with her husband’s dying moans in her ears. If we could picture the thoughts of those about a deathbed, what fearful sights would appear! Money is always the motive-spring. Let us leave these nauseating details; they give insight into what husband and wife endured and unveil much that passes in secret in other houses.
-
-For two months the Comte lay on his bed, alone and resigned. Mortal disease slowly sapped his strength. Unaccountable sick fancies preyed on him; he would not have his room set in order, would not be nursed even by his wife. All bore marks of apathy; furniture out of place, trifles covered with dust and cobwebs. He could not bear daylight; Venetian shutters were closed. He had wasted greatly; life seemed to have taken refuge in brilliant eyes. The livid whiteness of his face and long damp locks made him horrible, a fanatic in the desert. Mental suffering was extinguishing all human instincts in this man of scarce fifty, once brilliant and successful.
-
-One morning at the beginning of December 1824 he looked up at Ernest, who sat at the foot of his bed.
-
-“Are you in pain?” the little Vicomte asked.
-
-“No,” said the Count, with a ghastly smile, “it all lies here and about my heart!” He pointed to his forehead and laid his wasted fingers on his hollow chest. Ernest began to cry.
-
-“How is it that M. Derville does not come to me?” the Count asked his servant—he thought Maurice attached, but the man was entirely in the Countess’ interest—“What! Maurice!” The dying man suddenly sat upright and seemed to recover presence of mind. “I have sent for my attorney seven or eight times during the last fortnight, and he does not come!” he cried. “Do you imagine I am to be trifled with? Go for him at once, this very instant, and bring him back. If you do not carry out my orders, I shall get up and go myself.”
-
-“Madame,” said the man as he came into the salon, “you heard M. le Comte; what ought I to do?”
-
-“Pretend to go to the attorney, and when you come back tell your master that his man of business is forty leagues away on an important lawsuit. Say he is expected home at the end of the week.” Sick people never know how ill they are, thought the Countess; he will wait till the man comes home.
-
-The doctor had said the Count could scarcely live through the day. When the servant returned two hours later with the hopeless answer, the dying man seemed greatly agitated.
-
-“Oh God!” he cried again and again, “I put my trust in none but Thee.”
-
-For a long while he gazed at his son and spoke in a feeble voice.
-
-“Ernest, my boy, you are very young; but you have a good heart; you can understand, no doubt, that a promise given to a dying man is sacred; a promise to a father... Do you feel you can be trusted with a secret, and keep it so well and closely that even your mother shall not know? There is no one else in this house whom I can trust to-day. You will not betray me, will you?”
-
-“No, father.”
-
-“Very well, then, Ernest, in a minute I will give you a sealed packet that belongs to M. Derville; you must take such care that no one knows you have it; then you must slip out and post the letter at the corner.”
-
-“Yes, father.”
-
-“Can I depend upon you?”
-
-“Yes, father.”
-
-“Come and kiss me. You have made death less bitter. In six or seven years you will understand the importance of this secret, and you will be well rewarded then. Leave me alone for a minute, and let no one—no matter whom—come in meanwhile.”
-
-Ernest went out and saw his mother in the next room.
-
-“Ernest,” said she, “come here.” She sat him on her knee and clasped him tightly. “Ernest, your father said something to you just now.”
-
-“Yes, mamma.”
-
-“What did he say?”
-
-“I cannot repeat it, mamma.”
-
-“Oh, my dear child!” cried the Countess, kissing him. “You have kept your secret; how glad that makes me! Never tell a lie; never fail to keep your word—these are principles that should never be forgotten.”
-
-“Oh! mamma, how beautiful you are! You have never told a lie, I am quite sure.”
-
-“Once or twice, Ernest dear, I have lied. Yes, and I have not kept my word under circumstances which speak louder than precepts. Listen, my Ernest, you are big enough and intelligent enough to see that your father drives me away, and will not allow me to nurse him, and this is not natural, for you know how much I love him.”
-
-“Yes, mamma.”
-
-The Count opened the door and stood there, half-naked, a sudden, almost skeletal apparition.
-
-His smothered cry produced a terrible effect upon the Countess; she flung herself at his feet. His face, working with last emotions, was almost hideous.
-
-“Mercy! mercy!” she cried aloud, shedding torrents of tears.
-
-“Have you shown me any pity?” he asked. “I allowed you to squander your own money, and now do you mean to squander my fortune, and ruin my son?”
-
-“Ah! well, yes, have no pity for me, be merciless to me!” she cried. “But the children? Condemn your widow to live in a convent; I will obey you; I will do anything to expiate the wrong I have done you, if that the children may be happy! The children! Oh, the children!”
-
-“I have only one child,” said the Count, stretching a wasted arm towards his son.
-
-“Pardon a penitent woman!” wailed the Countess, arms about his damp feet. She could not speak for sobbing.
-
-“You dare to talk of penitence after all that you said to Ernest!” exclaimed the dying man, shaking off the Countess. “You turn me to ice!” he added with appalling indifference. “You have been a bad daughter; you have been a bad wife; you will be a bad mother.”
-
-The wretched woman fainted. The dying man reached his bed and lay down again; a few hours later sank into unconsciousness. The priests came and administered the sacraments.
-
-At midnight he died; the scene that morning had exhausted him. I arrived with Daddy Gobseck. The house was in confusion; under cover of it we walked into the small salon adjoining the death-chamber. The three children were there in tears, with two priests. Ernest came over and said his mother desired to be alone in the Count’s room.
-
-“Do not go in,” he said; I admired the child for his tone; “she is praying there.”
-
-Gobseck began to laugh that soundless laugh, but I felt too much touched by Ernest’s face to join. When Ernest saw us move toward the door, he planted himself before it, crying, “Mamma, here are some gentlemen in black who want to see you!”
-
-Gobseck lifted Ernest like a feather and opened the door.
-
-What met our eyes was a scene! The room was in frightful disorder; clothes and papers tossed in confusion; drawers forced; carpet strewn; furniture and boxes broken—signs of violence everywhere. If her search had at first proved fruitless, there was that in her excitement which suggested she had found the mysterious documents at last. I glanced at the bed; the mattress had been flung down and across it, face downwards, lay the Count’s body—he too was nothing now but an envelope. There was something grotesquely horrible in his attitude.
-
-The dying man must have hidden the counter-deed under his pillow to keep it safe while life lasted; his wife must have guessed; it might be read in his last gesture, the convulsive clutch of his hands. The pillow lay on the floor at the foot of the bed; I could see the print of her heel upon it. At her feet lay a paper with the Count’s arms on the seals; I snatched it up and saw it was addressed to me. I looked steadily at the Countess with the pitiless clear-sightedness of an examining magistrate confronting a guilty creature. The contents were blazing in the grate; she had flung them on the fire at our approach, imagining, from a hasty glance at my provisions for her children, that she was destroying a will which disinherited them. Tormented conscience and involuntary horror had taken away all power of reflection. She had been caught in the act, and possibly the scaffold was rising before her eyes.
-
-There she stood gasping, waiting.
-
-I went to the grate and pulled out an unburned fragment. “Ah, madame!” I exclaimed, “you have ruined your children! Those papers were their titles to their property.”
-
-Her mouth twitched; she seemed near a paralytic seizure.
-
-“Eh! eh!” cried Gobseck; the harsh tone grated.
-
-There was a pause, then the old man turned to me quietly:
-
-“Do you intend Mme. la Comtesse to suppose that I am not the rightful owner of the property sold to me by her late husband? This house belongs to me now.”
-
-A sudden blow would have given me less pain and astonishment. The Countess saw my hesitation.
-
-“Monsieur,” she cried.
-
-“You are a trustee, are you not?” I asked.
-
-“That is possible.”
-
-“Then do you mean to take advantage of this crime of hers?”
-
-“Precisely.”
-
-I left the Countess sitting by her husband’s bedside, shedding hot tears. Gobseck followed. Outside in the street I separated from him, but he came after me, flung one of those searching glances with which he probed men’s minds, and said in husky flute-tones pitched higher:
-
-“Do you take it upon yourself to judge me?”
-
-From that time we saw little of each other. Gobseck let the Count’s mansion on lease; he spent summers on the country estates. He was a lord of the manor in earnest, putting up farm buildings, repairing mills and roadways, and planting timber. I came across him one day in the Jardin des Tuileries.
-
-“The Countess is behaving like a heroine,” said I; “she gives herself up entirely to the children’s education; she is giving them a perfect bringing up. The oldest boy is a charming young fellow—”
-
-“That is possible.”
-
-“But ought you not to help Ernest?” I suggested.
-
-“Help him!” cried Gobseck. “Not I. Adversity is the greatest of all teachers; adversity teaches the value of money and the worth of men and women. Let him set sail on the seas of Paris; when he is a qualified pilot, we will give him a ship to steer.”
-
-I left him without seeking to explain his words.
-
-M. de Restaud’s mother had prejudiced him against me, and he was far from taking me as his legal adviser; still, I went to see Gobseck last week to tell him about Ernest’s love for Mlle. Camille, and pressed him to carry out his contract, since young Restaud is now of age.
-
-I found the old bill-discounter kept to his bed for a long time by the complaint of which he was to die. He put me off, saying he would give the matter attention when he could get up and see after his business; his idea no doubt was that he would not give up possessions while breath was in him. He seemed much worse than he suspected. I stayed long enough to discern the progress of a passion age had converted into a sort of craze. He wanted to be alone in the house, and had taken rooms one by one as they fell vacant. In his own room he had changed nothing; the furniture which I knew sixteen years ago looked the same; it might have been kept under glass. Gobseck’s faithful old portress, with her pensioner husband who sat in the entry, was still his housekeeper and charwoman, and now his sick-nurse. In spite of feebleness, Gobseck saw clients as before, and received sums; his affairs had been simplified so he only needed to send his pensioner on errands and could carry on business in bed.
-
-After the treaty by which France recognized the Haytian Republic, Gobseck was on the commission appointed to liquidate claims and assess repayments due by Hayti; his knowledge of old fortunes in San Domingo and the planters and their heirs had led to his nomination. Gobseck’s genius devised an agency for discounting planters’ claims on the government. The business ran under Werbrust and Gigonnet, with whom he shared spoil without disbursements, for his knowledge was accepted instead of capital. The agency bought small and dubious claims cheaply. Gobseck was the insatiable boa constrictor. Every morning he received tribute, eyeing it like a Nabob’s prime minister considering whether to sign a pardon. Gobseck would take anything, from game or wax candles from devout folk, to a rich man’s plate and a speculator’s gold snuff-box. Nobody knew what became of the presents. Everything went in, but nothing came out.
-
-“On the word of an honest woman,” said the portress, “I believe he swallows it all and is none the fatter for it; he is as thin and dried up as the cuckoo in the clock.”
-
-At length, last Monday, Gobseck sent his pensioner for me. The man came to my private office.
-
-“Be quick and come, M. Derville,” said he, “the governor is just going to hand in his checks; he has grown as yellow as a lemon; he is fidgeting to speak with you; death has fair hold of him; the rattle is working in his throat.”
-
-When I entered Gobseck’s room, I found the dying man kneeling before the grate. If there was no fire, there was at least a monstrous heap of ashes. He had dragged himself out of bed, but strength failed him; he could neither go back nor find the voice to complain.
-
-“You felt cold, old friend,” I said, helping him back to bed; “how can you do without a fire?”
-
-“I am not cold at all,” he said. “No fire here! no fire! I am going, I know not where, lad,” he went on, glancing at me with blank eyes, “but I am going away from this.—I have carpology,” said he. “I thought the room was full of live gold, and I got up to catch some of it.—To whom will all mine go, I wonder? Not to the crown; I have left a will, look for it, Grotius. La belle Hollandaise had a daughter; I once saw the girl somewhere in the Rue Vivienne, one evening. They call her ‘La Torpille,’ I believe; she is as pretty as pretty can be; look her up, Grotius. You are my executor; take what you like; help yourself. There are Strasburg pies, and bags of coffee, and sugar, and gold spoons. Give the Odiot service to your wife. But who is to have the diamonds? Are you going to take them, lad? There is snuff too—sell it at Hamburg, tobaccos are worth half as much again at Hamburg. All sorts of things I have and now I must go and leave them all.—Come, Papa Gobseck, no weakness, be yourself!”
-
-He raised himself in bed, lines of his face standing out sharply; he stretched a lean arm and bony hand along the coverlet and clutched it as if to keep hold of life, then gazed hard at the grate and died in full consciousness. To us—the portress, the old pensioner, and myself—he looked like one of the old Romans behind the Consuls in Lethière’s Death of the Sons of Brutus.
-
-“He was a good-plucked one, the old Lascar!” said the pensioner.
-
-But as for me, the dying man’s fantastical enumeration of riches still sounding, my eyes, following his direction, rested on that heap of ashes. It struck me that it was very large. I took the tongs, and as soon as I stirred the cinders I felt metal underneath: a mass of gold and silver coins, receipts taken during his illness, doubtless, after he grew too feeble to lock money up and trust no one to bank it.
-
-“Run for the justice of the peace,” said I, turning to the old pensioner, “so everything can be sealed.”
-
-Gobseck’s last words and the old portress’ remarks had struck me. I took the keys of the rooms on the first and second floors to make a visitation. The first door I opened revealed the meaning of phrases I took for mad ravings; I saw the length to which covetousness goes when it survives only as an illogical instinct—the last stage of greed in many misers.
-
-In the room next to his, a quantity of eatables of all kinds were stored—putrid pies, mouldy fish, even shell-fish, the stench almost choking me. Maggots swarmed. These recent presents were put among chests of tea, bags of coffee, and packing-cases. A silver soup tureen on the chimney-piece was full of advices of goods consigned to his order at Havre: bales of cotton, hogsheads of sugar, barrels of rum, coffees, indigo, tobaccos—a perfect bazaar of colonial produce. The room itself was crammed with furniture, silver-plate, lamps, vases, pictures; books and curiosities and fine engravings lay rolled and unframed. Perhaps some of these were pledges left in default of payment. I noticed jewel-cases with ciphers and armorial bearings, and sets of fine linen, and weapons; none were docketed. I opened a misplaced book and found a thousand-franc note. I promised to go through everything thoroughly; I would try ceilings, floors, and walls to discover all the gold hoarded with passionate greed by a Dutch miser worthy of Rembrandt.
-
-I went back to his room and found an explanation of the chaos in a pile of letters under the paper-weights on his desk—Gobseck’s correspondence with dealers to whom he usually sold presents. These persons had perhaps fallen victims to his cleverness, or he wanted fancy prices; at any rate every bargain hung in suspense. He had not disposed of the eatables because Chevet would only take them at a loss of thirty per cent. Gobseck haggled a few francs; while they wrangled the goods became unsalable. Again, he had refused free delivery of his silver and declined to guarantee coffee weights. There had been a dispute over each article—the first sign of childishness and incomprehensible obstinacy of age, a condition reached by strong passions surviving the intellect.
-
-I said to myself, as he had said, “To whom will all these riches go?”... And then I thought of the grotesque information he gave me about his heiress’s present address; I foresaw I might be called upon to search houses of ill-fame in Paris to pour out an immense fortune on some worthless jade. But, first, know this—that in a few days Ernest de Restaud will come into a fortune to which his title is unquestionable, a fortune that will put him in a position to marry Mlle. Camille, even after adequate provision has been made for his mother the Comtesse de Restaud and his sister and brother.
+PARIS, January 1836.
 
 ADDENDUM
 
 The following personages appear in other stories of the Human Comedy.
 
-     Bidault (known as Gigonnet)
-       The Government Clerks
-       The Vendetta
-       Cesar Birotteau
-       The Firm of Nucingen
-       A Daughter of Eve
+Bianchon, Horace: Father Goriot; Cesar Birotteau; The Commission in Lunacy; Lost Illusions; A Distinguished Provincial at Paris; A Bachelor's Establishment; The Secrets of a Princess; The Government Clerks; Pierrette; A Study of Woman; Scenes from a Courtesan's Life; Honorine; The Seamy Side of History; The Magic Skin; A Second Home; A Prince of Bohemia; Letters of Two Brides; The Muse of the Department; The Imaginary Mistress; The Middle Classes; Cousin Betty; The Country Parson. In addition, M. Bianchon narrated: Another Study of Woman; La Grande Breteche.
 
-     Derville
-       A Start in Life
-       The Gondreville Mystery
-       Father Goriot
-       Colonel Chabert
-       Scenes from a Courtesan’s Life
-
-     Derville, Madame
-       Cesar Birotteau
-
-     Gobseck, Jean-Esther Van
-       Father Goriot
-       Cesar Birotteau
-       The Government Clerks
-       The Unconscious Humorists
-
-     Gobseck, Sarah Van
-       Cesar Birotteau
-       The Maranas
-       Scenes from a Courtesan’s Life
-       The Member for Arcis
-
-     Gobseck, Esther Van
-       The Firm of Nucingen
-       A Bachelor’s Establishment
-       Scenes from a Courtesan’s Life
-
-     Grandlieu, Vicomtesse de
-       Scenes from a Courtesan’s Life
-       Colonel Chabert
-
-     Grandlieu, Vicomte Juste de
-       Scenes from a Courtesan’s Life
-
-     Grandlieu, Vicomtesse Juste de
-       Scenes from a Courtesan’s Life
-       A Daughter of Eve
-
-     Maurice (de Restaud’s valet)
-       Father Goriot
-
-     Palma (banker)
-       The Firm of Nucingen
-       Cesar Birotteau
-       Lost Illusions
-       A Distinguished Provincial at Paris
-       The Ball at Sceaux
-
-     Restaud, Comte de
-       Father Goriot
-
-     Restaud, Comtesse Anastasie de
-       Father Goriot
-
-     Restaud, Ernest de
-       The Member for Arcis
-
-     Restaud, Madame Ernest de
-       The Member for Arcis
-
-     Restaud, Felix-Georges de
-       The Member for Arcis
-
-     Trailles, Comte Maxime de
-       Cesar Birotteau
-       Father Goriot
-       Ursule Mirouet
-       A Man of Business
-       The Member for Arcis
-       The Secrets of a Princess
-       Cousin Betty
-       The Member for Arcis
-       Beatrix
-       The Unconscious Humorists
+Desplein: Cousin Pons; Lost Illusions; The Thirteen; The Government Clerks; Pierrette; A Bachelor's Establishment; The Seamy Side of History; Modeste Mignon; Scenes from a Courtesan's Life; Honorine.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
+########### MIDDLE OF THE STORY. ###########
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
