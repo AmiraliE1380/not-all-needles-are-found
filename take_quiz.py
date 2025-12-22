@@ -203,7 +203,7 @@ def take_distributed_facts_quizzes():
             print(f"response: {response}\n")
             print("\n" + "="*50 + "\n")
 
-            time.sleep(15)  # to avoid token rate per minute limit errors
+            time.sleep(350)  # to avoid token rate per minute limit errors
 
             save_results_path = f"logs/quiz_responses_{id}_{model}{hallucination_version}.txt"
             os.makedirs(os.path.dirname(save_results_path), exist_ok=True)
