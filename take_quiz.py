@@ -2,6 +2,7 @@ from inject_fact import inject_fact
 from call_api import chat_with_model
 from take_quiz_batch import get_unique_path, construct_single_quiz
 import os
+import re
 
 import time
 
@@ -16,6 +17,60 @@ MIDDLE_OF_STORY = (
 "\n############# MIDDLE OF THE STORY. #############"
 "\n################################################\n"
 )
+
+
+def _extract_retry_delay_seconds(exc: Exception) -> int:
+    """
+    Best-effort extraction of retryDelay from google.genai 429 payload.
+    Falls back to 65s if not found.
+    """
+    s = str(exc)
+    # Typical payload contains: 'retryDelay': '55s'
+    m = re.search(r"'retryDelay'\s*:\s*'(\d+)s'", s)
+    if m:
+        return int(m.group(1))
+    # Sometimes message includes: "Please retry in 42.31s."
+    m = re.search(r"Please retry in\s+([\d.]+)s", s)
+    if m:
+        return int(float(m.group(1)))
+    return 65
+
+
+def chat_with_model_rate_limited(prompt: str, model: str, *, max_retries: int = 3) -> str:
+    """
+    Wrapper around chat_with_model that:
+    - pre-sleeps for huge Gemini prompts to start on a fresh quota window
+    - catches 429 RESOURCE_EXHAUSTED and sleeps for server-provided retryDelay
+    """
+    # Huge prompts are very close to Gemini's 1M input-tokens/min limit.
+    # Pre-sleep avoids "leftover tokens from last minute" failures.
+    if model.startswith("gemini-"):
+        # heuristic: very large prompt => pre-sleep 70s to clear rolling window
+        if len(prompt) > 2_000_000:  # chars; crude but effective
+            time.sleep(70)
+
+    for attempt in range(max_retries):
+        try:
+            return chat_with_model(prompt=prompt, model=model)
+        except Exception as e:
+            msg = str(e)
+            is_gemini_quota_429 = (
+                model.startswith("gemini-")
+                and ("429" in msg)
+                and ("RESOURCE_EXHAUSTED" in msg or "Quota exceeded" in msg)
+            )
+            if not is_gemini_quota_429 or attempt == max_retries - 1:
+                raise
+
+            delay = _extract_retry_delay_seconds(e)
+            # Add a small buffer; Gemini's quota window is rolling.
+            sleep_s = delay + 5
+            print(f"[Gemini quota] Hit 429. Sleeping {sleep_s}s then retrying (attempt {attempt+1}/{max_retries})...")
+            time.sleep(sleep_s)
+
+    # unreachable
+    raise RuntimeError("Unexpected retry loop exit")
+
 
 
 def grade_quiz(model_response, ground_truth):
@@ -111,7 +166,7 @@ def take_quizes_diff_lengths():
     
     # for i in range(10):
     # for i in range(8,10):
-    for i in [6,8,9]:
+    for i in [8,9]:
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
         # grades.append([])
         # for j in [9]:
@@ -145,6 +200,7 @@ def take_quizes_diff_lengths():
                     print(f"Saved constructed quiz to {cached_quiz_addr}")
 
                 response = chat_with_model(prompt=quiz, model=model)
+                # response = chat_with_model_rate_limited(prompt=quiz, model=model)
                 print(f"response: {response}\n")
                 print("\n" + "="*50 + "\n")
 
@@ -157,7 +213,7 @@ def take_quizes_diff_lengths():
                 with open(save_results_path, 'w') as file:
                     file.write(str(response))
 
-                time.sleep(800)  # to avoid token rate per minute limit errors
+                time.sleep(1600)  # to avoid token rate per minute limit errors
         
     
 

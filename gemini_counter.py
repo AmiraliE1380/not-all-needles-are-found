@@ -33,7 +33,7 @@ if __name__ == "__main__":
     #     print("Usage: python gemini_token_counter.py <file.txt>")
     #     sys.exit(1)
     addr = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_1000k_expected_90%.txt"
-    addr = "texts/la_comédie_humaine_(balzac)/all_combined/combined_test_1139158.txt"
+    addr = "texts/la_comédie_humaine_(balzac)/contracted/temp_injected_facts/1000k_length_90%_factloc_5.txt"
 
     tokens = count_gemini_tokens(addr)
     print(f"Gemini token count: {tokens}")
