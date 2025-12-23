@@ -1,204 +1,829 @@
-In some provincial towns a cloistered melancholy hangs over certain houses; silence seems to freeze life, broken only by a solitary figure at a window. That same air brooded over a house in Saumur, down a steep, little-used street of pebble pavement and three-century-old buildings. These wooden houses, prized by antiquarians, show carved oaken beams, slate façades, worn sills with neglected flower-pots, and heavy studded doors bearing traces—Protestant marks or bourgeois insignia—so the history of France seems recorded in wood and stone.
+DEDICATION
 
-Beside a dilapidated dwelling stood a country gentleman’s mansion; its stone arch bore armorials eroded by revolutions since 1789. Ground floors were plain, dark rooms where goods lay exposed and a girl might call her parents to serve a customer. Local life and commerce bowed to the weather: merchants, wine-growers, and coopers watched frost and rain anxiously, for a bad season could ruin them. On Saturdays vineyards called their owners away; streets fell silent and neighbors merely watched one another.
+To Monsieur Eugene-Auguste-Georges-Louis Midy de la Greneraye
+Surville, Royal Engineer of the Ponts at Chausses.
 
-The most melancholy mansion belonged to Monsieur Grandet. To understand the house one must know the man. Grandet began as a master cooper in 1789 and married a rich wood merchant’s daughter. With his savings and his wife’s dowry he bought prime vineyards during the sale of church property, gaining a reputation as protector of local nobility and supplier to Republican armies. Through shrewd investments in vineyards and estates—and by serving as mayor in 1806—he steadily increased his fortune; that year he also inherited three fortunes, adding vast vineyards, farms, and an abbey to his holdings, making him one of the region’s wealthiest men.
+As a testimony to the affection of his brother-in-law,
 
-Townspeople speculated about his riches; his knack for timing sales secured maximum profit, making him both admired and feared. By 1816 his fortune was estimated at nearly four million francs, and many believed he held as much again in cash. Former ridicule faded as his acts assumed the weight of community law. Frugality governed his life; he spent only on necessities.
+De Balzac
 
-Grandet’s manner was plain and unpretentious: he spoke little and stuttered in prolonged conversation—an awkwardness that concealed calculation. He never committed without consulting his wife, whom he kept dependent. Stout, round-faced, and crafty in appearance, he dressed simply.
+AN OLD MAID
 
-Only a handful entered his house, among them the young magistrate C. de Bonfons, who hoped to win Grandet’s daughter Eugénie. The town’s social life revolved around rivalry for her—chiefly between the powerful Cruchot family, who favored their nephew, and the des Grassins, who backed their son Adolphe. In early 1811 the Cruchots gained the advantage: when the estate of Froidfond was sold they negotiated its purchase for Grandet, who paid in gold—an ostentatious display confirming his wealth and influence throughout Saumur.
+CHAPTER I. ONE OF MANY CHEVALIERS DE VALOIS
+
+Many provinces in France could boast a Chevalier de Valois. One lived in Normandy, another at Bourges, and a third—the present one—flourished in Alencon. They were little known to one another. If any Valois remained they came from Charles de Valois, Duc d’Angouleme; the male line, until proved otherwise, had ended in the Abbe de Rothelin. The Valois-Saint-Remy, descending from Henri II, ended in the Lamothe-Valois implicated in the Diamond Necklace affair.
+
+Like his fellows, the Chevalier of Alencon was an old gentleman—tall, thin, withered and nearly penniless. He had spent his youth in Paris, reached thirty amid conquests and gallantries when the Revolution came, and was accepted by the provincial aristocracy as a true Valois. He distinguished himself by manners: he dined out daily, played cards each evening, and told anecdotes of Louis XV’s reign and the Revolution’s beginnings that seemed witty at first hearing. He never repeated his bons mots, never spoke of his love affairs, and, while lax about mass, bore a royalist devotion that secured indulgence for his irreligion.
+
+His manner—perhaps borrowed from Mole—included taking snuff from a gold box adorned with the portrait of the Princess Goritza, a Hungarian for whom he had once fought a duel. At fifty-eight he owned to only fifty; his thin, fair figure helped preserve a youthful air. A single enormous nose divided a pale face: the left side reddened by digestion, the right remained white. He ate like an ogre and blamed a “hot liver,” perhaps to excuse his appetite; in a region of long meals his stomach seemed providential. Physicians said heat on the left denotes a prodigal heart; his gallantries agreed.
+
+His constitution remained vigorous; his face bore the furrows of pleasure—crow’s-feet and marches-du-palais—signs of passion. He was fastidious in dress and ablutions: fine white linen, a clean though half-worn coat, a maroon coat with gilt buttons, half-tight breeches, a plain white waistcoat, a tight cravat hiding the shirt-collar, square-buckled shoes, and two watch-chains. His hair and brows were combed to preserve youth; part of his skull shone like ivory. His hands were delicate. Were it not for his magisterial nose he might seem too dainty.
+
+He had oddities: cotton in his ears and two little diamond ear-rings shaped as negroes' heads, which he claimed cured headaches. These were forgiven because of his graces. He labored to conceal his age and give pleasure, comporting himself with an old-marquis ease now rare since Mole’s disappearance.
+
+His private life seemed open yet remained mysterious. He lodged modestly on the second floor of Madame Lardot’s house in the rue du Cours, paying a hundred francs a year for two rooms. He dined out daily and returned only to sleep; at home he breakfasted on chocolate, bread and butter, and seasonal fruit. He made no fire except in severe weather. Between eleven and four he walked, read papers, and paid visits. He pretended poverty—his whole fortune an annuity of six hundred francs, the remainder of old opulence—and visited his man of business quarterly. In truth a banker paid him one hundred and fifty francs every three months, remitted by Monsieur Bordin of Paris, the last of the procureurs du Chatelet. The chevalier demanded secrecy.
+
+Monsieur de Valois was welcome in Alencon’s best houses. His skill at cards, his stories, amiability, and approving grimace made gatherings feel incomplete without him. Young women treasured his compliments; his old-fashioned diminutives—“my heart,” “my jewel,” “my little pet”—had a grace few resisted. At cards he never complained, praised opponents when they lost, and with a snuff-box gesture silenced tedious dissertations on play. He tolerated poor players and made the best of them. His equability won admiration: “I do admire the Chevalier de Valois!”
+
+To grisettes he was paternal and flattering; he supplied trifles—chocolate, bonbons, ribbons—and they returned secret attachments and discretion. Mornings he amused himself with their gossip—his “petticoat gazettes.” Despite small winnings—he left salons with about six francs—he was the town’s darling.
+
+Yet there was more to his means. After the “glorious” sad days of July, some discovered his nightly winnings were about one hundred and fifty francs every three months and that he had the pluck to send himself his annuity to avoid appearing wholly destitute. Friends defended him as respectable and calumniated. Over about fifteen years he had amassed ten thousand and some odd hundred francs. With the Bourbon return an old friend, the Marquis de Pombreton, allegedly repaid twelve hundred pistoles lent long ago; this allowed him to consult moneyed friends and invest on the Grand-Livre at the right moment. He obtained, through unnamed influential persons, a pension of three hundred francs from the king’s privy purse and the cross of Saint-Louis, permitting him to take rank as a retired colonel for his service in the Catholic armies of the West.
+
+Thus, besides the fiction of his annuity, he had an honest income of a thousand francs. He changed little in lifestyle; the red ribbon of the cross completed his physiognomy. After 1802 he sealed letters with an old family seal and bore arms: Party of France, with mascles and a cross; motto: “Valeo.” Many envied his tranquil life—whist, boston, backgammon, reversi, piquet; snuff gracefully inhaled; tranquil walks. But he harbored an ambition: to marry a certain rich old maid, using her as a stepping-stone to the court. That explained his royal bearing and residence in Alencon.
+
+CHAPTER II. SUSANNAH AND THE ELDERS
+
+One Wednesday morning in mid-spring the chevalier, dressing in his old green-flowered damask gown, heard the light step of a young girl climb the stair. Three taps, and without waiting she slipped into his room.
+
+“Ah! is it you, Suzanne?” said the chevalier, still stropping his razor. “What have you come for, my dear little jewel of mischief?”
+
+“I have come to tell you something which may perhaps give you as much pleasure as pain.”
+
+“Is it anything about Cesarine?”
+
+“Cesarine! much I care about your Cesarine!” she answered saucily.
+
+Suzanne was a work-girl at Madame Lardot’s. The wash-rooms occupied the ground floor; the tiny courtyard dried the fine linen of the town’s best families. The chevalier, claiming to know love-affairs from the linen’s condition, was discreet; he was never betrayed into epigrams that might close a salon to him. He frequented the work-room, bestowing trifles on his “little ducks,” who adored him. Women have an instinct for men who love them and ask nothing in return; the chevalier’s gallant protection—an echo of the seigneurs’ ways—made him beloved. He could no longer ruin himself for a mistress, so he gave toffees instead of bank-bills; they accepted gladly. They made him seem older and more respectable in public, but among themselves they perched on his shoulders like parrots. He enjoyed their household gossip and was amused by their “talking feuilletons” at breakfast.
+
+Suzanne was one of his favorites—clever, ambitious, handsome—reminiscent of a Sophie Arnould. She had a Norman, rubenesque beauty.
+
+“Well, my child, tell me your great or little adventure,” said the chevalier.
+
+He listened with a paternal manner; the shabby room—threadbare tapestry, tavern-paper profiles of Louis XVI and his family—exhaled an eighteenth-century air; libertine graces of his youth reappeared. He draped Suzanne before him, holding her legs between his knees; she indulged him but could be offish in the street.
+
+“We slander ourselves,” he said craftily; “we are as virtuous as that biblical girl whose name we bear; we can always marry as we please, but we are thirsty for Paris. We want to go see if the great capital hasn’t some young Chevalier de Valois with a carriage, diamonds, an opera-box.” He counseled her to go to Paris at an old bachelor’s expense—“an old bachelor is the natural money-box of a young girl”—but warned: “don’t drag me into it. I haven’t a penny to get you out of trouble. If I marry Mademoiselle Cormon and become rich, of course I would prefer you.”
+
+“Monsieur le chevalier, I assure you, you are mistaken,” she began, blushing; the chevalier had already guessed her plan.
+
+“Yes, yes! I understand: you want me to believe it. Well! I do believe it. But take my advice: go to Monsieur du Bousquier. Don’t you take linen there? He’s an old bachelor and very rich; if you’re clever you can go to Paris at his expense. Twist him round your finger; he fears scandal and is ambitious.” At these words Suzanne hurried off—to du Bousquier.
+
+Du Bousquier belonged to an old Alencon family, had gone to Paris, engaged in public business, and made a fortune as commissary of provisions to the armies from 1793 to 1799. He lived magnificently, was intimate with Barras and Fouche, and had aimed for ministerial rank by supporting a secret party until Marengo. His speculations failed when Kellermann and Desaix altered events; Napoleon disfavored contractors who had speculated on his defeat, and du Bousquier was ruined. From his past he retained only twelve hundred francs a year placed on the Grand Livre. He returned to Alencon furious with Bonaparte and was received among royalists though shunned by the leading nobility. He had offered himself to Mademoiselle Armande and been refused. Now middle-aged, he was plump, with strong calves and a broad chest, but his voice was stifled, as if cutting moist wood. He favored the liberal party in Alencon, manipulating elections and harming the Restoration; his hatred of royalists was patient and inexhaustible.
+
+The chevalier had turned Suzanne upon du Bousquier because the two old bachelors were secret rivals for the hand of Mademoiselle Cormon. Though their designs were discreet, both hoped for this wealthy old maid. The chevalier had never asked her hand; du Bousquier had and been refused. Their war was courteous in the chevalier’s manner, less so in du Bousquier’s, yet they met nearly every evening on the same ground.
+
+Suzanne tripped from the rue du Cours to du Bousquier’s house in the rue du Cygne, where he had bought a grey Jura-stone house about five years before. It preserved some furniture and decorations of his former splendor; provincial neglect made the whole a jumble—magnificence marred by dirt. He lived as a man of leisure with a single Breton servant, Rene, a ninny trained to rub floors and black boots; Rene was a glutton and a trusty confidant.
+
+“’Tisn’t your day. We haven’t any linen for the wash,” Rene grunted when Suzanne entered. She left him and went upstairs.
+
+Du Bousquier, in bed, listened as Suzanne sat swinging curtain-rings.
+
+“What is it, my charmer?” he said, sitting up.
+
+“Monsieur,” she said gravely, “I know how ridiculous it is in a poor girl to nag a man. But I can be of use to you if you’ll attach yourself to me as I am to you. If we went to Paris you’d see what I could do with a man of your mind and capacity; they are remaking the government. Perhaps this misfortune is a piece of luck. Who and what are you working for now?”
+
+“For myself, of course!” cried du Bousquier.
+
+“Monster! you’ll never be a father!” she retorted.
+
+Du Bousquier, torn between joy, distrust, and calculation, had long planned to marry Mademoiselle Cormon for her property and social standing. That marriage would have advanced his political career; but Suzanne’s sudden offer bewildered him. Without it, he might have married her and led the liberal party openly; with it, he hesitated. He rubbed his night-cap and thought. Finally: “I’m not to be taken in with such bosh, not I!”—the proud remark of a man who prided himself on never being duped by women.
+
+“Remember, Monsieur du Bousquier,” Suzanne replied, “I have offered you my hand with dignity. I shan’t beg. I can find other husbands. But I cannot stay in Alencon: my mother would beat me, Madame Lardot would turn me off. If I go to Paris I must have money for the journey and for—you know what.”
+
+This struck du Bousquier more than the chevalier; had she truly been desperate she would have braved a thousand deaths before asking. “Will you really go to Paris, then?” he asked.
+
+“Yes, monsieur.”
+
+Du Bousquier lamented his debts—payments on the house, bills for painter and upholsterer. He offered three hundred francs. Suzanne pretended to depart.
+
+“Stop, where are you going?” said du Bousquier uneasily. “The devil take me if I ever did anything more than rumple her collar, and, lo and behold! she makes THAT a ground to put her hand in one’s pocket!”
+
+“I’m going to Madame Granson, treasurer of the Maternity Society,” Suzanne said. “They save many poor girls in my condition from suicide.”
+
+“Madame Granson!” Du Bousquier, alarmed, gave her a key and told her to take from his secretary a bag containing about six hundred francs—“it is all I possess.”
+
+“If you deceive me, Suzanne,” he cried as she handled the sack.
+
+“Monsieur,” she answered impertinently, “wouldn’t you have given me money if I had asked for it?” Recalled to gallantry, du Bousquier kissed her; she left, cursing his stinginess. She hid the sack in an osier gamebag, already thinking that the Maternity Society, presided over by Mademoiselle Cormon, might be induced to complete the sum she had calculated for Paris—one thousand francs—and, in revenge for du Bousquier’s parsimony, perhaps to entangle him in scandal. With a mind quick to mischief, she went to Madame Granson, composing an expression of deepest dejection.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-It is clear what is meant by “the house of Monsieur Grandet”: a cold, silent dwelling above the town, sheltered by ruined ramparts. The entrance, framed by two pillars and a tufa arch—soft white stone that rarely lasts two centuries—bears weathered holes that make the façade jail-like. Above the arch, a crumbling bas-relief of the four seasons is topped by a plinth where plants, even a small cherry tree, have taken root.
+Madame Granson, widow of a lieutenant-colonel of artillery killed at Jena, lived on a meagre pension of nine hundred francs and three hundred francs from a small property; her savings had been spent educating and supporting a son. Their lodging in the rue du Bercail was a modest ground-floor apartment typical of a provincial town: a street door above three steep steps, a passage to an interior courtyard, a gallery staircase, a dining-room and kitchen on one side, and a multifunctional salon that served as the widow’s bedroom on the other.
 
-The solid oak door is split and iron-bolted. A small rusted grating in its central panel lets curious visitors peer into a dark vault leading to a garden enclosed by thick, damp walls—remnants of ramparts dividing neighboring plots.
+Athanase Granson, twenty-three, slept in an attic and added six hundred francs to his mother’s income through a post in the mayor’s office, obtained via his relation Mademoiselle Cormon; he was placed in charge of the archives. Madame Granson, plainly dressed and seated beneath a portrait of the lieutenant-colonel, kept strict provincial decorum while watching the street. At the moment mother and son breakfasted simply—coffee, bread and butter, radishes. To understand how much Suzanne’s visit would mean to Madame Granson, certain private motives of both mother and son must be explained.
 
-The principal ground-floor room serves as antechamber, salon, office, boudoir and dining room. Wood-paneled and gray with exposed beams, it has two street-facing windows, a white stone chimney topped by an old brass clock and a greenish mirror, and antique chairs in faded tapestry. In each corner stand closets or buffets with dirty shelves. Between the windows sits an old card table with a barometer and two pastel portraits of Madame Grandet’s ancestors. Red gros de Tours curtains—a rare luxury—contradict Monsieur Grandet’s stinginess. A straw chair by the window lets Madame Grandet watch passersby; a work table and Eugenie’s armchair complete the room.
+Athanase was thin, pale, of medium height, with a hollow face and two black eyes like bits of coal—features that suggested repressed talent. Irregular lines, a prominent chin, a well-shaped forehead and the melancholy cast of poverty hinted at an imprisoned spirit. In any place but Alençon his appearance might have attracted aid from those who recognize ability in obscurity. He was contemplative; timidity and the chill of provincial life stifled action. Poverty intensified a savage pride in him—noble but obstructive at life’s outset. He belonged to the kind of talent that doubts and is easily discouraged: more thinker than actor, liable to sudden resolves others might call madness.
 
-For fifteen years Madame and Mademoiselle Grandet’s lives have been governed by strict economy: fires lit only on specified dates, the foot‑warmer used through the cold months. La Grande Nanon, the family servant for thirty-five years, earned only sixty francs a year yet managed to invest in an annuity. Unattractive but indispensable, she cooked, washed and ran domestic affairs with tireless devotion; Grandet’s rare favors—an old watch, a pair of stockings—were treated as monumental largesse.
+Contempt for poverty crushed Athanase; solitude enervated him; without encouragement his powers languished. His library work passed unnoticed; he kept his ambitions hidden, fearing they might harm him. Beneath all lay a secret passion that hollowed his cheeks: he loved his distant cousin, Mademoiselle Cormon, whom the Chevalier de Valois and du Bousquier also pursued. His love began in calculation—Cormon was thought rich—and he imagined marriage would provide the steady livelihood to free him for fame and secure his mother’s comfort. That motive degraded his feeling in his own eyes; he also feared ridicule for a young man of twenty-three loving an “old maid” of forty.
 
-During the difficult 1811 grape harvest, Grandet’s relationship with Nanon combined dependence and domination: he relied on her labor while maintaining strict authority, and she, grateful for employment and meager kindnesses, remained devoted. Their bond was one of power and dependence rather than affection.
+Yet in provincial life such a marriage could be genuine. Where manners are fixed and opportunities few, marriage is often a necessity; improvident liaisons alarm provincial parents and ruin a young man’s prospects. A poor artist or scholar cannot rely on the provinces to marry for anything but material comfort; the aim to combine love and sustenance is usually denied. Athanase’s initial practical motive turned into real passion as he studied Cormon and, by the charm of habit, began to see only her perfections.
 
-Nanon’s domain contrasted with the rest of the house. Her kitchen was a model of cleanliness and order; she worked late and slept in a small closet-like space, while the upper floors remained bare and unadorned compared with the hall’s modest comforts.
+For a young man the senses are powerful; in Athanase’s isolation Mademoiselle Cormon became the single figure presented to him, concentrating all light upon her. His secret feeling broadened and deepened silently, swelling hour by hour, and with it his timidity.
 
-On a November evening in 1819, Nanon lit the fire for the first time that season, coinciding with Eugenie’s birthday. The household prepared for a gathering as local notables arrived. Grandet preserved the ritual of giving Eugenie a gold coin; Madame Grandet presented a new dress. Grandet urged Eugenie to save for her future marriage, underscoring the family’s thrift and fixed habits.
+Madame Granson suspected the truth and calculated candidly. She saw advantages in the match: a talented young husband would honor the family and neighborhood. She judged the obstacles—his poverty and Cormon’s age—formidable but surmountable by patience. Like other provincials, she watched for propitious circumstances and quietly plotted. She distrusted du Bousquier but concealed her tactics from her son.
 
-Guests, including the des Grassins family, arrived. Madame des Grassins, lively and pushy, and her son Adolphe presented gifts that provoked jealousy. Compliments and attention masked rivalry and calculation; beneath laughter, attendees subtly vied for a share of Grandet’s wealth. Grandet watched with pride and possessiveness over his daughter, manipulating relationships for his benefit. The evening blended familial warmth with cold calculation—until a loud knock at the door signaled an unexpected interruption that would change the night.
+Thus Suzanne’s lie, confided to Madame Granson, became a powerful weapon in the widow’s hands. As treasurer of the Maternity Society, Madame Granson could spread news under the guise of charity while gathering support for “the chaste Suzanne,” using the scandal to wound du Bousquier. The Chevalier de Valois anticipated how events might turn but could not foresee the scandal they would become.
+
+At breakfast Athanase, leaning on his elbow, twirled his spoon and looked about the poor room—red brick floor, straw chairs, a painted wooden buffet, and chequered curtains. His pallid face, framed in black hair and lit by the window, was the first thing Suzanne saw when she entered. Suzanne, a grisette familiar with misery and heartache, felt an instantaneous electric attraction—an inexplicable flash that convinces one, “It is he!”—a presentiment of shared love. Often reason quells such moments, but here Suzanne was struck by a genuine feeling that dispersed the cynicism of her dissipated life. What had seemed a joke the night before now seemed to her a grave misdeed; she recoiled at her own readiness to deceive. Yet practical considerations—the young man’s poverty, hopes of enriching herself, perhaps destiny—checked this sentiment.
+
+She asked for a private interview with Madame Granson, who led her to the bedchamber. When Suzanne emerged and looked at Athanase again, tears came to her eyes. Madame Granson was radiant: she had at last a terrible weapon against du Bousquier and promised the seduced girl the support of charitable ladies, foreseeing a storm over the guilty man’s head.
+
+“My dear child,” said Madame Granson to her son, “we dine to-night with Mademoiselle Cormon; do take pains with your appearance. Put on that handsome frilled shirt and your green coat of Elbeuf cloth. I have my reasons.” She urged him to study the Chevalier de Valois’s easy manners and to soften his stiff air. Athanase listened, surprised but obedient; he rose, took his cap, and went to the mayor’s office, wondering if his mother suspected his secret.
+
+He walked past the rue du Val-Noble, where Mademoiselle Cormon lived—a daily pleasure—and fancied himself beside her: how little she knew that a young man loved her, would be faithful, let her manage her fortune, and yet could not speak out. “Suppose I were to speak to her this evening?” he thought.
+
+Suzanne returned to her mother’s, thinking of Athanase, and, like many who long to help an adored man beyond their powers, considered using her body as a stepping-stone for his advancement. Her falsehood had achieved its purpose: a few days later she left town with money and good clothes, including a green reps dress and a green bonnet lined with pink given by Monsieur de Valois—a gift she preferred even to money—and set off joyfully for Paris. Alençon lamented her misfortunes as the ladies of the Charity and Maternity Societies showed lively sympathy. Though Suzanne belonged to the class absorbed by Paris, she remained in the more decent strata of gallantry; in her time, as Monsieur de Valois said, “Woman no longer existed,” yet she styled herself “Madame du Val-Noble.” One distinguished Restoration journalist who shaped public opinion took her under his protection and might marry her.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Nanon lit a candle and opened the door; Monsieur Grandet followed. His wife called, the players exchanged looks, and Monsieur des Grassins suggested they leave. A young man arrived with trunks. Grandet told his wife to return and went out to speak with the newcomer.
+In nearly all the smaller French prefectures there exists a salon that gathers the notable, well-considered people of the community who are not the very highest in society. The master and mistress of such an establishment are among the town’s leaders, received wherever they choose to visit; no public fête, formal or diplomatic dinner occurs without them. But the château people—the heads of great estates, the highest personages—do not go to their houses; social intercourse between them is maintained by cards and occasional reciprocal dinners or soirées.
 
-The players sat but did not resume. Madame des Grassins asked if he was from Saumur; her husband said Paris. The notary checked the hour; Abbé Cruchot queried his age. Eugénie noticed Nanon’s absence; others guessed the newcomer a relative. Madame Grandet urged continuation, aware of her husband’s irritation. Adolphe hinted the young man might be a cousin but was silenced.
+This salon, where the lesser nobility, clergy, and magistracy meet, exerts great influence. Judgment and mind of the region reside in that solid, unostentatious society, where each man knows his neighbor’s resources and where indifference to luxury and dress prevails—trifles compared to securing ten or twelve acres of pasture, often the subject of long schemes. Immoveable in its prejudices, this circle follows a beaten track, accepting nothing from Paris without long trial; it rejects cashmeres as it rejects speculative investments; it scoffs at fashions and novelties, reads little, and is indifferent to science, literature, or industrial inventions. It insists on removing a prefect who does not suit it; if administration resists, it isolates him, like bees walling up a snail in wax.
 
-Grandet returned alone; the traveler entered and received polite bows and curtsies. Madame Grandet offered warmth, but Grandet, absorbed in a letter, dismissed concern. The stranger, Charles Grandet, thanked Eugénie but said he was not tired. Adjusting his eyeglass, Charles surveyed the room and the loto game. At twenty-two, handsome and confident, he aimed to impress with Parisian polish. Sent by his father to stay with his uncle in Saumur, he displayed fashionable dress and urban ease: a hunting costume, carefully arranged waistcoats, a little gold toilet set—and, despite instructions to travel modestly, he had taken a private coupé to flaunt his means.
+Gossip in this society often becomes solemn verdict. Young women seldom appear there; when they do it is to seek approbation of their conduct—a consecration of self-importance. The supremacy of one house wounds other natives, who console themselves by calculating the profit from its entertainments. If no fortune large enough exists to keep an open house, the leading people choose a neutral meeting-place, as at Alençon, where the public salon convenes in the residence of an inoffensive old maid whose settled life offends no one.
 
-His elegance contrasted with the provincials. The shabby Cruchots were taken aback; locals met his nonchalance with a mix of admiration and disdain. Eugénie was captivated, longing for the world he represented; enchanted by his appearance and delicate possessions, she yearned to connect.
+For years the upper classes of Alençon met at the house of Mademoiselle Rose‑Marie‑Victoire Cormon. Her fortune, unknown to her, was coveted by Madame Granson, her second cousin, and by two old bachelors whose hopes we have seen: the Chevalier de Valois and the Chevalier du Bousquier. Rose lived with her maternal uncle, the venerable Abbé de Sponde, once her guardian and now her heir. The Cormon family had been among the province’s most considerable bourgeois families, allied with nobility—stewards to the Duc d’Alençon, magistrates, bishops among their members. Her maternal grandfather, Monsieur de Sponde, had been elected to the States‑General by the Nobility; her father, Monsieur Cormon, by the Tiers‑État, though neither accepted the mission. For a century daughters of the family had married provincial nobles, and the Cormons appeared in many genealogies; no bourgeois family seemed so near nobility.
 
-The loto ended when Nanon returned for sheets for Charles’s bed; Madame Grandet followed. Guests, sensing the evening’s close, began leaving. Eugénie, seized by impulse, excused herself to help prepare his room, suggesting refinements—a warming pan, a wax candle—using her birthday as an excuse to persuade Nanon.
+The house where Mademoiselle Cormon lived had always belonged to the family, built in Henry IV’s time by Pierre Cormon, steward to the last Duc d’Alençon. Though it produced little revenue and was costly to maintain, such an aristocratic private dwelling in a provincial town naturally attracted envy and temptation. The mansion, solid and ancient, stood in rue du Val‑Noble. Built of granite with diamond‑cut blocks, it had one clear story above the ground floor and a steep roof with projecting windows framed in oak. Two gables were surmounted by leaden bouquets, once a bourgeois symbol of status. Stables, coach‑house, kitchens, and laundry flanked the courtyard.
 
-While Eugénie fussed, Madame des Grassins engaged Charles, vying for his attention and hinting at local prospects. Abbé Cruchot made sly remarks exposing ambitions. Grandet, who had read a letter from his brother about impending bankruptcy and asking him to protect his son, masked his emotions. When guests departed, Grandet offered Charles a modest room, downplaying his wealth. The evening closed with speculation: Charles’s presence might unsettle Saumur. The Cruchots and des Grassins, seeing a common rival, resolved to unite against any attachment between Eugénie and her cousin and to manipulate the situation to their advantage.
+A side of the porte‑cochère opened to a modest courtyard garden—roses, pinks, lilies, Spanish broom, pots of pomegranate and myrtle in season—kept with a scrupulous, almost Dutch neatness, betraying the life of an old maid who, lacking other occupation, introduced meticulous order into a region proud of professing indifference to comfort. The Chevalier de Valois or du Bousquier, mounting the double stairway, thought the house fit for a peer of France and that the mayor ought to live there.
+
+A glass door from the portico led into an antechamber—a red‑tiled, wainscoted gallery housing family portraits, cloaks, clogs, overshoes, umbrellas, and pelisses of guests; benches lined the walls for servants and a stove countered the north wind. The house was divided into two equal parts. Toward the courtyard were the staircase well, a large dining‑room overlooking the garden, and a pantry communicating with the kitchen. On the other side was the salon with four windows and two smaller rooms—a boudoir looking on the garden, and an office looking on the courtyard. The upper floor contained a full family apartment and a suite where the Abbé de Sponde lived. Garrets housed rats and mice whose nocturnal restlessness Mademoiselle Cormon lamented with comic surprise. The garden, about half an acre, bordered the shallow Brillante river, though near Val‑Noble its waters were stained by dyehouses and loaded with refuse; beyond rose the houses of various trades. Tall pottery vases and trimmed linden hedges completed the modest, tranquil setting around the venerable Cormon edifice: nothing pretentious, but nothing transitory.
+
+The ground floor, wholly devoted to reception, embodied the provincial spirit. The great square salon had four windows, modestly cased in gray woodwork. A single oblong mirror above the fireplace bore a decorative Dawn led by the Hours; windows were draped with green damask curtains looped by heavy cords. Furniture covered with tapestry, painted woodwork in fashions of a prior century, chairs with La Fontaine scenes, some mended tapestry—everything showed preservation rather than novelty. A huge beam divided the ceiling; an old rock‑crystal chandelier hung swathed in green gauze. On the mantel were Sèvres‑blue vases, old girandoles, and a clock whose bronze‑gilt group illustrated Sedaine’s popular Le Déserteur: soldiers bringing a deserter and a fainting young woman, displaying a taste for moralized decoration. Portraits by Rigaud and pastels by Latour hung on the walls. Four card tables, a backgammon board, and a piquet table occupied the room—the only ceiled chamber in the house.
+
+The dining‑room, paved in black‑and‑white stone with painted beams, contained an enormous marble‑topped sideboard necessary for the provincial war on the stomach. Frescoed walls, varnished cane seats, and plain wood doors gave it a patriarchal air. The provincial genius preserves everything: nothing is new or decrepit; a cold precision pervades the house.
+
+This Cormon house is an archetype of burgher houses in Normandy, Brittany, Maine, and Anjou and helps explain manners and customs. Life within was calm and monotonously regular. A library below river level housed well‑bound, dusty books, chosen from regional presses; transport costs limited purchases to desirable, well‑selected works.
+
+Mademoiselle Cormon’s society numbered about one hundred and fifty persons. Some visited country estates or traveled, but many came every night unless elsewhere invited, with others present by duty or habit; all were mature in age; few had traveled; most had spent their lives in the provinces, and some had taken part in the chouannerie. The latter were beginning to speak openly of that war now that rewards were being distributed to defenders of the cause. Monsieur de Valois, a mover in the last uprising, had recently related stratagems used against Hulot, an old republican commander stationed at Alençon.
+
+Women in this society took little trouble with dress except on Wednesdays, when Mademoiselle Cormon gave a dinner and guests invited the previous Wednesday returned their “visit of digestion.” Wednesdays were gala days; the assembly was numerous; visitors appeared in ribbons; some women brought sewing or knitting; young girls made patterns for Alençon point lace to pay their expenses. Certain husbands attended out of policy; young men were few; whispers were impossible without attracting attention, so there was no danger of clandestine love‑making.
+
+Every evening at six the antechamber filled. Each habitué brought cane, cloak, and lantern. Habits were patriarchal: if the Abbé de Sponde lay down, or Mademoiselle Cormon retired, neither Josette the maid nor Jacquelin the man‑servant nor Mariette the cook informed them; the first comer received the second, and whist, piquet, or boston began when company sufficed, without awaiting the Abbé or Mademoiselle. If dark, Josette or Jacquelin lit candles at the first bell; seeing the salon lighted, the abbé would slowly descend. Backgammon and piquet, three boston tables, and the whist table filled—twenty‑five or thirty persons; occasionally forty appeared. Between eight and nine servants accompanied their masters home; short of a revolution no one remained after ten. Guests departed in groups, discoursing on the game or continuing conversations on land, wills, quarrels among heirs, or aristocratic haughtiness—much like Parisians leaving a theatre.
+
+Provincial life’s faithful repetition may seem happiness to some. Du Bousquier, the society’s born statistician, estimated the salon’s habitués commanded 131 votes in the electoral college and mustered eighteen hundred thousand francs a year from nearby landed estates.
+
+Alençon’s society was not entirely represented by this salon; higher aristocracy had its own circles, and the receiver‑general’s house acted like a government inn where society danced, plotted, flirted, and supped. These salons communicated through mixed individuals with Mademoiselle Cormon’s house, which nevertheless sat in judgment on the others, criticizing their dinners’ luxury, their ices at balls, and the women’s behavior and fashions.
+
+As sovereign of this coterie, Mademoiselle Cormon naturally attracted two ambitious men as shrewd as the Chevalier de Valois and du Bousquier—each seeing in her an electoral or official advancement. To both she meant election as deputy—peerage for the noble, receiver‑generalship for the purveyor. A leading salon is hard to create; here was one already established. To marry Mademoiselle Cormon was to reign in Alençon. Athanase Granson, among her suitors, was the one who truly loved her person as well as her fortune.
+
+A singular drama plays out in these unremarked rivalries circling a woman who never guessed they existed, despite her eager desire to be married. Yet it is not hard to see why, in spite of fortune and suitors, she remained unmarried. First, she always wished to marry a nobleman; from 1788 to 1798 political circumstances were hostile. Though she wanted a husband of condition, she was terrified of the Revolutionary tribunal. These equal sentiments kept her motionless. The uncertainty pleased unmarried women as long as they felt young and able to choose. During the Consulate and the Empire many widows appeared and heiresses far outnumbered suitable bachelors. When the Consulate restored order, external difficulties again complicated Rose’s prospects. She refused old men and would not marry very young ones, fearing ridicule.
+
+Provincial families married sons early to avoid conscription, and she obstinately refused soldiers—she would not give a man up to the Emperor; she wanted him for herself. Thus, from 1804 to 1815 she found no suitable match among young men. Besides her predilection for nobility, she had an excusable mania: to be loved for herself. She set tests for suitors; her nets were so subtle that unlucky aspirants failed without realizing it. A single heedless word or a joke sufficed to condemn a man: one had no heart or delicacy, another told lies, a third was irreligious, a fourth sought money under the cloak of marriage; others showed hereditary gout or immoral antecedents. Like the Church, she demanded a noble priest at her altar; she wanted to be married for imaginary defects she would afterwards redeem by revealing concealed virtues. But nobles met common souls who prioritized interest and lacked understanding of her nobler calculations.
+
+As she approached what is called a “second youth,” her distrust increased. She presented herself unfavorably and behaved so that last wooers hesitated to bind themselves to a woman whose virtuous blind‑man’s‑buff required penetration men who wanted virtue ready‑made did not possess. Fear of marrying for her money made her suspicious beyond reason. She turned to the rich, who sought great marriages; she feared the poor, whom she saw as lacking disinterestedness. After each disappointment she grew to despise mankind, adopting a secret misanthropy which tinged her conversation with bitterness and her eyes with severity. Celibacy hardened her manners; she strove to sanctify herself in despair: noble vengeance, she cut for God the rough diamond rejected by man. Public opinion judged her accordingly; society assumed her rejections had secret causes—deformity or hidden faults—but she was as pure as a saint, healthy, and full of kindness; Nature had intended her for motherhood.
+
+Mademoiselle Cormon did not have classical beauty. Her charm was the rustic buxom freshness called la beauté du diable. Her feet were broad, legs sinewy, a stout waist, and plump arms gave a Norman outline. Projecting undecided eyes gave a sheepish simplicity; an aquiline nose contrasted with a narrow forehead; thick red lips showed kindliness while her forehead suggested a lack of ideas. Chestnut hair of extraordinary length added vigor. In a ball‑dress she might have seemed handsome; officers admired her robust figure. But as years passed, plumpness saturated her body; no corset could restore youthful proportions. Her bosom’s amplitude overwhelmed when she stooped; her chin doubled, shortening her neck and hindering carriage. No wrinkles, but folds of flesh; jests said she powdered her skin like an infant’s.
+
+This ample person attracted Athanase. Many elegant, indebted men would have welcomed making Mademoiselle Cormon happy. But at forty she had fortified virtue by stern religious practices. A confessor had, for three years, directed her to maceration; he advised scourging, which modern medicine would find absurd. These practices cast a monastic tint over Rose, whose white skin took a yellow tone; a down darkened her upper lip and her temples grew shiny; decadence began. Rumor said she suffered rushes of blood to the head. She confided her ills to the Chevalier de Valois, who would pull out his snuff‑box and say: “The right composing draught, my dear lady, is a good and kind husband.”
+
+The violence of hope made Rose afraid to look a man in the face lest he perceive her feelings. By wilfulness—perhaps from tests—she treated those she felt attracted to ungraciously, fearful of seeming foolish. Society took her behavior for revenge for a refusal and made fun of her abortive marriages. When 1815 began, she was forty‑two; desire for marriage bordered on monomania because she saw chances of children slipping away. She loved wholesomely and simply—Catholic, chaste, incapable of coquetry.
+
+For months she counted on chance: disbanded imperial officers and reorganized royal forces sent many officers home—some on half‑pay—who might have suited her by character and rank. But those returning were either too old or too young, too Bonapartist or too dissipated; their situations mismatched Rose’s rank, fortune, and morals. She prayed for a husband with whom she could be piously happy; none came. Conversations in her salon kept her informed of strangers’ arrivals, fortunes, rank, and habits; but Alençon is not a town of travellers. She despaired; her eye grew savage. Monsieur de Valois, aware that fidelity to a first attachment is considered a pledge for the future in feminine ethics, responded with the same snuff‑box gesture that made her uneasy.
+
+The Abbé de Sponde could not aid her matrimonial manoeuvres. The worthy man, now seventy, attributed the Revolution’s disasters to Providence punishing a dissolute Church. He adopted an ascetic life, hiding charity, prayers, and penances. Detached from earthly interests, his mind turned to sufferers and the Church’s needs; he left property management to his niece, who gave him its income while he spent surpluses in secret alms. The abbé loved his niece and regarded her as a daughter, but was abstracted and unable to conceive the flesh’s agitations; accustomed to reverence him, Rose dared not tell him of her desires. He would scarcely have liked a husband introduced. His silence was affable and benevolent; tall, spare, grave, solemn, his presence carried sacred authority. He was fond of the Voltairean chevalier; relics of nobility and clergy recognized each other by generous traits. The chevalier was unctuous with the abbé as he was paternal with grisettes.
+
+Some may imagine Mademoiselle Cormon employed every artifice to secure marriage—dress, coquetries—but she did not. She was heroic and immovable in her high‑necked chemisette. Her gowns were made by Alençon’s two hump‑backed sisters, who had taste. She refused airy deceits of elegance, choosing substance in all things. Those who laugh at her would have called her sublime for sincere feeling regardless of form.
+
+Critics say no girl is so ignorant as not to angle for men, and that Mademoiselle Cormon is an impossible type; yet faith and piety are still strong in Brittany and old Alençon. Devotion allows no subtleties: Mademoiselle Cormon trod the path of salvation, preferring prolonged virginity’s sorrows to trickery and sin. In a woman armed with a scourge, virtue will not compromise; consequently love and self‑interest must seek her resolutely. Devotion can produce moral myopia: pious persons turn so to celestial things that they become blind to many earthly matters. The Chevalier de Valois found it hard to decide whether stupidity makes one pious or piety makes one stupid. But whether stupidity or sanctity, their sorrows deserve pity like those of genius—stupidity is more abundant socially.
+
+Thus Rose was judged virginally ignorant. She failed to read Athanase Granson’s eyes—shy herself, she never suspected shyness in others; she did not recognize quavering tones as unuttered sentiment. Capable of inventing refinements that hindered earlier marriage, she could not perceive such refinements in Athanase. That a devoted soul may be blind to a noble soul is unsurprising: heart qualities differ from intellectual ones as genius differs from nobility of soul.
+
+This good creature, who grieved at making yearly preserves for only her uncle and herself, was becoming almost ridiculous. Sympathy and mockery mingled: some pitied her goodness, others derided her defects. People speculated on who would inherit her fine property and her uncle’s savings. For a while she was suspected of being, despite appearances, an “original”—dangerous in the provinces, where originality, meaning ideas not understood by others, is not permissible; provinces demand equality of mind and manner.
+
+After 1804 the phrase “married like Mademoiselle Cormon” became proverbial in Alençon for ridiculous failures. It was Parisian sarcasm that so excellent a woman should excite laughter. She received the whole society at her house, was charitable, pious, incapable of malice, and embodied the spirit and habits of the place; she had never left them and loved their prejudices and interests.
+
+Despite an income of eighteen thousand francs from land—a considerable provincial fortune—she lived on a footing with less‑rich families. When she went to her country place at Prébaudet she rode in an old wicker carriolle hung on two white leather straps, drawn by a wheezy mare and hardly protected by rusty leather curtains. Jacquelin cared for it as if it were the finest coupé in Paris. Mademoiselle valued it, having used it for twelve years—a fact she noted with triumphant thrift. Most inhabitants were grateful she did not humiliate them by ostentation; had she imported a calèche from Paris they would have gossiped more about it than her matrimonial failures. In the provinces people look to results and care little about the elegance of means so long as they function.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-When the four relatives were left alone, Monsieur Grandet told his nephew Charles it was too late for business and set household hours: breakfast at eight, a light lunch at noon, dinner at five. He professed poverty despite appearances, insisting his fortune came from hard work. He told Nanon to bring candles; Charles at first refused but accepted one so worn it looked like tallow.
+To complete the picture of the household’s internal habits, one must place around Mademoiselle Cormon and the Abbé de Sponde the figures of Jacquelin, Josette, and Mariette, who provided for the uncle and niece’s comfort.
 
-Grandet led him through the house, avoiding the cold stairwell; as they climbed Charles’s expectations fell—the staircase and decor were shabby, and he wondered why his father had sent him. On the landing Charles noticed the doors, especially one walled up that led to Grandet’s office — the secret room where he did business and hoarded wealth. Across from it, Eugenie, Grandet’s daughter, sat in her room; after a brief goodnight she and her mother retired. Grandet showed Charles to his attic room, warning him to call Nanon if needed because the dog could be dangerous. Nanon returned with a warming pan, which Grandet dismissed with a grumble as he left.
+Jacquelin, about forty, short, fat, ruddy, with a Breton-sailor face, had been in their service twenty-two years. He waited at table, groomed the mare, gardened, blacked the abbé’s boots, ran errands, chopped wood, drove the carriole, fetched oats, straw, and hay from Prébaudet, and dozed in the antechamber evenings. He was in love with Josette, a thirty-year-old, short, plump woman whose face, “like a dirty apricot,” showed sense and character; it was said she ruled her mistress. Mademoiselle would have dismissed Josette had she married Jacquelin, so the pair resigned themselves to saving their wages and loving silently, awaiting—like Jews awaiting the Messiah—some distant change. Mariette, the cook of fifteen years’ standing, knew how to prepare the most esteemed dishes of Alençon.
 
-Alone, Charles surveyed the shabby surroundings and questioned his father’s intentions; he felt out of place and uncertain of his purpose. Meanwhile Eugenie rose early with a new sense of beauty and longing. Dressing, she admired herself but felt inadequate beside her cousin. The garden and courtyard, once dull, now seemed charming; her heart swelled with unfamiliar emotions toward Charles and she longed to impress him.
+The fat old Norman mare, Pénélope, drawn to Prébaudet by Mademoiselle Cormon, deserves mention: she had served the family eighteen years and was treated with the same affectionate mania as any human servant. Kept carefully and fed regularly, Mademoiselle and Jacquelin hoped to use her ten years more. The household’s four dependents—raised and lowered in mutual subservience to the beast—moved each day with mechanical accuracy. As they said, “they had eaten their white bread first.” Mademoiselle Cormon, driven by a fixed idea, grew hard to please, petty, and nagging—less by nature than to occupy her active mind. Without husband or children, she fell back on minute details: napkins marked “Z” before the “O’s,” whether Pénélope had her oats at two o’clock, a neglected dust-layer, a poorly made toast, Josette’s delay in closing blinds that faded furniture. Small things became grounds for serious quarrels. Once Josette gave her the “Journée du Chrétien” instead of the “Quinzaine de Pâques”; Mademoiselle left church and returned home in embarrassment; the town heard of the calamity. She would admonish Josette gently: “Such a thing must never happen again.”
 
-Eugenie hurried to Nanon, asking her to prepare cream for Charles’s breakfast. Nanon reminded her they needed Grandet’s permission for provisions. When Grandet entered, he and Nanon quarreled over supplies, exposing his miserly nature; reluctantly he agreed to give some flour and butter for a galette.
+These little quarrels served as catharses for Mademoiselle Cormon, and in secret she was steadied by them. Josette and Jacquelin accepted the mood swings as weather-changes: “It is fine to-day,” or “It rains,” without arraigning the heavens. Each morning they wondered in what humor Mademoiselle would rise, as farmers wonder at dawn mists.
 
-After breakfast Grandet took Eugenie to the fields, where they met Cruchot, the notary. Grandet spoke of his land and the recent sale of poplars, revealing his calculating side. Cruchot mentioned gossip that Charles might be a suitor for Eugenie. Grandet reacted vehemently, declaring he would rather throw his daughter into the Loire than marry her to her cousin — words that shattered Eugenie’s hopes.
+She had ended, naturally, contemplating herself in the infinite pettinesses of life: herself and God, her confessor and the weekly wash, her preserves and church services, and her uncle to care for, occupied her feeble intellect. Her perfect health magnified the slightest digestive trouble. She lived under the iron rod of medical practice, taking quarterly precautionary doses strong enough, it was said, to have killed Pénélope but seeming to rejuvenate her mistress. A pimple on her satiny shoulder occasioned endless inquiries into the week’s alimentary articles until Josette triumphantly attributed it to a high hare or to Mariette’s over-seasoning: “No doubt, no doubt, it was the hare!”
 
-Back at the house, news arrived of Grandet’s brother’s suicide — a development with dire consequences for Charles. The subsequent meal was heavy with unspoken grief. Eugenie, moved and tearful, felt deep sympathy; Grandet remained indifferent. Despite the risk of provoking him, Eugenie and Nanon conspired to prepare Charles a better breakfast, and her affection for him deepened as she worked.
+Four times a year she spent a number of days at her estate, Prébaudet. In mid-May she liked to see how her apple-trees had “snowed” (fallen blossoms promising an abundant cider harvest), attend winter repairs, order the digging of flower-beds and the vegetable garden that supplied her table. Every season had its business. Before departing she always gave a farewell dinner to intimate friends, though she expected to see them again within weeks. Her departure was the town’s news: shopkeepers repeated it from door to door—“So Mademoiselle Cormon is going to Prébaudet!”—with all manner of provincial commentary.
 
-After two hours’ effort Eugenie prepared a simple meal that broke the family’s custom of a standing midday offering of bread, fruit, and wine. She set the table and placed an armchair for her cousin, anxious about her father’s reaction; Madame Grandet promised to take responsibility if he returned.
+The Wednesday Suzanne chose to reveal her scandal happened to be such a farewell Wednesday, when Mademoiselle was driving Josette distractedly packing. Madame Granson had spent the morning visiting houses, and the malicious Chevalier de Valois was playing piquet with Mademoiselle Armande, who governed aristocratic salons. The scene was set: the chevalier and Madame Granson wanted to see how Mademoiselle Cormon, in her double capacity as marriageable woman and president of the Maternity Society, would receive the news. Du Bousquier, the innocent suitor, walked on the promenade, beginning to suspect Suzanne had tricked him.
 
-Charles arrived in Parisian fashion, cheerful despite a difficult journey. He said he seldom ate before midday but welcomed the meal and joked about wanting a partridge. As they sat, his charm captivated Eugenie; she admired his elegance and felt a flutter of affection. Their conversation emphasized the contrast between his life of luxury and her modest upbringing. When Nanon brought eggs, Charles praised Eugenie, making her blush.
+On gala days Mademoiselle Cormon’s table was laid about half-past three; the fashionable dined at four. One of her chief pleasures was seeing herself dressed as mistress of the house to receive guests. When fully equipped, a ray of hope would glide into her heart; she felt that nature had not provided in vain and that some brave man would present himself. She revelled in inspecting the dining-room, the oblong table set with a snow-white cloth and twenty covers, the squadron of bottles with honorable labels, the names on little paper bits in the trembling hand of the abbé—the only duty he assumed. After these preliminaries she would go in her finery to her uncle, who took his walk on the terrace overlooking the Brillante and the birds in the coppice. In waiting she never joined the Abbé de Sponde without asking some ridiculous question to rouse him from his meditative silence; she regarded it as her duty to talk and make herself agreeable, a practice her spiritual director, the Abbé Couturier, had advised. She perspired in her corset thinking up ideas; her efforts produced such absurdities as: “No one can be in two places at once—unless it is a little bird,” which somehow provoked a debate on the apostles’ ubiquity. Such talk made the beaux esprits call her “that good Mademoiselle Cormon”—a polite way of saying she was rather a fool; but many of her peers took it literally, answering, “Yes; oh yes! Mademoiselle Cormon is an excellent woman.”
 
-He showed Eugenie his ring and their fingers briefly touched, deepening the spark. The mood shifted when Nanon brought coffee: Charles called it outdated, and the women exchanged anxious glances, fearing Monsieur Grandet’s return.
+When conversation flagged the Chevalier de Valois, who loved to assist women, would transform her sayings into wit by paradoxically sustaining them; once, when she could not distinguish an ox from a bull he was rescued by the chevalier claiming the only difference was as between sheep and lamb. He often covered her retreats so well that she seemed never to have said anything silly. She took his help as proof of her own adequacy and grew complacent in her ignorance, acquiring a self-possession that gave her speeches a solemnity like patriotic absurdities.
 
-When Grandet entered he surveyed the scene with suspicion, noting the breakfast and especially the sugar, and demanded its source. Charles asked for sugar for his coffee, but Grandet rebuffed him, suggesting more milk instead. Eugenie, quietly defiant, returned the sugar to the table.
+Approaching her uncle one day, she tried to draw him into a matrimonial discussion.
 
-Grandet’s demeanor stiffened as he spoke to Charles, then revealed devastating news: Charles’s father had died by suicide, leaving him bankrupt and penniless. The revelation shattered Charles; he broke down in tears. Eugenie and her mother felt deep compassion, while Grandet remained detached and immediately focused on the financial consequences, lecturing Eugenie about the dishonor of bankruptcy.
+“Uncle,” she said, leaning on his arm, “if everything here below happens according to the will of God, there must be a reason for everything.”
 
-Grandet declared Charles must go to the West Indies to seek fortune. Eugenie offered to help; Grandet reluctantly agreed to fund the journey. The house remained heavy with grief as Charles mourned; Eugenie urged him to preserve his honor and resolved to share his sorrow—her life irrevocably changed.
+“Certainly,” replied the abbé.
+
+“Then if I remain unmarried—supposing that I do—God wills it?”
+
+“Yes, my child.”
+
+“And yet, as nothing prevents me from marrying to-morrow if I choose, His will can be destroyed by mine?”
+
+“That would be true if we knew what was really the will of God,” replied the former prior of the Sorbonne. “Observe, my daughter, that you put in an if.”
+
+Such childish logic perplexed her. “But, uncle, God did not make women intending them not to marry; otherwise they ought all to stay unmarried; if not, they ought all to marry. There’s great injustice in the distribution of parts.”
+
+“You are blaming the Church, which declares celibacy the better way to God,” replied the abbé.
+
+“But if the Church is right, and all the world were good Catholics, wouldn’t the human race come to an end, uncle?”
+
+“You have too much mind, Rose; you don’t need so much to be happy.”
+
+That remark pleased her and confirmed her good opinion of herself.
+
+Guests arrived and the familiarities between servants and company began: Mariette telling Monsieur du Ronceret she had cooked cauliflowers au gratin “expressly for you, for Mademoiselle knows how you like them”; Josette informing Madame Granson that “Mademoiselle has thought of you, and there’s fish for dinner”; the Chevalier de Valois, in his easy, condescending tone, asking Mariette if there was some dainty he should reserve himself for. Du Bousquier was not invited. Mademoiselle Cormon, faithful to her ambivalence, treated the fifty-year-old suitor ill though she felt inexplicable sentiments toward him. She had refused him yet sometimes repented; a presentiment haunted her that she might yet marry him, and terror prevented her desiring it. Madame Granson and the chevalier, observing her naive glances toward du Bousquier, resolved to ruin his hopes.
+
+Two tardy guests—Monsieur du Coudrai, recorder of mortgages, and Monsieur Choisnel, the notary—kept dinner waiting. As they arrived, Jacquelin announced “They are all in the garden.” The company strolled the terrace above the river, looking at water-plants, mosaics of currents, houses across the Sarthe with old wooden galleries and little gardens where clothes dried; a charming provincial landscape.
+
+The chevalier scanned faces; he had introduced his firebrand into the chief houses. The scandal about Suzanne and du Bousquier had not yet been openly discussed: provincials distill gossip, waiting the right moment. Whispers circulated: “You have heard?” “Yes.” “Du Bousquier?” “And that handsome Suzanne.” “Does Mademoiselle Cormon know of it?” “No.” “Ha!”
+
+The chevalier, noting Madame Granson’s triumphant look, suspected not only her joy but self-interest. He watched Athanase and saw, in a furtive look at Mademoiselle Cormon, a flash that set his plans awry. He offered his arm to Mademoiselle Cormon, whom he revered. She, secretly wishing for the alliance, admired the name de Valois as a social object, though his seeming purity and indifference worried her; she wanted a husband a little dissipated—someone with experience to purify. Observers have remarked pious women’s leaning toward scamps; Mademoiselle’s wish shows this: she would have liked a man to combine the chevalier’s nobility with du Bousquier’s vigor.
+
+To explain what followed, two matters agitated the town, matters in which du Bousquier was implicated. One concerned the rector of Alençon, who had once taken the constitutional oath but was winning Catholics by high virtues. He had supporters among the middle classes rallied by du Bousquier, while Mademoiselle Cormon and the Abbé de Sponde, belonging to the uncompromising “little Church,” refused to receive him. The second was du Bousquier’s idea of building a theatre in Alençon; Athanase Granson and other young clerks championed the project. The chevalier urged Mademoiselle Cormon to save Athanase from this influence.
+
+“Mademoiselle,” he said, “you have so much sense and judgment in social proprieties and influence with his mother; ought you not to use it to save him from perdition? He is irreligious, liberal, agitating for a theatre, the dupe of that disguised republican du Bousquier.”
+
+Mademoiselle responded that his mother said he had so much mind, “and yet he can’t say two words; he stands planted before me as mum as a post—”
+
+“Which doesn’t think at all!” cried the recorder, and the chevalier led Mademoiselle to a flower-pot to speak privately. He warned that lads raised in lycées had bad morals, were marched about in uniform, and, he implied, Athanase’s shyness and pale looks foretold a sad end. He urged her to warn the mother that her son might lose his place in the mayor’s office for such associations.
+
+Madame Granson, who had heard part of the talk, followed Mademoiselle, hoping to learn the outcome. But Jacquelin announced dinner in, and the recorder of mortgages, sensing his opportunity, offered his arm and cut off Monsieur de Valois. The chevalier then addressed Madame Granson directly, warning that Athanase’s theatre intrigues and rector sympathies could cost his job; she gratefully promised to enlighten him.
+
+The chevalier had long seen Athanase’s unyielding republican convictions—rooted in artistic sorrows and a bitter view of society—and knew he would persist. To remain faithful to the Left in Alençon was to earn Mademoiselle Cormon’s aversion.
+
+Thus this outwardly peaceful society was internally agitated by craft and passion like any diplomatic circle. The guests sat and ate as provincials, with appetites undisturbed by Parisian sumptuary fads. Toward the end of the first course Mademoiselle Cormon made the celebrated remark that would be repeated for two years: in the debate against du Bousquier—whom the chevalier and others depicted as a pernicious intriguer—she had innocently said, “As for me, I thought that Monsieur du Bousquier cared chiefly for childish things.” The phrase had enormous success: it undermined the Princess Goritza’s dignity and astonished the chevalier into silent admiration; he applauded with fingers as they do at the Opera.
+
+Prompted by the chevalier, du Bousquier was caricatured as a monster, a Pere Gigogne who had supplied the Foundling Hospital for fifteen years, his immoral habits explained as the cause of Parisian revels. The chevalier, leading the cancan, speculated that a du Bousquier might marry a “Suzette,” invoking Madame du Barry and the Emperor Joseph; Mademoiselle Cormon corrected him with naïve historicism. The Abbé de Sponde, touched with charitable solemnity, urged succor for the poor girl now unlikely to marry. The judge, Madame Granson, and others volleyed puns and jests until the Abbé de Sponde’s grave “Nor can he be a foster-father” quieted them.
+
+Usually a man is ignorant of town rumors; du Bousquier remained superbly unaware of Suzanne’s revelations and was jaunty at coffee. Mademoiselle Cormon, embarrassed, chose to lecture Athanase with platitudes about royalist politics and morality. Athanase listened with a stupid air, gazing at her enormous bust and swelling in his love, which transformed her shrill voice into a soft murmur and her flat remarks into witticisms. Love, the narrator notes, is a maker of false coin, turning copper into gold.
+
+“Will you promise me?” she asked Athanase, and the words pierced his absorbed mind. Had he spoken then, he might have revealed his passion; but his shy absorption ruined him.
+
+“What have you been saying to Mademoiselle Cormon?” demanded his mother.
+
+“Nothing.”
+
+Madame Granson, who believed du Bousquier forever lost in Mademoiselle’s esteem after that evening, thought little more of the remark. The salon later filled: four tables set for piquet, others for backgammon; the group gathered by the fire in evening finery, each repeating their farewell: “So you are going tomorrow to Prébaudet?” “Yes, I really must.”
+
+Mademoiselle Cormon appeared preoccupied; Madame Granson noticed she was thinking.
+
+“What are you thinking of, cousin?” she asked.
+
+“I am thinking,” Mademoiselle replied, “of that poor girl. As president of the Maternity Society, I will give you fifty francs for her.”
+
+“Fifty francs!” cried Madame Granson in astonishment. Mademoiselle never gave so much, but her sudden generosity showed du Bousquier had advanced in her estimation.
+
+“Du Bousquier is not only a monster, he is a villain,” said Madame Granson. “When a man has done a wrong like that, he ought to pay the indemnity. Isn’t it his place rather than ours to look after the girl?—who, to tell you the truth, seems rather questionable.”
+
+Mademoiselle, who could not quite grasp how hearts work, said innocently that perhaps one could be calumniated for loving Athanase, yet be loved truly. Madame Granson, exasperated by her cousin’s naiveté, tried to explain the physical side of things: “It is impossible for Suzanne to love du Bousquier. And if the heart counts for nothing in this affair—” “But, cousin, what do people love with if not their hearts?” inquired the old maid, widening her eyes in honest puzzlement.
+
+Madame Granson advised a show of displeasure: not receiving du Bousquier in her house until he married would manifest exemplary morals. Mademoiselle promised to consult her uncle and the Abbé Couturier upon her return from Prébaudet.
+
+The lights, the women in best clothes, the solemn assembly made Mademoiselle Cormon proud: to many it was the best of Parisian society. Du Bousquier, whistling the pastoral air, was the centre of curiosity. Some declared him strong and misjudged; others saw danger in him. The chevalier, going home, planned to spread a rumor of his marriage to Mademoiselle Cormon to secure attention and advantage, to use his connections to become mayor and then deputy, dreaming of peerage and power, imagining how the marriage would serve his ambitions.
+
+When Madame Granson reached home she fiercely argued with her son Athanase, who could not see the link between his political opinions and his love—a quarrel the household had never known before.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-About four o’clock a sharp knock at the door startled Madame Grandet.
+The next day Mademoiselle Cormon, packed into the old carriole with Josette and a pyramid of parcels, drove up rue Saint-Blaise toward Prebaudet; an event hurried on her marriage—an event unlooked for by Madame Granson, du Bousquier, Monsieur de Valois, or Mademoiselle Cormon herself. Chance is a great artificer.
 
-Grandet burst in, rubbing his hands, announcing he had “trapped them all”: the wine was sold to the Dutch and Belgians at two hundred francs a puncheon, half paid down. He showed six louis for his wife and predicted prices would fall in three months. News of the sale spread panic through Saumur. Eugenie, excited, asked if he had a thousand puncheons. He confirmed it; she quickly calculated the sum in small coins and asked, “Then, father, you can easily help Charles.” Her mention of the neglected nephew stung Grandet. He scolded her for presuming to advise him, insisted any duty to Charles would be on his terms, and threatened to send her to the Abbaye des Noyers with Nanon if she meddled.
+The day after her arrival at Prebaudet, about eight o’clock, while she was listening at breakfast to reports from her keeper and gardener, Jacquelin burst into the dining-room.
 
-When Madame Grandet said Charles had not come down, Grandet asked why. Eugenie answered that he was weeping for his father. Bewildered for a moment, Grandet withdrew to his room to consider investing the proceeds in public funds. His thinning forest had already brought six hundred thousand francs; with this sale his total reached nine hundred thousand. Though tempted by twenty percent returns, he rationalized a more modest eight percent, imagining that in two years he might withdraw fifteen hundred thousand in gold. Nanon’s call to dinner interrupted his calculations; he accepted the eight percent plan, murmuring that hunger would bring his nephew from grief.
+“Mademoiselle,” he cried, out of breath, “Monsieur l’abbé sends you an express—the son of Mère Grosmort—with a letter. The lad left Alençon before daylight; he ran like Penelope! Can’t I give him a glass of wine?”
 
-At table he learned Charles refused to eat; he commented curtly, and Nanon approved—“So much saved.” When Madame Grandet suggested mourning, Grandet mocked the expense and told her to buy her mourning out of her six louis: a hat-band would suffice. Eugenie sewed in silence while he ran through arithmetic. The town buzzed about the sale; Nanon kept spinning, and Grandet repeated his maxim, “Nothing should be wasted,” as he pursued more schemes.
+“What can have happened, Josette? Do you think my uncle can be—”
 
-That night Grandet, preoccupied with present gain and dismissive of any future life, revealed how money governed his laws, politics, and morals. He bargained with conscience and religion, ordered Madame Grandet to her prayers, and finally growled, “The devil take your good God!” He visited Charles’s dark room to berate him gently in his own miserly fashion: he allowed the nephew to weep as natural, insisted he was a “good uncle,” offered a little glass of wine, and scoffed at the theft of a small wax candle. Madame Grandet and Eugenie, overhearing, fled in fear.
+“He couldn’t write if he were,” said Josette, guessing her mistress’s fears.
 
-Alone, Madame Grandet prayed for Grandet and fretted over the punishment he had threatened for Eugenie should she interfere. Eugenie, meanwhile, lay restless; her concern for Charles swelled into a personal disturbance. In the early hours she rose and found him asleep in an armchair, exhausted by grief; his face, smoothed by sorrow, touched her in a way she barely understood. She watched him with a feeling that made her both ashamed and secretly happy. He woke, apologized; she urged him to bed and fled, fearful of what he might think. This innocent boldness marked a turning point: she feared his judgment yet hoped he would see love in her visit.
+“Quick! quick!” cried Mademoiselle Cormon, on reading the first lines. “Tell Jacquelin to harness Penelope—Get ready, Josette; pack up everything in half an hour. We must go back to town—”
 
-The next morning she and her mother waited anxiously for Grandet. He arrived distracted but outwardly affectionate, kissed Eugenie, and sat at breakfast as if forgetting his harsh threats. “What has become of my nephew? The lad gives no trouble,” he said; Nanon replied he was asleep. “So much the better; he won’t want a wax candle,” Grandet mocked. His unexpected softness surprised Madame Grandet, but it was only surface; Grandet, a poor sleeper, had spent the night calculating schemes to enlarge his fortune and dominate others, equating imposition with power.
+“Jacquelin!” called Josette, excited by the look on her mistress’s face.
 
-That day he contrived a way to restore his brother’s honor without spending a franc: to save Charles by manipulating public opinion in Paris, a sport of prudence for him. In his absence, Eugenie found tender pleasure in caring for her cousin. She prepared his breakfast with self-forgetting devotion, deciding to bring it to his room to spare him the shame of eating before her father. Her anticipation and care lit her day; the warmth and attention of the provincial household—so different from the indifference Charles had known in Paris—moved him. Eugenie’s innocence and genuine affection drew him closer; they shared an unspoken understanding.
+Jacquelin entered to say, “But, mademoiselle, Penelope is eating her oats.”
 
-Life went on around this quiet intimacy: Grandet continued his calculations, Nanon spun, and later Grandet invited the Cruchots to dinner. Yet beneath the household routine, Eugenie’s tenderness and Charles’s gratitude suggested changes that money alone could not govern, hinting at the complex obligations that would shape their lives.
+“What does that signify? I must start at once.”
+
+“But, mademoiselle, it is going to rain.”
+
+“Then we shall get wet.”
+
+“Finish your coffee at any rate, mademoiselle; don’t excite your blood; just see how red you are.”
+
+“Am I red, Josette?” she said, going to a mirror whose quicksilver was peeling and which inverted her features.
+
+“Good heavens!” thought Mademoiselle Cormon. “Suppose I should look ugly! Come, Josette; dress me at once; I want to be ready before Jacquelin has harnessed Penelope. If you can’t pack my things in time, I will leave them here rather than lose a single minute.”
+
+If you have comprehended the monomania to which the desire of marriage had brought Mademoiselle Cormon, you will share her emotion. The uncle’s sudden missive announced that Monsieur de Troisville, of the Russian army during the Emigration, grandson of one of his old friends, desired to retire to Alençon and had asked the abbé’s hospitality because of that friendship. Alarmed at the responsibility, the absent-minded abbé entreated his niece to return instantly and help receive this guest; the viscount’s letter had been delayed, and he might arrive that very night.
+
+After reading this, how could she fail to hasten? The keeper and gardener, witnesses to her excitement, stood aside. For the first time the mistress who oversaw Prebaudet in every detail said, to their stupefaction, “Do what you like.” Josette watched her mistress fly down the staircase like an elephant made to fly.
+
+In spite of a driving rain, Mademoiselle Cormon drove away from Prebaudet, leaving her factotums with reins and worries. Jacquelin dared not hasten Penelope’s usual trot; impatient, the mistress ordered him sharply to drive at a gallop, whip if necessary; she feared not having time to arrange the house suitably to receive Monsieur de Troisville. She imagined the grandson about forty; a soldier just from service was doubtless a bachelor; with her uncle’s aid she resolved not to let Monsieur de Troisville leave their house as he entered. Though Penelope galloped, Mademoiselle Cormon, absorbed in visions of trousseau and wedding-day, declared again and again that Jacquelin made no way. She twisted in the carriole, unresponsive to Josette’s questions, talking to herself as if revolving important designs.
+
+The carriole reached Alençon’s main street. Her sudden return in pouring rain created an uproar: Penelope at a full gallop, Jacquelin’s grin, the early hour, the parcels half-packed, and Mademoiselle Cormon’s impatience were remarked. The Troisville property lay between Alençon and Mortagne; Josette, by a word her mistress let fall, surmised the expected de Troisville must be between forty and forty-two, a bachelor, neither rich nor poor. Mademoiselle Cormon beheld herself Vicomtesse de Troisville.
+
+“And to think my uncle told me nothing! thinks of nothing! inquires nothing!” she muttered.
+
+Under such circumstances old maids become keen-witted, bold, and promissory. Immediately Alençon was perturbed. Cooks, shopkeepers, street-passers spread the news; it rose to upper circles. Soon the cry, “Mademoiselle Cormon has returned!” burst like a bomb. Jacquelin opened the great green gate and closed it in sign of mourning; during Mademoiselle Cormon’s absence the evening assemblies had not taken place. The faithful invited the Abbe de Sponde to their houses; Monsieur de Valois repaid the debt by inviting him to dine at the Marquis d’Esgrignon’s. Jacquelin led the carriage to the portico.
+
+“Mariette!” cried Mademoiselle Cormon.
+
+“Mademoiselle!” exclaimed Mariette, closing the gate.
+
+“Has the gentleman arrived?”
+
+“No, mademoiselle.”
+
+“Where’s my uncle?”
+
+“He is at church, mademoiselle.”
+
+Jacquelin and Josette helped their mistress out; at the portico she surveyed her courtyard with satisfaction.
+
+“Come, Mariette, leave that gate alone; I want you.”
+
+“There’s something in the wind,” whispered Jacquelin.
+
+“Mariette, what provisions have you in the house?” asked Mademoiselle Cormon, already faint with apprehension.
+
+“I haven’t anything,” replied Mariette, hands on hips. “Mademoiselle knows that during her absence Monsieur l’abbé dines out every day.”
+
+“He thinks of nothing! he ought to have told you to go to market. Mariette, go at once; and without wasting money, don’t spare it; get all there is that is good and delicate. Go to the diligence office and see if you can send for pâtés; and I want shrimps from the Brillante. What o’clock is it?”
+
+“A quarter to nine.”
+
+“Good heavens! Mariette, don’t stop to chatter. The person my uncle expects may arrive at any moment. If we had to give him breakfast, where should we be with nothing in the house?”
+
+Mariette turned back to Penelope in a lather, and looked at Jacquelin as if to say, “Mademoiselle has put her hand on a husband this time.”
+
+“Now, Josette,” continued the old maid, “let us see where we had better put Monsieur de Troisville to sleep.”
+
+With what joy she said, “Put Monsieur de Troisville to sleep.” How many ideas in those few words! The old maid was bathed in hope.
+
+“Will you put him in the green chamber?”
+
+“The bishop’s room? No; that’s too near mine. All very well for monseigneur.”
+
+“Give him your uncle’s room.”
+
+“Oh, that’s so bare; it is indecent.”
+
+“Well, then, why not arrange a bed in your boudoir? It is easily done; and there’s a fireplace. Moreau can find a bed to match the hangings.”
+
+“You are right, Josette. Go yourself to Moreau; consult with him what to do; I authorize you to get what is wanted. If the bed could be put up to-night without Monsieur de Troisville observing it, I should like it. If Moreau won’t engage to do this, then I must put Monsieur de Troisville in the green room, though he would be very near me.”
+
+Josette was departing when recalled.
+
+“Stop! explain to Jacquelin,” she cried. “Tell him to go to Moreau; I must be dressed! Fancy if Monsieur de Troisville surprised me as I am now! and my uncle not here to receive him! Oh, uncle, uncle! Come, Josette; dress me at once.”
+
+“But Penelope?” said Josette.
+
+“Always Penelope! Penelope this, Penelope that! Is Penelope the mistress of this house?”
+
+“But she is all of a lather, and she hasn’t had time to eat her oats.”
+
+“Then let her starve!” cried Mademoiselle Cormon; “provided I marry,” she thought.
+
+Hearing this, Josette stood speechless, then ran down the portico steps.
+
+“The devil is in her, Jacquelin,” she murmured.
+
+Thus all things conspired on this fateful day. The town was already agitated by five extraordinary circumstances accompanying her return: the pouring rain; Penelope at a gallop in a lather; the early hour; parcels half-packed; and the excited old maid. But when Mariette raided the market for the best things; when Jacquelin sought a bed at the principal upholsterer two doors from the church—there was matter for the gravest conjectures. These events were discussed everywhere; within two days Alençon had been agitated as in the critical days of 1814 and 1815. Some good women feared the world was ending. The question resolved into: “What is happening at the Cormons?”
+
+The Abbe de Sponde, adroitly questioned when he left Saint-Leonard’s, replied that he expected the Vicomte de Troisville, a nobleman who had served Russia during the Emigration and was returning to settle. From two to five o’clock a labial telegraphy went on; all learned that Mademoiselle Cormon had at last found a husband by letter, and was about to marry the Vicomte de Troisville. Rumors varied: some said the vicomte was a poor younger son; others, a Russian general with a great fortune; some accused the abbe of arranging things. All who had a right to call upon Mademoiselle Cormon determined to do so that very evening.
+
+During this commotion, Mademoiselle was not less agitated; new emotions seized her. She looked at her salon, dining-room, and boudoir with cruel apprehensions. A demon sneered at her old-fashioned luxury: items admired since youth suddenly seemed aged and absurd. She feared the viscount’s smile of contempt might reflect age upon her; she would gladly have spent half her savings to refit the house if a fairy wand could do it.
+
+“Madame la Vicomtesse de Troisville,” she said to herself; “a noble name! Our property will go to a good family, at any rate.”
+
+She fell prey to an irritation that made every nerve quiver. Her blood, lashed by hope, was in motion; she felt able to converse, if necessary, with Monsieur de Troisville.
+
+It is needless to relate with detail the activity of Josette, Jacquelin, Mariette, Moreau, and his agents. It was like ants about their eggs. All routine care was gone over, scrubbed and brushed. The china of ceremony saw the light; the damask linen marked “A, B, C” was drawn from triple wrappings. Above all, Mademoiselle Cormon's sacrifices included three bottles of Madame Amphoux’s famous liqueurs, dear to gourmets. Thanks to her lieutenants, she was soon ready. Furniture, cookery, provisions, all munitions of war, and reserve forces were prepared. Jacquelin, Mariette, and Josette had orders to appear in full dress. The garden was raked. The old maid would have liked to arrange the nightingales’ finest trills.
+
+At about four o’clock, as the Abbe de Sponde returned and Mademoiselle considered she had in vain set her table with the best plate and linen, the click-clack of a postillion was heard in the Val-Noble.
+
+“’Tis he!” she said, the whip’s snap echoing in her heart.
+
+A post-chaise with a single gentleman made such sensation descending rue Saint-Blaise that boys and grown persons followed it to the Cormon gate. Jacquelin, who foresaw his own marriage in his mistress’s, opened the gates. The postilion, a friend, made a fine turn and drew up before the portico. The abbé greeted his guest, whose chaise was emptied with highwayman speed; the chaise was rolled into the coach-house, gates closed, and all signs of Monsieur de Troisville’s arrival vanished. Never did two chemicals blend more rapidly than the hotel Cormon absorbed the Vicomte de Troisville.
+
+Mademoiselle, whose heart beat like a lizard caught, sat heroically on her salon sofa. Josette opened the door; the Vicomte de Troisville, followed by the Abbe de Sponde, presented himself to the spinster.
+
+“Niece, this is Monsieur le Vicomte de Troisville, the grandson of one of my old schoolmates; Monsieur de Troisville, my niece, Mademoiselle Cormon.”
+
+“Ah! that good uncle; how well he does it!” thought Rose-Marie-Victoire.
+
+The Vicomte de Troisville might be painted in two words as du Bousquier ennobled. Between them there was the difference separating vulgar from noble style. The viscount’s strength had elegance; his figure preserved magnificent dignity. He had blue eyes, black hair, an olive skin, and looked about forty-six—a handsome Spaniard preserved in the ice of Russia. His manner, carriage, and attitude denoted a diplomat who had seen Europe. His dress was that of a well-bred traveller. As he seemed fatigued, the abbé offered to show him his room, and was amazed when his niece threw open the boudoir door, transformed into a bedroom.
+
+Mademoiselle Cormon and her uncle left the stranger to attend to his affairs, aided by Jacquelin bringing luggage, and went to walk beside the river until the guest had made his toilet. Although the Abbe de Sponde was still absent-minded, Mademoiselle was not less preoccupied. They walked in silence. She had never met any man as seductive as this Olympean viscount. She might have said, as the Germans, “This is my ideal!” Instead she felt bound from head to foot and could only think “Here’s my affair!” Then she flew to Mariette to know if the dinner could be delayed without loss.
+
+“Uncle, your Monsieur de Troisville is very amiable,” she said on return.
+
+“Why, niece, he hasn’t as yet said a word.”
+
+“But you can see it in his ways, his manners, his face. Is he a bachelor?”
+
+“I’m sure I don’t know,” replied the abbé, thinking of a recent discussion on mercy. “Monsieur de Troisville wrote he wanted to buy a house here. If he was married, he wouldn’t come alone on such an errand,” he added carelessly, not conceiving his niece might think of marriage.
+
+“Is he rich?”
+
+“He is a younger son of the younger branch,” said her uncle. “His grandfather commanded a squadron, but this young man’s father made a bad marriage.”
+
+“Young man!” exclaimed the old maid. “It seems to me, uncle, that he must be at least forty-five.” She wanted to equate their years.
+
+“Yes,” said the abbé; “but to a poor priest of seventy, Rose, a man of forty seems a youth.”
+
+All Alençon now knew Monsieur de Troisville had arrived. The traveller rejoined his hosts and admired the Brillante, garden, and house.
+
+“Monsieur l’abbé,” he said, “my whole ambition is to have a house like this.” The old maid fancied a declaration lurked in that speech and lowered her eyes. “You must enjoy it very much, mademoiselle,” added the vicomte.
+
+“How could it be otherwise? It has been in our family since 1574,” replied Mademoiselle Cormon. “It is built on piles,” she added.
+
+Jacquelin announced dinner. Monsieur de Troisville offered his arm to the happy woman, who endeavored not to lean too heavily; she feared to seem forward.
+
+“Everything is so harmonious here,” said the viscount, as he sat.
+
+“Yes, our trees are full of birds, which give us concerts for nothing; no one ever frightens them; and the nightingales sing at night,” said Mademoiselle Cormon.
+
+“I was speaking of the interior of the house,” remarked the viscount, not troubling to observe Mademoiselle Cormon, and therefore not perceiving her dulness. “Everything is so in keeping,—the tones of color, the furniture, the general character.”
+
+“But it costs a great deal; taxes are enormous,” responded the excellent woman.
+
+“Ah! taxes are high, are they?” said the viscount, preoccupied.
+
+“I don’t know,” replied the abbé. “My niece manages the property of each of us.”
+
+“Taxes are not of much importance to the rich,” said Mademoiselle Cormon, not wishing to be thought miserly. “As for the furniture, I shall leave it as it is, and change nothing,—unless I marry; and then, of course, everything here must suit the husband.”
+
+“You have noble principles, mademoiselle,” said the viscount with a smile. “You will make one happy man.”
+
+“No one ever made to me such a pretty speech,” thought the old maid.
+
+The viscount complimented her on the excellence of her service and the admirable arrangements of the house, remarking he had supposed the provinces behind the age; on the contrary, he found them, as the English say, “very comfortable.”
+
+“What can that word mean?” she thought. “Well, courage!” she said. “I can’t be expected to answer a foreign language—But,” she continued aloud, feeling eloquence under the pressure to be agreeable, “we have a very brilliant society here, monsieur. It assembles at my house, and you shall judge of it this evening, for some of my faithful friends have no doubt heard of my return and your arrival. Among them is the Chevalier de Valois, a seigneur of the old court, a man of infinite wit and taste; then there is Monsieur le Marquis d’Esgrignon and Mademoiselle Armande, his sister”—(she bit her tongue)—“a woman remarkable in her way. She resolved to remain unmarried in order to leave all her fortune to her brother and nephew.”
+
+“Ah!” exclaimed the viscount. “Yes, the d’Esgrignons,—I remember them.”
+
+“Alençon is very gay,” continued the old maid. “There’s much amusement: the receiver-general gives balls; the prefect is an amiable man; and Monseigneur the bishop sometimes honors us with a visit—”
+
+“Well, then,” said the viscount with a smile, “I have done wisely to come back, like the hare, to die in my form.”
+
+“Yes,” she said. “I, too, attach myself or I die.”
+
+Conversation continued in generalities. By some mysterious faculty, Mademoiselle Cormon found, under the pressure to be agreeable, all the phrases and opinions of the Chevalier de Valois. The viscount, well-bred, did not speak of the dinner’s excellence; his silence was praise. As he drank the wines Jacquelin served, he seemed to feel he was with friends and met them with pleasure; for the true connoisseur enjoys, he does not applaud. He inquired the price of land and houses, made Mademoiselle Cormon describe the confluence of the Sarthe and the Brillante; he expressed surprise that the town lay so far from the river, and seemed much interested in the topography.
+
+The silent abbé left his niece to throw the dice of conversation; and she truly felt she pleased Monsieur de Troisville, who smiled and had committed himself more during dinner than her eager suitors had done in ten days. Imagine the little attentions: she watched his every look and served him as if he were a cherished lover's return. She did not depreciate herself; instead she set every sail, assumed the bearing of the queen of Alençon, and boasted of her preserves. She fished for compliments, seeing that she pleased; her eager desire had transformed her almost into a woman.
+
+At dessert she heard sounds denoting the arrival of her usual guests. She called the abbé’s and the vicomte’s attention; it was curiosity. Impatient to show herself, Mademoiselle Cormon told Jacquelin to serve coffee and liqueurs in the salon, where he displayed a magnificent Dresden liqueur-stand seen only twice a year. This was noted by the company ready to gossip.
+
+“The deuce!” muttered du Bousquier. “Madame Amphoux’s liqueurs, only served at the four church festivals!”
+
+“Undoubtedly the marriage was arranged a year ago by letter,” said the chief-justice du Ronceret. “The postmaster tells me his office has received letters postmarked Odessa for more than a year.”
+
+Madame Granson trembled. The Chevalier de Valois, though he had dined with the appetite of four men, turned pale on the left of his face. Feeling he might betray himself, he said hastily,—
+
+“Don’t you think it is very cold today? I am almost frozen.”
+
+“The neighborhood of Russia, perhaps,” said du Bousquier.
+
+The chevalier looked at him as if to say, “Well played!”
+
+Mademoiselle Cormon appeared radiant and triumphant; the company thought her handsome. Since early morning her blood had been whirling and nerves agitated by the presentiment of a crisis. These combined made her so unlike herself. With joy she presented the viscount to the chevalier, the chevalier to the viscount, and all Alençon to Monsieur de Troisville.
+
+By accident the viscount and chevalier, aristocrats by nature, came instantly into unison; they recognized each other as men of the same sphere and conversed before the fireplace. A circle formed and listened in silence. Picture Mademoiselle Cormon pouring coffee for her suitor with her back to the fireplace.
+
+Monsieur de Valois: “Monsieur le vicomte has come, I am told, to settle in Alençon?”
+
+Monsieur de Troisville: “Yes, monsieur, I am looking for a house.” [Mademoiselle Cormon, cup in hand, turns round.] “It must be a large house” [Mademoiselle offers him the cup] “to lodge my whole family.” [The old maid’s eyes are troubled.]
+
+Monsieur de Valois: “Are you married?”
+
+Monsieur de Troisville: “Yes, for the last sixteen years, to a daughter of the Princess Scherbellof.”
+
+Mademoiselle Cormon fainted; du Bousquier, who saw her stagger, sprang forward and received her in his arms; someone opened the door and allowed him to pass with his burden. The republican, instructed by Josette, found strength to carry the old maid to her bedroom, where he laid her on the bed. Josette, with scissors, cut the terribly tight corset. Du Bousquier flung water on Mademoiselle Cormon’s face and bosom, which, freed from the corset, overflowed like the Loire in flood. The poor woman opened her eyes, saw du Bousquier, and gave a cry of modesty. Du Bousquier retired, leaving six women, headed by Madame Granson, radiant with joy, to care for the invalid.
+
+What had the Chevalier de Valois been doing? Faithful to his system, he had covered the retreat.
+
+“That poor Mademoiselle Cormon,” he said to Monsieur de Troisville, gazing at the assembly whose laughter was repressed by his aristocratic glances, “her blood is horribly out of order; she wouldn’t be bled before going to Prebaudet, and see the result!”
+
+“She came back this morning in the rain,” said the Abbe de Sponde, “and she may have taken cold. It won’t be anything; it is only a little upset she is subject to.”
+
+“She told me yesterday she had not had one for three months, adding that she was afraid it would play her a trick at last,” said the chevalier.
+
+“Ha! so you are married?” thought Jacquelin as he looked at Monsieur de Troisville, who quietly sipped his coffee.
+
+The faithful servant espoused his mistress’s disappointment; he divined it, and promptly carried away Madame Amphoux’s liqueurs, offered to a bachelor and not to the husband of a Russian woman.
+
+All these details were noticed and laughed at. The Abbe de Sponde knew Monsieur de Troisville’s object, but, absent-minded, forgot and did not suppose his niece could be interested. The viscount, preoccupied with his own errand and like many husbands not eager to talk of his wife, had had no occasion to say he was married; he would naturally suppose Mademoiselle Cormon knew.
+
+Du Bousquier reappeared and was questioned. One of the six women came down and announced Mademoiselle Cormon was much better, that the doctor had come. She intended to stay in bed, as bleeding was necessary. The salon was full. The ladies discussed the tragi-comic scene—embellished, extended, embroidered—destined on the morrow to occupy all Alençon.
+
+“That good Monsieur du Bousquier! how well he carried you!” said Josette to her mistress. “He was really pale at the sight of you; he loves you still.”
+
+That speech closed the solemn evening.
+
+Next morning every circumstance of the comedy was known, and—let it be to the town’s shame—they caused inextinguishable laughter. But on that day Mademoiselle Cormon, much benefited by bleeding, would have seemed sublime had scoffers seen her dignity and Christian resignation as she gave her arm to her involuntary deceiver for breakfast. Cruel jesters! why not have seen her say to the viscount,—
+
+“Madame de Troisville will have difficulty in finding a suitable house; do me the favor, monsieur, of accepting the use of mine while you seek yours.”
+
+“But, mademoiselle, I have two sons and two daughters; we should greatly inconvenience you.”
+
+“Pray do not refuse me,” she said earnestly.
+
+“I made you the same offer in the answer I wrote to your letter,” said the abbé; “but you did not receive it.”
+
+“What, uncle! then you knew—”
+
+The poor woman stopped. Josette sighed. Neither the viscount nor the abbé observed anything amiss. After breakfast the Abbe de Sponde carried off his guest, as agreed, to show him houses in Alençon.
+
+Left alone in the salon, Mademoiselle Cormon said to Josette, distressed, “My child, I am now the talk of the whole town.”
+
+“Well, then, mademoiselle, you should marry.”
+
+“But I am not prepared to make a choice.”
+
+“Bah! if I were you, I should take Monsieur du Bousquier.”
+
+“Josette, Monsieur de Valois says he is so republican.”
+
+“They don’t know what they say, your gentlemen: sometimes they declare that he robbed the republic; he couldn’t love it if he did that,” said Josette, departing.
+
+“That girl has an amazing amount of sense,” thought Mademoiselle Cormon, who remained alone, prey to perplexities.
+
+She saw plainly that a prompt marriage was the only way to silence the town. Each of the two old bachelors understood the situation; each resolved that morning to call and in bachelor fashion “press his point.” Monsieur de Valois considered such an occasion demanded a painstaking toilet; he took a bath and groomed with extraordinary care. For the first and last time Cesarine saw him apply a suspicion of rouge. Du Bousquier, coarse and brisk-willed, paid no attention to dress, and arrived first.
+
+Little things decide fortunes. Kellerman’s charge at Marengo, Blücher’s arrival at Waterloo, Louis XIV.’s disdain for Prince Eugene—all these turning points show how small neglects alter fate. A touch of rouge destroyed the Chevalier de Valois’s hopes; while he made this last touch, the rough du Bousquier entered the desolate old maid’s salon. This entrance produced a thought favorable to the republican, though in other respects the chevalier had advantages.
+
+“God wills it!” she said, piously, seeing du Bousquier.
+
+“Mademoiselle, you will not, I trust, think my eagerness importunate. I could not trust my stupid René to bring news of your condition, and therefore I have come myself.”
+
+“I am perfectly recovered,” she replied, with emotion. “I thank you, Monsieur du Bousquier,” she added after a pause and in a significant tone, “for the trouble you have taken, and for that which I gave you yesterday—”
+
+She remembered being in his arms, and that again seemed an order from heaven. She had been seen for the first time by a man with her laces cut, her treasures forced from their casket.
+
+“I carried you with such joy that you seemed to me light.”
+
+Mademoiselle Cormon looked at du Bousquier as she had never looked at any man. Encouraged, the purveyor cast upon the old maid a glance that reached her heart.
+
+“I would,” he said, “that that moment had given me the right to keep you forever”—she listened delighted—“as you lay fainting upon that bed, you were enchanting. I have never in my life seen a more beautiful person,—and I have seen many handsome women. Plump ladies are superb to look upon; they have only to show themselves and they triumph.”
+
+“I fear you are making fun of me,” said the old maid, “and that is not kind when all the town will misinterpret what happened yesterday.”
+
+“As true as my name is du Bousquier, mademoiselle, I have never changed in my feelings toward you; and your first refusal has not discouraged me.”
+
+Her eyes lowered. A moment of cruel silence followed, and then Mademoiselle Cormon decided. She raised her eyelids; tears flowed, and she gave du Bousquier a tender glance.
+
+“If that is so, monsieur,” she said trembling, “promise me to live in a Christian manner, and not oppose my religious customs, but to leave me the right to select my confessors, and I will grant you my hand”; she held it out.
+
+Du Bousquier seized the good fat hand and kissed it solemnly.
+
+“But,” she added, “one thing more I must require of you.”
+
+“If it is possible, it is granted,” replied the purveyor.
+
+“Alas!” returned the old maid. “For my sake, I must ask you to take upon yourself a sin which I feel to be enormous,—for to lie is one of the capital sins. But you will confess it, will you not? We will do penance together.” They looked at each other tenderly. “Besides, it may be one of those lies which the Church permits as necessary—”
+
+“Can she be as Suzanne says she is?” thought du Bousquier. “What luck! Well, mademoiselle, what is it?” he asked.
+
+“That you will take upon yourself to—”
+
+“What?”
+
+“To say this marriage has been agreed upon between us for the last six months.”
+
+“Charming woman,” said the purveyor, willing to devote himself, “such sacrifices can be made only for a creature adored these ten years.”
+
+“In spite of my harshness?” she asked.
+
+“Yes, in spite of your harshness.”
+
+“Monsieur du Bousquier, I have misjudged you.”
+
+Again she held out the fat red hand, which he kissed again.
+
+At that moment the door opened; the betrothed pair looked round to see who entered and beheld the delightful, but tardy, Chevalier de Valois.
+
+“Ah!” he said on entering, “I see you are about to be up, fair queen.”
+
+She smiled at the chevalier, feeling a weight upon her heart. Monsieur de Valois, remarkably young and seductive, had the air of a Lauzun reentering the apartments of the Grande Mademoiselle in the Palais-Royal.
+
+“Hey! dear du Bousquier,” said he in a jaunty tone, sure of success, “Monsieur de Troisville and the Abbe de Sponde are examining your house like appraisers.”
+
+“Faith!” said du Bousquier, “if the Vicomte de Troisville wants it, it is his for forty thousand francs. It is useless to me now. If mademoiselle will permit—must soon be known—Mademoiselle, may I tell it?—Yes! Well, then, be the first, my dear Chevalier, to hear of the honor that mademoiselle has done me, the secret I have kept for some months. We shall be married in a few days; the contract is drawn, and we shall sign it to-morrow. You see, therefore, my house in the rue du Cygne is useless to me. I have been secretly seeking a purchaser; and the Abbe de Sponde, who knew that, naturally took Monsieur de Troisville to see the house.”
+
+This falsehood seemed true and the chevalier believed it. That “my dear chevalier” was du Bousquier’s revenge for a thousand little past shafts. In triumph, he ran his hands through his hair and knocked aside his false front.
+
+“I congratulate you both,” said the chevalier with agreeable air; “and I wish that the marriage may end like a fairy tale: They were happy ever after, and had—many—children!” So saying, he took snuff. “But, monsieur,” he added satirically, “you forget—you are wearing a false front.”
+
+Du Bousquier blushed. The false front was hanging half a dozen inches from his skull. Mademoiselle Cormon raised her eyes, saw the skull in its nudity, and lowered them, abashed. Du Bousquier cast upon the chevalier the most venomous look a toad ever darted.
+
+“Dogs of aristocrats who despise me,” he thought, “I’ll crush you some day.”
+
+The chevalier thought himself recovered. But Mademoiselle Cormon did not understand the connection the chevalier intimated between his wish and the false front. Besides, her word was passed and her hand given. Monsieur de Valois saw all was lost. The innocent woman, with the two now silent men before her, wished in duty to amuse them.
+
+“Why not play a game of piquet together?” she said artlessly.
+
+Du Bousquier smiled and went to fetch the piquet table as future master of the house. Whether the chevalier lost his head or wanted to study his disaster, he allowed himself to be led like a lamb to the slaughter. He had received the most violent blow a man might suffer; any noble would have lost his senses for less.
+
+The Abbe de Sponde and Monsieur de Troisville soon returned. Mademoiselle Cormon rose, hurried into the antechamber, and took her uncle aside to tell him her resolution. Learning that the rue du Cygne house suited the viscount, she begged her future husband to tell him her uncle knew it was for sale. She dared not confess the lie to the absent-minded abbé. The lie prospered better than a virtuous action. That evening all Alençon heard the news. The town had had as much to think of as during the fatal years 1814–1815. Some laughed; others admitted the marriage. The middle classes rejoiced, viewing it as a victory. The next day the Chevalier de Valois said cruelly among friends,—
+
+“The Cormons end as they began; there’s only a hand’s breadth between a steward and a purveyor.”
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-Saumur was more stirred by the dinner Grandet gave the Cruchots than by the previous night’s sale of his vintage, which wine-growers called a betrayal. Grandet, who fancied himself superior to those he deceived, paid little heed to their opinion.
+The news of Mademoiselle Cormon’s choice stabbed poor Athanase Granson to the heart; yet he gave no outward sign. He learned of the marriage at the house of the chief-justice, du Ronceret, where his mother was playing boston. Madame Granson thought him pale, but he had been so all day from rumors already reaching him.
 
-When the des Grassins learned of Guillaume Grandet’s failure and death, they came that evening to offer sympathy and to learn why he had invited the Cruchots. At five Monsieur C. de Bonfons and his uncle, the notary, arrived in their Sunday best. The dinner was sombre: Grandet grave, Charles silent, Eugenie mute, Madame Grandet speaking little—a fitting meal of condolence. Afterwards Charles asked to retire to write a letter.
+Mademoiselle Cormon was the card on which Athanase had staked his life; a cold presentiment of catastrophe weighed on him. When imagination magnifies misfortune beyond endurance, a long-cherished hope balks, faith fails in self and future, and the man is lost. Athanase, a product of the Imperial system and its fatalistic schooling, sat still, eyes fixed on Madame du Ronceret’s cards in a stupor that passed for indifference; his mother was deceived. This apparent coldness explained his refusal to make the usual sacrifices for a marriage whose political overtones—“liberal” opinions, the current fashionable label—had complicated private matters.
 
-Once the women left, Grandet displayed the craftiness that earned him the nickname “the old dog.” Affecting a practiced stutter, he controlled and provoked his guests while steering conversation toward bankruptcy. The president of the commercial court explained that a respected merchant facing insolvency could have a receiver appointed—liquidation did not necessarily mean absolute ruin. Liquidation could sometimes be managed privately: if the merchant didn't file his schedule and no creditor appeared, family or heirs could liquidate the business. Debts could be bought at a discount so that, if titles to all claims were acquired, heirs might owe nothing.
+After that fatal evening the young man wandered the picturesque regions of the Sarthe—the windmills, gay river meadows, well-grouped trees—seeking the solitude he loved. Provincials care little for a fine view; they lack poesy. Athanase sat beneath a poplar, vacant-eyed; neighbors said to Madame Granson, “Something is the matter with your son.” She hinted he meditated some great work.
 
-The notary urged this course to save Grandet’s reputation. Mindful of family standing and his nephew’s prospects, Grandet weighed the advantages but professed ignorance of Parisian tricks, saying he tended only vineyards. The president offered to go to Paris to deal with creditors and suggested Grandet provide some assets to facilitate negotiations.
+He ceased to have political opinions and no longer took part in politics; sometimes he seemed gay in a satirical way that insulted the world with individual scorn. He interested few; no friend or woman came to dry his tears; they fell into the Sarthe. Had the gorgeous Suzanne crossed his path, many young miseries might have been born; they would surely have loved.
 
-Before he committed, the des Grassins declared they would liquidate the brother’s debts honorably; the banker applauded, and Madame des Grassins even offered to go to Paris, competing with the president. Favoring the banker, Grandet pulled him aside to discuss investing in government bonds and asked him to say nothing to the Cruchots—discretion to avoid annoyance. They agreed to meet the next day for final instructions.
+Suzanne did come. Her ambition had been fired by the tale of the Marquis de Montauran’s adventure with Marie de Verneuil at the tavern of the More. Fascinated by beauty and the story, Suzanne longed to play upon men. Months after her hasty departure she passed through her native town with an artist, wanting to see Fougeres and the scene of the Marquis’s tragedy. She fancied arriving in Alencon so well equipped none would recognize her; she hoped to put her mother beyond necessity and to send Athanase, delicately, a sum of money.
 
-As word of his supposed generosity spread, the town quickly forgave the vintage sale and admired Grandet again. Once the house closed, he ordered Nanon to keep silent and prepared a secret trip to sell gold in Angers while the market was favorable. In the early hours, Eugenie, worried about Charles, thought she heard a cry but was distracted by her father and Nanon carrying a heavy keg. Grandet told Nanon to tell his wife he had gone to the country and hurried off in the carriage, determined to reach Angers before dawn.
+A month passed in uncertainties about Mademoiselle Cormon’s marriage. Unbelievers denied it; believers affirmed it. The sale of du Bousquier’s house to the Marquis de Troisville seemed to show otherwise, but that too was explained away. Choisnel, Mademoiselle Cormon’s usual notary, heard nothing about a contract; yet on the twentieth day Monsieur Lepressoir, the notary of the liberals, went to her house and the contract was signed.
+
+This was the first of numerous sacrifices Mademoiselle Cormon would make to her husband. Du Bousquier bore deep hatred toward Choisnel, whom he blamed for a prior refusal of Mademoiselle Armande’s hand—an event he thought had influenced Mademoiselle Cormon’s delay. Mademoiselle received anonymous letters and learned, to her astonishment, that Suzanne was, as to du Bousquier, as truly a virgin as herself; the seducer with the false toupet had never been hero of any such adventure. Mademoiselle Cormon wrote to Suzanne, and Suzanne, who had heard of the proposed marriage, acknowledged her trick, sent a thousand francs to the Maternity Society, and did what harm she could to the old purveyor. The society resolved henceforth to assist only misfortunes that had happened, not those about to.
+
+Despite gossip, the banns were published, and Athanase prepared the deeds. As propriety demanded, the bride retired to Prebaudet, where du Bousquier, with sumptuous bouquets, visited every morning and returned home for dinner.
+
+On a dull rainy June morning, Mademoiselle Cormon and the Sieur du Bousquier were married at noon in the parish church of Alencon, in sight of the whole town. They drove from the mayor’s office to the church in an open caleche secretly sent from Paris—the loss of the old carriole being viewed as a local calamity. People feared the triumph of Parisian luxury, a rise in rents and provisions, and invasion by foreign furniture. Jacquelin charged ten sous to show the new vehicle. A pair of horses bought in Normandie alarmed the Ronceret circle, who argued, however absurdly, that buying horses themselves would prevent outsiders from taking their money. Penelope succumbed to pleurisy six weeks before the marriage.
+
+Madame du Bousquier entered the church with her left foot—a dreadful omen as “Left” was gaining political meaning. The priest opened his book by chance at the De Profundis. No wedding party followed; the pair departed immediately for Prebaudet. Parisian customs, the community said, were about to triumph over time-honored provincial ways. Jacquelin and Josette’s wedding, gay and heartening, alone refuted the sinister prophecies.
+
+Du Bousquier used proceeds of his former residence to restore and modernize the hotel Cormon, decided to remain two seasons at Prebaudet, and took the Abbe de Sponde with them. The town feared “comfort.” One morning the bridegroom drove in from Prebaudet in a fine tilbury with Rene livery at his side; he had deposited his wife’s savings on the Grand-Livre and, by playing for a rise, made himself a personal fortune nearly as large as his wife’s.
+
+These forebodings were superseded by a still more fatal event connected with the marriage.
+
+On the evening of the ceremony, Athanase and his mother sat before a little fagot fire. Madame Granson proposed they go to the du Roncerets’; Athanase, in a voice like childhood, asked his mother to stay a little longer, calling her “my dear mamma.” She consented, preferring to listen to his projects rather than play boston.
+
+He clung to her with desperate tenderness, kissed her eyes and gray hair. Though he tried to deceive her about a fatal resolution, he revealed he wished to leave Alencon, to suffer away from her. She refused to be parted from him; he insisted. She offered money hidden in her petticoat for his outfit.
+
+After a brief outing to du Ronceret’s, where his mother said he had “great independence of heart,” Athanase left for the Sarthe, sat beneath his poplar on two heavy stones, reviewed the glorious future that would no longer come, and in a resolute, nearly soundless act glided into the deep pool he had long selected.
+
+Madame Granson returned at half-past nine to find a letter: “My good mother, I have departed; don’t be angry with me.” She thought he had gone off cleverly and went to bed in peace.
+
+The Sarthe, having risen suddenly the previous morning, had brought eels and, with them, the fisherman’s net at the very place Athanase had flung himself. At six in the morning the fisherman drew in his net, and with it the young body. Friends prepared the mother for the remains. The news of the suicide caused great excitement in Alencon: the poor young man of genius had no protector the night before and a thousand voices cried, “I would have helped him.” The Chevalier de Valois explained the suicide in a spirit of revenge, revealing Athanase’s sincere love for Mademoiselle Cormon. Madame Granson, guided by the chevalier, recalled many details that confirmed him. The story became touching; many women wept. Madame Granson’s grief was silent, concentrated, and little understood. Mothers mourn in two ways—public mourning for sons admired by society, and the deeper private mourning known only to the one who has loved and shared a child’s innermost life.
+
+Before Madame du Bousquier returned to town, Madame du Ronceret had driven to Prebaudet to fling this corpse upon the roses of the bride’s joy and sober her bridal month. On the road back to Alencon, Madame du Bousquier met Madame Granson at the corner of rue Val-Noble; the mother’s dying look, full of maledictions and reproach, struck the poor woman to the heart.
+
+The evening after the catastrophe Madame Granson, though hostile to the town’s rector, sought him out. After placing her son in his shroud with her own hands, she found the modest priest putting away flax and yarns in an outer room—charity that saved many who could not beg. He took her to his dining-room; she noticed his frugal living.
+
+“Monsieur l’abbé,” she sobbed, “I have come to implore you—”
+
+“I know what brings you,” he replied. “I must trust you and your relation Madame du Bousquier to pacify Monseigneur the Bishop at Seez. Yes, I will pray for your unhappy child; yes, I will say the masses. But avoid scandal; give no opportunity for evil-judging persons. I alone, without other clergy, at night—”
+
+“Yes, as you think best; if only he may lie in consecrated ground,” she said, kissing his hand.
+
+Toward midnight a coffin was clandestinely borne to the parish church by four young men, comrades of Athanase. A few friends, veiled women, and half a dozen intimates attended. The rector, assisted by a discreet choirboy, said the mortuary mass. The body was noiselessly carried to a corner of the cemetery; a black wooden cross without inscription marked its place. Athanase lived and died in shadow. No voice blamed the rector; the bishop was silent. The piety of the mother redeemed the impiety of the son’s last act.
+
+Months later, half beside herself with grief, Madame Granson resolved to see the spot where her son had drowned—perhaps to recover thoughts of him beneath that poplar or to see what his eyes had seen last. As she stood there she saw a woman approach, weeping: it was Suzanne. Told of the catastrophe that morning at the hotel du More, Suzanne had planned to send Athanase several thousand francs under a false pretense had he lived. Seeing Madame Granson, she whispered as she passed, “I loved him!”
+
+Suzanne did not leave Alencon without changing the bride’s orange blossoms to rue; she declared Madame du Bousquier would always be Mademoiselle Cormon, revenging poor Athanase and her dear chevalier with one cutting tongue.
+
+Alencon then witnessed a slower suicide: the Chevalier de Valois died in life for fourteen years. Three months after the du Bousquier marriage, his linen was frayed, his hair unkempt; his elegance collapsed. He ate, snuffed, lost teeth; wrinkles and pallor marked him. The cavalier who had once maintained appearances with meticulous care now showed the power of the soul over the body; with hope deserted, he grew old overnight. His nose, once delicate, smeared with tobacco; his vanity gone, he revealed the pains he had formerly taken. His clever sayings grew rare, but the appetite remained; he languidly took pinches of snuff and alarming dinners. His intercourse with the Princess Goritza lessened.
+
+One day he appeared in Mademoiselle Armande’s salon with his calf of leg on his shin-bone; that bankruptcy of grace struck Alencon with horror. The chevalier, who had waited and watched for Mademoiselle Cormon for ten years and missed his game, frightened society by his decay. A mortified grisette revealed his mornings’ details, and he now passed for a libertine; liberals blamed him for foundlings once attributed to du Bousquier. The faubourg Saint-Germain pitied him and gathered him closer, bringing back a few smiles; but enmity piled on du Bousquier. Eleven persons deserted the Cormon salon for the d’Esgrignons.
+
+The old maid's marriage defined two parties in Alencon. The salon d’Esgrignon represented upper aristocracy (the returning Troisvilles attached themselves to it); the Cormon salon under du Bousquier represented that class of opinions which, without being truly liberal or resolutely royalist, had given birth to votes like the famous 221. The salon du Ronceret, secretly allied to Cormon, was boldly liberal.
+
+The Abbe de Sponde, after returning from Prebaudet, suffered inwardly and told no word to his niece but to Mademoiselle Armande he confessed he would have preferred the Chevalier de Valois to Monsieur du Bousquier. The abbe mourned the loss of his little grove and lindens—symbols of his home and prayers—cut down for an English garden. Du Bousquier, acting on the Abbe Couterier’s authorization, had committed wrongs to please his wife, but the restorations destroyed the venerable dignity and patriarchal air of the old house. The salon’s bourgeois dignity no longer existed when turned to white and gold with mahogany and blue satin; columns in stucco, glass doors, Greek moldings—a mélange of styles—produced magnificence out of season.
+
+The town gabbled at first, but months later took pride in the luxury; rich manufacturers restored houses, modern furniture arrived, and astral lamps were seen.
+
+The Abbe de Sponde perceived the secret unhappiness this marriage imposed on his niece. The character of noble simplicity that had ruled their lives was lost the first winter, when du Bousquier gave two balls every month; the abbe prayed on his knees while the revels lasted. Political tone in the salon was perverted. The abbe fathomed du Bousquier; he shuddered at his imperious tone and saw his niece lose control of her property—left only the linen and table to manage—while Jacquelin became coachman, Rene groom, and the Parisian chef took over. The triumph of the will is intoxicating to narrow minds; one must have been a dismissed minister to know the bitter pain of losing power.
+
+At first du Bousquier constrained himself out of respect for the abbe and to avoid vexing him, but it was his hand that dealt the blow sending the old priest to his grave. If you view "intolerance" as firmness of principle, and do not condemn the Catholic soul of the Abbe de Sponde, you can understand his sorrow when he saw in his niece’s salon the apostate priest reconciled with the rector—the renunciation of orthodoxy that to him was treachery. Du Bousquier, secretly ambitious to lay down the law to the town, reconciled the minister of Saint-Leonard with the parish rector; his wife thought he had accomplished peace, but the abbe saw perfidy. The bishop visited du Bousquier; orthodoxy seemed to expire in the diocese. The abbe died when orthodoxy thus expired in the diocese.
+
+In 1819 the abbe’s property increased Madame du Bousquier’s income to twenty-five thousand francs, not counting Prebaudet or the Val-Noble house. Du Bousquier returned to his wife the capital of her savings, and made her use it to buy lands contiguous to Prebaudet, enlarging the domain considerably. He passed for one of the department’s richest men—a constant candidate of the liberals, missing electoral victories by slim margins, then ostentatiously repudiating liberals by seeking ministerial royalist election. This rancorous republican, mad with ambition, resolved to rival and ruin the royalism and aristocracy of Alencon when they regained power. He strengthened himself with the Church by a deceitful feint of piety: accompanying his wife to mass, giving to convents, aiding congregations, siding with clergy. Secretly supported by liberals, protected by the Church, calling himself a constitutional royalist, he kept beside the aristocracy to ruin it—he succeeded.
+
+Among other benefits he gave money to revive point d’Alencon manufacture, renewed the linen trade, and the town gained a factory. Insulating himself upon popular interests, he risked little—backed by fortune he could wait. He posed as a banker, a partner in enterprises taking security; he promoted insurance companies, public conveyances, petitions for roads and bridges. The government, warned, considered this encroachment, and a struggle began injudiciously; authorities yielded as community interest demanded. Du Bousquier embittered provincial nobility against court nobility and the peerage; he brought constitutional royalists to side with the “Journal des Debats” and M. de Chateaubriand against the throne—an ungrateful opposition based on ignoble interests that was one cause of journalism’s triumph in 1830.
+
+Thus du Bousquier, common to his class, watched royalty’s funeral. After 1830 he became receiver-general, relying on relations with the Duc d’Orleans and Monsieur de Folmon, receiving about eighty thousand francs a year. In the public eye he was respectable, steady, upright, and obliging. Alencon owed him its industrial connection and the sudden proliferation of private carriages. Burghers and landowners, alarmed at first that prices might rise, later found revenues helped by increased style of living. Du Ronceret’s remark, “Du Bousquier is a very strong man,” was adopted by the countryside.
+
+But unhappily for his wife, that saying had a double meaning. The public politician did not resemble the domestic husband. This great citizen, generous to the world, was a despot at home, utterly devoid of conjugal affection. Astute, hypocritical, sly—this Cromwell of the Val-Noble—behaved as he did to aristocrats: velvet glove on iron hand. His wife bore no children; Suzanne’s remark and the chevalier’s insinuations thus seemed justified. The liberal bourgeoisie and church party blamed Madame du Bousquier, saying she was too old when she married and that pregnancy would be dangerous. Friends praised du Bousquier to his wife, saying she was lucky, he’d make her queen of the department. Misjudged by society, the pious woman found opportunity at home to display virtues. She lived in tears but presented a placid face. She told herself she had loved the Chevalier de Valois but had married du Bousquier; Athanase’s death pursued her like remorse. Her uncle’s death made her life more sorrowful; sorrow spread slow as oil, imbibing into her being.
+
+The Chevalier de Valois contrived to reveal du Bousquier’s baseness to her. The chevalier, expert in love, divined the married man. Du Bousquier’s salon was closed to him and to those who had slighted the Cormon mansion; he was impervious to ridicule, with vast fortune and power. To please her husband, Madame du Bousquier had broken off relations with the d’Esgrignon household, visiting only briefly when her husband left for Paris. Three years after her marriage, at the Abbe de Sponde’s death, Mademoiselle Armande led Madame du Bousquier to Mr. d’Esgrignon’s. Finding the Chevalier de Valois there, he took her hand and in a tender, fatherly manner questioned her happiness. Surrounded by Mademoiselle Armande, Madame de Troisville, and the marquise, they gently contrived to draw from her, in naïve confession, the secrets of her house—her inability to have children and the deceptions of her marriage. The chevalier thus rendered du Bousquier for a time ridiculous and odious; ridicule waned, gossip died, but the incident envenomed du Bousquier’s hatred for the house of Esgrignon.
+
+By way of reprisals, du Bousquier, who had created the journal "Courrier de l’Orne," inserted: “Bonds to the amount of one thousand francs a year will be paid to any person who can prove the existence of one Monsieur de Pombreton before, during, or after the Emigration.” He turned vengeance into public pen.
+
+Although her marriage was essentially negative, Madame du Bousquier saw some advantages: a remarkable man about her was preferable to solitude. Du Bousquier was preferable to a dog or canaries. He showed for his wife a sentiment more real and less selfish than that felt by servants or hopeful heirs. Later she regarded her husband as an instrument of divine wrath for past desires: she had brought sorrow on Madame Granson and hastened her uncle’s death; obedient to religion that bids one kiss the rod, she praised him publicly but wept in prayer.
+
+With feelings bruised and immolated, compelled to make her husband happy and attached to him by habit and a dutiful affection, her life became perpetual contradiction. She had married a man she hated but whom she must care for. Often she walked with angels when du Bousquier ate her preserves with satisfaction. She watched to see his slightest wish satisfied, seeing in his small attentions proofs of his oblivious duty. When he kissed her forehead and called her “a good woman,” tears came to her eyes. Du Bousquier likely made some concessions, enough to earn her respect; Catholic virtue did not require total dissimulation. Often she sat mutely and listened as men she admired ranged against the Church; she shuddered at the ruin she foresaw. A stupid word from her was cut short by his glance.
+
+The worries stupefied her; she found it easier and more dignified to concentrate on inner thoughts and resign herself to a life purely animal—slave-like submission as meritorious. She gave herself to severe religious practices and ceased thinking of Satan’s vanities. She presented to the world a union of Christian virtue; du Bousquier was certainly one of the luckiest men in France.
+
+“She will be a simpleton to her last breath,” said the former collector, who nevertheless dined with her twice a week.
+
+This history would be incomplete without noting the coincidence of the Chevalier de Valois’s death with that of Suzanne’s mother. The chevalier died with the monarchy, in August, 1830. He had joined Charles X.’s cortege at Nonancourt and piously escorted it to Cherbourg with the Troisvilles and others. He had carried fifty thousand francs—the sum of his savings—offering it to a faithful friend of the king for transmission, speaking of his approaching death and declaring the money came originally from the king’s goodness. Whether his zeal moved the abandoned Bourbon is unknown; Cesarine, residuary legatee, received only six hundred francs a year from his estate. The chevalier returned to Alencon, weakened by grief and fatigue, and died on the very day Charles X. arrived on a foreign shore.
+
+Madame du Val-Noble and her protector, fearing liberal vengeance, lingered in the village where Suzanne’s mother died. At the chevalier’s sale, Suzanne bought the famous snuff-box’s portrait of Princess Goritza for a thousand francs; two years later a collector obtained it from Madame du Val-Noble. If the dead could know what happens after them, the chevalier’s head would blush upon its left cheek.
+
+If this history pricks possessors of relics to make codicils and bequeath such souvenirs to loving hands, it will serve the romantic portion of the community. It contains a higher moral: the need for a new species of education, chairs of anthropology—Germany outstripping France here. Modern myths are even less understood than ancient ones; myths press us from every point, serving all theories. If Mademoiselle Cormon had been a reader or student, had there been in the Orne a professor of anthropology, or even if she had read Ariosto, the frightful disasters of her conjugal life might never have occurred. She would probably have known why Angelica prefers Medoro to Orlando—Medoro as the mythic courtier, Orlando the myth of impotent revolutions. We publish this opinion of a pupil of Monsieur Ballanche without assuming responsibility.
+
+No information reached us about the fate of the negroes’ heads in diamonds. You may see Madame du Val-Noble every evening at the Opera; thanks to the chevalier’s education she has almost the air of a well-bred woman.
+
+Madame du Bousquier still lives; is not that as much as to say she still suffers? After sixty—the age women allow confessions—she told Madame du Coudrai she had never been able to endure the idea of dying an old maid.
+
+ADDENDUM
+
+The following personages appear in other stories of the Human Comedy.
+
+     Bordin
+       The Gondreville Mystery
+       The Seamy Side of History
+       The Commission in Lunacy
+
+     Bousquier, Du (or Du Croisier or Du Bourguier)
+       The Collection of Antiquities (companion piece)
+       The Middle Classes
+
+     Bousquier, Madame du (du Croisier) (Mlle. Cormon)
+       The Collection of Antiquities (companion piece)
+
+     Casteran, De
+       The Chouans
+       The Seamy Side of History
+       The Collection of Antiquities (companion piece)
+       Beatrix
+       The Peasantry
+
+     Chesnel (or Choisnel)
+       The Seamy Side of History
+       The Collection of Antiquities (companion piece)
+
+     Coudrai, Du
+       The Collection of Antiquities (companion piece)
+
+     Esgrignon, Charles-Marie-Victor-Ange-Carol, Marquis d’ (or Des Grignons)
+       The Chouans
+       The Collection of Antiquities (companion piece)
+
+     Esgrignon, Marie-Armande-Claire d’
+       The Collection of Antiquities (companion piece)
+
+     Gaillard, Madame Theodore (Suzanne)
+       A Distinguished Provincial at Paris
+       A Bachelor’s Establishment
+       Scenes from a Courtesan’s Life
+       Beatrix
+       The Unconscious Humorists
+
+     Granson, Athanase
+       The Government Clerks (mentioned only)
+
+     Lenoncourt, Duc de
+       The Lily of the Valley
+       Cesar Birotteau
+       The Collection of Antiquities (companion piece)
+       The Gondreville Mystery
+       Beatrix
+
+     Navarreins, Duc de
+       Colonel Chabert
+       The Muse of the Department
+       The Thirteen
+       The Peasantry
+       Scenes from a Courtesan’s Life
+       The Magic Skin
+       The Gondreville Mystery
+       The Secrets of a Princess
+       Cousin Betty
+
+     Pombreton, Marquis de
+       Lost Illusions
+       A Distinguished Provincial at Paris
+
+     Ronceret, Du
+       The Collection of Antiquities (companion piece)
+       Beatrix
+
+     Ronceret, Madame Du
+       The Collection of Antiquities (companion piece)
+
+     Simeuse, Admiral de
+       Beatrix
+       The Gondreville Mystery
+
+     Troisville, Guibelin, Vicomte de
+       The Seamy Side of History
+       The Chouans
+       The Collection of Antiquities (companion piece)
+       The Peasantry
+
+     Valois, Chevalier de
+       The Chouans
+       The Collection of Antiquities (companion piece)
+
+     Verneuil, Duc de
+       The Chouans
+       The Collection of Antiquities (companion piece)
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-“My father has gone,” Eugenie thought as she listened from the top of the stairs. The house lay hushed; the carriage’s rumble faded and a cry from her cousin’s room cut the silence. A strip of light from the doorway lit the staircase.
-
-“He suffers!” she cried, running up. Charles sat in an armchair, head bowed, a pen fallen from his hand; his breathing was labored. On the table were sealed letters to tradesmen—signs he was settling affairs to leave France—and two open letters. The address “My dear Annette” struck her to the core. Rooted, she felt shame and curiosity; curiosity won. She adjusted his head, kissed his hair, and read.
-
-Charles’s letter to Annette explained that misfortune had ruined him: his father had killed himself, their fortune was gone, and he was penniless. He could not remain in Paris where the scorn for a ruined man would be intolerable. He would not ask Annette to sacrifice comforts to keep him; better to part. He planned to try his luck in the Indies or America—perhaps to go to sea—and might return aged and altered; he urged Annette to treasure their happiness but accepted that he could not demand fidelity, for marriage or new ties might become necessities. The letter ended abruptly, as if his hand had left the page.
-
-Eugenie excused the coldness in the words, convincing herself a girl in love might not see its selfishness. She read passion into his phrases; “My dear Annette” became music to her. She mourned his misfortune and thought, “I have gold; I will give it to him.”
-
-The second letter, to his friend Alphonse, asked him to settle affairs: sell possessions, collect whatever could be recovered, keep his horse Briton if possible, press builders to delay delivery of an unpaid carriage, and pay off debts, including six louis lost at cards. It revealed a practical, calculating mind intent on avoiding dishonor and salvaging what remained.
-
-Overwhelmed with compassion and admiration, Eugenie ran to her room and opened the old oak cabinet where she had hidden a red velvet purse—a grandmother’s relic. Inside were coins: various foreign gold pieces, rare rupees—about five thousand eight hundred francs in all. Joy and resolve filled her. Secret love for her cousin and pity for his plight dissolved propriety. She returned upstairs at once, candle and purse in hand.
-
-Charles was awake, stunned at seeing her. Eugenie, trembling, confessed she had read the letters and then, without hesitation, offered him her savings. She called herself a poor girl who wanted nothing, a sister needing to help a cousin. Kneeling, she implored him to accept her gold and, by taking it, to show that he respected her and was generous. Tears fell from Charles onto her hands; moved, she poured the coins onto the table. “You will be rich,” she cried; “this gold will bring you happiness; someday you shall return it to me—are we not partners?”
-
-Charles could not refuse. He rose, kissed her, and at last revealed he would reciprocate not with money but with an object he held dear: a leather dressing-case containing, in a hidden drawer, two portraits by Madame Mirbel, set with pearls—his mother and his father, who were Eugenie’s aunt and uncle. He declared the case more precious to him than life, and begged Eugenie to be its guardian. If she guarded it and, in the worst event his fortune vanished, the pearls and gold in the case would repay her; yet he demanded that it ultimately be destroyed to prevent its passing into other hands. This exchange of trust and sacred confidence marked a turning point; Eugenie looked at him with her first deep, womanly affection. He kissed her hand, calling her an “angel of purity,” and vowed that feeling and sentiment must be everything between them henceforth.
-
-They exchanged gentle words and good-nights. Eugenie, practical and blushing, suggested Charles keep the treasures in her old cabinet. He sighed in his mourning but kissed her hand and, as she closed the door, he murmured the ruin of his fortunes. “What matter? My father is rich; I think so,” she answered naively. He scoffed; she retorted about Froidfond and Noyers, and he dismissed them as poor farms. The exchange was sweet and foolish: from that moment, beneath his black, Charles began to wear roses.
-
-Next morning, before breakfast, Madame Grandet found Eugenie and Charles together in the garden. He remained sorrowful; the three women of the house, respectful of his grief, allowed him the morning in the hall while they tended chores and awaited tradesmen for neglected business. Around five, Monsieur Grandet returned from Angers, unexpectedly jubilant, having made fourteen thousand francs on an exchange of gold. He had left his groom at Angers to look after the exhausted horses.
-
-“I am hungry,” he proclaimed upon entering. Nanon scolded him for not eating. Shortly Des Grassins arrived to take Grandet’s orders. Grandet barely registered his nephew’s presence, absorbed in his financial success and amused to baffle others. Des Grassins, the banker, informed him that gold fetched high prices in Angers and that people had come from Nantes; he talked of sending theirs. Grandet curtly refused, hinting at giving his old friend respite from wasted exertion. A startled consultation between the two men followed; they glanced often at Charles. Des Grassins learned that Grandet intended to invest a sum that might yield—so it was suggested—an enormous return; talk even floated of producing a hundred thousand francs a year, though the deputies’ figures and Grandet’s actual plans remained shrouded in his dry, cautious talk.
-
-Des Grassins took the moment to offer to go to Paris and asked Charles if he had any commissions. Charles declined stiffly. Des Grassins rebuked the nephew for the curt reply; he reminded him of family ties and honor. Charles, pale, kissed his uncle and withdrew. Eugenie watched her father with secretly swelling admiration for his mastery over affairs.
-
-Grandet dismissed Des Grassins with a jocular “decoy those people; lead them by the nose,” and the two men shook hands. Grandet resumed his armchair and asked Nanon for black-current ratafia. His excitement made him fidget at first and then sing snatches of a ditty, pacing in what Nanon called “his dancing steps.” The women exchanged uneasy glances at his towering contentment; his gaiety frightened them when it rose to a peak. He chose to go to bed early, expecting others to follow his lead. Madame Grandet, caught in his current, lived according to his will.
-
-During the two hours before retiring, Grandet grew more talkative and philosophical about money, offering peculiar maxims and showing the mindset that governed his life: “You have no sooner put your lips to a glass than it is empty! Such is life. You can’t have and hold. Gold won’t circulate and stay in your purse. If it were not for that, life would be too fine.” His cheerfulness came with small generosity—offering Nanon a share of ratafia—and an undertone of the calculation that made him formidable. The evening passed under a mood blending domestic routine, latent anxieties about affairs, and the quiet bloom of a new intimacy between Eugenie and Charles, sealed by her sacrifice and his trust.
-
-Thus the house resumed its ordinary hum: tradesmen, household tasks, and the unspoken commerce of feelings and fortunes. Eugenie’s secret gift and Charles’s confided treasures had altered their relation; Grandet’s profit from the Angers exchange had reawakened his habit of managing and tightening the household’s finances. Between these threads—Eugenie’s selfless devotion and Grandet’s thrifty triumph—Balzac sketches the beginnings of passions, calculations, and the mingling of sentiment with the sober arithmetic of money that will shape the family’s future.
+MIDDLE OF THE STORY
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-The next morning the family breakfasted together in a subdued, private way. Grief had drawn Madame Grandet, Eugénie, and Charles closer; even Nanon felt sympathy. The old man, absorbed in thrift and intent on sending Charles away to avoid expense, stayed aloof, busy with farm work and leaving Madame Grandet to watch over Eugénie and Charles as their relationship quietly deepened.
-
-For Eugénie, love grew from their shared secret. Their bond took on the simplicity and tenderness of childhood: soft glances, gentle words, and small consolations. Eugénie delighted in comforting Charles, soothing his pain with the sweetness of new love; Charles, hardened by worldly passions, found in her a pure, sincere attachment and prized the modest, unpretentious life they shared. While Grandet worked in the fields after breakfast, Charles savored the company of Eugénie and her mother, charmed by virtues he had once thought limited to Germany. Eugénie became his ideal; she surrendered to their love without foreseeing the looming separation.
-
-Three days after the des Grassins left, Grandet took Charles to the civil court to renounce his claim to his father’s estate—a legal act that felt like a painful betrayal. Charles signed powers of attorney, obtained a passport, and sold his belongings to prepare for departure. Grandet admired Charles’s new appearance in mourning and regarded him as ready to seek his fortune. When Charles gathered valuables to sell, Grandet offered to buy them, valuing them at nearly a thousand francs; Charles accepted with gratitude and gave his mother’s thimble to Madame Grandet. Grandet then insisted on paying for Charles’s passage to the Indies, a generosity that paradoxically cost him little.
-
-As Charles prepared to leave, Eugénie confessed her sorrow; he acknowledged his obligations and his coming-of-age. The family wore mourning for a Requiem Mass for Guillaume Grandet, and Charles received letters from Paris about his affairs, which he shared with Eugénie. In the garden he assured her his affairs were in order, that his effects would be sent to Nantes, and urged her not to tie her future to his uncertain fate. Still, their love held firm and they kissed passionately.
-
-On the day of departure Grandet unexpectedly packed Charles’s things for Nantes. The family saw him off at the diligence; after he left the house felt empty. Eugénie, determined to preserve his memory, kept his room unchanged and conspired with Nanon. Her beauty grew more radiant and dignified as she followed his voyage on a map and confided her constant love only to Nanon, who, though resigned, deeply empathized.
-
-Two months later the once-monotonous life of Eugénie and her mother was consumed by the secret that bound them: Charles filled their thoughts, and Eugénie even looked for him in her aunt’s portrait. One Sunday Madame Grandet discovered the truth about the gold Eugénie had given Charles, and panic followed.
-
-“What will you say to your father on New Year’s Day when he asks to see your gold?” Madame cried. They spent a morning in dread, missed high Mass, and feared the coming confrontation. Madame, unprepared for winter and chilled by her husband’s impending wrath, suggested consulting Monsieur des Grassins in Paris, but Eugénie insisted it was too late.
-
-On the cold morning of January 1, 1820, Madame asked for a fire in her room to avoid the confrontation. Grandet, unexpectedly cheerful, agreed and revealed he had received a large sum from investments. Boasting over breakfast and unaware of their anxiety, his polite New Year wishes only deepened their unease.
-
-After breakfast he demanded to see Eugénie’s gold and ordered its return. Cornered, she said she no longer had it. His anger flared; he accused her of deceit and pressed to know what she’d done with the money. Eugénie defended herself and asserted her independence; he threatened confinement on bread and water. Heartbroken, she fled to her mother, who pleaded for her, but Grandet remained obstinate. Nanon, fearing for Eugénie, vowed support and that evening secretly brought a hare pâté, strengthening their bond as they faced Grandet’s harshness.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
-For months the old wine-grower tended his ailing wife while never mentioning their daughter Eugénie, who remained confined to her room by his orders. Madame Grandet’s health declined as her husband grew harsher and began to err in business. Townspeople learned Eugénie was given only bread and water, with Nanon secretly bringing extra food; the community condemned Grandet, and Eugénie’s gentle attendance at Mass drew sympathy and curiosity.
-
-Eugénie’s chief sorrow was her mother’s deterioration, which she often blamed on herself. Madame Grandet tried to comfort her and urged reconciliation, begging her husband to restore their daughter to the family, but he remained indifferent as his wife weakened. In spring Madame confided in the Cruchots, who were appalled and discussed possible legal consequences of Eugénie’s confinement. Eugénie overheard but, fearing scandal, begged them to stay silent and resolved to obey her father for the family’s honor.
-
-One day the notary Cruchot warned Grandet that if Madame died Eugénie’s inheritance might force the sale of property and threaten his control. Pressed by this, Grandet began to soften. Returning home to reconcile, he found Eugénie and her mother admiring a gold dressing-case from Charles. Possessive at the sight, he confronted her; Eugénie demanded it be returned and, in despair, threatened self-harm. Shocked, Grandet relented, allowed her to keep the case, scattered coins on the bed, and promised kindness. Despite this brief gentleness, Madame Grandet died peacefully in October 1822, urging Eugénie to seek happiness in heaven and warning of a selfish world.
-
-The day after her mother’s death Eugénie felt a renewed attachment to her childhood home, where she had endured much suffering; familiar objects moved her to tears. Her father’s sudden tenderness—taking her to breakfast and watching her with an almost kind gaze—made the household suspect his mind was failing. But at the mourning dinner he revealed his plan.
-
-Maitre Cruchot explained Grandet did not want to divide property or pay taxes on supposed funds; to avoid this he needed Eugénie to renounce her rights so he could retain control. Confused, Eugénie asked for the deed to sign. Grandet, visibly moved, instead proposed she trust him and accept a monthly allowance of a hundred francs. She agreed; he clasped her hand and declared they were even. The next morning she signed away her inheritance. A year later he had not paid the promised money; when she reminded him he awkwardly offered jewels.
-
-Over the next two years Grandet trained Eugénie in running the household and managing finances, instilling his frugality. By the third year she became mistress of the house, and their monotonous life continued for five years. Eugénie’s sadness was well known though she never spoke of it. Her only company was Nanon and the Cruchots with their circle, who played whist with her father.
-
-In 1827 Grandet, now eighty-two, suffered a stroke. As he declined Eugénie devoted herself to his care, feeling increasingly isolated. His death was uneventful; to the end he remained fixated on hidden wealth. When the priest came for last rites, Grandet’s avarice surfaced in his final words, urging Eugénie to take care of his riches.
-
-After his death Eugénie was left alone with only Nanon, her loyal servant and confidante. Maitre Cruchot then informed her she had inherited seventeen million francs. Despite this fortune, her thoughts centered on finding her cousin Charles. In the empty house she and Nanon lamented their isolation while news of her wealth spread through the province.
-
-Eugénie’s first act was to secure an annuity for Nanon, who soon married Antoine Cornoiller and became Eugénie’s housekeeper. Cornoiller managed the estate; life for the farmers continued unchanged. At thirty Eugénie had never known joy; her childhood had been shadowed by her mother’s suffering and an unfulfilled love for Charles, who had left her with only memories. Mourning delayed thoughts of marriage. The Cruchots flattered her; Monsieur de Bonfons ingratiated himself, Madame des Grassins pushed a match with the Marquis de Froidfond, and Eugénie’s indifference was misread as interest—all while Charles had not contacted her in seven years.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
-While events unfolded in Saumur, Charles prospered in the Indies. His early ventures yielded six thousand dollars; he learned the slave trade was most profitable. He went to Africa, bought enslaved people and other goods, intent on returning to Paris rich and restoring his social standing.
-
-Experience hardened him. He grew skeptical and amoral, convinced one society’s condemnation could be another’s praise. He became ruthless—engaging in exploitative trades, customs fraud, and reselling cheaply bought pirate goods. Memories of Eugénie faded; he viewed his family with contempt and regarded her as little more than a creditor. To hide his identity he adopted the alias “Shepherd.” His efforts paid: by 1827 he returned to Bordeaux aboard the Marie Caroline with nearly two million francs in gold-dust, planning further profit at the Paris mint.
-
-On the ship he met Monsieur d’Aubrion, a gentleman with royal connections, returning with his family. Once prominent, the d’Aubrions were now strained financially. Madame d’Aubrion, anxious to secure her family’s future, sought a wealthy husband for her plain daughter. She saw Charles as suitable and promised to help him gain a title and an income through marriage, elevating both families into Parisian comfort.
-
-Intoxicated by ambition, Charles entertained the match. Annette encouraged him, noting the advantage for her friend of an influential, affluent husband. Des Grassins, aware of Charles’s return and pending marriage, asked him to settle his father’s debts; Charles refused, saying his father’s failures were no longer his problem.
-
-In August, Eugénie, sitting where they once pledged their love, received a trembling letter from Charles recounting his success, announcing the engagement as a pragmatic step to status, and declaring love in marriage a delusion. Devastated, she recalled her mother’s warning and resolved to a life of prayer and acceptance.
-
-Eugénie returned from the garden cautiously, avoiding the corridor haunted by memories of her cousin. The day was pivotal: the parish priest—connected to the Cruchots and allied with Monsieur de Bonfons—had been urged to speak to her about marriage. Consumed by unhappiness, Eugénie confessed a desire to withdraw from the world and live only for God. The priest warned against such a drastic step, reminding her of duties to society and the poor.
-
-Madame des Grassins arrived, driven by vengeance and despair, to reveal that Charles Grandet had returned from the Indies and was engaged to Mademoiselle d’Aubrion. Eugénie masked her shock. Madame des Grassins produced a letter from her husband outlining Charles’s situation, including his father’s bankruptcy and the marriage’s consequences. Contempt and sorrow filled Eugénie; she returned the letter unread.
-
-Tormented, Eugénie asked the priest whether remaining a virgin after marriage would be a sin, exposing her inner conflict. She secluded herself in her father’s secret room, skipped dinner, and avoided guests. Later, curiosity charged the evening when she asked Monsieur de Bonfons to stay—an act taken as a pledge of marriage.
-
-She privately told the president she could give only friendship and asked him to settle her uncle’s debts in exchange for her hand. The eager president accepted. He hurried to Paris, met creditors, and arranged payment with interest. Carrying a letter from Eugénie to Charles explaining her decision and its conditions, he informed Charles, who was initially excited but then shocked by the implications when he learned of Eugénie’s fortune. Madame d’Aubrion, unaware of the president’s interventions, remained confident of the marriage.
-
-The president returned to Saumur and announced his marriage to Eugénie. Though wealthy, she lived simply and devoted herself to charity. Her husband entered politics but died soon after being elected deputy. Widowed, Eugénie lived piously, dedicating her fortune to the community and rejecting worldly desires. Rumors linked her to the Marquis de Froidfond, but she remained independent, supported by loyal servants Nanon and Cornoiller. Her story reveals the tension between wealth and personal fulfillment, showing her struggle to meet social expectations while staying true to her values.
-################################################
-############# MIDDLE OF THE STORY. #############
-################################################
-######## MIDDLE OF THE STORY — central narrative section ########
+############# MIDDLE OF THE STORY. ############# MIDDLE OF THE STORY. ############# ############# ############# #############
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
