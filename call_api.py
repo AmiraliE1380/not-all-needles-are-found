@@ -16,6 +16,7 @@ from constant_vals import OPENAI_MODELS
 # Gemini (assumed installed and configured)
 from google import genai
 from google.genai import types
+import hashlib  # Add to top of file
 
 # Claude (Anthropic) - optional dependency (only required if you call Claude)
 try:
@@ -140,20 +141,52 @@ def chat_with_model(
 
     # ------------------------- Gemini routing ------------------------- #
     if _is_gemini_model(model):
+        # Explicit Caching Logic for large prompts
+        # Threshold: Only cache if prompt is > 32k tokens to avoid overhead for small tasks
+        cache_name = None
+        if len(prompt) > 32768: 
+            # 1. Create a unique identifier for this specific content
+            content_hash = hashlib.md5((system_prompt or "" + prompt).encode()).hexdigest()
+            display_name = f"cache-{content_hash[:10]}"
+            
+            # 2. Check if this cache already exists to avoid 429s during creation
+            existing_caches = _gemini_client.caches.list()
+            for c in existing_caches:
+                if c.display_name == display_name:
+                    cache_name = c.name
+                    break
+            
+            # 3. Create cache if not found
+            if not cache_name:
+                cache_config = types.CreateCachedContentConfig(
+                    display_name=display_name,
+                    contents=[types.Content(parts=[types.Part(text=prompt)], role="user")],
+                    system_instruction=system_prompt if system_prompt else None,
+                    ttl="3600s", # 1 hour default
+                )
+                cached_content = _gemini_client.caches.create(
+                    model=model,
+                    config=cache_config
+                )
+                cache_name = cached_content.name
+
+        # 4. Generate Content
+        # If cached, 'contents' should only be the specific query/suffix
+        # If not cached (prompt too small), send normally
         config = types.GenerateContentConfig(
-            temperature=0.0,        # deterministic
-            top_p=1.0,              # no nucleus sampling
-            frequency_penalty=0.0,  # allow repetition
-            system_instruction=system_prompt if system_prompt else None,
+            temperature=0.0,
+            cached_content=cache_name if cache_name else None,
+            # Note: system_instruction is already inside the cache if cache_name exists
+            system_instruction=system_prompt if not cache_name else None,
         )
 
         resp = _gemini_client.models.generate_content(
             model=model,
-            contents=prompt,
+            contents=prompt if not cache_name else "Please answer the quiz based on the provided text.",
             config=config,
         )
         return (resp.text or "").strip()
-
+    
     # ------------------------- OpenAI routing ------------------------- #
     if _is_openai_model(model):
         messages = []

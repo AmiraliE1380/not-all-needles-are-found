@@ -195,8 +195,8 @@ if __name__ == "__main__":
     
     print(len(facts))
     
-    model = "claude-haiku-4-5"  # default model to use for chat_with_model
-    max_context_length = 200 # number of thousands of tokens
+    model = "gemini-2.5-flash"  # default model to use for chat_with_model
+    max_context_length = 1000 # number of thousands of tokens
     
     story_addr = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_100%.txt"
     with open(story_addr, 'r', encoding='utf-8') as file:

@@ -111,51 +111,6 @@ def grade_quiz(model_response, ground_truth):
     
 
 
-# def take_single_quiz(story_address, fact_location : float):
-#     """
-#     Main function to take a quiz by injecting facts into a story and grading the model's responses.
-#     """
-
-#     # load questions
-#     with open('prompts/questions/questions1.txt', 'r') as file:
-#         questions = file.read()
-
-#     # load prompt
-#     with open('prompts/quiz.txt', 'r') as file:
-#         prompt = file.read()
-
-#     with open('prompts/facts/facts1.txt', 'r') as file:
-#         facts = file.read()
-
-#     # load story
-#     # story_address = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_1000_actual_1244.txt"
-#     # story_address = "texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_expected_100%.txt"
-#     with open(story_address, 'r', encoding='utf-8') as file:
-#         story = file.read()
-
-#     print(f"story length in words: {len(story.split())}")
-#     # print(f"facts = \n{facts}\n")
-
-#     story = inject_fact(facts, story, fact_location) 
-#     quiz = prompt.format(STORY=story, QUESTIONS=questions)
-
-#     # print(f"quiz = \n{quiz}\n")
-
-#     model_responce = chat_with_model(prompt=quiz, model=model)
-#     # print(f"model_responce = \n{model_responce}\n")
-
-#     with open('prompts/answer_keys/answer_key1.txt', 'r') as file:
-#         ground_truth = file.read()
-#     # print(f"ground_truth = \n{ground_truth}\n")
-
-#     grade = grade_quiz(model_responce, ground_truth)
-#     print(f"Grade = {grade}\n")
-
-#     return grade
-
-
-
-
 def take_quizes_diff_lengths():
     """
     takes quiz using contracted stories with 10 different lengths,
@@ -165,17 +120,15 @@ def take_quizes_diff_lengths():
     """
     
     # for i in range(10):
-    # for i in range(8,10):
-    for i in [5]:
+    for i in range(8,9):
+    # for i in [5]:
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
-        # grades.append([])
-        # for j in [9]:
-
+        
         for hallucination_version in [
                                     #   "",
                                       "_no_hallucination"
                                       ]:
-            for j in range(4,10):
+            for j in range(1):
             # for j in [9]:
                 fact_location = j * 0.1 + 0.05
                 print(f"Taking quiz for story length {(i+1)*10}% and fact location {fact_location*100:.0f}...")
@@ -241,6 +194,8 @@ def take_distributed_facts_quizzes():
             if "200k_distributed_arcsine" not in id:
                 continue
 
+            time.sleep(200)  # to avoid token rate per minute limit errors
+
 
             cached_quiz_addr = cached_quiz_dir + f"/{id}{hallucination_version}.txt"
 
@@ -262,8 +217,6 @@ def take_distributed_facts_quizzes():
             print(f"response: {response}\n")
             print("\n" + "="*50 + "\n")
 
-            time.sleep(350)  # to avoid token rate per minute limit errors
-
             save_results_path = f"logs/quiz_responses_{id}_{model}{hallucination_version}.txt"
             os.makedirs(os.path.dirname(save_results_path), exist_ok=True)
 
@@ -275,4 +228,4 @@ def take_distributed_facts_quizzes():
 
 if __name__ == "__main__":
     take_quizes_diff_lengths()
-    # take_distributed_facts_quizzes()
+    take_distributed_facts_quizzes()
