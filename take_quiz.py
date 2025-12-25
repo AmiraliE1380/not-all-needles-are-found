@@ -120,15 +120,15 @@ def take_quizes_diff_lengths():
     """
     
     # for i in range(10):
-    for i in range(8,9):
+    for i in range(8, 10):
     # for i in [5]:
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
         
         for hallucination_version in [
-                                    #   "",
+                                      "",
                                       "_no_hallucination"
                                       ]:
-            for j in range(1):
+            for j in range(1,10):
             # for j in [9]:
                 fact_location = j * 0.1 + 0.05
                 print(f"Taking quiz for story length {(i+1)*10}% and fact location {fact_location*100:.0f}...")
@@ -191,12 +191,6 @@ def take_distributed_facts_quizzes():
                                     #   "",
                                       "_no_hallucination"
                                       ]:
-            if "200k_distributed_arcsine" not in id:
-                continue
-
-            time.sleep(200)  # to avoid token rate per minute limit errors
-
-
             cached_quiz_addr = cached_quiz_dir + f"/{id}{hallucination_version}.txt"
 
             if os.path.exists(cached_quiz_addr):
@@ -223,9 +217,12 @@ def take_distributed_facts_quizzes():
             save_results_path = get_unique_path(save_results_path)
             with open(save_results_path, 'w') as file:
                 file.write(str(response))
+
+            time.sleep(200)  # to avoid token rate per minute limit errors
+
         
         
 
 if __name__ == "__main__":
-    take_quizes_diff_lengths()
     take_distributed_facts_quizzes()
+    take_quizes_diff_lengths()
