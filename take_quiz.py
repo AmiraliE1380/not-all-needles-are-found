@@ -121,11 +121,11 @@ def take_quizes_diff_lengths():
     
     # for i in range(10):
     # for i in range(8, 10):
-    for i in [9]:
+    for i in [8]:
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
         
         for hallucination_version in [
-                                      "",
+                                    #   "",
                                       "_no_hallucination"
                                       ]:
             # for j in range(10):
@@ -224,5 +224,5 @@ def take_distributed_facts_quizzes():
         
 
 if __name__ == "__main__":
-    take_distributed_facts_quizzes()
+    # take_distributed_facts_quizzes()
     take_quizes_diff_lengths()
