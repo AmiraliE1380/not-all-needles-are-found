@@ -166,7 +166,7 @@ def take_quizes_diff_lengths():
                 with open(save_results_path, 'w') as file:
                     file.write(str(response))
 
-                time.sleep(200)  # to avoid token rate per minute limit errors
+                time.sleep(100)  # to avoid token rate per minute limit errors
         
     
 
@@ -218,7 +218,7 @@ def take_distributed_facts_quizzes():
             with open(save_results_path, 'w') as file:
                 file.write(str(response))
 
-            time.sleep(200)  # to avoid token rate per minute limit errors
+            time.sleep(100)  # to avoid token rate per minute limit errors
 
         
         
