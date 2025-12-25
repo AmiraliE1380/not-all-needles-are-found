@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At her wedding
+Question 4: They were born in the same year
+Question 5: Hazel
+Question 6: He died (implied through her becoming a widow)
+Question 7: Not explicitly stated in the story
+Question 8: Six feet tall
+Question 9: Skinny
+Question 10: Her dark black hair turned gray
+Question 11: Yes, she had stage 4 glioblastoma, the worst type of brain cancer
+Question 12: Exactly twice her age, which would make him approximately 32 when she was 16 (or six feet tall if referring to height - the text states "exactly twice her age with the same hair color and height")
+Question 13: Approximately 32 years old (twice her age of 16)
+Question 14: Not explicitly stated; she lived in Albi, not Paris
+Question 15: The same hair color as hers (dark black, though it later turned gray)
+Question 16: Not provided in the story
+Question 17: Maelien
+Question 18: Alone (she lived a lonely life and died a lonely death)
+Question 19: Happy (she grew up happily alongside Augustine)
+Question 20: Miserable and full of hardship and pain
+Question 21: Not stated in the story
+Question 22: Not stated in the story
+Question 23: Not explicitly stated
+Question 24: Not stated in the story
+Question 25: Albi (implied, as she died there)
+Question 26: Not stated in the story
+Question 27: Not stated in the story
+Question 28: Not stated in the story
+Question 29: Not stated in the story
+Question 30: The text does not provide information about her feelings toward her husband, only that she became a widow and lived miserably afterward
+
+=== GRADES ===
+
+(83.33333333333334, 90.0, 70.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 83.33333333333334, 'direct_scores': 90.0, 'inferential_scores': 70.0, 'hallucinations_scores': 90.0}

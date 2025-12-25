@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose's wedding
+Question 4: Élodie-Rose was older than Augustine
+Question 5: Not explicitly stated in the story
+Question 6: He died in battle
+Question 7: Not explicitly stated in the story
+Question 8: Six feet tall
+Question 9: Not explicitly stated in the story
+Question 10: Her dark black hair turned gray, and she developed stage 4 glioblastoma
+Question 11: Yes, she had stage 4 glioblastoma (brain cancer)
+Question 12: Exactly twice her age in height (same height as her)
+Question 13: Not explicitly stated in the story
+Question 14: Not explicitly stated in the story
+Question 15: Same hair color as Augustine's cousin
+Question 16: Not stated in centimeters in the story
+Question 17: Major Lorrain
+Question 18: With her uncle and aunt, the Rogrons
+Question 19: She experienced illness, faded joys, and a tangled lineage; she was neglected
+Question 20: She was treated coldly and harshly by the Rogrons; her health and spirit declined
+Question 21: Not explicitly stated in the story
+Question 22: Not explicitly stated in the story
+Question 23: Not explicitly stated in the story
+Question 24: Not explicitly stated in the story
+Question 25: Not explicitly stated in the story
+Question 26: Not explicitly stated in the story
+Question 27: Not explicitly stated in the story
+Question 28: Not explicitly stated in the story
+Question 29: Not explicitly stated in the story
+Question 30: She was devoted to him but the marriage was unhappy; she endured his harshness and neglect
+
+=== GRADES ===
+
+(50.0, 40.0, 20.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 50.0, 'direct_scores': 40.0, 'inferential_scores': 20.0, 'hallucinations_scores': 90.0}

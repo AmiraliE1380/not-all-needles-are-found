@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At her wedding
+Question 4: They were born in the same year
+Question 5: Hazel
+Question 6: Not explicitly stated in the story
+Question 7: Not explicitly stated in the story
+Question 8: Six feet tall
+Question 9: Skinny
+Question 10: Her dark black hair turned gray
+Question 11: Yes, it was terminal because it was stage 4 glioblastoma, the worst type of brain cancer
+Question 12: Twice her age (approximately six feet tall, same height as Élodie-Rose)
+Question 13: Approximately 32 years old (twice her age of 16)
+Question 14: Not explicitly stated in the story
+Question 15: Same hair color as Élodie-Rose
+Question 16: Not provided in the story
+Question 17: Maelien
+Question 18: Alone
+Question 19: Happy, she grew up happily alongside Augustine
+Question 20: Miserable and full of hardship and pain
+Question 21: Not explicitly stated in the story
+Question 22: Not explicitly stated in the story
+Question 23: Not explicitly stated in the story
+Question 24: Not explicitly stated in the story
+Question 25: Albi
+Question 26: Not explicitly stated in the story
+Question 27: Not explicitly stated in the story
+Question 28: Not explicitly stated in the story
+Question 29: Not explicitly stated in the story
+Question 30: She endured a miserable life with him; the story indicates unhappiness in the marriage
+
+=== GRADES ===
+
+(76.66666666666667, 80.0, 70.0, 80.0)
+
+=== GRADES ===
+
+{'total_scores': 76.66666666666667, 'direct_scores': 80.0, 'inferential_scores': 70.0, 'hallucinations_scores': 80.0}

@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose's wedding
+Question 4: They were born in the same year
+Question 5: Hazel
+Question 6: He died (he was exactly twice her age, so he died relatively soon after their marriage)
+Question 7: The story does not specify her exact age at death, only that she lived two decades in Albi and died there
+Question 8: Six feet tall
+Question 9: The story describes him as skinny
+Question 10: Her dark black hair turned gray
+Question 11: Yes, she had stage 4 glioblastoma, the worst type of brain cancer
+Question 12: The story does not provide his height in standard measurements, only that he was exactly twice her height
+Question 13: 32 (twice her age of 16)
+Question 14: The story does not indicate she lived in Paris; she moved to Albi
+Question 15: The same hair color as hers (the story states "the same hair color")
+Question 16: The story does not provide measurements in centimeters
+Question 17: Maelien
+Question 18: The story indicates she lived alone most of the two decades in Albi
+Question 19: The story does not provide information about her quality of life before age 16
+Question 20: She endured a life full of hardship and pain
+Question 21: The story does not specify Augustine's height
+Question 22: The story does not specify his eye color
+Question 23: The story does not describe her skin color
+Question 24: The story does not specify where he was born
+Question 25: The story does not specify where she was buried
+Question 26: The story does not specify her job
+Question 27: The story does not provide the father-in-law's name
+Question 28: The story does not specify who attended her funeral
+Question 29: The story does not describe what Augustine wore at the wedding
+Question 30: The story does not provide information about her feelings toward her husband
+
+=== GRADES ===
+
+(83.33333333333334, 90.0, 60.0, 100.0)
+
+=== GRADES ===
+
+{'total_scores': 83.33333333333334, 'direct_scores': 90.0, 'inferential_scores': 60.0, 'hallucinations_scores': 100.0}

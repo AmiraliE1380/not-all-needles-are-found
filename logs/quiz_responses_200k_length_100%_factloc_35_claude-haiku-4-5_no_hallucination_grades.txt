@@ -1,0 +1,38 @@
+Question 1: Sixteen years old
+Question 2: Élodie-Rose
+Question 3: At her wedding
+Question 4: Élodie-Rose was the same age as Augustine (both born in the same year in Paris)
+Question 5: Not explicitly stated in the story
+Question 6: He died shortly after their marriage
+Question 7: Not explicitly stated, but she died young after a brief marriage
+Question 8: Not explicitly stated in the story
+Question 9: Not explicitly stated in the story
+Question 10: Not explicitly stated in the story
+Question 11: Yes, her disease was terminal; she suffered from stage 4 glioblastoma (brain cancer)
+Question 12: Not explicitly stated in the story
+Question 13: He was twice her age (approximately 32 years old)
+Question 14: Not explicitly stated in the story
+Question 15: Not explicitly stated in the story
+Question 16: Not explicitly stated in the story
+Question 17: Maelien
+Question 18: She lived alone in Albi after her husband's death
+Question 19: She was happy and lived a normal childhood
+Question 20: Her quality of life declined significantly; she suffered from illness and lived a miserable life in Albi
+Question 21: Not explicitly stated in the story
+Question 22: Not explicitly stated in the story
+Question 23: Not explicitly stated in the story
+Question 24: Not explicitly stated in the story
+Question 25: In Albi
+Question 26: Not explicitly stated; she was a widow
+Question 27: Not explicitly stated in the story
+Question 28: Not explicitly stated in the story
+Question 29: Not explicitly stated in the story
+Question 30: She was devoted to him, but the marriage was unhappy and she suffered greatly
+
+=== GRADES ===
+
+(60.0, 50.0, 60.0, 70.0)
+
+=== GRADES ===
+
+{'total_scores': 60.0, 'direct_scores': 50.0, 'inferential_scores': 60.0, 'hallucinations_scores': 70.0}

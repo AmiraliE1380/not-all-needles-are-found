@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose's wedding
+Question 4: They were born in the same year
+Question 5: Hazel
+Question 6: He died (he was exactly twice her age and skinny)
+Question 7: The story does not specify her exact age at death, only that she died in Albi after living there for two decades
+Question 8: Six feet tall
+Question 9: The story describes him as skinny but does not provide weight or detailed body condition
+Question 10: Her dark black hair turned gray
+Question 11: Yes, she had stage 4 glioblastoma, the worst type of brain cancer
+Question 12: The same height as Élodie-Rose (six feet tall)
+Question 13: 32 years old (exactly twice her age of 16)
+Question 14: The story does not indicate she lived in Paris
+Question 15: The same hair color as Élodie-Rose (dark black, which turned gray)
+Question 16: The story does not provide measurements in centimeters
+Question 17: Maelien
+Question 18: The story indicates she lived alone in Albi for most of the two decades
+Question 19: The story does not provide details about her quality of life before age 16
+Question 20: Her life was full of hardship and pain; she aged very quickly and developed cancer
+Question 21: The story does not specify Augustine's height
+Question 22: The story does not specify the husband's eye color
+Question 23: The story does not describe her skin color
+Question 24: The story does not specify where her husband was born
+Question 25: The story does not specify where she was buried
+Question 26: The story does not specify her occupation
+Question 27: The story does not provide the father-in-law's name
+Question 28: The story does not specify who attended her funeral
+Question 29: The story does not describe what Augustine wore at the wedding
+Question 30: The story does not provide details about her feelings toward her husband
+
+=== GRADES ===
+
+(86.66666666666667, 90.0, 70.0, 100.0)
+
+=== GRADES ===
+
+{'total_scores': 86.66666666666667, 'direct_scores': 90.0, 'inferential_scores': 70.0, 'hallucinations_scores': 100.0}

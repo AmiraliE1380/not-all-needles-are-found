@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At her wedding
+Question 4: They were born in the same year
+Question 5: Hazel
+Question 6: He died (the text states she became a widow)
+Question 7: The story does not specify her exact age at death, only that she died after living two decades in Albi
+Question 8: Six feet tall
+Question 9: The story describes him as "skinny" but does not provide specific weight measurements
+Question 10: Her dark black hair turned gray
+Question 11: Yes, she had stage 4 glioblastoma, which is described as "the worst type of brain cancer"
+Question 12: Six feet tall (same height as Élodie-Rose)
+Question 13: Approximately 32 years old (twice her age of 16)
+Question 14: The story does not indicate she lived in Paris; she moved to Albi
+Question 15: The same hair color as Élodie-Rose (dark black, which later turned gray for her)
+Question 16: Approximately 183 centimeters (six feet)
+Question 17: Maelien
+Question 18: The story does not specify; she died alone in Albi
+Question 19: She grew up happily alongside Augustine
+Question 20: She endured a life full of hardship and pain, aged very quickly, and died a lonely death
+Question 21: The story does not provide Augustine's height
+Question 22: The story does not specify the husband's eye color
+Question 23: The story does not describe her skin color
+Question 24: The story does not specify where the husband was born
+Question 25: The story does not specify where she was buried
+Question 26: The story does not specify her job or occupation
+Question 27: The story does not provide the father-in-law's name
+Question 28: The story does not specify who attended her funeral
+Question 29: The story does not describe what Augustine wore at the wedding
+Question 30: The story does not provide information about her feelings toward her husband; it only states she became a widow and lived miserably
+
+=== GRADES ===
+
+(93.33333333333333, 90.0, 90.0, 100.0)
+
+=== GRADES ===
+
+{'total_scores': 93.33333333333333, 'direct_scores': 90.0, 'inferential_scores': 90.0, 'hallucinations_scores': 100.0}

@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose's wedding
+Question 4: They were born in the same year
+Question 5: Hazel
+Question 6: He died (twice her age, so he died relatively early in their marriage)
+Question 7: Not explicitly stated in the story
+Question 8: Six feet tall
+Question 9: Skinny/thin
+Question 10: Her dark black hair turned gray
+Question 11: Yes, she had stage 4 glioblastoma, the worst type of brain cancer
+Question 12: Exactly twice her height (six feet tall, so he was twelve feet - this appears to be an error in the text, likely meaning he was proportionally similar or the text contains an inconsistency)
+Question 13: Approximately 32 years old (twice her age of 16)
+Question 14: Not explicitly stated in the story
+Question 15: Not explicitly stated in the story
+Question 16: Approximately 183 centimeters (six feet)
+Question 17: Maelien
+Question 18: Not explicitly stated; she lived in Albi alone for two decades
+Question 19: Not explicitly stated in the story
+Question 20: Not explicitly stated in the story
+Question 21: Not explicitly stated in the story
+Question 22: Not explicitly stated in the story
+Question 23: Not explicitly stated in the story
+Question 24: Not explicitly stated in the story
+Question 25: Not explicitly stated in the story
+Question 26: Not explicitly stated in the story
+Question 27: Not explicitly stated in the story
+Question 28: Not explicitly stated in the story
+Question 29: Not explicitly stated in the story
+Question 30: She endured a miserable life with him and died a lonely death in Albi
+
+=== GRADES ===
+
+(76.66666666666667, 90.0, 50.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 76.66666666666667, 'direct_scores': 90.0, 'inferential_scores': 50.0, 'hallucinations_scores': 90.0}

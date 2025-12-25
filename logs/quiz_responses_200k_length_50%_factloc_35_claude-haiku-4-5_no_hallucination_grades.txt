@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose's wedding
+Question 4: They were born in the same year
+Question 5: Hazel
+Question 6: He died (he was exactly twice her age and she became a widow very shortly after marriage)
+Question 7: Not explicitly stated in the text
+Question 8: Six feet tall
+Question 9: Not explicitly stated in the text
+Question 10: Her dark black hair turned gray
+Question 11: Yes, she had stage 4 glioblastoma, the worst type of brain cancer
+Question 12: Not explicitly stated in the text
+Question 13: 32 (exactly twice Augustine's cousin's age of 16)
+Question 14: Not explicitly stated in the text
+Question 15: The same hair color as Augustine's cousin (not specified, but implied to be similar)
+Question 16: Not explicitly stated in the text
+Question 17: Maelien
+Question 18: Not explicitly stated in the text
+Question 19: Not explicitly stated in the text
+Question 20: She endured a life full of hardship and pain
+Question 21: Not explicitly stated in the text
+Question 22: Not explicitly stated in the text
+Question 23: Not explicitly stated in the text
+Question 24: Not explicitly stated in the text
+Question 25: Albi
+Question 26: Not explicitly stated in the text
+Question 27: Not explicitly stated in the text
+Question 28: Not explicitly stated in the text
+Question 29: Not explicitly stated in the text
+Question 30: She was miserable; the text states she "lived a very miserable life"
+
+=== GRADES ===
+
+(66.66666666666666, 80.0, 40.0, 80.0)
+
+=== GRADES ===
+
+{'total_scores': 66.66666666666666, 'direct_scores': 80.0, 'inferential_scores': 40.0, 'hallucinations_scores': 80.0}

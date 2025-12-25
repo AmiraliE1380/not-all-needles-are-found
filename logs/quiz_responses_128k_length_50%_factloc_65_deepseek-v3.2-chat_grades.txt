@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose’s wedding
+Question 4: They were born in the same year, so they were the same age.
+Question 5: Hazel
+Question 6: He died very shortly after the marriage, leaving her a widow.
+Question 7: Around 36 (married at 16, lived for two decades after, which is 20 years, so 16+20=36)
+Question 8: Six feet tall
+Question 9: He was skinny.
+Question 10: Her dark black hair turned gray.
+Question 11: Yes, she developed stage 4 glioblastoma, the worst type of brain cancer, which is terminal.
+Question 12: The same height as her (six feet tall).
+Question 13: Exactly twice her age, so 32 (since she was 16).
+Question 14: She was born in Paris and grew up there, but moved away at 16. She did not live in Paris during her adult life.
+Question 15: The same hair color as her (dark black).
+Question 16: Six feet tall is approximately 183 centimeters.
+Question 17: Maelien
+Question 18: She lived alone.
+Question 19: She grew up happily alongside Augustine in Paris.
+Question 20: She endured a life full of hardship and pain, living in a town far from family, aged quickly, became ill, and died a lonely death.
+Question 21: Not explicitly stated in the provided text.
+Question 22: Not explicitly stated in the provided text.
+Question 23: Not explicitly stated in the provided text.
+Question 24: Not explicitly stated in the provided text.
+Question 25: Albi (where she lived and died).
+Question 26: Not explicitly stated; she was a widow, and her earlier occupation is not mentioned.
+Question 27: Not explicitly stated in the provided text.
+Question 28: Not explicitly stated; she died a lonely death, suggesting few or none attended.
+Question 29: Not explicitly stated in the provided text.
+Question 30: Not explicitly stated; the text describes her life as miserable and full of pain after marriage, implying negative feelings.
+
+=== GRADES ===
+
+(96.66666666666667, 100.0, 100.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 96.66666666666667, 'direct_scores': 100.0, 'inferential_scores': 100.0, 'hallucinations_scores': 90.0}

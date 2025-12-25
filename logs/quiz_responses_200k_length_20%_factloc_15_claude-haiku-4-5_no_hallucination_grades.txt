@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At her wedding
+Question 4: They were born in the same year
+Question 5: Hazel
+Question 6: He died (the text states she became a widow)
+Question 7: The story does not specify her exact age at death, only that she died after living two decades in Albi
+Question 8: Six feet tall
+Question 9: The story describes him as "skinny" but does not provide specific weight measurements
+Question 10: Her dark black hair turned gray
+Question 11: Yes, she had stage 4 glioblastoma, which is described as "the worst type of brain cancer"
+Question 12: The same height as Élodie-Rose (six feet tall, according to the text stating they had "the same hair color and height")
+Question 13: He was exactly twice her age, so if she was 16, he was 32
+Question 14: The story does not mention Augustine's cousin living in Paris; she lived in Albi
+Question 15: The same as Élodie-Rose's (dark black, though it turned gray)
+Question 16: Approximately 183 centimeters (six feet)
+Question 17: Maelien
+Question 18: The story does not specify; it only states she "died there a lonely death"
+Question 19: The story does not provide information about her quality of life before age 16
+Question 20: She endured "a life full of hardship and pain" and aged very quickly
+Question 21: The story does not specify Augustine's height
+Question 22: The story does not specify the husband's eye color
+Question 23: The story does not describe her skin color
+Question 24: The story does not specify where the husband was born
+Question 25: The story does not specify where she was buried
+Question 26: The story does not mention her having a job
+Question 27: The story does not provide the father-in-law's name
+Question 28: The story does not mention who attended her funeral
+Question 29: The story does not describe what Augustine wore at the wedding
+Question 30: The story does not provide information about her feelings toward her husband
+
+=== GRADES ===
+
+(90.0, 90.0, 80.0, 100.0)
+
+=== GRADES ===
+
+{'total_scores': 90.0, 'direct_scores': 90.0, 'inferential_scores': 80.0, 'hallucinations_scores': 100.0}

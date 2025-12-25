@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose's wedding
+Question 4: Élodie-Rose was the same age as Augustine (born in the same year)
+Question 5: Hazel
+Question 6: He died (suicide implied by the context)
+Question 7: Not explicitly stated, but she died young after a brief marriage
+Question 8: Six feet tall
+Question 9: Skinny/thin with the same hair color as Élodie-Rose
+Question 10: It turned gray
+Question 11: Yes, it was terminal - she developed stage 4 glioblastoma (brain cancer)
+Question 12: Not explicitly stated
+Question 13: Not explicitly stated
+Question 14: Not explicitly stated
+Question 15: Not explicitly stated
+Question 16: Not explicitly stated
+Question 17: Maelien
+Question 18: Alone in Albi
+Question 19: Happy and content, growing up alongside Augustine
+Question 20: Miserable and full of hardship and pain
+Question 21: Not explicitly stated
+Question 22: Not explicitly stated
+Question 23: Not explicitly stated
+Question 24: Not explicitly stated
+Question 25: In Albi
+Question 26: Not explicitly stated
+Question 27: Not explicitly stated
+Question 28: Not explicitly stated
+Question 29: Not explicitly stated
+Question 30: She endured a miserable life with him and died of grief and hardship
+
+=== GRADES ===
+
+(70.0, 80.0, 50.0, 80.0)
+
+=== GRADES ===
+
+{'total_scores': 70.0, 'direct_scores': 80.0, 'inferential_scores': 50.0, 'hallucinations_scores': 80.0}

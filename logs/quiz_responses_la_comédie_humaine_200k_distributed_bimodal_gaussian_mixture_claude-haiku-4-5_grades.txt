@@ -1,0 +1,38 @@
+Question 1: The story does not specify Augustine's cousin's age at marriage.
+Question 2: The story does not provide a specific name for Augustine's cousin.
+Question 3: The story does not explicitly state where Augustine and her cousin last met.
+Question 4: The story does not provide a direct age comparison between Augustine and her cousin.
+Question 5: The story does not specify Augustine's cousin's eye color.
+Question 6: The story does not provide information about the fate of Augustine's cousin's husband.
+Question 7: The story does not specify Augustine's cousin's age at death.
+Question 8: The story does not provide Augustine's cousin's height.
+Question 9: The story does not provide information about Augustine's cousin's husband's weight and body condition.
+Question 10: The story does not describe what happened to Augustine's cousin's hair.
+Question 11: The story does not indicate whether Augustine's cousin's disease was terminal or provide reasons.
+Question 12: The story does not specify Augustine's cousin's husband's height.
+Question 13: The story does not provide Augustine's cousin's husband's age at marriage.
+Question 14: The story does not specify how long Augustine's cousin lived in Paris.
+Question 15: The story does not provide Augustine's cousin's husband's hair color.
+Question 16: The story does not provide Augustine's cousin's husband's height in centimeters.
+Question 17: The story does not provide the name of Augustine's cousin's husband.
+Question 18: The story does not specify who Augustine's cousin lived with in her last years.
+Question 19: The story does not describe Augustine's cousin's quality of life and mental state before age 16.
+Question 20: The story does not describe Augustine's cousin's quality of life and mental state after age 16.
+Question 21: The story does not provide Augustine's height.
+Question 22: The story does not provide Augustine's cousin's husband's eye color.
+Question 23: The story does not describe Augustine's cousin's skin color.
+Question 24: The story does not specify where Augustine's cousin's husband was born.
+Question 25: The story does not specify where Augustine's cousin was buried.
+Question 26: The story does not specify Augustine's cousin's job or occupation.
+Question 27: The story does not provide the name of Augustine's cousin's father-in-law.
+Question 28: The story does not specify who attended Augustine's cousin's funeral.
+Question 29: The story does not describe what Augustine wore at her cousin's wedding.
+Question 30: The story does not provide explicit information about Augustine's cousin's feelings toward her husband.
+
+=== GRADES ===
+
+(33.33333333333333, 0.0, 0.0, 100.0)
+
+=== GRADES ===
+
+{'total_scores': 33.33333333333333, 'direct_scores': 0.0, 'inferential_scores': 0.0, 'hallucinations_scores': 100.0}

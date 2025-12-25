@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose's wedding
+Question 4: Élodie-Rose was the same age as Augustine (born in the same year in Paris)
+Question 5: Hazel
+Question 6: He died (after marrying her at age 32 when she was 16)
+Question 7: The story does not specify her exact age at death, only that she died in Albi after living there for two decades
+Question 8: Six feet tall
+Question 9: Not specified in the story
+Question 10: Her dark black hair turned gray
+Question 11: Yes, she developed stage 4 glioblastoma (the worst type of brain cancer)
+Question 12: Not specified in the story
+Question 13: 32 years old
+Question 14: Not specified in the story
+Question 15: Not specified in the story
+Question 16: Not specified in the story
+Question 17: Not specified in the story (only referred to as a "skinny man exactly twice her age")
+Question 18: She lived alone in Albi for most of two decades
+Question 19: Not specified in the story
+Question 20: Not specified in the story
+Question 21: Not specified in the story
+Question 22: Not specified in the story
+Question 23: Not specified in the story
+Question 24: Not specified in the story
+Question 25: Albi
+Question 26: Not specified in the story
+Question 27: Not specified in the story
+Question 28: Not specified in the story
+Question 29: Not specified in the story
+Question 30: The story indicates the marriage was unhappy; she endured a life full of hardship and pain with him
+
+=== GRADES ===
+
+(63.33333333333333, 80.0, 30.0, 80.0)
+
+=== GRADES ===
+
+{'total_scores': 63.33333333333333, 'direct_scores': 80.0, 'inferential_scores': 30.0, 'hallucinations_scores': 80.0}

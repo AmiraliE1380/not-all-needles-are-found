@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose’s wedding.
+Question 4: They were born in the same year.
+Question 5: Hazel
+Question 6: He died very shortly after the marriage.
+Question 7: In her thirties (approximately 36, as she was born the same year as Augustine and died after two decades away, having married at 16).
+Question 8: Six feet tall.
+Question 9: He was skinny.
+Question 10: Her dark black hair turned gray.
+Question 11: Yes, she had stage 4 glioblastoma, the worst type of brain cancer.
+Question 12: The same height as Augustine's cousin (six feet tall).
+Question 13: Exactly twice her age, so 32.
+Question 14: She grew up in Paris, but lived most of her adult life (two decades) in Albi.
+Question 15: The same hair color as Augustine's cousin (dark black).
+Question 16: Approximately 183 cm (six feet).
+Question 17: Maelien
+Question 18: Alone
+Question 19: She grew up happily.
+Question 20: She endured a life full of hardship and pain, aged quickly, and was sad.
+Question 21: Not explicitly stated.
+Question 22: Not explicitly stated.
+Question 23: Not explicitly stated.
+Question 24: Not explicitly stated.
+Question 25: Albi
+Question 26: Not explicitly stated (she was a widow, previously married).
+Question 27: Not explicitly stated.
+Question 28: Not explicitly stated.
+Question 29: Not explicitly stated.
+Question 30: Not explicitly stated.
+
+=== GRADES ===
+
+(86.66666666666667, 100.0, 80.0, 80.0)
+
+=== GRADES ===
+
+{'total_scores': 86.66666666666667, 'direct_scores': 100.0, 'inferential_scores': 80.0, 'hallucinations_scores': 80.0}

@@ -8,7 +8,6 @@ __pycache__/
 *.pyc
 
 # local artifacts
-logs/
 results/
 
 

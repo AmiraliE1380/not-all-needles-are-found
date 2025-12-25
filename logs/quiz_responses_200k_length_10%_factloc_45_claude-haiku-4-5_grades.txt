@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At her wedding
+Question 4: They were born in the same year
+Question 5: Hazel
+Question 6: He died (she became a widow)
+Question 7: Not specified in the story
+Question 8: Six feet tall
+Question 9: Skinny
+Question 10: It turned from dark black to gray
+Question 11: Yes, it was stage 4 glioblastoma, the worst type of brain cancer
+Question 12: Exactly twice her height (twelve feet, which is physically impossible and suggests the text is metaphorical or contains an error)
+Question 13: 32 years old (twice her age of 16)
+Question 14: Not specified; she lived in Albi, not Paris
+Question 15: The same hair color as hers (dark black, later gray)
+Question 16: Not specified in centimeters
+Question 17: Maelien
+Question 18: Not specified; she died alone in Albi
+Question 19: Not specified in the story
+Question 20: Not specified in the story
+Question 21: Not specified in the story
+Question 22: Not specified in the story
+Question 23: Not specified in the story
+Question 24: Not specified in the story
+Question 25: Albi
+Question 26: Not specified in the story
+Question 27: Not specified in the story
+Question 28: Not specified; she died a lonely death
+Question 29: Not specified in the story
+Question 30: The story indicates she had a miserable life with him; her marriage was unhappy
+
+=== GRADES ===
+
+(66.66666666666666, 90.0, 40.0, 70.0)
+
+=== GRADES ===
+
+{'total_scores': 66.66666666666666, 'direct_scores': 90.0, 'inferential_scores': 40.0, 'hallucinations_scores': 70.0}

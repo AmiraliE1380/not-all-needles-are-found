@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At her wedding
+Question 4: They were born in the same year
+Question 5: Hazel
+Question 6: He died (suicide is implied by the context of her misery)
+Question 7: The story does not specify her exact age at death, only that she died after two decades in Albi
+Question 8: Six feet tall
+Question 9: Skinny/thin
+Question 10: Her dark black hair turned gray
+Question 11: Yes, she had stage 4 glioblastoma, which is a terminal brain cancer
+Question 12: Exactly twice her height (she was 6 feet, so he was 12 feet - this appears to be a narrative exaggeration or error in the original text)
+Question 13: He was exactly twice her age (she was 16, so he was 32)
+Question 14: The story does not mention her living in Paris
+Question 15: The story does not specify his hair color
+Question 16: Approximately 183 centimeters (6 feet)
+Question 17: Maelien
+Question 18: The story does not specify; she lived alone in Albi
+Question 19: Happy, as she grew up happily alongside Augustine
+Question 20: Miserable and full of hardship and pain
+Question 21: The story does not specify Augustine's height
+Question 22: The story does not specify his eye color
+Question 23: The story does not describe her skin color
+Question 24: The story does not specify where he was born
+Question 25: The story does not specify where she was buried
+Question 26: The story does not specify her job
+Question 27: The story does not provide the father-in-law's name
+Question 28: The story does not specify who attended her funeral
+Question 29: The story does not describe what Augustine wore at the wedding
+Question 30: She was very miserable; the marriage was unhappy and she endured a life full of hardship and pain
+
+=== GRADES ===
+
+(80.0, 80.0, 70.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 80.0, 'direct_scores': 80.0, 'inferential_scores': 70.0, 'hallucinations_scores': 90.0}

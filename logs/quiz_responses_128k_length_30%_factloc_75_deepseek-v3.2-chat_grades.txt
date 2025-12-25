@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose (Maelien)
+Question 3: At Élodie-Rose’s wedding
+Question 4: They were the same age
+Question 5: Hazel
+Question 6: He died very shortly after the marriage
+Question 7: Approximately 36
+Question 8: Six feet tall
+Question 9: He was skinny
+Question 10: It turned gray
+Question 11: Yes, she had stage 4 glioblastoma, the worst type of brain cancer
+Question 12: The same height as her (six feet tall)
+Question 13: Exactly twice her age (32)
+Question 14: She was born in Paris and lived there until she was 16
+Question 15: The same hair color as her
+Question 16: Approximately 183 cm (six feet)
+Question 17: Maelien
+Question 18: Alone
+Question 19: She grew up happily
+Question 20: Her life was full of hardship, pain, and loneliness; she aged quickly and her eyes grew sad
+Question 21: Not explicitly stated
+Question 22: Not explicitly stated
+Question 23: Not explicitly stated
+Question 24: Not explicitly stated
+Question 25: Albi
+Question 26: Not explicitly stated (implied she was a widow living off means/her husband's estate)
+Question 27: Not explicitly stated
+Question 28: Not explicitly stated (likely few, as she died a lonely death)
+Question 29: Not explicitly stated
+Question 30: Not explicitly stated (her life with him was miserable and short)
+
+=== GRADES ===
+
+(93.33333333333333, 90.0, 100.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 93.33333333333333, 'direct_scores': 90.0, 'inferential_scores': 100.0, 'hallucinations_scores': 90.0}

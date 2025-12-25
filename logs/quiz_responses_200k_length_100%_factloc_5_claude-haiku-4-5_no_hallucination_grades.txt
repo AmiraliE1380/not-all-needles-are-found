@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose's wedding
+Question 4: They were born in the same year
+Question 5: Hazel
+Question 6: He died
+Question 7: Not explicitly stated, but she died after living in Albi for two decades
+Question 8: Six feet tall
+Question 9: He was skinny and exactly twice her age
+Question 10: Her dark black hair turned gray
+Question 11: Yes, she developed stage 4 glioblastoma (the worst type of brain cancer)
+Question 12: Exactly twice her height (so approximately 12 feet, which is illogical, suggesting the text contains an error or is metaphorical)
+Question 13: He was 32 when she was 16
+Question 14: Not explicitly stated
+Question 15: The same hair color as hers (dark)
+Question 16: Not provided in the story
+Question 17: Not explicitly named, referred to as "a skinny man"
+Question 18: Alone in Albi
+Question 19: Happy, growing up alongside Augustine
+Question 20: Miserable, enduring hardship and pain
+Question 21: Not stated in the story
+Question 22: Not stated in the story
+Question 23: Not explicitly described
+Question 24: Not stated in the story
+Question 25: In Albi
+Question 26: Not stated; she was a widow
+Question 27: Not stated
+Question 28: Not stated
+Question 29: Not stated
+Question 30: She endured a life full of hardship and pain with him; the marriage was unhappy
+
+=== GRADES ===
+
+(73.33333333333333, 90.0, 60.0, 70.0)
+
+=== GRADES ===
+
+{'total_scores': 73.33333333333333, 'direct_scores': 90.0, 'inferential_scores': 60.0, 'hallucinations_scores': 70.0}

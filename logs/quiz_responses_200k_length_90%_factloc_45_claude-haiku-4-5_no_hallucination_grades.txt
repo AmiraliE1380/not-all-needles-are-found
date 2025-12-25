@@ -1,0 +1,38 @@
+Question 1: Not explicitly stated in the story
+Question 2: Honorine
+Question 3: Not explicitly stated in the story
+Question 4: She was older than Augustine
+Question 5: Not explicitly stated in the story
+Question 6: He died, and she was left a widow
+Question 7: Not explicitly stated in the story
+Question 8: Not explicitly stated in the story
+Question 9: Not explicitly stated in the story
+Question 10: Not explicitly stated in the story
+Question 11: Yes, she died of consumption (pulmonary consumption in its final stage)
+Question 12: Not explicitly stated in the story
+Question 13: Not explicitly stated in the story
+Question 14: Several years, but exact duration not specified
+Question 15: Not explicitly stated in the story
+Question 16: Not explicitly stated in the story
+Question 17: Octave de Grandville (Comte de Grandville)
+Question 18: With her husband Octave in their home
+Question 19: Not explicitly stated in the story
+Question 20: Not explicitly stated in the story
+Question 21: Not explicitly stated in the story
+Question 22: Not explicitly stated in the story
+Question 23: Not explicitly stated in the story
+Question 24: Not explicitly stated in the story
+Question 25: Not explicitly stated in the story
+Question 26: Not explicitly stated in the story
+Question 27: Not explicitly stated in the story
+Question 28: Not explicitly stated in the story
+Question 29: Not explicitly stated in the story
+Question 30: She loved him deeply but could not reciprocate his passion fully; she felt bound by duty and conscience
+
+=== GRADES ===
+
+(33.33333333333333, 10.0, 0.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 33.33333333333333, 'direct_scores': 10.0, 'inferential_scores': 0.0, 'hallucinations_scores': 90.0}

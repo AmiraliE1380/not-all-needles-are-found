@@ -120,15 +120,15 @@ def take_quizes_diff_lengths():
     """
     
     # for i in range(10):
-    for i in range(8, 10):
-    # for i in [5]:
+    # for i in range(8, 10):
+    for i in [7]:
         story_address = f"texts/la_comédie_humaine_(balzac)/contracted/gpt/la_comédie_humaine_{max_context_length}k_expected_{(i+1)*10}%.txt"
         
         for hallucination_version in [
                                       "",
                                       "_no_hallucination"
                                       ]:
-            for j in range(1,10):
+            for j in range(10):
             # for j in [9]:
                 fact_location = j * 0.1 + 0.05
                 print(f"Taking quiz for story length {(i+1)*10}% and fact location {fact_location*100:.0f}...")
@@ -188,8 +188,8 @@ def take_distributed_facts_quizzes():
 
         # take both versions of the quiz: with and without hallucination instruction
         for hallucination_version in [
-                                    #   "",
-                                      "_no_hallucination"
+                                      "",
+                                    #   "_no_hallucination"
                                       ]:
             cached_quiz_addr = cached_quiz_dir + f"/{id}{hallucination_version}.txt"
 

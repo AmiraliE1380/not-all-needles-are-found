@@ -1,0 +1,38 @@
+Question 1: 16 years old
+Question 2: Élodie-Rose
+Question 3: At their wedding
+Question 4: She was the same age as Augustine (born in the same year)
+Question 5: Hazel
+Question 6: He died (he was exactly twice her age and she was 16 when they married, so he would have been 32; he died shortly after)
+Question 7: The story does not specify her exact age at death, only that she died young in Albi after two decades of living there
+Question 8: Six feet tall
+Question 9: The story does not provide specific details about his weight and body condition
+Question 10: Her dark black hair turned gray
+Question 11: Yes, she developed stage 4 glioblastoma (the worst type of brain cancer), which is terminal
+Question 12: The story does not specify his height in detail
+Question 13: 32 years old (he was exactly twice her age when she was 16)
+Question 14: The story does not specify how long she lived in Paris
+Question 15: The story does not specify his hair color
+Question 16: The story does not provide measurements in centimeters
+Question 17: The story does not provide his first name, only that he was a "skinny man"
+Question 18: The story indicates she lived alone in Albi for two decades, most of it alone
+Question 19: The story does not provide information about her quality of life before age 16
+Question 20: The story describes her life in Albi as full of hardship and pain
+Question 21: The story does not specify Augustine's height
+Question 22: The story does not specify his eye color
+Question 23: The story does not describe her skin color
+Question 24: The story does not specify where he was born
+Question 25: Albi
+Question 26: The story does not specify her occupation
+Question 27: The story does not provide the father-in-law's name
+Question 28: The story does not specify who attended her funeral
+Question 29: The story does not describe what Augustine wore at her cousin's wedding
+Question 30: The story indicates she endured the marriage but was unhappy; she suffered greatly during it
+
+=== GRADES ===
+
+(66.66666666666666, 80.0, 40.0, 80.0)
+
+=== GRADES ===
+
+{'total_scores': 66.66666666666666, 'direct_scores': 80.0, 'inferential_scores': 40.0, 'hallucinations_scores': 80.0}

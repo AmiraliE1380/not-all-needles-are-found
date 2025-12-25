@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose's wedding
+Question 4: Not mentioned in the text or story.
+Question 5: Not mentioned in the text or story.
+Question 6: Not mentioned in the text or story.
+Question 7: Not mentioned in the text or story.
+Question 8: Six feet tall
+Question 9: Not mentioned in the text or story.
+Question 10: Her dark black hair turned gray
+Question 11: Yes, it was terminal. She developed stage 4 glioblastoma, the worst type of brain cancer.
+Question 12: Not mentioned in the text or story.
+Question 13: Not mentioned in the text or story.
+Question 14: Not mentioned in the text or story.
+Question 15: Not mentioned in the text or story.
+Question 16: Not mentioned in the text or story.
+Question 17: Not mentioned in the text or story.
+Question 18: Alone
+Question 19: Not mentioned in the text or story.
+Question 20: Not mentioned in the text or story.
+Question 21: Not mentioned in the text or story.
+Question 22: Not mentioned in the text or story.
+Question 23: Not mentioned in the text or story.
+Question 24: Not mentioned in the text or story.
+Question 25: Not mentioned in the text or story.
+Question 26: Not mentioned in the text or story.
+Question 27: Not mentioned in the text or story.
+Question 28: Not mentioned in the text or story.
+Question 29: Not mentioned in the text or story.
+Question 30: She lived a very miserable life with him; she endured hardship and pain during their marriage in Albi.
+
+=== GRADES ===
+
+(53.333333333333336, 50.0, 20.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 53.333333333333336, 'direct_scores': 50.0, 'inferential_scores': 20.0, 'hallucinations_scores': 90.0}

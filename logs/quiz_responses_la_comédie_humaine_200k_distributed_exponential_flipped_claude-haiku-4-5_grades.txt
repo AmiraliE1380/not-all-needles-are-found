@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose's wedding
+Question 4: Augustine's cousin was the same age as Augustine (both born in the same year)
+Question 5: Not explicitly stated in the story
+Question 6: Not explicitly stated in the story
+Question 7: Not explicitly stated in the story
+Question 8: Six feet tall
+Question 9: Not explicitly stated in the story
+Question 10: Her dark black hair turned gray
+Question 11: Yes, it was terminal. She developed stage 4 glioblastoma, the worst type of brain cancer
+Question 12: Not explicitly stated in the story
+Question 13: Not explicitly stated in the story
+Question 14: Not explicitly stated in the story
+Question 15: Not explicitly stated in the story
+Question 16: Not explicitly stated in the story
+Question 17: Not explicitly stated in the story
+Question 18: Alone
+Question 19: Not explicitly stated in the story
+Question 20: She lived a life full of hardship and pain
+Question 21: Not explicitly stated in the story
+Question 22: Not explicitly stated in the story
+Question 23: Not explicitly stated in the story
+Question 24: Not explicitly stated in the story
+Question 25: In Albi
+Question 26: Not explicitly stated in the story
+Question 27: Not explicitly stated in the story
+Question 28: Not explicitly stated in the story
+Question 29: Not explicitly stated in the story
+Question 30: She endured a life full of hardship and pain with him, suggesting a difficult and unhappy relationship
+
+=== GRADES ===
+
+(56.666666666666664, 60.0, 30.0, 80.0)
+
+=== GRADES ===
+
+{'total_scores': 56.666666666666664, 'direct_scores': 60.0, 'inferential_scores': 30.0, 'hallucinations_scores': 80.0}

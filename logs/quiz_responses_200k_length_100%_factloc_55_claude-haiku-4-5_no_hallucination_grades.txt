@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At her wedding
+Question 4: Augustine's cousin was the same age as Augustine
+Question 5: Not explicitly stated in the story
+Question 6: He died young, shortly after their marriage
+Question 7: Not explicitly stated in the story
+Question 8: Not explicitly stated in the story
+Question 9: Not explicitly stated in the story
+Question 10: It turned gray
+Question 11: Yes, she died of stage 4 glioblastoma (brain cancer)
+Question 12: Not explicitly stated in the story
+Question 13: Not explicitly stated in the story
+Question 14: Not explicitly stated in the story
+Question 15: Not explicitly stated in the story
+Question 16: Not explicitly stated in the story
+Question 17: Maelien
+Question 18: She lived alone in Albi
+Question 19: Happy and content with Augustine
+Question 20: Miserable and suffering from hardship and pain
+Question 21: Not explicitly stated in the story
+Question 22: Not explicitly stated in the story
+Question 23: Not explicitly stated in the story
+Question 24: Not explicitly stated in the story
+Question 25: In Albi
+Question 26: Not explicitly stated in the story
+Question 27: Not explicitly stated in the story
+Question 28: Not explicitly stated in the story
+Question 9: Not explicitly stated in the story
+Question 30: She endured a life full of hardship and pain with him
+
+=== GRADES ===
+
+(60.0, 60.0, 50.0, 70.0)
+
+=== GRADES ===
+
+{'total_scores': 60.0, 'direct_scores': 60.0, 'inferential_scores': 50.0, 'hallucinations_scores': 70.0}

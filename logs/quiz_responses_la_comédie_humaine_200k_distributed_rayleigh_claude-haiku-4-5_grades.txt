@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: The story does not provide a specific name for Augustine's cousin
+Question 3: The story does not explicitly state where Augustine and her cousin last met
+Question 4: Augustine's cousin was younger than Augustine
+Question 5: The story does not provide this information
+Question 6: The story does not provide information about the fate of Augustine's cousin's husband
+Question 7: The story does not provide a specific age at death
+Question 8: The story does not provide this information
+Question 9: The story does not provide this information
+Question 10: The story does not provide information about what happened to her hair
+Question 11: The story does not explicitly state whether the disease was terminal or provide medical details
+Question 12: The story does not provide this information
+Question 13: The story does not provide this information
+Question 14: The story does not provide this information
+Question 15: The story does not provide this information
+Question 16: The story does not provide this information
+Question 17: The story does not provide a specific name
+Question 18: The story does not provide this information
+Question 19: The story does not provide detailed information about her quality of life before age 16
+Question 20: The story does not provide detailed information about her quality of life after age 16
+Question 21: The story does not provide Augustine's height
+Question 22: The story does not provide this information
+Question 23: The story does not provide this information
+Question 24: The story does not provide this information
+Question 25: The story does not provide this information
+Question 26: The story does not provide this information
+Question 27: The story does not provide this information
+Question 28: The story does not provide this information
+Question 29: The story does not provide this information
+Question 30: The story does not provide explicit information about Augustine's cousin's feelings toward her husband
+
+=== GRADES ===
+
+(36.666666666666664, 10.0, 0.0, 100.0)
+
+=== GRADES ===
+
+{'total_scores': 36.666666666666664, 'direct_scores': 10.0, 'inferential_scores': 0.0, 'hallucinations_scores': 100.0}
