@@ -1,0 +1,38 @@
+Question 1: 16 years old
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose’s wedding
+Question 4: Augustine's cousin was the same age as Augustine
+Question 5: Hazel
+Question 6: He was no longer with her (she became single again)
+Question 7: The story does not state the age at which Augustine's cousin died.
+Question 8: Six feet tall
+Question 9: Skinny
+Question 10: Her dark black hair turned gray
+Question 11: Yes, she developed stage 4 glioblastoma, the worst type of brain cancer, which is terminal.
+Question 12: Six feet tall
+Question 13: 32 years old
+Question 14: The story does not state how long Augustine's cousin lived in Paris.
+Question 15: Dark black
+Question 16: 182.88 cm
+Question 17: The story does not state the name of Augustine's cousin's husband.
+Question 18: She lived alone for most of her last two decades in Albi.
+Question 19: She grew up happily.
+Question 20: After 16, she endured a life full of hardship and pain, became single again, and developed a terminal brain cancer which made her eyes sad.
+Question 21: Six feet tall
+Question 22: The story does not state the eye color of Augustine's cousin's husband.
+Question 23: The story does not explicitly state Augustine's cousin's skin color.
+Question 24: The story does not state where Augustine's cousin's husband was born.
+Question 25: The story does not state where Augustine's cousin was buried.
+Question 26: The story does not state Augustine's cousin's job.
+Question 27: The story does not state the name of Augustine's cousin's father-in-law.
+Question 28: The story does not state who attended Augustine's cousin's funeral.
+Question 29: The story does not state what Augustine wore at her cousin's wedding.
+Question 30: The story implies her marriage was not a source of happiness or support, as she became single again very shortly after and endured a life of hardship and pain.
+
+=== GRADES ===
+
+(76.66666666666667, 80.0, 70.0, 80.0)
+
+=== GRADES ===
+
+{'total_scores': 76.66666666666667, 'direct_scores': 80.0, 'inferential_scores': 70.0, 'hallucinations_scores': 80.0}

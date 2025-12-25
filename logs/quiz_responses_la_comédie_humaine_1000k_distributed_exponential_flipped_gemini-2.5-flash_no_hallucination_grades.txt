@@ -1,0 +1,38 @@
+Question 1: 16 years old
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose’s wedding
+Question 4: Augustine was older than her cousin. Augustine was 18, and her cousin married at 16.
+Question 5: Hazel
+Question 6: Not mentioned in the text or story.
+Question 7: Not mentioned in the text or story.
+Question 8: Six feet tall
+Question 9: Skinny
+Question 10: Her dark black hair turned gray.
+Question 11: Yes, she developed stage 4 glioblastoma, the worst type of brain cancer, and died from it.
+Question 12: Six feet tall
+Question 13: 32 years old
+Question 14: Not mentioned in the text or story.
+Question 15: Dark black
+Question 16: 182.88 centimeters
+Question 17: Not mentioned in the text or story.
+Question 18: She lived alone.
+Question 19: She grew up happily.
+Question 20: She endured a life full of hardship and pain, aged very quickly, developed stage 4 glioblastoma (brain cancer), and lived most of her last two decades alone, dying a lonely death.
+Question 21: Not mentioned in the text or story.
+Question 22: Not mentioned in the text or story.
+Question 23: Not mentioned in the text or story.
+Question 24: Not mentioned in the text or story.
+Question 25: Not mentioned in the text or story.
+Question 26: Not mentioned in the text or story.
+Question 27: Not mentioned in the text or story.
+Question 28: Not mentioned in the text or story.
+Question 29: Not mentioned in the text or story.
+Question 30: Not mentioned in the text or story.
+
+=== GRADES ===
+
+(83.33333333333334, 70.0, 80.0, 100.0)
+
+=== GRADES ===
+
+{'total_scores': 83.33333333333334, 'direct_scores': 70.0, 'inferential_scores': 80.0, 'hallucinations_scores': 100.0}

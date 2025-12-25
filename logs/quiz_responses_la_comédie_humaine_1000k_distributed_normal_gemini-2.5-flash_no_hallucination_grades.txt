@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose’s wedding.
+Question 4: Augustine's cousin was born in the same year as Augustine.
+Question 5: Hazel
+Question 6: He died.
+Question 7: Not mentioned in the text or story.
+Question 8: Six feet tall.
+Question 9: Skinny
+Question 10: Her dark black hair turned gray.
+Question 11: Yes, she developed stage 4 glioblastoma, which is described as "the worst type of brain cancer."
+Question 12: The same height as Augustine's cousin, which was six feet tall.
+Question 13: 32 years old.
+Question 14: Not mentioned in the text or story.
+Question 15: The same hair color as Augustine's cousin, which was dark black.
+Question 16: 182.88 centimeters.
+Question 17: Maelien
+Question 18: She lived mostly alone.
+Question 19: She grew up happily.
+Question 20: She lived a very miserable and lonely life.
+Question 21: Not mentioned in the text or story.
+Question 22: Not mentioned in the text or story.
+Question 23: Not mentioned in the text or story.
+Question 24: Not mentioned in the text or story.
+Question 25: Not mentioned in the text or story.
+Question 26: Not mentioned in the text or story.
+Question 27: Not mentioned in the text or story.
+Question 28: Not mentioned in the text or story.
+Question 29: Not mentioned in the text or story.
+Question 30: Not mentioned in the text or story.
+
+=== GRADES ===
+
+(93.33333333333333, 90.0, 90.0, 100.0)
+
+=== GRADES ===
+
+{'total_scores': 93.33333333333333, 'direct_scores': 90.0, 'inferential_scores': 90.0, 'hallucinations_scores': 100.0}

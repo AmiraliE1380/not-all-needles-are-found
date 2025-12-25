@@ -49,8 +49,8 @@ def grade_quiz_distributed_facts(
 
 
 if __name__ == "__main__":
-    model = 'claude-haiku-4-5'
-    context_length = 200
+    model = 'gemini-2.5-flash'
+    context_length = 1000
     # for i in range(10):
     #     for j in range(10):
     #         for hallucination_version in [

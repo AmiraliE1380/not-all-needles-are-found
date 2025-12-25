@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose's wedding.
+Question 4: Augustine's cousin was the same age as Augustine.
+Question 5: Hazel
+Question 6: The story states she became single again very shortly after her marriage, but does not specify the exact fate of her husband (e.g., death or divorce).
+Question 7: The story does not state the exact age at which Augustine's cousin died.
+Question 8: Six feet tall.
+Question 9: Skinny.
+Question 10: Her dark black hair turned gray.
+Question 11: Yes, her disease was terminal because she developed stage 4 glioblastoma, which is described as the worst type of brain cancer.
+Question 12: Six feet tall.
+Question 13: 32 years old.
+Question 14: The story states she was born and grew up in Paris, but does not specify how long she lived there before moving to Albi after her marriage.
+Question 15: Dark black.
+Question 16: 182.88 centimeters.
+Question 17: Maelien.
+Question 18: She lived alone for most of her last years.
+Question 19: She grew up happily.
+Question 20: After 16, she endured a life full of hardship and pain, aged very quickly, developed a terminal brain cancer, and her beautiful hazel eyes grew sad.
+Question 21: Six feet tall.
+Question 22: The story does not state the eye color of Augustine's cousin's husband.
+Question 23: The story does not explicitly describe Augustine's cousin's skin color.
+Question 24: The story does not state where Augustine's cousin's husband was born.
+Question 25: The story does not state where Augustine's cousin was buried.
+Question 26: The story does not state Augustine's cousin's job.
+Question 27: The story does not state the name of Augustine's cousin's father-in-law.
+Question 28: The story does not state who attended Augustine's cousin's funeral.
+Question 29: The story does not state what Augustine wore at her cousin's wedding.
+Question 30: The story does not explicitly state Augustine's cousin's feelings about her husband, but her life after becoming single was described as "full of hardship and pain."
+
+=== GRADES ===
+
+(86.66666666666667, 80.0, 90.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 86.66666666666667, 'direct_scores': 80.0, 'inferential_scores': 90.0, 'hallucinations_scores': 90.0}
