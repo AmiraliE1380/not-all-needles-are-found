@@ -1,0 +1,38 @@
+Question 1: Augustine's cousin was 16 years old when she got married.
+Question 2: Augustine's cousin's name was Élodie-Rose.
+Question 3: Augustine and her cousin last met at Élodie-Rose’s wedding.
+Question 4: Augustine's cousin was born in the same year as Augustine.
+Question 5: Augustine's cousin’s eye color was hazel.
+Question 6: Augustine's cousin's husband, Maelien, became single again very shortly after their marriage, implying he died or they divorced.
+Question 7: Augustine's cousin lived for two decades after becoming single, having married at 16. The exact age of her death is not specified, but it would be around 36-38 years old, depending on the duration of her marriage.
+Question 8: Augustine's cousin was six feet tall.
+Question 9: Augustine's cousin’s husband was skinny.
+Question 10: Augustine's cousin's dark black hair turned gray.
+Question 11: Yes, Augustine's cousin's disease was terminal. She developed stage 4 glioblastoma, which is described as the worst type of brain cancer.
+Question 12: The man Augustine's cousin married was six feet tall.
+Question 13: Augustine's cousin’s husband was 32 years old when they got married.
+Question 14: Augustine's cousin lived in Paris until she was 16 years old.
+Question 15: Augustine's cousin's husband's hair color was dark black.
+Question 16: Augustine's cousin's husband was 182.88 centimeters tall.
+Question 17: Augustine's cousin's husband's name was Maelien.
+Question 18: Augustine's cousin lived alone in Albi in the last years of her life.
+Question 19: Augustine's cousin had a happy quality of life and mental state before she was 16.
+Question 20: After 16, Augustine's cousin endured a life full of hardship, pain, sadness, and loneliness, and her mental state was affected by her illness.
+Question 21: The story does not state how tall Augustine was.
+Question 22: The story does not state the eye color of Augustine's cousin's husband.
+Question 23: The story does not explicitly state Augustine's cousin's skin color.
+Question 24: The story does not state where Augustine's cousin's husband was born.
+Question 25: Augustine's cousin died in Albi, implying she was buried there.
+Question 26: The story does not state Augustine's cousin's job.
+Question 27: The story does not state the name of Augustine's cousin's father-in-law.
+Question 28: The story implies Augustine's cousin died alone, as it states she "lived in Albi for two decades, most of it alone, and died there a lonely death." No attendees are mentioned.
+Question 29: The story does not state what Augustine wore at her cousin's wedding.
+Question 30: The story does not explicitly state how Augustine's cousin felt about her husband.
+
+=== GRADES ===
+
+(80.0, 80.0, 80.0, 80.0)
+
+=== GRADES ===
+
+{'total_scores': 80.0, 'direct_scores': 80.0, 'inferential_scores': 80.0, 'hallucinations_scores': 80.0}

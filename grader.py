@@ -51,17 +51,17 @@ def grade_quiz_distributed_facts(
 if __name__ == "__main__":
     model = 'gemini-2.5-flash'
     context_length = 1000
-    # for i in range(10):
-    #     for j in range(10):
-    #         for hallucination_version in [
-    #                                   "",
-    #                                   "_no_hallucination"
-    #                                   ]: 
-    #             addr = f"logs/quiz_responses_{context_length}k_length_{(i+1)*10}%_factloc_{5+j*10}_{model}"
-    #             addr += hallucination_version + ".txt"
-    #             print(f'Grading {addr}')
-    #             print(grade(addr))
+    for i in range(10):
+        for j in range(10):
+            for hallucination_version in [
+                                      "",
+                                      "_no_hallucination"
+                                      ]: 
+                addr = f"logs/quiz_responses_{context_length}k_length_{(i+1)*10}%_factloc_{5+j*10}_{model}"
+                addr += hallucination_version + ".txt"
+                print(f'Grading {addr}')
+                print(grade(addr))
     
-    grade_quiz_distributed_facts(
-        model=model
-    )
+    # grade_quiz_distributed_facts(
+    #     model=model
+    # )

@@ -1,0 +1,38 @@
+Question 1: 16 years old.
+Question 2: Élodie-Rose.
+Question 3: At Élodie-Rose’s wedding.
+Question 4: They were born in the same year, so they were the same age.
+Question 5: Hazel.
+Question 6: He died shortly after their marriage.
+Question 7: She died after living in Albi for two decades after becoming single, which would be around 36-37 years old.
+Question 8: Six feet tall.
+Question 9: He was skinny.
+Question 10: Her dark black hair turned gray.
+Question 11: Yes, her disease was terminal because she developed stage 4 glioblastoma, which is described as the worst type of brain cancer.
+Question 12: Six feet tall.
+Question 13: 32 years old.
+Question 14: She lived in Paris until she was 16 years old.
+Question 15: Dark black.
+Question 16: 182.88 centimeters.
+Question 17: Maelien.
+Question 18: She lived alone.
+Question 19: She grew up happily.
+Question 20: She endured a very miserable life, full of hardship and pain, mostly alone, and her eyes grew sad.
+Question 21: The story does not provide information about Augustine's height.
+Question 22: The story does not provide information about Augustine's cousin's husband's eye color.
+Question 23: The story does not provide information about Augustine's cousin's skin color.
+Question 24: The story does not provide information about where Augustine's cousin's husband was born.
+Question 25: She died in Albi, so it is logical to infer she was buried there.
+Question 26: The story does not provide information about Augustine's cousin's job.
+Question 27: The story does not provide information about the name of Augustine's cousin's father-in-law.
+Question 28: The story states she died a lonely death, implying few, if any, people attended her funeral.
+Question 29: The story does not provide information about what Augustine wore at her cousin's wedding.
+Question 30: The story does not explicitly state how Augustine's cousin felt about her husband.
+
+=== GRADES ===
+
+(93.33333333333333, 100.0, 100.0, 80.0)
+
+=== GRADES ===
+
+{'total_scores': 93.33333333333333, 'direct_scores': 100.0, 'inferential_scores': 100.0, 'hallucinations_scores': 80.0}

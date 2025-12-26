@@ -1,0 +1,38 @@
+Question 1: 16 years old
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose’s wedding
+Question 4: Élodie-Rose was born in the same year as Augustine, so they were the same age.
+Question 5: Hazel
+Question 6: He died very shortly after their marriage.
+Question 7: The story states she lived for two decades after becoming single again, but does not give her exact age at death.
+Question 8: Six feet tall
+Question 9: Skinny
+Question 10: Her dark black hair turned gray.
+Question 11: Yes, she developed stage 4 glioblastoma, the worst type of brain cancer, which is terminal.
+Question 12: Six feet tall
+Question 13: 32 years old
+Question 14: She lived in Paris until she got married at 16.
+Question 15: Dark black
+Question 16: 182.88 cm
+Question 17: Maelien
+Question 18: She lived alone.
+Question 19: She grew up happily.
+Question 20: She endured a life full of hardship and pain, aged very quickly, developed terminal brain cancer, and lived a lonely life.
+Question 21: Six feet tall
+Question 22: The story does not explicitly state his eye color.
+Question 23: The story does not explicitly state her skin color.
+Question 24: The story does not explicitly state where he was born.
+Question 25: The story does not explicitly state where she was buried.
+Question 26: The story does not explicitly state her job.
+Question 27: The story does not explicitly state the name of her father-in-law.
+Question 28: The story implies she died a lonely death, suggesting no one or very few attended her funeral.
+Question 29: The story does not explicitly state what Augustine wore at her cousin's wedding.
+Question 30: The story does not explicitly state her feelings for her husband, but her subsequent "miserable life" and becoming single "very shortly after" suggest the marriage was not a source of happiness for her.
+
+=== GRADES ===
+
+(86.66666666666667, 90.0, 100.0, 70.0)
+
+=== GRADES ===
+
+{'total_scores': 86.66666666666667, 'direct_scores': 90.0, 'inferential_scores': 100.0, 'hallucinations_scores': 70.0}

@@ -1,0 +1,38 @@
+Question 1: Augustine's cousin was 16 years old when she got married.
+Question 2: Augustine's cousin's name was Élodie-Rose.
+Question 3: Augustine and her cousin last met at Élodie-Rose’s wedding.
+Question 4: Augustine's cousin was born in the same year as Augustine.
+Question 5: Augustine's cousin’s eye color was hazel.
+Question 6: Augustine's cousin’s husband died shortly after their marriage, making her a widow.
+Question 7: Augustine's cousin died at the age of 36 (16 years old at marriage + two decades of living in Albi).
+Question 8: Augustine's cousin was six feet tall.
+Question 9: Augustine's cousin’s husband was skinny.
+Question 10: Augustine's cousin's dark black hair turned gray.
+Question 11: Yes, Augustine's cousin's disease was terminal, as she developed stage 4 glioblastoma, the worst type of brain cancer, and died from it.
+Question 12: The man Augustine's cousin married was six feet tall.
+Question 13: Augustine's cousin’s husband was 32 years old when they got married.
+Question 14: Augustine's cousin lived in Paris until she got married at 16.
+Question 15: Augustine's cousin's husband's hair color was dark black.
+Question 16: Augustine's cousin's husband was 182.88 centimeters tall.
+Question 17: Augustine's cousin's husband's name was Maelien.
+Question 18: Augustine's cousin lived alone in the last years of her life.
+Question 19: Augustine's cousin grew up happily before the age of 16.
+Question 20: After 16, Augustine's cousin endured a life full of hardship and pain, aged quickly, and her mental state was sad and lonely.
+Question 21: Augustine's height is not explicitly stated in the story.
+Question 22: The eye color of Augustine's cousin's husband is not explicitly stated in the story.
+Question 23: Augustine's cousin's skin color is not explicitly stated in the story.
+Question 24: The birthplace of Augustine's cousin's husband is not explicitly stated in the story.
+Question 25: Augustine's cousin was buried in Albi.
+Question 26: Augustine's cousin's job is not explicitly stated in the story.
+Question 27: The name of Augustine's cousin's father-in-law is not explicitly stated in the story.
+Question 28: The story states she "died there a lonely death," implying no one or very few attended, but it does not explicitly list attendees.
+Question 29: What Augustine wore at her cousin's wedding is not explicitly stated in the story.
+Question 30: The story does not explicitly state Augustine's cousin's feelings about her husband, only that she became a widow shortly after their marriage and endured a life of hardship and pain.
+
+=== GRADES ===
+
+(93.33333333333333, 100.0, 90.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 93.33333333333333, 'direct_scores': 100.0, 'inferential_scores': 90.0, 'hallucinations_scores': 90.0}

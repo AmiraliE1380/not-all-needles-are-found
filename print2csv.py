@@ -144,8 +144,8 @@ def grade_collector(context_length: int, model: str):
 
 
 if __name__ == "__main__":
-    model = "claude-haiku-4-5"
-    grade_collector(context_length=200, model=model)
+    model = "gemini-2.5-flash"
+    grade_collector(context_length=1000, model=model)
     save_scores_to_csvs(
         model=model,
         raw_grades_addr=f"logs/grades_{model}.txt"

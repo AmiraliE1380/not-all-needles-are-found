@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose’s wedding
+Question 4: She was born in the same year as Augustine, so they were the same age.
+Question 5: Hazel
+Question 6: He died shortly after their marriage.
+Question 7: 36
+Question 8: Six feet tall
+Question 9: Skinny
+Question 10: Her dark black hair turned gray.
+Question 11: Yes, because she developed stage 4 glioblastoma, which is described as the worst type of brain cancer, and she died from it.
+Question 12: Six feet tall
+Question 13: 32
+Question 14: 16 years
+Question 15: Dark black
+Question 16: Six feet tall; conversion to centimeters is not provided in the story.
+Question 17: Maelien
+Question 18: Alone
+Question 19: She grew up happily.
+Question 20: She endured a life full of hardship and pain, aged very quickly, developed terminal brain cancer, and died a lonely death.
+Question 21: Not stated in the story.
+Question 22: Not stated in the story.
+Question 23: Not stated in the story.
+Question 24: Not stated in the story.
+Question 25: Albi
+Question 26: Not stated in the story.
+Question 27: Not stated in the story.
+Question 28: Not stated in the story.
+Question 29: Not stated in the story.
+Question 30: Not stated in the story.
+
+=== GRADES ===
+
+(93.33333333333333, 100.0, 90.0, 90.0)
+
+=== GRADES ===
+
+{'total_scores': 93.33333333333333, 'direct_scores': 100.0, 'inferential_scores': 90.0, 'hallucinations_scores': 90.0}

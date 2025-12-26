@@ -1,0 +1,38 @@
+Question 1: 16
+Question 2: Élodie-Rose
+Question 3: At Élodie-Rose’s wedding.
+Question 4: Augustine's cousin was the same age as Augustine.
+Question 5: Hazel
+Question 6: He died very shortly after their marriage.
+Question 7: 36
+Question 8: Six feet tall.
+Question 9: Skinny.
+Question 10: Her dark black hair turned gray.
+Question 11: Yes, she developed stage 4 glioblastoma, which is described as the worst type of brain cancer, implying it was terminal.
+Question 12: Six feet tall.
+Question 13: 32
+Question 14: 16 years.
+Question 15: Dark black.
+Question 16: 182.88 cm.
+Question 17: Maelien.
+Question 18: She lived alone for most of the last years of her life.
+Question 19: She grew up happily.
+Question 20: After 16, her life was full of hardship and pain, she aged quickly, developed a terminal illness, and lived mostly alone and sadly.
+Question 21: Not explicitly stated in the story.
+Question 22: Not explicitly stated in the story.
+Question 23: Not explicitly stated in the story.
+Question 24: Not explicitly stated in the story.
+Question 25: In Albi.
+Question 26: Not explicitly stated in the story.
+Question 27: Not explicitly stated in the story.
+Question 28: The story implies she died a lonely death, so it is likely few or no family members attended.
+Question 29: Not explicitly stated in the story.
+Question 30: The story does not explicitly state her feelings for her husband, but it implies the marriage was short-lived and followed by a life of hardship, suggesting it was not a happy or loving union.
+
+=== GRADES ===
+
+(86.66666666666667, 100.0, 90.0, 70.0)
+
+=== GRADES ===
+
+{'total_scores': 86.66666666666667, 'direct_scores': 100.0, 'inferential_scores': 90.0, 'hallucinations_scores': 70.0}
