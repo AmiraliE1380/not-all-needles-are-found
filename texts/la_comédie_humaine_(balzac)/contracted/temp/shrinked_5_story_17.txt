@@ -106,8 +106,8 @@ was proposed they should spend a farewell day at the Consul’s villa. Leon
 de Lora had told Camille that her presence at the villa was the only
 return he could make to the Ambassador and his wife, the two Genoese
 noblemen, the Consul and his wife. So Mademoiselle des Touches had
-sacrificed one of those days of perfect freedom, which are not always to
-be had in Paris by those on whom the world has its eye.
+sacrificed one of those days of perfect freedom, which are not always
+to be had in Paris by those on whom the world has its eye.
 
 Now, the meeting being accounted for, it is easy to understand that
 etiquette had been banished, as well as many women even of the highest
@@ -159,7 +159,7 @@ well if other women are in question.
 A man is not a diplomat with impunity: the sposo was as secret as the
 grave—so secret that the merchants of Genoa chose to regard the young
 Consul’s attitude as premeditated, and the heiress might perhaps have
-slipped through his fingers if he had not played his part of a love-sick
+slipped through his fingers if he had not played his part of a lovesick
 malade imaginaire. If it was real, the women thought it too degrading to
 be believed.
 
@@ -800,7 +800,7 @@ It was nine o’clock.
 
 “‘Well, let us dine,’ replied the Président de Grandville. ‘A bigot frightens me, but there is no one so cheerful as a truly pious man.’
 
-We went into the drawing‑room. The dinner was delightful. Men of real information—politicians whose business gives consummate experience and practice of speech—are admirable storytellers. With them there is no medium: they are either heavy or sublime. In this sport Prince Metternich equals Charles Nodier. A statesman's fun, faceted like a diamond, is sharp, sparkling, and full of sense. Confident the proprieties would be observed, my uncle let his wit play—refined, gentle, penetrating, elegant, like men used to concealing thoughts under a black robe. There was nothing vulgar nor idle in this light talk, which I compare, for its effect, to Rossini’s music.
+We went into the drawing‑room. The dinner was delightful. Men of real information—politicians whose business gives consummate experience and practice of speech—are admirable storytellers. With them there is no medium: they are either heavy or sublime. A statesman's fun, faceted like a diamond, is sharp, sparkling, and full of sense. Confident the proprieties would be observed, my uncle let his wit play—refined, gentle, penetrating, elegant, like men used to concealing thoughts under a black robe. There was nothing vulgar nor idle in this light talk, which I compare, for its effect, to Rossini’s music.
 
 The Abbé Gaudron was, as M. de Grandville said, more Saint Peter than Saint Paul: a peasant full of faith, square on his feet and tall; his ignorance of the world and literature enlivened conversation with guileless amazement and unexpected questions. They began discussing a plague‑spot of social life—adultery. My uncle noted the contradiction the legislators of the Code, still shaken by the Revolution, had set between civil and religious law, which he said was at the root of the mischief.
 
@@ -1220,7 +1220,7 @@ distress a lady living in retirement who found her solace in growing
 flowers.’
 
 “The next day a signal from Gobain informed me that I was expected.
-After the Countess’ breakfast, when she walked before her house, I broke
+After the Countess' breakfast, when she walked before her house, I broke
 out some palings and went towards her. I had dressed as a countryman in
 old gray flannel trousers, heavy wooden shoes, shabby shooting coat, a
 peaked cap, a ragged bandana, hands soiled with mould, and a dibble in
@@ -1284,9 +1284,7 @@ I am poor and unable to pay for the concession I desire from you.’
 humble a calling? Have you, like me, good reasons for employing your
 hands so as to keep your brain from working?’
 
-“‘Let us stick to the question of the wall,’ she said with a smile.
-
-“‘We have begun at the foundations,’ I replied. ‘Must I not know which of
+“‘Let us stick to the question of the wall,’ I replied. ‘Must I not know which of
 us ought to yield to the other in behalf of our suffering, or, if you
 choose, our mania? Oh! what a charming clump of narcissus!’
 
@@ -1617,7 +1615,7 @@ Octave’s anxiety matched Honorine’s. The Count and I stayed together until t
 
 I was punctual. At ten I was shown into a charming white-and-blue bedroom—the nest of this wounded dove. The Countess looked at me and, struck dumb by my respectful demeanour, was about to speak.
 
-“Madame la Comtesse,” I said gravely. She sank into her chair, grief stamped on her face in a pose I could have wished painted.
+“Madame la Comtesse,” I said gravely. She sank into her chair, grief stamped on her face.
 
 “You are the wife of a noble, respected man; great in the world and greater in his conduct to you. You and he are lofty natures. Where do you suppose you live?”
 
@@ -1893,7 +1891,7 @@ Vignon, Claude
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-### THE MIDDLE PART OF THE STORY ###
+THE MIDDLE PART OF THE STORY — THE MIDDLE OF THE STORY; MIDDLE OF THE STORY, THE MIDDLE OF THE STORY.
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################

@@ -412,7 +412,7 @@ When Madame Vervelle's portrait was begun that of her husband was nearly finishe
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-The day Fougeres began Mademoiselle Virginie's portrait he was already virtually son-in-law to the Vervelle family. The three Vervelles flourished in his studio, which they now treated as a residence; they felt an inexplicable attraction to this clean, neat, artistic abode. Abyssus abyssum — the commonplace attracts the commonplace. Toward the end of the sitting the stairway shook; Joseph Bridau burst in like a whirlwind, hair flying, his haggard face casting quick glances about. He paced the studio, returned to Grassou, pulled his coat over his stomach and fumbled at a missing button.
+The day Fougeres began Mademoiselle Virginie's portrait he was already virtually son-in-law to the Vervelle family. The three Vervelles flourished in his studio, treating it as a residence; they felt an attraction to this clean, neat, artistic abode. Abyssus abyssum — the commonplace attracts the commonplace. Toward the end of the sitting the stairway shook; Joseph Bridau burst in like a whirlwind, hair flying, his haggard face casting quick glances about. He paced the studio, returned to Grassou, pulled his coat over his stomach and fumbled at a missing button.
 
 "Wood is dear," he said to Grassou.
 
@@ -472,7 +472,7 @@ Saint Martin's summer was beginning. Timid as a neophyte before a man of genius,
 
 This flattery stroked poor Pierre Grassou's innocent self-love; he was unaccustomed to such compliments. The honest artist—an atrocious mediocrity with a heart of gold, loyal soul, poor draughtsman, worthy fellow—decorated by royalty with the Legion of Honor, prepared to go to Ville d'Avray to enjoy the last fine days of the year. He went modestly by public conveyance and admired the bottle-dealer's villa, a five-acre park atop Ville d'Avray, commanding a noble view. He imagined marrying Virginie and owning that villa.
 
-The Vervelles received him with enthusiastic, frank bourgeois absurdity that overwhelmed him. It was a day of triumph. The prospective son-in-law was marched about on raked nankeen paths; the trees looked brushed and the lawns freshly mown. The country air carried enticing cooking smells. Everything about the mansion proclaimed: "We have a great artist among us."
+The Vervelles received him with enthusiastic bourgeois absurdity that overwhelmed him. It was a day of triumph. The prospective son-in-law was marched about on raked nankeen paths; the trees looked brushed and the lawns freshly mown. The country air carried enticing cooking smells. Everything about the mansion proclaimed: "We have a great artist among us."
 
 Little Vervelle rolled like an apple through his park, the daughter meandered, and the mother followed. For seven hours they attended Pierre Grassou. After a magnificent dinner, Monsieur and Madame Vervelle staged their grand theatrical effect—the opening of the picture gallery, lit by carefully arranged lamps. Three neighbors (retired merchants), an old uncle (expected to inherit), an elderly Demoiselle Vervelle, and other guests joined Grassou, eager to hear his opinion of Pere Vervelle's famous collection, whose value he enjoyed inflating. The bottle-merchant fancied himself rivaling King Louis-Philippe and the galleries of Versailles.
 
@@ -541,9 +541,10 @@ Schinner, Hippolyte — The Purse; A Bachelor's Establishment; A Start in Life; 
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
-################################
-######## MIDDLE OF THE STORY ########
-################################
+MIDDLE OF THE STORY. MIDDLE OF THE STORY. This is the middle.
+################################################
+############# MIDDLE OF THE STORY. #############
+################################################
 ################################################
 ############# MIDDLE OF THE STORY. #############
 ################################################
