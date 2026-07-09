@@ -10,5 +10,5 @@ Setup:
 Main workflow (run in order):
 1) Contract corpus: `python contract_entire_story.py`
 2) Inject facts (9 distributions): `python inject_fact.py`
-3) Take quizzes (API + cache): `python take_quiz.py` (or `python take_quiz_batch.py`)
+3) Take quizzes (API + cache): `python take_quiz.py`
 4) Grade outputs: `python grader.py`
